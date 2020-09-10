@@ -1,0 +1,1202 @@
+[2019-09-14 00:10:24,000][DEBUG|rankingParser.py:18] >> 2, viva.republica.toss, 토스
+[2019-09-14 00:10:24,005][DEBUG|rankingParser.py:18] >> 3, kr.co.captv.pooqV2, POOQ (푹)  실시간TV 무료
+[2019-09-14 00:10:24,007][DEBUG|rankingParser.py:18] >> 4, com.skt.smartbill, Bill Letter
+[2019-09-14 00:10:24,009][DEBUG|rankingParser.py:18] >> 5, com.sec.android.easyMover, Samsung Smart Switch Mobile
+[2019-09-14 00:10:24,011][DEBUG|rankingParser.py:18] >> 6, com.instagram.android, Instagram
+[2019-09-14 00:10:24,035][DEBUG|rankingParser.py:18] >> 7, com.towneers.www, 당근마켓 - 우리 동네 중고 직거래 벼룩장터
+[2019-09-14 00:10:24,037][DEBUG|rankingParser.py:18] >> 8, com.roadplus.android2, 고속도로교통정보
+[2019-09-14 00:10:24,038][DEBUG|rankingParser.py:18] >> 9, com.kscc.xzz.mbl, [공식]시외버스모바일
+[2019-09-14 00:10:24,039][DEBUG|rankingParser.py:18] >> 10, com.kakao.taxi, 카카오 T - 택시, 대리운전, 주차, 내비, 카풀, 바이크
+[2019-09-14 00:10:24,040][DEBUG|rankingParser.py:18] >> 11, com.skt.tmap.ku, T map (티맵,T맵,내비게이션)
+[2019-09-14 00:10:24,041][DEBUG|rankingParser.py:18] >> 12, com.mcdonalds.mobileapp, 맥도날드
+[2019-09-14 00:10:24,042][DEBUG|rankingParser.py:18] >> 13, kr.co.srail.newapp, SRT - 수서고속철도(NEW)
+[2019-09-14 00:10:24,043][DEBUG|rankingParser.py:18] >> 14, com.sec.android.app.sbrowser, Samsung Internet 브라우저
+[2019-09-14 00:10:24,058][DEBUG|rankingParser.py:18] >> 15, com.netflix.mediaclient, Netflix(넷플릭스)
+[2019-09-14 00:10:24,060][DEBUG|rankingParser.py:18] >> 16, com.banhala.android, 에이블리 - 셀럽마켓 모음앱
+[2019-09-14 00:10:24,062][DEBUG|rankingParser.py:18] >> 17, com.fineapp.yogiyo, 배달요기요
+[2019-09-14 00:10:24,064][DEBUG|rankingParser.py:18] >> 18, com.nhn.android.search, 네이버 - NAVER
+[2019-09-14 00:10:24,066][DEBUG|rankingParser.py:18] >> 19, com.ahnlab.v3mobileplus, V3 Mobile Plus 2.0
+[2019-09-14 00:10:24,068][DEBUG|rankingParser.py:18] >> 20, com.kscc.scxb.mbl, [공식]고속버스모바일
+[2019-09-14 00:10:24,070][DEBUG|rankingParser.py:18] >> 21, com.nhn.android.nmap, 네이버 지도, 내비게이션
+[2019-09-14 00:10:24,072][DEBUG|rankingParser.py:18] >> 22, com.sampleapp, 배달의민족
+[2019-09-14 00:10:24,089][DEBUG|rankingParser.py:18] >> 23, com.locnall.KimGiSa, 카카오내비
+[2019-09-14 00:10:24,092][DEBUG|rankingParser.py:18] >> 24, com.google.android.play.games, Google Play 게임
+[2019-09-14 00:10:24,093][DEBUG|rankingParser.py:18] >> 25, net.daum.android.map, 카카오맵 - 대한민국 No.1 지도앱 ( 지도 / 내비게이션 / 대중교통 / 로드뷰 )
+[2019-09-14 00:10:24,095][DEBUG|rankingParser.py:18] >> 26, com.contextlogic.wish, Wish - 쇼핑은 즐겁다
+[2019-09-14 00:10:24,097][DEBUG|rankingParser.py:18] >> 27, com.ibk.android.ionebank, (New) i-ONE Bank - IBK기업은행
+[2019-09-14 00:10:24,099][DEBUG|rankingParser.py:18] >> 28, com.coupang.mobile, 쿠팡 (Coupang)
+[2019-09-14 00:10:24,101][DEBUG|rankingParser.py:18] >> 29, com.korail.talk, 코레일톡
+[2019-09-14 00:10:24,103][DEBUG|rankingParser.py:18] >> 30, com.jndwork.weather.forecast.channel.dailyforecast.liveradarmaps, 실시간 날씨 - 일기 예보 2019
+[2019-09-14 00:10:24,106][DEBUG|rankingParser.py:18] >> 31, com.nhn.android.navertv, SERIES ON - 네이버 시리즈 ON
+[2019-09-14 00:10:24,108][DEBUG|rankingParser.py:18] >> 32, com.snowcorp.soda.android, SODA 소다 - Natural Beauty Camera
+[2019-09-14 00:10:24,110][DEBUG|rankingParser.py:18] >> 33, nh.smart.banking, NH스마트뱅킹
+[2019-09-14 00:10:24,112][DEBUG|rankingParser.py:18] >> 34, com.forshared.files, 4shared
+[2019-09-14 00:10:24,113][DEBUG|rankingParser.py:18] >> 35, kr.go.nts.android, 국세청 홈택스
+[2019-09-14 00:10:24,115][DEBUG|rankingParser.py:18] >> 36, com.sec.android.app.voicenote, 삼성 음성 녹음
+[2019-09-14 00:10:24,117][DEBUG|rankingParser.py:18] >> 37, com.virus.free.security, Antivirus Security - 정크 클리너, 폰 부스터
+[2019-09-14 00:10:24,119][DEBUG|rankingParser.py:18] >> 38, com.tmon, 티몬 - 매주 월요일은 티몬데이
+[2019-09-14 00:10:24,121][DEBUG|rankingParser.py:18] >> 39, com.ss.android.ugc.trill, TikTok 틱톡
+[2019-09-14 00:10:24,122][DEBUG|rankingParser.py:18] >> 40, com.naver.labs.translator, 네이버 파파고 - AI 통번역
+[2019-09-14 00:10:24,123][DEBUG|rankingParser.py:18] >> 41, com.facebook.katana, Facebook
+[2019-09-14 00:10:24,124][DEBUG|rankingParser.py:18] >> 42, com.campmobile.snow, SNOW 스노우
+[2019-09-14 00:10:24,125][DEBUG|rankingParser.py:18] >> 43, com.getplay.m201905, 음악바다 - 빠른 음악다운 플레이
+[2019-09-14 00:10:24,127][DEBUG|rankingParser.py:18] >> 44, com.gorgeous.liteinternational, Ulike유라이크 - 스타일, 고급 필터, 뷰티 카메라
+[2019-09-14 00:10:24,128][DEBUG|rankingParser.py:18] >> 45, com.kakao.talk, 카카오톡 KakaoTalk
+[2019-09-14 00:10:24,129][DEBUG|rankingParser.py:18] >> 46, com.tf.thinkdroid.viewer, 한컴오피스 viewer
+[2019-09-14 00:10:24,132][DEBUG|rankingParser.py:18] >> 47, com.google.android.tts, Google TTS(텍스트 음성 변환)
+[2019-09-14 00:10:24,134][DEBUG|rankingParser.py:18] >> 48, com.nhn.android.band, 밴드
+[2019-09-14 00:10:24,136][DEBUG|rankingParser.py:18] >> 49, com.google.android.gm, Gmail
+[2019-09-14 00:10:24,138][DEBUG|rankingParser.py:18] >> 50, com.lcacApp, 롯데카드(+앱카드)
+[2019-09-14 00:10:24,140][DEBUG|rankingParser.py:18] >> 51, com.kakaobank.channel, 카카오뱅크 - 같지만 다른 은행
+[2019-09-14 00:10:24,142][DEBUG|rankingParser.py:18] >> 52, com.rainist.banksalad2, 뱅크샐러드
+[2019-09-14 00:10:24,143][DEBUG|rankingParser.py:18] >> 53, com.android.chrome, Chrome: 빠르고 안전한 브라우저
+[2019-09-14 00:10:24,145][DEBUG|rankingParser.py:18] >> 54, com.omnitel.android.lottewebview, 롯데홈쇼핑  롯데 ON
+[2019-09-14 00:10:24,149][DEBUG|rankingParser.py:18] >> 55, com.dsi.ant.service.socket, ANT Radio Service
+[2019-09-14 00:10:24,150][DEBUG|rankingParser.py:18] >> 56, com.dsi.ant.plugins.antplus, ANT+ Plugins Service
+[2019-09-14 00:10:24,152][DEBUG|rankingParser.py:18] >> 57, com.himart.main, 롯데 ON - 롯데하이마트
+[2019-09-14 00:10:24,154][DEBUG|rankingParser.py:18] >> 58, com.stu.conects, 커넥츠 - 내 주변 모든 공부
+[2019-09-14 00:10:24,156][DEBUG|rankingParser.py:18] >> 59, com.facebook.orca, Messenger
+[2019-09-14 00:10:24,157][DEBUG|rankingParser.py:18] >> 60, flipboard.boxer.app, Flipboard Briefing
+[2019-09-14 00:10:24,159][DEBUG|rankingParser.py:18] >> 61, com.kbcard.kbkookmincard, KB국민카드
+[2019-09-14 00:10:24,161][DEBUG|rankingParser.py:18] >> 62, kr.co.icoxs.mobile.fileisplayer2, 파일이즈  플레이어
+[2019-09-14 00:10:24,164][DEBUG|rankingParser.py:18] >> 63, com.iloen.melon, 멜론
+[2019-09-14 00:10:24,165][DEBUG|rankingParser.py:18] >> 64, kr.tripstore.tripstore, 트립스토어 - No.1 해외패키지여행 가격비교 및 예약
+[2019-09-14 00:10:24,167][DEBUG|rankingParser.py:18] >> 65, com.samsung.android.mobileservice, Samsung Experience Service
+[2019-09-14 00:10:24,168][DEBUG|rankingParser.py:18] >> 66, kvp.jjy.MispAndroid320, ISP/페이북
+[2019-09-14 00:10:24,170][DEBUG|rankingParser.py:18] >> 67, com.TouchEn.mVaccine.webs, 터치엔 엠백신 for Web(기업용)
+[2019-09-14 00:10:24,172][DEBUG|rankingParser.py:18] >> 68, com.titicacacorp.triple, 트리플 - 해외여행 가이드
+[2019-09-14 00:10:24,174][DEBUG|rankingParser.py:18] >> 69, net.bucketplace, 오늘의집 - 600만이 선택한 No.1 인테리어 필수앱
+[2019-09-14 00:10:24,177][DEBUG|rankingParser.py:18] >> 70, kr.co.quicket, 번개장터 - 모바일 최대 중고마켓 앱(중고나라,중고차)
+[2019-09-14 00:10:24,179][DEBUG|rankingParser.py:18] >> 71, kr.co.millie.millieshelf, 밀리의 서재 - 독서와 무제한 친해지리
+[2019-09-14 00:10:24,180][DEBUG|rankingParser.py:18] >> 72, com.chbreeze.jikbang4a, 직방 - 2,000만명이 선택한 No.1 부동산 앱(아파트,아파트분양,원룸,오피스텔,빌라)
+[2019-09-14 00:10:24,182][DEBUG|rankingParser.py:18] >> 73, kr.go.kcs.mobile.pubservice, 모바일 관세청
+[2019-09-14 00:10:24,183][DEBUG|rankingParser.py:18] >> 74, com.sec.android.app.myfiles, Samsung My Files
+[2019-09-14 00:10:24,184][DEBUG|rankingParser.py:18] >> 75, com.samsung.android.lool, 디바이스 케어
+[2019-09-14 00:10:24,185][DEBUG|rankingParser.py:18] >> 76, com.ebcard.bustago, [공식]전국 시외버스 승차권 통합 예매(버스타고)
+[2019-09-14 00:10:24,187][DEBUG|rankingParser.py:18] >> 77, com.nbt.cashfeed, 캐시피드 - 숏텐츠의 끝판왕 숏킹배틀
+[2019-09-14 00:10:24,188][DEBUG|rankingParser.py:18] >> 78, com.kbstar.kbbank, KB국민은행 스타뱅킹
+[2019-09-14 00:10:24,191][DEBUG|rankingParser.py:18] >> 79, net.daum.android.daum, 다음 - Daum
+[2019-09-14 00:10:24,193][DEBUG|rankingParser.py:18] >> 80, com.hyundaicard.appcard, 현대카드
+[2019-09-14 00:10:24,195][DEBUG|rankingParser.py:18] >> 81, com.google.android.apps.translate, Google 번역
+[2019-09-14 00:10:24,197][DEBUG|rankingParser.py:18] >> 82, com.kakaopay.app, 카카오페이
+[2019-09-14 00:10:24,199][DEBUG|rankingParser.py:18] >> 83, com.google.android.videos, Google Play 무비
+[2019-09-14 00:10:24,201][DEBUG|rankingParser.py:18] >> 84, com.samsung.android.app.notes, Samsung Notes
+[2019-09-14 00:10:24,203][DEBUG|rankingParser.py:18] >> 85, com.nhn.android.webtoon, 네이버 웹툰 - Naver Webtoon
+[2019-09-14 00:10:24,205][DEBUG|rankingParser.py:18] >> 86, com.kakao.page, 카카오페이지 KakaoPage
+[2019-09-14 00:10:24,207][DEBUG|rankingParser.py:18] >> 87, com.croquis.zigzag, 지그재그 - 여성쇼핑몰 모음, 쇼핑몰순위
+[2019-09-14 00:10:24,209][DEBUG|rankingParser.py:18] >> 88, kr.go.mw, 응급의료정보제공
+[2019-09-14 00:10:24,211][DEBUG|rankingParser.py:18] >> 89, com.hyundai.capital, 현대캐피탈(Hyundai Capital)
+[2019-09-14 00:10:24,213][DEBUG|rankingParser.py:18] >> 90, kr.co.ssg, SSG.COM
+[2019-09-14 00:10:24,215][DEBUG|rankingParser.py:18] >> 91, kr.co.sbs.videoplayer, SBS - 온에어, VOD 7만편 무료
+[2019-09-14 00:10:24,217][DEBUG|rankingParser.py:18] >> 92, com.nhn.android.nbooks, SERIES - 네이버 시리즈
+[2019-09-14 00:10:24,218][DEBUG|rankingParser.py:18] >> 93, nh.smart.nhcok, NH콕뱅크
+[2019-09-14 00:10:24,220][DEBUG|rankingParser.py:18] >> 94, kr.goodchoice.abouthere, 여기어때 - 대한민국 1등 종합숙박앱
+[2019-09-14 00:10:24,223][DEBUG|rankingParser.py:18] >> 95, com.ahnlab.v3mobilesecurity.soda, V3 Mobile Security - 무료 백신/부스터/앱잠금
+[2019-09-14 00:10:24,225][DEBUG|rankingParser.py:18] >> 96, skplanet.musicmate, FLO  플로
+[2019-09-14 00:10:24,227][DEBUG|rankingParser.py:18] >> 97, com.google.android.apps.photos, Google 포토
+[2019-09-14 00:10:24,229][DEBUG|rankingParser.py:18] >> 98, kr.perfectree.heydealer, 헤이딜러, +100만원 내차팔기 앱
+[2019-09-14 00:10:24,230][DEBUG|rankingParser.py:18] >> 99, kr.co.samsungcard.mpocket, 삼성앱카드 - 내 폰 안의 삼성카드
+[2019-09-14 00:10:24,232][DEBUG|rankingParser.py:18] >> 100, com.shcard.smartpay, 신한페이판
+[2019-09-14 00:10:24,235][DEBUG|rankingParser.py:18] >> 101, com.google.android.apps.docs, Google 드라이브
+[2019-09-14 00:10:24,237][DEBUG|rankingParser.py:18] >> 102, com.google.android.apps.youtube.music, YouTube Music
+[2019-09-14 00:10:24,238][DEBUG|rankingParser.py:18] >> 103, com.google.android.webview, Android 시스템 WebView
+[2019-09-14 00:10:24,240][DEBUG|rankingParser.py:18] >> 104, org.kftc.fido.lnk.lnk_app, 바이오인증 공동앱
+[2019-09-14 00:10:24,241][DEBUG|rankingParser.py:18] >> 105, net.cj.cjhv.gs.tving, 티빙(TVING) - 실시간TV, 방송VOD, 영화VOD
+[2019-09-14 00:10:24,242][DEBUG|rankingParser.py:18] >> 106, Com.sktelecom.minit, T world
+[2019-09-14 00:10:24,243][DEBUG|rankingParser.py:18] >> 107, com.starbucks.co, 스타벅스
+[2019-09-14 00:10:24,245][DEBUG|rankingParser.py:18] >> 108, com.cgv.android.movieapp, CGV
+[2019-09-14 00:10:24,246][DEBUG|rankingParser.py:18] >> 109, com.google.android.music, Google Play Music
+[2019-09-14 00:10:24,247][DEBUG|rankingParser.py:18] >> 110, com.google.android.apps.youtube.kids, YouTube Kids
+[2019-09-14 00:10:24,250][DEBUG|rankingParser.py:18] >> 111, com.shinhan.sbanking, 신한 쏠(SOL)  신한은행 스마트폰뱅킹
+[2019-09-14 00:10:24,252][DEBUG|rankingParser.py:18] >> 112, com.skt.prod.dialer, T전화 - 스팸차단, 녹음, 콜라 영상통화, 전화번호 검색, 로밍, baro(바로)
+[2019-09-14 00:10:24,254][DEBUG|rankingParser.py:18] >> 113, nh.smart.allonebank, 올원뱅크(All One Bank)
+[2019-09-14 00:10:24,256][DEBUG|rankingParser.py:18] >> 114, com.cultsotry.yanolja.nativeapp, 야놀자 - 국내 및 해외 호텔, 모텔, 펜션, 게하, 레저/티켓, 최대 80% 할인
+[2019-09-14 00:10:24,258][DEBUG|rankingParser.py:18] >> 115, com.firstscreen.weather, 첫화면 날씨 - 실시간 날씨, 미세먼지, 일기 예보, WHO기준
+[2019-09-14 00:10:24,260][DEBUG|rankingParser.py:18] >> 116, kr.go.minwon.m, 정부24(구 민원24)
+[2019-09-14 00:10:24,263][DEBUG|rankingParser.py:18] >> 117, kr.co.emart.emartmall, 이마트몰  emart mall
+[2019-09-14 00:10:24,265][DEBUG|rankingParser.py:18] >> 118, com.linecorp.b612.android, B612 - 뷰티 효과, 감성필터, 셀피 카메라
+[2019-09-14 00:10:24,268][DEBUG|rankingParser.py:18] >> 119, tv.jamlive, 잼라이브 (JAM LIVE) - 실시간 퀴즈쇼
+[2019-09-14 00:10:24,269][DEBUG|rankingParser.py:18] >> 120, com.samsung.android.app.aodservice, [Samsung] Always On Display
+[2019-09-14 00:10:24,271][DEBUG|rankingParser.py:18] >> 121, com.hogangnono.hogangnono, 호갱노노 - 아파트 실거래가 1등 앱
+[2019-09-14 00:10:24,273][DEBUG|rankingParser.py:18] >> 122, com.tms, T멤버십
+[2019-09-14 00:10:24,275][DEBUG|rankingParser.py:18] >> 123, com.discord, Discord - 게이머를 위한 메신저
+[2019-09-14 00:10:24,277][DEBUG|rankingParser.py:18] >> 124, com.lge.lgemembership, LG전자 멤버십
+[2019-09-14 00:10:24,279][DEBUG|rankingParser.py:18] >> 125, com.uxlayer.wipoint, 다이소 멤버십
+[2019-09-14 00:10:24,281][DEBUG|rankingParser.py:18] >> 126, kr.co.alba.webappalba.m, 알바천국- 알바 구인구직 포털서비스
+[2019-09-14 00:10:24,283][DEBUG|rankingParser.py:18] >> 127, com.wemakeprice, 위메프 - 특가대표 (특가 / 쇼핑 / 쇼핑앱 / 쿠폰 / 배송)
+[2019-09-14 00:10:24,285][DEBUG|rankingParser.py:18] >> 128, com.cjkoreaexpress, CJ대한통운 택배
+[2019-09-14 00:10:24,287][DEBUG|rankingParser.py:18] >> 129, com.nhn.android.ndrive, 네이버 클라우드 - NAVER Cloud
+[2019-09-14 00:10:24,289][DEBUG|rankingParser.py:18] >> 130, teamdoppelganger.smarterbus, 전국 스마트 버스
+[2019-09-14 00:10:24,291][DEBUG|rankingParser.py:18] >> 131, com.google.android.marvin.talkback, Android Accessibility Suite
+[2019-09-14 00:10:24,292][DEBUG|rankingParser.py:18] >> 132, tw.mobileapp.qrcode.banner, QR 코드 리더/바코드 스캐너
+[2019-09-14 00:10:24,294][DEBUG|rankingParser.py:18] >> 133, com.nh.android.nhmembers, NH멤버스
+[2019-09-14 00:10:24,296][DEBUG|rankingParser.py:18] >> 134, com.coupang.mobile.eats, 쿠팡이츠 - 맛있는 음식을 빠르고 편하게
+[2019-09-14 00:10:24,297][DEBUG|rankingParser.py:18] >> 135, com.chameleonsong.youtubekoreasong.song7080, 7080 가요모음 - 7080 노래 무료듣기
+[2019-09-14 00:10:24,299][DEBUG|rankingParser.py:18] >> 136, sg.bigo.live, Bigo Live (비고라이브)  라이브 개인방송
+[2019-09-14 00:10:24,300][DEBUG|rankingParser.py:18] >> 137, com.pikia.muzever, 트로트 무료듣기
+[2019-09-14 00:10:24,301][DEBUG|rankingParser.py:18] >> 138, kr.backpackr.me.idus, 아이디어스(idus) - 핸드메이드/수공예 장터
+[2019-09-14 00:10:24,302][DEBUG|rankingParser.py:18] >> 139, com.hnsmall, 홈앤쇼핑 오직 앱에서만.  10%할인 + 10%적립
+[2019-09-14 00:10:24,303][DEBUG|rankingParser.py:18] >> 140, com.peace.SilentCamera, 무음카메라 [고화질]
+[2019-09-14 00:10:24,304][DEBUG|rankingParser.py:18] >> 141, kr.or.kftc.mobileapt2you, APT2you
+[2019-09-14 00:10:24,305][DEBUG|rankingParser.py:18] >> 142, com.sec.android.app.popupcalculator, Samsung Calculator
+[2019-09-14 00:10:24,308][DEBUG|rankingParser.py:18] >> 143, net.ib.android.smcard, 삼성카드
+[2019-09-14 00:10:24,310][DEBUG|rankingParser.py:18] >> 144, kr.co.burgerkinghybrid, (공식) 버거킹 BURGER KING®KOREA
+[2019-09-14 00:10:24,312][DEBUG|rankingParser.py:18] >> 145, com.google.android.projection.gearhead, Android Auto - 호환되는 차량 및 헤드유닛용
+[2019-09-14 00:10:24,314][DEBUG|rankingParser.py:18] >> 146, com.frograms.wplay, 왓챠플레이 영화 드라마 2주 무료 감상
+[2019-09-14 00:10:24,316][DEBUG|rankingParser.py:18] >> 147, com.naversite.vio, 티비다시보기무료어플-스마일티비
+[2019-09-14 00:10:24,318][DEBUG|rankingParser.py:18] >> 148, com.skplanet.tmaptaxi.android.passenger, T map 택시 - 티맵택시,T맵택시
+[2019-09-14 00:10:24,320][DEBUG|rankingParser.py:18] >> 149, com.nhnent.payapp, PAYCO - 페이코, 혜택까지 똑똑한 간편결제
+[2019-09-14 00:10:24,322][DEBUG|rankingParser.py:18] >> 150, com.google.android.youtube, YouTube
+[2019-09-14 00:10:24,325][DEBUG|rankingParser.py:18] >> 151, com.google.android.apps.maps, 지도
+[2019-09-14 00:10:24,326][DEBUG|rankingParser.py:18] >> 152, com.google.android.talk, 행아웃
+[2019-09-14 00:10:24,328][DEBUG|rankingParser.py:18] >> 153, app.zenly.locator, Zenly - 친한 친구끼리
+[2019-09-14 00:10:24,330][DEBUG|rankingParser.py:18] >> 154, com.sec.android.app.shealth, Samsung Health(삼성 헬스)
+[2019-09-14 00:10:24,332][DEBUG|rankingParser.py:18] >> 155, free.vpn.unblock.proxy.turbovpn, Turbo VPN 무제한 무료 VPN & 빠른 보안 프록시 접속
+[2019-09-14 00:10:24,334][DEBUG|rankingParser.py:18] >> 156, com.ktmusic.geniemusic, 지니 뮤직 - genie
+[2019-09-14 00:10:24,335][DEBUG|rankingParser.py:18] >> 157, kr.co.station3.dabang, 다방-대한민국 부동산 매물 최다보유(원룸 오피스텔 아파트 분양 월세)
+[2019-09-14 00:10:24,337][DEBUG|rankingParser.py:18] >> 158, com.nbt.moves, 캐시슬라이드 스텝업 - 걸음에 혜택을 더하다
+[2019-09-14 00:10:24,340][DEBUG|rankingParser.py:18] >> 159, video.player.videoplayer, 비디오 플레이어 퍼펙트 - 자막, 코덱, XPlayer
+[2019-09-14 00:10:24,341][DEBUG|rankingParser.py:18] >> 160, com.lge.mobilemigration, LG 모바일 스위치 (보내기)
+[2019-09-14 00:10:24,343][DEBUG|rankingParser.py:18] >> 161, kr.co.d2.dominos, 도미노피자-Domino Pizza of Korea
+[2019-09-14 00:10:24,345][DEBUG|rankingParser.py:18] >> 162, socar.Socar, 쏘카 - 1등 카셰어링
+[2019-09-14 00:10:24,346][DEBUG|rankingParser.py:18] >> 163, co.spoonme, 스푼 라디오 - LIVE방송 BJ소통
+[2019-09-14 00:10:24,348][DEBUG|rankingParser.py:18] >> 164, com.kbcard.cxh.appcard, KB국민 앱카드
+[2019-09-14 00:10:24,350][DEBUG|rankingParser.py:18] >> 165, com.mathpresso.qanda, 콴다: 수학 5초 풀이 검색
+[2019-09-14 00:10:24,352][DEBUG|rankingParser.py:18] >> 166, com.google.android.googlequicksearchbox, Google
+[2019-09-14 00:10:24,353][DEBUG|rankingParser.py:18] >> 167, jp.naver.line.android, 라인 LINE
+[2019-09-14 00:10:24,354][DEBUG|rankingParser.py:18] >> 168, com.estsoft.alyac, 알약M - 국내 1위 무료 바이러스 백신, 파일 청소, 기기 최적화
+[2019-09-14 00:10:24,355][DEBUG|rankingParser.py:18] >> 169, com.hanabank.ebk.channel.android.hananbank, 하나원큐 - KEB하나은행 스마트폰뱅킹
+[2019-09-14 00:10:24,357][DEBUG|rankingParser.py:18] >> 170, com.samsung.android.voc, Samsung Members
+[2019-09-14 00:10:24,358][DEBUG|rankingParser.py:18] >> 171, com.sec.android.app.music, Samsung Music - 삼성 뮤직
+[2019-09-14 00:10:24,360][DEBUG|rankingParser.py:18] >> 172, me.togather.wave, WAVE - 잘 노는 영상톡, Talk & Play
+[2019-09-14 00:10:24,361][DEBUG|rankingParser.py:18] >> 173, com.xiaomi.hm.health, Mi Fit
+[2019-09-14 00:10:24,362][DEBUG|rankingParser.py:18] >> 174, com.elevenst, 11번가
+[2019-09-14 00:10:24,365][DEBUG|rankingParser.py:18] >> 175, com.samsung.android.app.watchmanager, Galaxy Wearable (Samsung Gear)
+[2019-09-14 00:10:24,366][DEBUG|rankingParser.py:18] >> 176, com.quvideo.xiaoying, VivaVideo - 동영상 편집 & 카메라 필터
+[2019-09-14 00:10:24,368][DEBUG|rankingParser.py:18] >> 177, teamDoppelGanger.SmarterSubway, 지하철 종결자 : Smarter Subway
+[2019-09-14 00:10:24,370][DEBUG|rankingParser.py:18] >> 178, nh.smart.card, NH농협카드 스마트앱
+[2019-09-14 00:10:24,373][DEBUG|rankingParser.py:18] >> 179, com.ssg.serviceapp.android.egiftcertificate, SSGPAY - 혜택 위의 혜택
+[2019-09-14 00:10:24,375][DEBUG|rankingParser.py:18] >> 180, com.google.android.apps.tachyon, Google Duo - 고화질 화상 통화
+[2019-09-14 00:10:24,377][DEBUG|rankingParser.py:18] >> 181, com.picsart.studio, PicsArt Photo Editor: 콜라주 메이커 & 사진 편집기
+[2019-09-14 00:10:24,379][DEBUG|rankingParser.py:18] >> 182, com.estmob.android.sendanywhere, Send Anywhere (파일전송)
+[2019-09-14 00:10:24,381][DEBUG|rankingParser.py:18] >> 183, com.megabox.mop, 메가박스(MEGABOX)
+[2019-09-14 00:10:24,383][DEBUG|rankingParser.py:18] >> 184, gsshop.mobile.v2, GS SHOP - 당신의 가장 좋은 선택을 만듭니다
+[2019-09-14 00:10:24,385][DEBUG|rankingParser.py:18] >> 185, com.microsoft.office.excel, Microsoft Excel: 스프레드시트 보기, 편집 및 만들기
+[2019-09-14 00:10:24,387][DEBUG|rankingParser.py:18] >> 186, kr.co.shiftworks.vguardweb, VG 기업용 Web SDK
+[2019-09-14 00:10:24,389][DEBUG|rankingParser.py:18] >> 187, com.astroframe.seoulbus, 카카오버스
+[2019-09-14 00:10:24,391][DEBUG|rankingParser.py:18] >> 188, com.uplus.musicshow, 아이돌Live 5G - 멤버별카메라별 아이돌 라이브 생방송 APP
+[2019-09-14 00:10:24,393][DEBUG|rankingParser.py:18] >> 189, com.infraware.office.link, 폴라리스 오피스 - 무료 한글, 오피스 문서 + PDF,  텍스트 뷰어
+[2019-09-14 00:10:24,395][DEBUG|rankingParser.py:18] >> 190, com.hmallapp, 현대Hmall - 홈쇼핑, 백화점
+[2019-09-14 00:10:24,398][DEBUG|rankingParser.py:18] >> 191, com.ebay.kr.gmarket, 쇼핑을 바꾸는 쇼핑. G마켓
+[2019-09-14 00:10:24,400][DEBUG|rankingParser.py:18] >> 192, kr.co.vcnc.tada, 타다(TADA) - 바로 가다, 이동의 기본
+[2019-09-14 00:10:24,401][DEBUG|rankingParser.py:18] >> 193, fast.phone.clean, 슈퍼 빠른 클리너 - 안티 바이러스 및 부스터 & 클리너
+[2019-09-14 00:10:24,403][DEBUG|rankingParser.py:18] >> 194, com.skb.btvmobile, oksusu
+[2019-09-14 00:10:24,405][DEBUG|rankingParser.py:18] >> 195, com.bestringtonesapps.freeringtonesforandroid, 무료 벨소리 Android™ 전용
+[2019-09-14 00:10:24,407][DEBUG|rankingParser.py:18] >> 196, com.musinsa.store, 셀렉트숍 무신사 - SELECT SHOP MUSINSA
+[2019-09-14 00:10:24,409][DEBUG|rankingParser.py:18] >> 197, com.hpapp, 해피포인트
+[2019-09-14 00:10:24,410][DEBUG|rankingParser.py:18] >> 198, org.telegram.messenger, 텔레그램 공식 앱 Telegram
+[2019-09-14 00:10:24,412][DEBUG|rankingParser.py:18] >> 199, com.wooribank.smart.wwms, 위비멤버스
+[2019-09-14 00:10:24,414][DEBUG|rankingParser.py:18] >> 200, com.kakao.story, 카카오스토리 KakaoStory
+[2019-09-14 00:10:24,415][DEBUG|rankingParser.py:18] >> 201, com.microsoft.office.powerpoint, Microsoft PowerPoint: 슬라이드 쇼 및 프레젠테이션
+[2019-09-14 00:10:40,076][DEBUG|rankingParser.py:18] >> 2, kr.co.lylstudio.unicorn, 유니콘:광고차단 필수 앱
+[2019-09-14 00:10:40,078][DEBUG|rankingParser.py:18] >> 3, com.panda.gamepad, Panda Gamepad Pro (BETA)
+[2019-09-14 00:10:40,080][DEBUG|rankingParser.py:18] >> 4, com.acadoid.lecturenotes, LectureNotes
+[2019-09-14 00:10:40,081][DEBUG|rankingParser.py:18] >> 5, com.godpeople.GPBIBLE, 갓피플성경
+[2019-09-14 00:10:40,083][DEBUG|rankingParser.py:18] >> 6, com.newin.nplayer.pro, nPlayer
+[2019-09-14 00:10:40,087][DEBUG|rankingParser.py:18] >> 7, com.intsig.lic.camscanner, CamScanner (License)
+[2019-09-14 00:10:40,089][DEBUG|rankingParser.py:18] >> 8, com.mxtech.videoplayer.pro, MX 플레이어 Pro
+[2019-09-14 00:10:40,091][DEBUG|rankingParser.py:18] >> 9, me.sovs.sovs, SOVS 소브스 - 구도 카메라
+[2019-09-14 00:10:40,093][DEBUG|rankingParser.py:18] >> 10, com.cloudmosa.puffin, Puffin Browser Pro
+[2019-09-14 00:10:40,095][DEBUG|rankingParser.py:18] >> 11, eyu.on.pica, @picn2k camera (피크닉 카메라)
+[2019-09-14 00:10:40,097][DEBUG|rankingParser.py:18] >> 12, com.utorrent.client.pro, Torrent® Pro - Torrent App
+[2019-09-14 00:10:40,099][DEBUG|rankingParser.py:18] >> 13, com.printedpropshop.dokkos2, Dokk OS 2
+[2019-09-14 00:10:40,101][DEBUG|rankingParser.py:18] >> 14, com.hancom.office.hwp.editor.hwp_apk.gplaystore, 한컴오피스 한글
+[2019-09-14 00:10:40,104][DEBUG|rankingParser.py:18] >> 15, jp.snowlife01.android.mutecamera, 무음모드Pro
+[2019-09-14 00:10:40,105][DEBUG|rankingParser.py:18] >> 16, com.choco.silentmode, 무음모드 (순정 무음카메라)
+[2019-09-14 00:10:40,108][DEBUG|rankingParser.py:18] >> 17, com.teslacoilsw.launcher.prime, Nova Launcher Prime
+[2019-09-14 00:10:40,109][DEBUG|rankingParser.py:18] >> 18, com.hs.toeic5finish, 토익 PART5 종결자
+[2019-09-14 00:10:40,112][DEBUG|rankingParser.py:18] >> 19, com.etoos.wordmaster.sat20002018, Word master 워드마스터 수능 2000(18개정)
+[2019-09-14 00:10:40,114][DEBUG|rankingParser.py:18] >> 20, slide.watchFrenzy.premium, Watch Face -WatchMaker Premium for Android Wear OS
+[2019-09-14 00:10:40,116][DEBUG|rankingParser.py:18] >> 21, kr.pe.designerj.airbudspopup, AirBuds Popup - airpod battery app (1st gen)
+[2019-09-14 00:10:40,118][DEBUG|rankingParser.py:18] >> 22, org.prowl.torque, Torque Pro (OBD2 / 자동차)
+[2019-09-14 00:10:40,121][DEBUG|rankingParser.py:18] >> 23, com.minjok.pjdic, 친일인명사전
+[2019-09-14 00:10:40,124][DEBUG|rankingParser.py:18] >> 24, com.hs.sutuksuwan20plus, 20 수특+수완 단어Plus: 빈출 우선 단어 총정리
+[2019-09-14 00:10:40,126][DEBUG|rankingParser.py:18] >> 25, com.plustwo.silentcamera.pro, 무음무음 PRO
+[2019-09-14 00:10:40,128][DEBUG|rankingParser.py:18] >> 26, com.maxmpz.audioplayer.unlock, Poweramp Full Version Unlocker
+[2019-09-14 00:10:40,130][DEBUG|rankingParser.py:18] >> 27, com.urbandroid.sleep.full.key, Sleep as Android Unlock: U수면 주기를 기록하는 스마트 알람 시계입니다
+[2019-09-14 00:10:40,132][DEBUG|rankingParser.py:18] >> 28, com.monotype.android.font.aa16yearsold, Aa십육살™ 한국어 Flipfont
+[2019-09-14 00:10:40,134][DEBUG|rankingParser.py:18] >> 29, com.screwbar.gudakcamera, 구닥
+[2019-09-14 00:10:40,135][DEBUG|rankingParser.py:18] >> 30, com.extreamsd.usbaudioplayerpro, USB Audio Player PRO
+[2019-09-14 00:10:40,137][DEBUG|rankingParser.py:18] >> 31, net.dinglisch.android.taskerm, Tasker
+[2019-09-14 00:10:40,138][DEBUG|rankingParser.py:18] >> 32, com.aromatools.messentials_ko, Modern Essentials Korean
+[2019-09-14 00:10:40,139][DEBUG|rankingParser.py:18] >> 33, com.kakao.talk.theme.Okcheori_CupOfCoffee, 옥철이_당신과 함께 하는 커피 한 잔 카톡테마
+[2019-09-14 00:10:40,141][DEBUG|rankingParser.py:18] >> 34, com.realbyteapps.moneya, 편한가계부 (+음성, PC)
+[2019-09-14 00:10:40,142][DEBUG|rankingParser.py:18] >> 35, com.panda.keymapper, Panda Keymapper - Gamepad,mouse,keyboard
+[2019-09-14 00:10:40,143][DEBUG|rankingParser.py:18] >> 36, com.orangeorapple.flashcards, Flashcards Deluxe
+[2019-09-14 00:10:40,144][DEBUG|rankingParser.py:18] >> 37, com.monotype.android.font.aaracoongulim, Aa너구리굴림™ 한국어 Flipfont
+[2019-09-14 00:10:40,146][DEBUG|rankingParser.py:18] >> 38, com.monotype.android.font.aaflutter, Aa설렘주의™ 한국어 Flipfont
+[2019-09-14 00:10:40,149][DEBUG|rankingParser.py:18] >> 39, net.saltycrackers.daygram, 데이그램 - 하루 한줄 일기장
+[2019-09-14 00:10:40,151][DEBUG|rankingParser.py:18] >> 40, com.apptrio.hi_fi_status, Hi-Fi Status(LG)
+[2019-09-14 00:10:40,153][DEBUG|rankingParser.py:18] >> 41, com.acadoid.lecturerecordings, LectureRecordings
+[2019-09-14 00:10:40,155][DEBUG|rankingParser.py:18] >> 42, com.kmplayerpro, 동영상 플레이어 KM Pro - HD Player, 4K 비디오 플레이어, 코덱, 자막
+[2019-09-14 00:10:40,157][DEBUG|rankingParser.py:18] >> 43, com.entusapps.play2, PL@Y 2 - 프리미엄 티켓북 + 포토캘린더 ( 플레이앱, PL@Y2 )
+[2019-09-14 00:10:40,159][DEBUG|rankingParser.py:18] >> 44, com.pixelcurves.tlauncher, TL Mods
+[2019-09-14 00:10:40,161][DEBUG|rankingParser.py:18] >> 45, com.marinetraffic.android, MarineTraffic ship positions
+[2019-09-14 00:10:40,163][DEBUG|rankingParser.py:18] >> 46, com.ccswe.appmanagerpro, CCSWE App Manager Pro License
+[2019-09-14 00:10:40,165][DEBUG|rankingParser.py:18] >> 47, com.panda.keymapper.bit64, Panda Keymapper 64bit -  Gamepad,mouse,keyboard
+[2019-09-14 00:10:40,167][DEBUG|rankingParser.py:18] >> 48, noad.geulga, 아라-만화뷰어,텍스트뷰어,스캔뷰어,소설뷰어
+[2019-09-14 00:10:40,169][DEBUG|rankingParser.py:18] >> 49, com.realnumworks.focustimerpro, FocusTimer Pro - 공부 습관이 바뀌는 앱
+[2019-09-14 00:10:40,170][DEBUG|rankingParser.py:18] >> 50, com.tss21.input.korean, TS 한글 키보드 Pro-천지인2
+[2019-09-14 00:10:40,172][DEBUG|rankingParser.py:18] >> 51, com.jake.TouchMacro, 터치매크로-자동터치
+[2019-09-14 00:10:40,174][DEBUG|rankingParser.py:18] >> 52, com.defianttech.diskdiggerpro, DiskDigger Pro file recovery
+[2019-09-14 00:10:40,176][DEBUG|rankingParser.py:18] >> 53, com.orux.oruxmapsDonate, 오룩스맵 도네이트
+[2019-09-14 00:10:40,177][DEBUG|rankingParser.py:18] >> 54, com.devguru.ntwomon, Twomon SE (투몬 SE) - 휴대용 디스플레이, USB 모니터
+[2019-09-14 00:10:40,180][DEBUG|rankingParser.py:18] >> 55, com.wolfram.android.alpha, WolframAlpha
+[2019-09-14 00:10:40,182][DEBUG|rankingParser.py:18] >> 56, bruenor.magicbox, Magic DosBox
+[2019-09-14 00:10:40,184][DEBUG|rankingParser.py:18] >> 57, com.irmavep.app.libro, 책꽂이+ (독서기록, 도서관리)
+[2019-09-14 00:10:40,186][DEBUG|rankingParser.py:18] >> 58, com.jetappfactory.jetaudioplus, 제트오디오 플러스 - 고해상도 음원 재생 뮤직 플레이어
+[2019-09-14 00:10:40,188][DEBUG|rankingParser.py:18] >> 59, com.filmic.filmicpro, FiLMiC Pro: 프로 HD 수동 비디오 카메라 어플
+[2019-09-14 00:10:40,189][DEBUG|rankingParser.py:18] >> 60, com.grill.psjoy, PSJoy: PC Remote Play Spy for PS4
+[2019-09-14 00:10:40,191][DEBUG|rankingParser.py:18] >> 61, com.digipom.easyvoicerecorder.pro, 이지 보이스 레코더 프로
+[2019-09-14 00:10:40,193][DEBUG|rankingParser.py:18] >> 62, com.tocaboca.tocahairsalon3, Toca Hair Salon 3
+[2019-09-14 00:10:40,194][DEBUG|rankingParser.py:18] >> 63, com.jpbrothers.android.pictail.sub6, 픽테일 - Limited Edition
+[2019-09-14 00:10:40,195][DEBUG|rankingParser.py:18] >> 64, com.softchaser.iDosaPhone, 도사폰 (만세력 역학 도구)
+[2019-09-14 00:10:40,197][DEBUG|rankingParser.py:18] >> 65, com.skydoves.secretreocder, 비밀녹음 프로 (Secret Recorder Pro) - 녹음기, 강의녹음, 몰래녹음
+[2019-09-14 00:10:40,198][DEBUG|rankingParser.py:18] >> 66, com.panda.gamebooster, Panda Game Booster & GFX Tool for Battleground
+[2019-09-14 00:10:40,199][DEBUG|rankingParser.py:18] >> 67, com.monotype.android.font.badhandwriting365, 365발꾸락글씨™ 한국어 Flipfont
+[2019-09-14 00:10:40,200][DEBUG|rankingParser.py:18] >> 68, com.neutroncode.mp, Neutron Music Player
+[2019-09-14 00:10:40,201][DEBUG|rankingParser.py:18] >> 69, com.monotype.android.font.enamored365, 365홀딱반했어™ 한국어 Flipfont
+[2019-09-14 00:10:40,202][DEBUG|rankingParser.py:18] >> 70, com.etoos.wordmaster.midskill2016, Word Master 워드마스터 중등 실력
+[2019-09-14 00:10:40,206][DEBUG|rankingParser.py:18] >> 71, com.jb.babycrying_paid, 아기 울음 알리미 (아기 수면 모니터 & 알람 & 자장가)
+[2019-09-14 00:10:40,208][DEBUG|rankingParser.py:18] >> 72, com.yongcalcompany.JlptVip, 회독JLPT(유료)
+[2019-09-14 00:10:40,210][DEBUG|rankingParser.py:18] >> 73, com.imageline.FLM, FL Studio Mobile
+[2019-09-14 00:10:40,211][DEBUG|rankingParser.py:18] >> 74, com.monotype.android.font.hummingsusu365, 365허밍슈슈™ 한국어 Flipfont
+[2019-09-14 00:10:40,214][DEBUG|rankingParser.py:18] >> 75, com.advasoft.touchretouch, TouchRetouch
+[2019-09-14 00:10:40,216][DEBUG|rankingParser.py:18] >> 76, org.androidtown.jckoreanradio, JC 한국 라디오 Premium
+[2019-09-14 00:10:40,218][DEBUG|rankingParser.py:18] >> 77, com.quvideo.xiaoying.pro, VivaVideo PRO 비디오 편집 HD
+[2019-09-14 00:10:40,219][DEBUG|rankingParser.py:18] >> 78, com.tocaboca.hairsalonme, Toca Hair Salon Me
+[2019-09-14 00:10:40,222][DEBUG|rankingParser.py:18] >> 79, com.elsebook.handal, 한글 달인 - 맞춤법 공부
+[2019-09-14 00:10:40,224][DEBUG|rankingParser.py:18] >> 80, com.tistory.es1015.kakao.theme.check2, 노트 카톡테마 - 심플 카톡테마 8.0.0
+[2019-09-14 00:10:40,225][DEBUG|rankingParser.py:18] >> 81, com.modelmakertools.simplemindpro, SimpleMind Pro - Intuitive Mind Mapping
+[2019-09-14 00:10:40,227][DEBUG|rankingParser.py:18] >> 82, com.intsig.BizCardReader, CamCard (명함스캐너 한글 한자 일어 동시인식)
+[2019-09-14 00:10:40,229][DEBUG|rankingParser.py:18] >> 83, co.byeol.gongbudeul.urimal, 우리말 공부
+[2019-09-14 00:10:40,230][DEBUG|rankingParser.py:18] >> 84, com.x0.strai.frepkey, FRep Unlock Key
+[2019-09-14 00:10:40,232][DEBUG|rankingParser.py:18] >> 85, com.flyersoft.moonreaderp, Moon+ Reader Pro
+[2019-09-14 00:10:40,234][DEBUG|rankingParser.py:18] >> 86, com.massimobiolcati.irealb, iReal Pro  음악책 & 반주
+[2019-09-14 00:10:40,236][DEBUG|rankingParser.py:18] >> 87, org.twisevictory.apps, The Wonder Weeks vs 9
+[2019-09-14 00:10:40,238][DEBUG|rankingParser.py:18] >> 88, com.shopmoment.momentprocamera, Moment Pro Camera
+[2019-09-14 00:10:40,239][DEBUG|rankingParser.py:18] >> 89, yuns27.electriccertificationsecondexam, 전기기사 산업기사 실기 핵심 정리
+[2019-09-14 00:10:40,241][DEBUG|rankingParser.py:18] >> 90, com.monotype.android.font.aagodsummer, Aa갓여름™ 한국어 Flipfont
+[2019-09-14 00:10:40,243][DEBUG|rankingParser.py:18] >> 91, com.monotype.android.font.typotopstudent, TYPO전교일등™ 한국어 Flipfont
+[2019-09-14 00:10:40,245][DEBUG|rankingParser.py:18] >> 92, com.visiblebody.atlas, Human Anatomy Atlas 2020:Complete 3D Human Body
+[2019-09-14 00:10:40,247][DEBUG|rankingParser.py:18] >> 93, com.doosandonga.app.dictionary.primeengkor, 프라임 영한한영사전
+[2019-09-14 00:10:40,248][DEBUG|rankingParser.py:18] >> 94, psyberia.alpinequest.full, AlpineQuest Off-Road Explorer
+[2019-09-14 00:10:40,250][DEBUG|rankingParser.py:18] >> 95, com.kakao.talk.theme.BabyPrism, 베이비 프리즘 - 카카오톡 테마
+[2019-09-14 00:10:40,251][DEBUG|rankingParser.py:18] >> 96, com.monotype.android.font.aamayfivedays, Aa오월오일™ 한국어 Flipfont
+[2019-09-14 00:10:40,253][DEBUG|rankingParser.py:18] >> 97, com.simi.screenlockpaid, 화면 잠금(바로 가기 메뉴)(광고 없음)
+[2019-09-14 00:10:40,254][DEBUG|rankingParser.py:18] >> 98, com.monotype.android.font.aatilt, Aa기우뚱™ 한국어 Flipfont
+[2019-09-14 00:10:40,255][DEBUG|rankingParser.py:18] >> 99, smartwatchstudios.app.gears3navigation, Navigation Pro: Google Maps Navi on Samsung Watch
+[2019-09-14 00:10:40,257][DEBUG|rankingParser.py:18] >> 100, xyz.masmas.film.cloudy, 클라우디 필름 - 흐림 필터 완벽 구현!
+[2019-09-14 00:10:40,258][DEBUG|rankingParser.py:18] >> 101, com.zwds.jamidusu_pro, 자미두수 명반 PRO
+[2019-09-14 00:10:40,259][DEBUG|rankingParser.py:18] >> 102, com.devguru.eltwomonusb, TwomonUSB(투몬USB) - USB모니터
+[2019-09-14 00:10:40,262][DEBUG|rankingParser.py:18] >> 103, com.noctuasoftware.stellarium, Stellarium Mobile 하늘지도
+[2019-09-14 00:10:40,264][DEBUG|rankingParser.py:18] >> 104, com.ambientdesign.artrage.playstore, ArtRage: Draw, Paint, Create
+[2019-09-14 00:10:40,267][DEBUG|rankingParser.py:18] >> 105, vr.audio.voicerecorderpro, 음성 레코더 프로
+[2019-09-14 00:10:40,269][DEBUG|rankingParser.py:18] >> 106, com.junapps.BibleLexOriDic, 바이블렉스 성경본문해석사전
+[2019-09-14 00:10:40,271][DEBUG|rankingParser.py:18] >> 107, com.tedkim88.fitnesscounter_kr, 운동 개수 세기 - 헬스, 요가 카운트 트레이너
+[2019-09-14 00:10:40,273][DEBUG|rankingParser.py:18] >> 108, com.monotype.android.font.aakingoffont, Aa폰트의왕™ 한국어 Flipfont
+[2019-09-14 00:10:40,275][DEBUG|rankingParser.py:18] >> 109, com.kmshack.mute, 무음모드  (기본 카메라 무음)
+[2019-09-14 00:10:40,277][DEBUG|rankingParser.py:18] >> 110, com.tocaboca.tocavacation, Toca Life: Vacation
+[2019-09-14 00:10:40,280][DEBUG|rankingParser.py:18] >> 111, net.n.holybible.gnh, 홀리바이블(한영 오디오,사전 성경,새찬송가,NIV)
+[2019-09-14 00:10:40,282][DEBUG|rankingParser.py:18] >> 112, com.etoos.wordmaster.midbasic2016, Word Master 워드마스터 중등 기초
+[2019-09-14 00:10:40,284][DEBUG|rankingParser.py:18] >> 113, new_chalkboard.katalk.crayon, 칠판 카카오톡 테마 VER2
+[2019-09-14 00:10:40,286][DEBUG|rankingParser.py:18] >> 114, com.lehoang.musiccontrol, Fit Control
+[2019-09-14 00:10:40,287][DEBUG|rankingParser.py:18] >> 115, com.pdp.deviceowner, Package Disabler Pro ( Owner APP) All Android
+[2019-09-14 00:10:40,289][DEBUG|rankingParser.py:18] >> 116, com.enex2.popdiary, POPdiary+ : 일기, 다이어리
+[2019-09-14 00:10:40,291][DEBUG|rankingParser.py:18] >> 117, com.simplemobiletools.gallery.pro, 심플 갤러리 Pro
+[2019-09-14 00:10:40,293][DEBUG|rankingParser.py:18] >> 118, com.appstar.callrecorderpro, 통화 녹음 Pro
+[2019-09-14 00:10:40,296][DEBUG|rankingParser.py:18] >> 119, com.softchaser.iKnowYouP, 지피지기 (사주,운세,궁합,토정비결,이름,해몽)
+[2019-09-14 00:10:40,297][DEBUG|rankingParser.py:18] >> 120, com.jaemin.biblep, 성경과 찬송
+[2019-09-14 00:10:40,299][DEBUG|rankingParser.py:18] >> 121, com.etoos.wordmaster.highbasic2016, Word Master 워드마스터 고등 BASIC
+[2019-09-14 00:10:40,301][DEBUG|rankingParser.py:18] >> 122, com.hk.coleg.PhotoScape2, Photo Scape Base
+[2019-09-14 00:10:40,303][DEBUG|rankingParser.py:18] >> 123, com.myscript.calculator, MyScript Calculator 2
+[2019-09-14 00:10:40,304][DEBUG|rankingParser.py:18] >> 124, com.ithersta.stardewvalleyplanner, Assistant for Stardew Valley
+[2019-09-14 00:10:40,306][DEBUG|rankingParser.py:18] >> 125, com.vitotechnology.StarWalk2, Star Walk 2 - 하늘지도：별자리 찾기, 스타지도, 증강 현실 천문학
+[2019-09-14 00:10:40,308][DEBUG|rankingParser.py:18] >> 126, com.monotype.android.font.aaniceguy, Aa착한남자™ 한국어Flipfont
+[2019-09-14 00:10:40,309][DEBUG|rankingParser.py:18] >> 127, com.tocaboca.tocahospital, Toca Life: Hospital
+[2019-09-14 00:10:40,310][DEBUG|rankingParser.py:18] >> 128, com.racechrono.pro, RaceChrono Pro
+[2019-09-14 00:10:40,312][DEBUG|rankingParser.py:18] >> 129, com.myscript.nebo, MyScript Nebo 네보
+[2019-09-14 00:10:40,313][DEBUG|rankingParser.py:18] >> 130, com.jeyluta.timestampcamera, Timestamp Camera Pro
+[2019-09-14 00:10:40,314][DEBUG|rankingParser.py:18] >> 131, kr.co.trutory.rainbowtree.nurseassistanceox, 간호조무사 핵심정리 OX 문제집
+[2019-09-14 00:10:40,315][DEBUG|rankingParser.py:18] >> 132, com.monotype.android.font.aaloafaround, Aa빈둥글씨™ 한국어 Flipfont
+[2019-09-14 00:10:40,316][DEBUG|rankingParser.py:18] >> 133, com.frozenape.tempo, Metronome: Tempo 메트로놈
+[2019-09-14 00:10:40,317][DEBUG|rankingParser.py:18] >> 134, com.monotype.android.font.aaspring3, Aa봄봄봄™ 한국어 Flipfont
+[2019-09-14 00:10:40,320][DEBUG|rankingParser.py:18] >> 135, com.unito.playdiumar, REALSTAR - HABIN
+[2019-09-14 00:10:40,322][DEBUG|rankingParser.py:18] >> 136, com.jpbrothers.android.pictail.sub2, 픽테일 - Mojito
+[2019-09-14 00:10:40,324][DEBUG|rankingParser.py:18] >> 137, jjong.kim.rotationcontrol_pro, 화면회전 pro
+[2019-09-14 00:10:40,326][DEBUG|rankingParser.py:18] >> 138, kr.kicc.easypospro, 이지포스 모바일 Pro
+[2019-09-14 00:10:40,328][DEBUG|rankingParser.py:18] >> 139, com.mesoft.meplayer, 영화보며 영어공부 - 배속재생 미플레이어무비프로 어학용 동영상 플레이어
+[2019-09-14 00:10:40,330][DEBUG|rankingParser.py:18] >> 140, kr.co.bausoft.JpmrM, 강헌의 좌파명리학
+[2019-09-14 00:10:40,332][DEBUG|rankingParser.py:18] >> 141, com.mani.maniadministration, 마니 행정학
+[2019-09-14 00:10:40,334][DEBUG|rankingParser.py:18] >> 142, com.elsebook.handal.baleum, 바른 발음
+[2019-09-14 00:10:40,337][DEBUG|rankingParser.py:18] >> 143, com.elimmedia.hymn.ph, 미가엘 찬양 반주기 ( 새찬송가/통일찬송가 )
+[2019-09-14 00:10:40,339][DEBUG|rankingParser.py:18] >> 144, net.zhuoweizhang.mcpelauncher.pro, BlockLauncher Pro
+[2019-09-14 00:10:40,340][DEBUG|rankingParser.py:18] >> 145, com.etoos.wordmaster.midhighlevel2016, Word Master 워드마스터 중등 고난도(개정)
+[2019-09-14 00:10:40,342][DEBUG|rankingParser.py:18] >> 146, com.monotype.android.font.hurightlife, HU바른생활™ 한국어 Flipfont
+[2019-09-14 00:10:40,344][DEBUG|rankingParser.py:18] >> 147, com.hompee.mybible.billiard_new, 당구 3쿠션 시스템 유료
+[2019-09-14 00:10:40,345][DEBUG|rankingParser.py:18] >> 148, com.ss.edgegestures, 엣지 제스처
+[2019-09-14 00:10:40,347][DEBUG|rankingParser.py:18] >> 149, com.monotype.android.font.tsbananamilk, TS바나나우유 한국어 FlipFont
+[2019-09-14 00:10:40,349][DEBUG|rankingParser.py:18] >> 150, com.monotype.android.font.aastraighten, Aa반듯한글자™ 한국어 Flipfont
+[2019-09-14 00:10:40,351][DEBUG|rankingParser.py:18] >> 151, org.trecet.nowhere.tweet2gif.plus, Tweet2gif Plus
+[2019-09-14 00:10:40,353][DEBUG|rankingParser.py:18] >> 152, com.innoventions.sensorkineticspro, Sensor Kinetics Pro
+[2019-09-14 00:10:40,354][DEBUG|rankingParser.py:18] >> 153, com.nicky.jiung.domagic, 우와! - 화면을 깨고 동전이 나오는 마술앱!
+[2019-09-14 00:10:40,357][DEBUG|rankingParser.py:18] >> 154, com.plantools.fpactivity, + PLANNER (플러스 플래너)
+[2019-09-14 00:10:40,358][DEBUG|rankingParser.py:18] >> 155, com.hiqrecorder.full, Hi-Q MP3 음성 녹음기 (풀버전)
+[2019-09-14 00:10:40,360][DEBUG|rankingParser.py:18] >> 156, net.liveatc.liveatc_app, LiveATC for Android
+[2019-09-14 00:10:40,362][DEBUG|rankingParser.py:18] >> 157, com.mixplorer.silver, MiXplorer Silver - File Manager
+[2019-09-14 00:10:40,364][DEBUG|rankingParser.py:18] >> 158, com.eplayworks.AVStreamer, AVStreamer - 고성능 원격제어
+[2019-09-14 00:10:40,366][DEBUG|rankingParser.py:18] >> 159, com.fenixx.gameboosterplus, Game Booster  4x Faster (with advance settings)
+[2019-09-14 00:10:40,367][DEBUG|rankingParser.py:18] >> 160, udk.android.reader, ezPDF Reader PDF - 페이퍼리스 리더
+[2019-09-14 00:10:40,369][DEBUG|rankingParser.py:18] >> 161, com.etoos.wordmaster.sat20002016, Word master 워드마스터 수능 2000(개정)
+[2019-09-14 00:10:40,370][DEBUG|rankingParser.py:18] >> 162, inc.trilokia.gfxtool, Gamers GLTool Pro with Game Turbo & Game Tuner
+[2019-09-14 00:10:40,372][DEBUG|rankingParser.py:18] >> 163, com.kakao.talk.theme.BabyPink, 베이비 핑크 - 카카오톡 테마
+[2019-09-14 00:10:40,373][DEBUG|rankingParser.py:18] >> 164, org.kustom.widget.pro, KWGT Kustom Widget Pro Key
+[2019-09-14 00:10:40,374][DEBUG|rankingParser.py:18] >> 165, eu.thedarken.sdm.unlocker, SD Maid Pro - 언락커
+[2019-09-14 00:10:40,376][DEBUG|rankingParser.py:18] >> 166, xyz.masmas.film.paris, 파리 필름 - 평범한 사진에 파리 감성을 듬뿍
+[2019-09-14 00:10:40,378][DEBUG|rankingParser.py:18] >> 167, air.com.alenddl.CPADFull, 중국어는 뻔한 패턴의 반복이다(고급편) Full
+[2019-09-14 00:10:40,380][DEBUG|rankingParser.py:18] >> 168, com.devguru.eltwomon, TwomonAir(투몬) - 듀얼모니터, PC원격 제어
+[2019-09-14 00:10:40,382][DEBUG|rankingParser.py:18] >> 169, com.arobasmusic.guitarpro, Guitar Pro
+[2019-09-14 00:10:40,384][DEBUG|rankingParser.py:18] >> 170, com.elsebook.koreanhistory, 큰별쌤 개념 한국사
+[2019-09-14 00:10:40,386][DEBUG|rankingParser.py:18] >> 171, black.camera, Black Screen Camera
+[2019-09-14 00:10:40,388][DEBUG|rankingParser.py:18] >> 172, com.SimG.SimForklift, 지게차 면허시험 시뮬레이터
+[2019-09-14 00:10:40,389][DEBUG|rankingParser.py:18] >> 173, com.phigolf.golfnavipro, GOLF NAVI Pro
+[2019-09-14 00:10:40,391][DEBUG|rankingParser.py:18] >> 174, com.nll.acr.license, ACR License
+[2019-09-14 00:10:40,393][DEBUG|rankingParser.py:18] >> 175, com.jndapp.limeline.linex.iconpack, LimeLine Icon Pack : LineX
+[2019-09-14 00:10:40,395][DEBUG|rankingParser.py:18] >> 176, com.daolsoft.ybmeke, YBM 올인올 영한영 플러스 사전
+[2019-09-14 00:10:40,396][DEBUG|rankingParser.py:18] >> 177, jp.snowlife01.android.rotationcontrolpro, Rotation Control Pro
+[2019-09-14 00:10:40,398][DEBUG|rankingParser.py:18] >> 178, com.elsebook.handal.voca, 최고 어휘
+[2019-09-14 00:10:40,400][DEBUG|rankingParser.py:18] >> 179, com.inergy.pocketkorea, 포켓한국사
+[2019-09-14 00:10:40,401][DEBUG|rankingParser.py:18] >> 180, tbja.co.kr.feelingdiary, 유료버전 - 기분따라 골라쓰는 일기, 다이어리
+[2019-09-14 00:10:40,403][DEBUG|rankingParser.py:18] >> 181, com.daolsoft.minjunghanja, 민중 활용옥편
+[2019-09-14 00:10:40,404][DEBUG|rankingParser.py:18] >> 182, handasoft.mobile.divination_pro, 2019 점신PRO : 오늘의 운세, 사주의 완전판
+[2019-09-14 00:10:40,407][DEBUG|rankingParser.py:18] >> 183, com.monotype.android.font.tssaygoodbye, TS이만총총™ 한국어 Flipfont
+[2019-09-14 00:10:40,409][DEBUG|rankingParser.py:18] >> 184, com.limeberry.dansoomhanja, 단숨 일본어한자 (일본어 상용한자)
+[2019-09-14 00:10:40,411][DEBUG|rankingParser.py:18] >> 185, inc.trilokia.pubgfxtool, PUB Gfx+ Tool:#1 GFX Tool(with advance settings)
+[2019-09-14 00:10:40,413][DEBUG|rankingParser.py:18] >> 186, com.BloomStudios.WeatherHD, 날씨 HD
+[2019-09-14 00:10:40,415][DEBUG|rankingParser.py:18] >> 187, net.headnum.kream.ktm.unlocker, 카테만 PRO - 카카오톡 테마 만들기
+[2019-09-14 00:10:40,416][DEBUG|rankingParser.py:18] >> 188, com.sunnysidesoft.VirtualTablet, 버추얼태블릿 VirtualTablet (S-Pen)
+[2019-09-14 00:10:40,418][DEBUG|rankingParser.py:18] >> 189, kr.co.smartstudy.pinkfongpolice_android_googlemarket, 핑크퐁!  도둑잡기
+[2019-09-14 00:10:40,420][DEBUG|rankingParser.py:18] >> 190, com.jpbrothers.android.pictail.sub8, 픽테일 - RETRO
+[2019-09-14 00:10:40,421][DEBUG|rankingParser.py:18] >> 191, com.jpbrothers.android.pictail.sub3, 픽테일 -  BlueHawaii
+[2019-09-14 00:10:40,422][DEBUG|rankingParser.py:18] >> 192, pro.gif.videotogif.gifeditor.gifmaker, GIF 메이커, GIF 편집기, 동영상 메이커, Video을 GIF로 Pro
+[2019-09-14 00:10:40,423][DEBUG|rankingParser.py:18] >> 193, com.jndapp.apple.ilook.iconpack, iLOOK Icon pack UX THEME
+[2019-09-14 00:10:40,424][DEBUG|rankingParser.py:18] >> 194, com.etoos.wordmaster.hyper20002016, Word Master 워드마스터 하이퍼 2000(개정)
+[2019-09-14 00:10:40,426][DEBUG|rankingParser.py:18] >> 195, com.limecolor.kh_keyboard, 한자 키보드 +
+[2019-09-14 00:10:40,427][DEBUG|rankingParser.py:18] >> 196, com.elimmedia.hymn.pp, 미가엘 찬양 반주기 파이프&피아노 (새/통일 찬송가)
+[2019-09-14 00:10:40,428][DEBUG|rankingParser.py:18] >> 197, pixbit.prime, PixBit - Pixel Icon Pack
+[2019-09-14 00:10:40,429][DEBUG|rankingParser.py:18] >> 198, com.lensesdev.manual.camera.pro, 수동 카메라 : DSLR 카메라 전문
+[2019-09-14 00:10:40,432][DEBUG|rankingParser.py:18] >> 199, com.ndemiccreations.scenariocreator, Plague Inc. (전염병 주식회사): 시나리오 제작기
+[2019-09-14 00:10:40,434][DEBUG|rankingParser.py:18] >> 200, com.m_vankessel.elevenui, Eleven UI - IOS 12 Icon Pack
+[2019-09-14 00:10:40,436][DEBUG|rankingParser.py:18] >> 201, com.hantor.CozyCameraPlus, 초고속 카메라 Plus
+[2019-09-14 00:10:56,924][DEBUG|rankingParser.py:18] >> 2, jp.snowlife01.android.mutecamera, カメラ無音化Pro（標準カメラやビデオも完全無音化）
+[2019-09-14 00:10:56,928][DEBUG|rankingParser.py:18] >> 3, com.urbandroid.sleep.full.key, Sleep as Android Unlock: 睡眠サイクルを解析する目まし時計です
+[2019-09-14 00:10:56,931][DEBUG|rankingParser.py:18] >> 4, com.maxmpz.audioplayer.unlock, Poweramp Full Version Unlocker
+[2019-09-14 00:10:56,934][DEBUG|rankingParser.py:18] >> 5, com.sony.tvsideview.dtcpplayer, Video & TV SideViewプレヤプラグイン
+[2019-09-14 00:10:56,936][DEBUG|rankingParser.py:18] >> 6, com.teslacoilsw.launcher.prime, Nova Launcher Prime
+[2019-09-14 00:10:56,938][DEBUG|rankingParser.py:18] >> 7, com.digipom.easyvoicerecorder.pro, 簡ボイスレコダプロ
+[2019-09-14 00:10:56,939][DEBUG|rankingParser.py:18] >> 8, jp.sisyou.kumikashi.allmutemode, 無音モド（標準カメラの無音化を現）カメラミュト　スクショは手動無音化で
+[2019-09-14 00:10:56,941][DEBUG|rankingParser.py:18] >> 9, com.justsystems.atokmobile.service, ATOK (日本語入力システム)
+[2019-09-14 00:10:56,942][DEBUG|rankingParser.py:18] >> 10, com.marinetraffic.android, MarineTraffic ship positions
+[2019-09-14 00:10:56,947][DEBUG|rankingParser.py:18] >> 11, com.mxtech.videoplayer.pro, MX Player Pro
+[2019-09-14 00:10:56,949][DEBUG|rankingParser.py:18] >> 12, kr.co.lylstudio.unicorn, ユニコン:告ブロック必須アプリ
+[2019-09-14 00:10:56,951][DEBUG|rankingParser.py:18] >> 13, net.dinglisch.android.taskerm, Tasker
+[2019-09-14 00:10:56,952][DEBUG|rankingParser.py:18] >> 14, jp.tanyu.SmartAlarm, スマトアラム （目まし時計）
+[2019-09-14 00:10:56,954][DEBUG|rankingParser.py:18] >> 15, studypro.spi.higengo, SPI非言語 【Study Pro】
+[2019-09-14 00:10:56,956][DEBUG|rankingParser.py:18] >> 16, jp.sisyou.kumikashi.mutedefaultcamera, 標準カメラを無音化　無音モドアプリ（カメラ特化版）　スクショは手動切替で
+[2019-09-14 00:10:56,958][DEBUG|rankingParser.py:18] >> 17, com.intsig.lic.camscanner, CamScanner 完全版 (License)
+[2019-09-14 00:10:56,960][DEBUG|rankingParser.py:18] >> 18, com.advasoft.touchretouch, TouchRetouch
+[2019-09-14 00:10:56,962][DEBUG|rankingParser.py:18] >> 19, com.simplemobiletools.gallery.pro, シンプル ギャラリ Pro
+[2019-09-14 00:10:56,963][DEBUG|rankingParser.py:18] >> 20, jp.com.snow.contactsxpro, 電話帳X - 電話 & 連絡先アプリ
+[2019-09-14 00:10:56,964][DEBUG|rankingParser.py:18] >> 21, com.bilingirl.helpmetravel, 旅行英話 - Help me Travel
+[2019-09-14 00:10:56,965][DEBUG|rankingParser.py:18] >> 22, com.simi.screenlockpaid, スクリンオフ(アシスタントタッチ)(告なし)
+[2019-09-14 00:10:56,966][DEBUG|rankingParser.py:18] >> 23, me.plusnow.shield.stable, AdShield - Ad blocker, No more ads & tracking
+[2019-09-14 00:10:56,967][DEBUG|rankingParser.py:18] >> 24, com.visiblebody.atlas, ヒュマンアナトミアトラス2020： 3Dによる完璧な人
+[2019-09-14 00:10:56,969][DEBUG|rankingParser.py:18] >> 25, com.nic_english.gym.NicGym, ニック式英話ジム ベタ版
+[2019-09-14 00:10:56,971][DEBUG|rankingParser.py:18] >> 26, studypro.spi, SPI言語 【Study Pro】
+[2019-09-14 00:10:56,972][DEBUG|rankingParser.py:18] >> 27, com.x0.strai.frepkey, FRep Unlock Key
+[2019-09-14 00:10:56,974][DEBUG|rankingParser.py:18] >> 28, com.pubrof.pubrofboki2, パブロフ簿記２級商業簿記 日商簿記仕策 2019年度版
+[2019-09-14 00:10:56,976][DEBUG|rankingParser.py:18] >> 29, jp.dtechgame.hensukialarm, 可愛ければ態でも好きになってくれますか？-Cosplay Assort-
+[2019-09-14 00:10:56,980][DEBUG|rankingParser.py:18] >> 30, com.pubrof.pubrofboki3, パブロフ簿記３級 日商簿記仕策 2019年度版
+[2019-09-14 00:10:56,982][DEBUG|rankingParser.py:18] >> 31, au.com.metro.dwjr.boffos, Dumb Ways JR Boffo's Breakfast
+[2019-09-14 00:10:56,984][DEBUG|rankingParser.py:18] >> 32, com.komado.Odyssey.com.nifty.homepage2, 完全無音ビデオカメラ　4K高質まで　動撮影編集標準カメラ消音このアプリで完結
+[2019-09-14 00:10:56,986][DEBUG|rankingParser.py:18] >> 33, jp.co.alpha.dlna.mlpfordtv, Media Link Player for DTV
+[2019-09-14 00:10:56,987][DEBUG|rankingParser.py:18] >> 34, com.onkyo.jp.hfplayer_unlocker, Onkyo HF Player Unlocker
+[2019-09-14 00:10:56,989][DEBUG|rankingParser.py:18] >> 35, com.massimobiolcati.irealb, iReal Pro - 譜とバッキングトラック
+[2019-09-14 00:10:56,991][DEBUG|rankingParser.py:18] >> 36, com.pasoya.orbis, オビスガイド - 移動式オビス ネズミ捕り 問 通過履
+[2019-09-14 00:10:56,996][DEBUG|rankingParser.py:18] >> 37, jp.snowlife01.android.autooptimization, スマホ最適化Plus
+[2019-09-14 00:10:56,998][DEBUG|rankingParser.py:18] >> 38, com.hanamarusha.muteall.pro, カメラ無音化MuteAll（標準カメラもビデオも自動無音化）
+[2019-09-14 00:10:56,999][DEBUG|rankingParser.py:18] >> 39, com.twitpane.premium, ついっとぺんPlus(Twitterアプリ)
+[2019-09-14 00:10:57,001][DEBUG|rankingParser.py:18] >> 40, com.njwuji.study, どんどん話すための瞬間英作文トレニング
+[2019-09-14 00:10:57,003][DEBUG|rankingParser.py:18] >> 41, com.rarevision.vhscamcorder, VHS Camcorder (VHS Cam) - The Original VHS App
+[2019-09-14 00:10:57,004][DEBUG|rankingParser.py:18] >> 42, com.rhmsoft.edit.pro, QuickEdit テキストエディタプロ
+[2019-09-14 00:10:57,006][DEBUG|rankingParser.py:18] >> 43, org.prowl.torque, Torque Pro (OBD2/Car)
+[2019-09-14 00:10:57,008][DEBUG|rankingParser.py:18] >> 44, jp.snowlife01.android.screenshot, 【無音】スクリンショットPro - 動の連キャプチャに最適なキャプチャアプリ
+[2019-09-14 00:10:57,018][DEBUG|rankingParser.py:18] >> 45, com.beliefengine.handyapp, HANDY デッサン用モデルツル
+[2019-09-14 00:10:57,020][DEBUG|rankingParser.py:18] >> 46, com.modelmakertools.simplemindpro, SimpleMind Pro - Intuitive Mind Mapping
+[2019-09-14 00:10:57,022][DEBUG|rankingParser.py:18] >> 47, jp.co.asukanet.aftershutter, 動をにするアプリ「AfterShutter 4K」
+[2019-09-14 00:10:57,023][DEBUG|rankingParser.py:18] >> 48, jp.charactervoice.xea10.asuna, Xperia Ear Duo(アスナ)
+[2019-09-14 00:10:57,025][DEBUG|rankingParser.py:18] >> 49, com.metamoji.mazec, mazec3（手書きによるカンタン日本語入力）
+[2019-09-14 00:10:57,026][DEBUG|rankingParser.py:18] >> 50, com.nll.acr.license, ACRライセンス
+[2019-09-14 00:10:57,028][DEBUG|rankingParser.py:18] >> 51, com.tocaboca.hairsalonme, トッカヘアサロンミ (Hair Salon Me）
+[2019-09-14 00:10:57,030][DEBUG|rankingParser.py:18] >> 52, jp.handsaid.shuhasucho_2019, 周波帳2019
+[2019-09-14 00:10:57,032][DEBUG|rankingParser.py:18] >> 53, org.peakfinder.area.alps, PeakFinder AR
+[2019-09-14 00:10:57,033][DEBUG|rankingParser.py:18] >> 54, com.quvideo.xiaoying.pro, VivaVideo PRO: ビデオエディタ＆動編集アプリ
+[2019-09-14 00:10:57,034][DEBUG|rankingParser.py:18] >> 55, jp.co.gamegate.takagisan.takagi, からかい上手の高木さんアラム
+[2019-09-14 00:10:57,035][DEBUG|rankingParser.py:18] >> 56, com.jndapp.line.x.iconpack, LineX Icon Pack
+[2019-09-14 00:10:57,036][DEBUG|rankingParser.py:18] >> 57, org.twisevictory.jp, メンタルリプのアプリ：ワンダウィク
+[2019-09-14 00:10:57,037][DEBUG|rankingParser.py:18] >> 58, com.tocaboca.tocahospital, Toca Life: Hospital
+[2019-09-14 00:10:57,038][DEBUG|rankingParser.py:18] >> 59, com.softama.twitamaplus, ツイタマ+
+[2019-09-14 00:10:57,041][DEBUG|rankingParser.py:18] >> 60, com.digitalchemy.calculator.decimal, 計算機プラス
+[2019-09-14 00:10:57,044][DEBUG|rankingParser.py:18] >> 61, com.owners_age.stken_app_paid, 宅建 過去問集 2019年版「スタケン」
+[2019-09-14 00:10:57,046][DEBUG|rankingParser.py:18] >> 62, com.wiseschematics.eqfy, Eqfy Equalizer
+[2019-09-14 00:10:57,048][DEBUG|rankingParser.py:18] >> 63, eu.thedarken.sdm.unlocker, SDメイド プロ - ライセンスキ
+[2019-09-14 00:10:57,049][DEBUG|rankingParser.py:18] >> 64, com.mobisystems.fonts, OfficeSuite Font Pack
+[2019-09-14 00:10:57,051][DEBUG|rankingParser.py:18] >> 65, com.pubrof.pubrofboki2kogyo, パブロフ簿記２級工業簿記
+[2019-09-14 00:10:57,053][DEBUG|rankingParser.py:18] >> 66, asia.uniuni.simplear, SuguSumu : シンプルタスクキラ
+[2019-09-14 00:10:57,055][DEBUG|rankingParser.py:18] >> 67, com.n_evolution.SlotCounter, iスロットカウンタ (小役カウント & 設定判別)
+[2019-09-14 00:10:57,058][DEBUG|rankingParser.py:18] >> 68, com.skyjos.apps.fileexplorer, FE File Explorer Pro - ファイルマネジャ
+[2019-09-14 00:10:57,060][DEBUG|rankingParser.py:18] >> 69, com.algoriddim.djay, djay 2
+[2019-09-14 00:10:57,061][DEBUG|rankingParser.py:18] >> 70, com.tocaboca.tocapets, Toca Life: Pets
+[2019-09-14 00:10:57,063][DEBUG|rankingParser.py:18] >> 71, com.digion.dixim.android.play.aquosplayer, AQUOS リモトプレヤ
+[2019-09-14 00:10:57,064][DEBUG|rankingParser.py:18] >> 72, org.twisevictory.apps, メンタルリプのアプリ：ワンダウィク（最新版動付き）
+[2019-09-14 00:10:57,067][DEBUG|rankingParser.py:18] >> 73, com.flavionet.android.camera.pro, Camera FV-5
+[2019-09-14 00:10:57,069][DEBUG|rankingParser.py:18] >> 74, jp.yoshika.twitcle.plus, twitcle plus
+[2019-09-14 00:10:57,071][DEBUG|rankingParser.py:18] >> 75, com.softmedia.receiver, AirReceiver
+[2019-09-14 00:10:57,073][DEBUG|rankingParser.py:18] >> 76, com.thegosa.board.theme, ボド| Xperia™テマ+アイコン
+[2019-09-14 00:10:57,075][DEBUG|rankingParser.py:18] >> 77, air.com.kanarii.okiyome2, ぱっとおめ
+[2019-09-14 00:10:57,100][DEBUG|rankingParser.py:18] >> 78, eu.chainfire.supersu.pro, SuperSU Pro
+[2019-09-14 00:10:57,102][DEBUG|rankingParser.py:18] >> 79, jp.co.mirai_ii.nfc.allinone.now, 全の ICカド これひとつ「なう」
+[2019-09-14 00:10:57,103][DEBUG|rankingParser.py:18] >> 80, com.ss.edgegestures, エッジジェスチャ
+[2019-09-14 00:10:57,105][DEBUG|rankingParser.py:18] >> 81, com.fstop.photo.key, F-Stopギャラリプロ
+[2019-09-14 00:10:57,107][DEBUG|rankingParser.py:18] >> 82, com.familyapp.anpan.customdialer.charge, 多機能でんわ告無し版（通話タイマや信確認、プレフィックスなど多機能電話アプリ）
+[2019-09-14 00:10:57,109][DEBUG|rankingParser.py:18] >> 83, com.myscript.calculator, MyScript Calculator 2
+[2019-09-14 00:10:57,111][DEBUG|rankingParser.py:18] >> 84, com.rookiestudio.perfectviewer.donate, Perfect Viewerに寄付
+[2019-09-14 00:10:57,112][DEBUG|rankingParser.py:18] >> 85, com.ss.squarehome.key, スクエアホムのキ - ランチャ
+[2019-09-14 00:10:57,113][DEBUG|rankingParser.py:18] >> 86, com.teacapps.barcodescanner.pro, QRコド＆バコドリダ（Pro）
+[2019-09-14 00:10:57,115][DEBUG|rankingParser.py:18] >> 87, net.saltycrackers.daygram, デイグラム
+[2019-09-14 00:10:57,117][DEBUG|rankingParser.py:18] >> 88, com.hiqrecorder.full, Hi-Q MP3ボイスレコダ（フル）
+[2019-09-14 00:10:57,118][DEBUG|rankingParser.py:18] >> 89, com.panda.gamepad, Panda Gamepad Pro (BETA)
+[2019-09-14 00:10:57,119][DEBUG|rankingParser.py:18] >> 90, com.tyrellsys.apps.kemono2alarm, けものフレンズあらむ２
+[2019-09-14 00:10:57,121][DEBUG|rankingParser.py:18] >> 91, cc.mdi.ShuwaStation, 手話ステション
+[2019-09-14 00:10:57,124][DEBUG|rankingParser.py:18] >> 92, net.liveatc.liveatc_app, LiveATC for Android
+[2019-09-14 00:10:57,126][DEBUG|rankingParser.py:18] >> 93, com.fabio.flat.squircle.iconpack, Flat Squircle - Icon Pack
+[2019-09-14 00:10:57,128][DEBUG|rankingParser.py:18] >> 94, com.ydbs.ggj, 私の外
+[2019-09-14 00:10:57,131][DEBUG|rankingParser.py:18] >> 95, smartwatchstudios.app.gears3navigation, Navigation Pro: Google Maps Navi on Samsung Watch
+[2019-09-14 00:10:57,133][DEBUG|rankingParser.py:18] >> 96, com.filmic.filmicpro, FiLMiC Pro: プロカメラマンも使用するビデオカメラアプリ
+[2019-09-14 00:10:57,134][DEBUG|rankingParser.py:18] >> 97, com.klinker.android.twitter_l, Talon for Twitter
+[2019-09-14 00:10:57,136][DEBUG|rankingParser.py:18] >> 98, jp.gr.aqua.mozc, AquaMozc
+[2019-09-14 00:10:57,138][DEBUG|rankingParser.py:18] >> 99, sk.mildev84.agendareminder.unlockkey, 議題ウィジェット KEY
+[2019-09-14 00:10:57,150][DEBUG|rankingParser.py:18] >> 100, com.hantor.CozyCameraPlus, かな超高速カメラ Plus
+[2019-09-14 00:10:57,152][DEBUG|rankingParser.py:18] >> 101, com.homeysoft.nexususb.importer, USB Media Explorer
+[2019-09-14 00:10:57,154][DEBUG|rankingParser.py:18] >> 102, com.cloudmosa.puffin, Puffin Browser Pro
+[2019-09-14 00:10:57,156][DEBUG|rankingParser.py:18] >> 103, com.devguru.eltwomonusb, TwomonUSB - USB モニタ,デュアルモニタ
+[2019-09-14 00:10:57,158][DEBUG|rankingParser.py:18] >> 104, jp.sblo.pandora.jota.plus.prokey, Jota+★PRO-KEY
+[2019-09-14 00:10:57,160][DEBUG|rankingParser.py:18] >> 105, com.toh.callrecord.pro, コルレコダプロ
+[2019-09-14 00:10:57,163][DEBUG|rankingParser.py:18] >> 106, jp.co.fenrir.android.sleipnir_black, Sleipnir Mobile Black Edition
+[2019-09-14 00:10:57,165][DEBUG|rankingParser.py:18] >> 107, jp.snowlife01.android.rotationcontrolpro, 面の回（向き）を制御【ロテションコントロルPro 】
+[2019-09-14 00:10:57,168][DEBUG|rankingParser.py:18] >> 108, jp.ne.sakura.token.gosenfu02, おんぷちゃん
+[2019-09-14 00:10:57,170][DEBUG|rankingParser.py:18] >> 109, com.newin.nplayer.pro, nPlayer
+[2019-09-14 00:10:57,171][DEBUG|rankingParser.py:18] >> 110, com.bcam, 板付カメラ(工事)
+[2019-09-14 00:10:57,173][DEBUG|rankingParser.py:18] >> 111, com.imageline.FLM, FL Studio Mobile
+[2019-09-14 00:10:57,176][DEBUG|rankingParser.py:18] >> 112, jp.ne.biglobe.wisdomdict.gp2, ウィズダム英和和英典公式アプリ |英話TOEICに書
+[2019-09-14 00:10:57,178][DEBUG|rankingParser.py:18] >> 113, jp.dtechgame.alarmIllya, プリズマ☆イリヤ アラム
+[2019-09-14 00:10:57,180][DEBUG|rankingParser.py:18] >> 114, com.dynamo.seihoapp, 生保一般課程試一問一答過去問題集
+[2019-09-14 00:10:57,182][DEBUG|rankingParser.py:18] >> 115, jp.co.tsr.search, TSR企業索 for Android
+[2019-09-14 00:10:57,183][DEBUG|rankingParser.py:18] >> 116, jp.web5.ussy.mydrillbookmakerkey, 暗記ドリルメカ ライセンスキ
+[2019-09-14 00:10:57,184][DEBUG|rankingParser.py:18] >> 117, org.kustom.wallpaper.pro, KLWP Live Wallpaper Pro Key
+[2019-09-14 00:10:57,187][DEBUG|rankingParser.py:18] >> 118, com.playsquare.pastan_1, でる順パス 英® 1級 【旺文社】
+[2019-09-14 00:10:57,188][DEBUG|rankingParser.py:18] >> 119, com.rhmsoft.pulsar.pro, Pulsar 音プレイヤ プロ
+[2019-09-14 00:10:57,190][DEBUG|rankingParser.py:18] >> 120, jp.main.brits.docotore.fp3, どこトレ FP3級科 過去問題集
+[2019-09-14 00:10:57,191][DEBUG|rankingParser.py:18] >> 121, info.my_kintore, My 筋トレ: を鍛えましょう
+[2019-09-14 00:10:57,192][DEBUG|rankingParser.py:18] >> 122, org.kustom.widget.pro, KWGT Kustom Widget Pro Key
+[2019-09-14 00:10:57,193][DEBUG|rankingParser.py:18] >> 123, com.fenixx.gameboosterplus, Game Booster  4x Faster (with advance settings)
+[2019-09-14 00:10:57,198][DEBUG|rankingParser.py:18] >> 124, com.neutroncode.mp, Neutron Music Player
+[2019-09-14 00:10:57,200][DEBUG|rankingParser.py:18] >> 125, jp.ne.biglobe.shinmeikai.gp, 新明解語典 公式アプリ｜ビッグロブ書
+[2019-09-14 00:10:57,201][DEBUG|rankingParser.py:18] >> 126, com.media.bestrecorder.audiorecorderpro, ボイスレコダプロ
+[2019-09-14 00:10:57,204][DEBUG|rankingParser.py:18] >> 127, jp.co.gamegate.konosuba.megumin, このすばアラム ～めぐみん編～
+[2019-09-14 00:10:57,205][DEBUG|rankingParser.py:18] >> 128, jp.chau2chaun2.mannerstimer, オトマナPlus+
+[2019-09-14 00:10:57,207][DEBUG|rankingParser.py:18] >> 129, com.playsquare.pastan_p1, でる順パス 英® 準1級 【旺文社】
+[2019-09-14 00:10:57,209][DEBUG|rankingParser.py:18] >> 130, com.startthailand.it_passport_pro, 2019年夏秋版  ITパスポト問題集(全問解付)
+[2019-09-14 00:10:57,211][DEBUG|rankingParser.py:18] >> 131, com.lensesdev.manual.camera.pro, 手動カメラ：デジタル一眼レフ カメラプロフェッショナル
+[2019-09-14 00:10:57,213][DEBUG|rankingParser.py:18] >> 132, com.defianttech.diskdiggerpro, DiskDigger Pro file recovery
+[2019-09-14 00:10:57,215][DEBUG|rankingParser.py:18] >> 133, com.karta.tools.autoclicker, 自動クリック プロ - Auto Clicker
+[2019-09-14 00:10:57,218][DEBUG|rankingParser.py:18] >> 134, com.pasoya.orbis.tile, オビスガイド オフラインマップ版 移動式オビス ネズミ捕り 問
+[2019-09-14 00:10:57,220][DEBUG|rankingParser.py:18] >> 135, com.runtastic.android.pro2, Runtastic PRO GPS ランニング＆ウォキング距離計測記アプリ
+[2019-09-14 00:10:57,222][DEBUG|rankingParser.py:18] >> 136, net.xnano.android.photoexifeditor.pro, Photo Exif Editor Pro
+[2019-09-14 00:10:57,224][DEBUG|rankingParser.py:18] >> 137, com.ccswe.appmanagerpro, CCSWE App Manager Pro License
+[2019-09-14 00:10:57,227][DEBUG|rankingParser.py:18] >> 138, com.gmail.anolivetree, Image Shrink(像リサイズ)
+[2019-09-14 00:10:57,229][DEBUG|rankingParser.py:18] >> 139, com.tocaboca.tocaschool, トッカライフスクル Toca Life School
+[2019-09-14 00:10:57,231][DEBUG|rankingParser.py:18] >> 140, com.playsquare.kikutan_all_toeic, キクタン [All-in-One] TOEIC® Test Score 600+800+990合本版
+[2019-09-14 00:10:57,235][DEBUG|rankingParser.py:18] >> 141, com.vitotechnology.StarWalk2, Star Walk 2 - スカイマップ天文ガイド: 時計の星、惑星と星座と夜
+[2019-09-14 00:10:57,237][DEBUG|rankingParser.py:18] >> 142, jp.hoheto.HohetoApp, ほへと生年月日占い
+[2019-09-14 00:10:57,239][DEBUG|rankingParser.py:18] >> 143, jp.co.latika.android.toeic.grammar.all, 文法語彙策640問1 for TOEIC®テスト
+[2019-09-14 00:10:57,240][DEBUG|rankingParser.py:18] >> 144, com.stmp.minimalface, Watch Face - Minimal & Elegant for Android Wear OS
+[2019-09-14 00:10:57,242][DEBUG|rankingParser.py:18] >> 145, vr.audio.voicerecorderpro, ボイスレコダプロ
+[2019-09-14 00:10:57,244][DEBUG|rankingParser.py:18] >> 146, air.com.pepiplay.pepitree, Pepi Tree
+[2019-09-14 00:10:57,246][DEBUG|rankingParser.py:18] >> 147, com.guoshi.httpcanary.premium, HttpCanary (Premium)
+[2019-09-14 00:10:57,248][DEBUG|rankingParser.py:18] >> 148, air.boycraft.insecthunting, 世界の昆採集
+[2019-09-14 00:10:57,249][DEBUG|rankingParser.py:18] >> 149, com.printedpropshop.dokkos2, Dokk OS 2
+[2019-09-14 00:10:57,250][DEBUG|rankingParser.py:18] >> 150, jp.co.aisin_aw.navi.navielite, NAVIelite　カナビ情報プラス
+[2019-09-14 00:10:57,253][DEBUG|rankingParser.py:18] >> 151, com.jetappfactory.jetaudioplus, ジェットオディオプラス - 高音質の音プレヤ
+[2019-09-14 00:10:57,254][DEBUG|rankingParser.py:18] >> 152, com.webclap.sweetstyle.sweetCalendar_paid, *SWEET* カレンダウィジェット
+[2019-09-14 00:10:57,255][DEBUG|rankingParser.py:18] >> 153, com.ratana.sunsurveyor, サン·サベイヤ (Sun Surveyor)
+[2019-09-14 00:10:57,256][DEBUG|rankingParser.py:18] >> 154, jp.main.brits.docotore.fp2, どこトレ FP2級科 過去問題集
+[2019-09-14 00:10:57,257][DEBUG|rankingParser.py:18] >> 155, com.hole19golf.wear, Hole19 Golf GPS for Smartwatch
+[2019-09-14 00:10:57,261][DEBUG|rankingParser.py:18] >> 156, com.loadlynx_jp.estilynx, Estilynx - 見積書や請求書を素早く作成、きれいに印刷
+[2019-09-14 00:10:57,263][DEBUG|rankingParser.py:18] >> 157, com.andcreate.app.internetspeedmonitor.prokey, 通信速度モニタ PROキ
+[2019-09-14 00:10:57,265][DEBUG|rankingParser.py:18] >> 158, com.ndemiccreations.scenariocreator, Plague Inc 染病株式社：シナリオクリエイタ
+[2019-09-14 00:10:57,267][DEBUG|rankingParser.py:18] >> 159, august.mendeleev.pro, 周期表 2019 PRO - 化
+[2019-09-14 00:10:57,269][DEBUG|rankingParser.py:18] >> 160, cz.acrobits.softphone.aliengroundwire, Groundwire
+[2019-09-14 00:10:57,272][DEBUG|rankingParser.py:18] >> 161, com.metamoji.noteanytime2, MetaMoJi Note（手書きノトアプリ）
+[2019-09-14 00:10:57,274][DEBUG|rankingParser.py:18] >> 162, cs.example.studiomusic, スタジオ音 - ガレジバンド Studio Music
+[2019-09-14 00:10:57,276][DEBUG|rankingParser.py:18] >> 163, cz.zdenekhorak.mibandtools, Tools & Mi Band
+[2019-09-14 00:10:57,279][DEBUG|rankingParser.py:18] >> 164, com.everydaycalculation.casiocalculator.pro, 電卓[Pro] - クラシック電卓アプリ
+[2019-09-14 00:10:57,282][DEBUG|rankingParser.py:18] >> 165, net.kyu_mu.shigintrainer, 詩吟トレナ「吟トレ」
+[2019-09-14 00:10:57,284][DEBUG|rankingParser.py:18] >> 166, jp.rvon.silentcamera, サイレントカメラ 無音_連
+[2019-09-14 00:10:57,285][DEBUG|rankingParser.py:18] >> 167, com.ricefish.kyuusei, 九星方位盤（吉方位占い）
+[2019-09-14 00:10:57,287][DEBUG|rankingParser.py:18] >> 168, jp.co.japanadvantage.kiokuflashpaid, 記憶フラッシュ_Ver2.1■記憶力３倍～５倍ＵＰ■初級上級
+[2019-09-14 00:10:57,289][DEBUG|rankingParser.py:18] >> 169, com.tocaboca.tocakitchensushi, Toca Kitchen Sushi Restaurant
+[2019-09-14 00:10:57,291][DEBUG|rankingParser.py:18] >> 170, jp.dtechgame.gridmanalarm, グリッドマン アラム -if your smile-
+[2019-09-14 00:10:57,293][DEBUG|rankingParser.py:18] >> 171, com.intermedia.hd.camera.pro, HDカメラプロ : Best Professional Camera App
+[2019-09-14 00:10:57,295][DEBUG|rankingParser.py:18] >> 172, abdelrahman.wifianalyzerpremium, WiFiアナライザプレミアム
+[2019-09-14 00:10:57,297][DEBUG|rankingParser.py:18] >> 173, jp.ne.biglobe.target1900, 英語タゲット1900公式アプリ |  ビッグロブ英語
+[2019-09-14 00:10:57,299][DEBUG|rankingParser.py:18] >> 174, com.obddriver, OBD Driver (OBD2&ELM327 req.)
+[2019-09-14 00:10:57,300][DEBUG|rankingParser.py:18] >> 175, studypro.cab, CAB 【Study Pro】
+[2019-09-14 00:10:57,302][DEBUG|rankingParser.py:18] >> 176, jp.co.fsi.fskaren.dl, FSKAREN(日本語入力システム)
+[2019-09-14 00:10:57,305][DEBUG|rankingParser.py:18] >> 177, com.real.bodywork.muscle.trigger.points, 筋のトリガポイント
+[2019-09-14 00:10:57,307][DEBUG|rankingParser.py:18] >> 178, com.ydbs.jpm, 都道府制覇プラス
+[2019-09-14 00:10:57,309][DEBUG|rankingParser.py:18] >> 179, jp.co.gamegate.gochiusa.chino, ごちうさアラム～チノ編～
+[2019-09-14 00:10:57,310][DEBUG|rankingParser.py:18] >> 180, jp.gr.java_conf.howlcifer.memocharge, メモ帳 有料版
+[2019-09-14 00:10:57,311][DEBUG|rankingParser.py:18] >> 181, com.mnoqlo.lagopus, Lagopus - Twitterアプリ
+[2019-09-14 00:10:57,313][DEBUG|rankingParser.py:18] >> 182, net.studiofly.android.ringoplus, 電話帳R Plus
+[2019-09-14 00:10:57,314][DEBUG|rankingParser.py:18] >> 183, com.myscript.nebo, MyScript Nebo
+[2019-09-14 00:10:57,315][DEBUG|rankingParser.py:18] >> 184, com.teamlabbody, 3D人解剖 - teamLabBody
+[2019-09-14 00:10:57,317][DEBUG|rankingParser.py:18] >> 185, com.tocaboca.tocalifefarm, Toca Life: Farm
+[2019-09-14 00:10:57,318][DEBUG|rankingParser.py:18] >> 186, com.splashtop.xdisplay.wired.pro, Splashtop Wired XDisplay
+[2019-09-14 00:10:57,319][DEBUG|rankingParser.py:18] >> 187, com.tocaboca.tocalab, トッカラボ (Toca Lab: Elements)
+[2019-09-14 00:10:57,322][DEBUG|rankingParser.py:18] >> 188, jp.mowmow.simpleaf, simpleaf (手書きメモ)
+[2019-09-14 00:10:57,324][DEBUG|rankingParser.py:18] >> 189, com.digibites.calendarplus, DigiCal+ 日本カレンダスケジュル
+[2019-09-14 00:10:57,326][DEBUG|rankingParser.py:18] >> 190, com.pixelcurves.tlauncher, TL Mods
+[2019-09-14 00:10:57,327][DEBUG|rankingParser.py:18] >> 191, eu.notsobright.themes.monochrome.pro, MonoChrome Pro - Xperiaのテマ
+[2019-09-14 00:10:57,329][DEBUG|rankingParser.py:18] >> 192, com.ultimate_math.cubecutapp, 究極の立＜切＞
+[2019-09-14 00:10:57,331][DEBUG|rankingParser.py:18] >> 193, net.janesoft.janetter.android.pro, Janetter Pro for Twitter
+[2019-09-14 00:10:57,333][DEBUG|rankingParser.py:18] >> 194, com.binghuo.magnifier.magnifyingglass.pro, 眼鏡
+[2019-09-14 00:10:57,335][DEBUG|rankingParser.py:18] >> 195, jp.dtechgame.stg.christinaalarm, シュタインズゲト アラム～時限調和のタイムピス～
+[2019-09-14 00:10:57,352][DEBUG|rankingParser.py:18] >> 196, minar.wmwatch.pipboy, Pip-Boy Watchface  [+Bonus]
+[2019-09-14 00:10:57,354][DEBUG|rankingParser.py:18] >> 197, jp.co.fsi.refills, Refills（システム手帳カレンダスケジュラ）
+[2019-09-14 00:10:57,355][DEBUG|rankingParser.py:18] >> 198, com.tocaboca.tocaoffice, トッカライフ：オフィスでは
+[2019-09-14 00:10:57,357][DEBUG|rankingParser.py:18] >> 199, net.stefano.stefanoface2, Ultimate Watch 2 watch face
+[2019-09-14 00:10:57,359][DEBUG|rankingParser.py:18] >> 200, de.zorillasoft.musicfolderplayer.donate, 音フォルダプレヤ　フルバジョン
+[2019-09-14 00:10:57,361][DEBUG|rankingParser.py:18] >> 201, link.mikan.toeic_frequent_word_600, mikan TOEIC
+[2019-09-14 00:11:12,867][DEBUG|rankingParser.py:18] >> 2, com.kakao.talk, 카카오톡 KakaoTalk
+[2019-09-14 00:11:12,883][DEBUG|rankingParser.py:18] >> 3, net.nrise.wippy, 위피 - 동네 친구가 필요할 때
+[2019-09-14 00:11:12,885][DEBUG|rankingParser.py:18] >> 4, com.frograms.wplay, 왓챠플레이 영화 드라마 2주 무료 감상
+[2019-09-14 00:11:12,887][DEBUG|rankingParser.py:18] >> 5, com.azarlive.android, 아자르 Azar -라이브로 친구찾기, 영상메신저
+[2019-09-14 00:11:12,888][DEBUG|rankingParser.py:18] >> 6, com.colondee.simkoong3, 심쿵 소개팅 - 200만 솔로남녀 활동 중
+[2019-09-14 00:11:12,890][DEBUG|rankingParser.py:18] >> 7, com.NoonDate, 정오의 데이트
+[2019-09-14 00:11:12,892][DEBUG|rankingParser.py:18] >> 8, tv.twitch.android.app, Twitch: 리그 오브 레전드, Hearthstone, MMO 게임 스트리밍 라이브 시청
+[2019-09-14 00:11:12,893][DEBUG|rankingParser.py:18] >> 9, com.google.android.apps.subscriptions.red, Google One
+[2019-09-14 00:11:12,927][DEBUG|rankingParser.py:18] >> 10, app.hybirds.skypeople, 스카이피플 (스피) : 서울대생이 만든 인증을 통한 안전한 소개팅
+[2019-09-14 00:11:12,929][DEBUG|rankingParser.py:18] >> 11, com.charmy.cupist, 글램 - 모든 매력적인 만남
+[2019-09-14 00:11:12,930][DEBUG|rankingParser.py:18] >> 12, com.movefastcompany.bora, 하쿠나 라이브 -  Live 방송
+[2019-09-14 00:11:12,931][DEBUG|rankingParser.py:18] >> 13, com.dorsia.amanda, 아만다: 눈 높아도 괜찮은 프리미엄 소개팅
+[2019-09-14 00:11:12,932][DEBUG|rankingParser.py:18] >> 14, sg.bigo.live, Bigo Live (비고라이브)  라이브 개인방송
+[2019-09-14 00:11:12,933][DEBUG|rankingParser.py:18] >> 15, com.tinder, Tinder
+[2019-09-14 00:11:12,934][DEBUG|rankingParser.py:18] >> 16, kr.co.millie.millieshelf, 밀리의 서재 - 독서와 무제한 친해지리
+[2019-09-14 00:11:12,936][DEBUG|rankingParser.py:18] >> 17, jp.naver.lineplay.android, 라인 플레이  전세계 No.1 패션 게임
+[2019-09-14 00:11:12,949][DEBUG|rankingParser.py:18] >> 18, com.endressdreamky.loveting, 너랑나랑 - 매일16명 소개팅 (소셜데이팅,연애)
+[2019-09-14 00:11:12,951][DEBUG|rankingParser.py:18] >> 19, com.yeoboya.com.yeoboya, 여보야 - 결혼,재혼을 위한 중매쟁이 앱
+[2019-09-14 00:11:12,953][DEBUG|rankingParser.py:18] >> 20, com.koikatsu.android.dokidoki2.kr, 당연시 - 당신도 연애를 시작할때, 미팅/소개팅
+[2019-09-14 00:11:12,955][DEBUG|rankingParser.py:18] >> 21, com.paktor, 스와이프 - 백만매칭 돌파 소개팅앱 1위
+[2019-09-14 00:11:12,957][DEBUG|rankingParser.py:18] >> 22, kr.co.psynet, LIVE스코어 - KBO, EPL, NBA 등 가장 빠른 스포츠 전종목 라이브스코어
+[2019-09-14 00:11:12,959][DEBUG|rankingParser.py:18] >> 23, co.benx.weverse, 위버스 - Weverse
+[2019-09-14 00:11:12,961][DEBUG|rankingParser.py:18] >> 24, kr.co.kkongtalk.app, (앙팅 즐팅 통합) 앙팅즐팅 톡톡 랜덤채팅
+[2019-09-14 00:11:12,962][DEBUG|rankingParser.py:18] >> 25, com.ca_smart.izonemail, IZ*ONE Private Mail
+[2019-09-14 00:11:12,971][DEBUG|rankingParser.py:18] >> 26, com.quvideo.xiaoying, VivaVideo - 동영상 편집 & 카메라 필터
+[2019-09-14 00:11:12,973][DEBUG|rankingParser.py:18] >> 27, com.abletree.someday, 썸데이 - 이상형 매칭 소개팅 (만남, 데이트, 소개팅 어플)
+[2019-09-14 00:11:12,974][DEBUG|rankingParser.py:18] >> 28, com.goldspoon, 골드스푼 : 자격을 갖춘 남녀를 위한 안전한 소개팅
+[2019-09-14 00:11:12,976][DEBUG|rankingParser.py:18] >> 29, com.naver.vapp, 글로벌 스타 라이브 앱 V LIVE
+[2019-09-14 00:11:12,977][DEBUG|rankingParser.py:18] >> 30, com.friendscube.somoim, 소모임 - 취미모임 앱
+[2019-09-14 00:11:12,979][DEBUG|rankingParser.py:18] >> 31, com.probits.argo, 아르고 ARGO - 영상메신저, 영상채팅, 친구찾기
+[2019-09-14 00:11:12,980][DEBUG|rankingParser.py:18] >> 32, com.sunny.v01, 써니캠 - 영상채팅
+[2019-09-14 00:11:12,982][DEBUG|rankingParser.py:18] >> 33, kr.co.april7.buddy, 다톡 - 무료 채팅으로 동네 친구, 톡친구 사귀기
+[2019-09-14 00:11:12,989][DEBUG|rankingParser.py:18] >> 34, com.un7qi3.forceteller, 포스텔러 - 신년운세, 무료운세, 사주, 타로, 궁합, 토정비결, 별자리, 손금, 풍수
+[2019-09-14 00:11:12,991][DEBUG|rankingParser.py:18] >> 35, com.nexstreaming.app.kinemasterfree, 키네마스터(KineMaster) - 동영상 편집기
+[2019-09-14 00:11:12,992][DEBUG|rankingParser.py:18] >> 36, kr.co.april7.eundabang.google, 은하수다방 - 돌싱, 재혼을 위한 프리미엄 소개팅
+[2019-09-14 00:11:12,994][DEBUG|rankingParser.py:18] >> 37, com.netflix.mediaclient, Netflix(넷플릭스)
+[2019-09-14 00:11:12,995][DEBUG|rankingParser.py:18] >> 38, com.videochat.livu, LivU - 랜덤 영상 채팅
+[2019-09-14 00:11:12,999][DEBUG|rankingParser.py:18] >> 39, com.smule.singandroid, Smule - 최고의 노래 어플
+[2019-09-14 00:11:13,000][DEBUG|rankingParser.py:18] >> 40, com.chatproject2019.chattingtalk, 즐챗 - 채팅, 지역채팅, 무료채팅, 앙큼한 채팅
+[2019-09-14 00:11:13,002][DEBUG|rankingParser.py:18] >> 41, kr.cocone.minime, 포켓미니
+[2019-09-14 00:11:13,003][DEBUG|rankingParser.py:18] >> 42, com.nhn.android.band, 밴드
+[2019-09-14 00:11:13,004][DEBUG|rankingParser.py:18] >> 43, com.bluepin.kidsworldforgoogleplay, 카카오키즈
+[2019-09-14 00:11:13,005][DEBUG|rankingParser.py:18] >> 44, com.ironplay.wll.sf, Iron Play
+[2019-09-14 00:11:13,006][DEBUG|rankingParser.py:18] >> 45, com.isharing.isharing, 아이쉐어링 위치추적 - 가족 자녀안심, 친구찾기, GPS 안심이
+[2019-09-14 00:11:13,007][DEBUG|rankingParser.py:18] >> 46, kr.co.evecams.ver2, 이브캠S - 화상채팅 영상채팅 음성채팅
+[2019-09-14 00:11:13,009][DEBUG|rankingParser.py:18] >> 47, com.mobile.sptalks, 빠른톡S - 더 강력해진 실시간 영상통화, 목소리듣고 빠르게 인연 찾는 어플
+[2019-09-14 00:11:13,010][DEBUG|rankingParser.py:18] >> 48, com.bnklab.android.dating, 스윗미 - 무제한 훈남훈녀 소개팅
+[2019-09-14 00:11:13,011][DEBUG|rankingParser.py:18] >> 49, com.conbus.anna, 인공지능 소개팅 애나 - 목소리도 듣고 분석도 하고
+[2019-09-14 00:11:13,014][DEBUG|rankingParser.py:18] >> 50, fire.ting.fireting.chat, 만남,돌싱,중년,채팅어플,아줌마중매,무료채팅,소개팅,재혼만남,만남어플 - 불팅
+[2019-09-14 00:11:13,016][DEBUG|rankingParser.py:18] >> 51, com.nxc.catchitenglishbasic.google, 캐치잇 잉글리시 : 게임보다 쉬운 영어 학습
+[2019-09-14 00:11:13,019][DEBUG|rankingParser.py:18] >> 52, net.couplemaker.meeting, 소개팅 1등, 커플메이커 (연애,데이팅,만남,미팅 앱)
+[2019-09-14 00:11:13,021][DEBUG|rankingParser.py:18] >> 53, com.mate.korean, Kmate 케이메이트 - 한국을 사랑하는 외국인친구 사귀기, 미팅, 외국어 채팅, 언어교환
+[2019-09-14 00:11:13,023][DEBUG|rankingParser.py:18] >> 54, qr.code.barcode.maker.scanner.reader, QR Code Reader-바코드 스캐너 및 QR 코드 스캐너
+[2019-09-14 00:11:13,024][DEBUG|rankingParser.py:18] >> 55, vixr.bermuda, Bermuda - 화상채팅으로 새로운 친구 만나기
+[2019-09-14 00:11:13,026][DEBUG|rankingParser.py:18] >> 56, tteok.ting.tteokting, 떡팅  채팅어플,만남,랜덤채팅,친구,애인,소개팅,무료채팅 인기어플
+[2019-09-14 00:11:13,030][DEBUG|rankingParser.py:18] >> 57, net.ib.mn, 최애돌♡ - 아이돌 순위 / 스케줄 / 퀴즈
+[2019-09-14 00:11:13,032][DEBUG|rankingParser.py:18] >> 58, kr.christiandate.app, 크리스천데이트 -  기독교 청년들을 위한 소개팅
+[2019-09-14 00:11:13,034][DEBUG|rankingParser.py:18] >> 59, com.blued.international, Blued - 게이 데이팅 & 라이브 앱
+[2019-09-14 00:11:13,036][DEBUG|rankingParser.py:18] >> 60, faceapp.facemystery.learnmoreaboutyourself, HiddenMe -  노화 카메라, 페이스앱
+[2019-09-14 00:11:13,038][DEBUG|rankingParser.py:18] >> 61, com.future.me.palmreader, FutureMe Face App - 얼굴 앱 에이징, 팜 스캐너, 얼굴 스왑
+[2019-09-14 00:11:13,040][DEBUG|rankingParser.py:18] >> 62, com.dunamu.stockplus, 증권플러스 for Kakao - 국민 증권앱
+[2019-09-14 00:11:13,042][DEBUG|rankingParser.py:18] >> 63, com.microsoft.skydrive, Microsoft OneDrive
+[2019-09-14 00:11:13,044][DEBUG|rankingParser.py:18] >> 64, kr.love.danggasa, 당신 가까이에 사랑이 있습니다.
+[2019-09-14 00:11:13,045][DEBUG|rankingParser.py:18] >> 65, faceapp.magikoly.exploreandhavefun, Magikoly만화 필터, 페이스앱, 페이스 에디터, 얼굴 노화, 성별 전환, 인종 분석
+[2019-09-14 00:11:13,047][DEBUG|rankingParser.py:18] >> 66, com.evernote, Evernote  수첩, 노트와 메모를 위한 플래너
+[2019-09-14 00:11:13,049][DEBUG|rankingParser.py:18] >> 67, com.rcplatform.livechat, Tumile라이브 캣 - 새로운 사람들 만나기 & 무료 라이브 채팅
+[2019-09-14 00:11:13,051][DEBUG|rankingParser.py:18] >> 68, kr.co.vcnc.android.couple, 비트윈 Between
+[2019-09-14 00:11:13,054][DEBUG|rankingParser.py:18] >> 69, com.scatterlab.sol, 연애의 과학 - 심리학 연애팁과 심리 테스트
+[2019-09-14 00:11:13,056][DEBUG|rankingParser.py:18] >> 70, com.picsart.studio, PicsArt Photo Editor: 콜라주 메이커 & 사진 편집기
+[2019-09-14 00:11:13,059][DEBUG|rankingParser.py:18] >> 71, com.nordvpn.android, VPN: 우회 빠른 속도 & 무제한 NordVPN - 한국 + 60개국 우회
+[2019-09-14 00:11:13,061][DEBUG|rankingParser.py:18] >> 72, com.inssachat, 인싸채팅 - 인싸를 위한 채팅 무료채팅 랜덤채팅 만남
+[2019-09-14 00:11:13,062][DEBUG|rankingParser.py:18] >> 73, com.nil.danjjak, 단짝 게임 - 친구사귀기 예쁜 아바타 만들기 즐거운 월드이벤트 함께 즐기는 우리들만의 공간
+[2019-09-14 00:11:13,066][DEBUG|rankingParser.py:18] >> 74, co.riiid.vida, 산타토익 - 비인간적 점수상승
+[2019-09-14 00:11:13,067][DEBUG|rankingParser.py:18] >> 75, com.mindclass.android, 코끼리 - 숙면, 스트레스 해소, 명상
+[2019-09-14 00:11:13,068][DEBUG|rankingParser.py:18] >> 76, com.hellomarket.chat, 즐겁게톡 - 채팅, 랜덤채팅
+[2019-09-14 00:11:13,069][DEBUG|rankingParser.py:18] >> 77, com.wisetoto, 스코어센터 LIVE - 전 세계 스포츠 통합 라이브스코어
+[2019-09-14 00:11:13,070][DEBUG|rankingParser.py:18] >> 78, com.mrblue.mrblue, 미스터블루  무료 웹툰 소설 만화 감상앱
+[2019-09-14 00:11:13,071][DEBUG|rankingParser.py:18] >> 79, at.nk.tools.iTranslate, iTranslate 번역 - 번역기 & 사전
+[2019-09-14 00:11:13,072][DEBUG|rankingParser.py:18] >> 80, com.dropbox.android, Dropbox
+[2019-09-14 00:11:13,073][DEBUG|rankingParser.py:18] >> 81, com.noyesrun.meeff.kr, 미프 - 한국을 사랑하는 외국인 친구 만나기
+[2019-09-14 00:11:13,077][DEBUG|rankingParser.py:18] >> 82, com.leanus.loveae.kr, 사랑애 - 10초에 1커플 탄생
+[2019-09-14 00:11:13,080][DEBUG|rankingParser.py:18] >> 83, jp.dena.showroom, SHOWROOM - free live streaming
+[2019-09-14 00:11:13,082][DEBUG|rankingParser.py:18] >> 84, com.hy.sfacer, Fantastic Face얼굴 분석 및 노화 예측
+[2019-09-14 00:11:13,084][DEBUG|rankingParser.py:18] >> 85, emotion.onekm, 1km - 동네 친구, 소모임, 이성만남
+[2019-09-14 00:11:13,088][DEBUG|rankingParser.py:18] >> 86, com.intsig.camscanner, CamScanner - 문서를 PDF로 스캔하기
+[2019-09-14 00:11:13,091][DEBUG|rankingParser.py:18] >> 87, jp.naver.line.android, 라인 LINE
+[2019-09-14 00:11:13,093][DEBUG|rankingParser.py:18] >> 88, me.zepeto.main, ZEPETO
+[2019-09-14 00:11:13,095][DEBUG|rankingParser.py:18] >> 89, com.epyrus.fanmuking_g, 판무킹 -판타지 무협소설을 간편하게 읽을 수 있는 서점
+[2019-09-14 00:11:13,098][DEBUG|rankingParser.py:18] >> 90, kr.co.gleammedia.starplay, 스타플레이 : STARPLAY - KPOP 아이돌 콘텐츠 THE SHOW 더쇼 순위투표
+[2019-09-14 00:11:13,100][DEBUG|rankingParser.py:18] >> 91, com.infraware.office.link, 폴라리스 오피스 - 무료 한글, 오피스 문서 + PDF,  텍스트 뷰어
+[2019-09-14 00:11:13,102][DEBUG|rankingParser.py:18] >> 92, com.scs.android.chattalk, 세이클럽 미니 - 대화, 무료채팅, 친구찾기
+[2019-09-14 00:11:13,103][DEBUG|rankingParser.py:18] >> 93, jp.eure.android.pairs_tw, Pairs(페어즈): 진짜 연애 하고싶을때
+[2019-09-14 00:11:13,105][DEBUG|rankingParser.py:18] >> 94, hotspotshield.android.vpn, Hotspot Shield 무료로 VPN 대리 & WiFi 보안 (Security)
+[2019-09-14 00:11:13,109][DEBUG|rankingParser.py:18] >> 95, com.google.android.apps.docs, Google 드라이브
+[2019-09-14 00:11:13,111][DEBUG|rankingParser.py:18] >> 96, handasoft.dangeori.mobile, 단거리연애: 가까운거리의 인연찾기!
+[2019-09-14 00:11:13,113][DEBUG|rankingParser.py:18] >> 97, free.vpn.unblock.proxy.turbovpn, Turbo VPN 무제한 무료 VPN & 빠른 보안 프록시 접속
+[2019-09-14 00:11:13,115][DEBUG|rankingParser.py:18] >> 98, com.asiainno.uplive, 업라이브Uplive
+[2019-09-14 00:11:13,117][DEBUG|rankingParser.py:18] >> 99, xyz.livetalk, 라이브톡 - 무료 영상채팅,화상채팅
+[2019-09-14 00:11:13,119][DEBUG|rankingParser.py:18] >> 100, jp.pxv.android, pixiv
+[2019-09-14 00:11:13,121][DEBUG|rankingParser.py:18] >> 101, com.tq.master, Test Master - Grown Up, 미래모습, 얼굴 노화, 종려 스캔
+[2019-09-14 00:11:13,123][DEBUG|rankingParser.py:18] >> 102, com.vfcorp.vf2, 동네친구 시즌2
+[2019-09-14 00:11:13,125][DEBUG|rankingParser.py:18] >> 103, cc.chatmore.dating, 국민어장 - 무료채팅, 랜덤채팅
+[2019-09-14 00:11:13,127][DEBUG|rankingParser.py:18] >> 104, com.entermedia.mobile.karaoke, 매직씽 아싸노래방 : 모두를 위한 모바일 노래방
+[2019-09-14 00:11:13,143][DEBUG|rankingParser.py:18] >> 105, com.nwz.ichampclient, 아이돌챔프 - 쇼챔피언, 아이돌투표, 팬덤, 아이돌
+[2019-09-14 00:11:13,150][DEBUG|rankingParser.py:18] >> 106, com.jobplanet.kr.android, 잡플래닛-2019년 일하기 좋은 기업은 어디?
+[2019-09-14 00:11:13,151][DEBUG|rankingParser.py:18] >> 107, com.apalon.weatherradar.free, 실시간 일기예보 및 레이더
+[2019-09-14 00:11:13,152][DEBUG|rankingParser.py:18] >> 108, com.enuma.todomath, 토도수학
+[2019-09-14 00:11:13,153][DEBUG|rankingParser.py:18] >> 109, com.horoscope.palmmaster, Horoscope & Palm Master - 얼굴 노화, 종려 스캐너
+[2019-09-14 00:11:13,154][DEBUG|rankingParser.py:18] >> 110, com.duolingo, 듀오링고(Duolingo): 무료 영어 학습
+[2019-09-14 00:11:13,156][DEBUG|rankingParser.py:18] >> 111, com.exodus.myloveidol, 최애돌♥ - 아이돌 순위 / 스케줄 / 퀴즈
+[2019-09-14 00:11:13,157][DEBUG|rankingParser.py:18] >> 112, com.acadoid.lecturenotes, LectureNotes
+[2019-09-14 00:11:13,158][DEBUG|rankingParser.py:18] >> 113, com.ghost.sibyl, Ms.Sibyl - Grown Up, 미래모습, 얼굴 노화, 당신이늙으면
+[2019-09-14 00:11:13,161][DEBUG|rankingParser.py:18] >> 114, com.jsdev.instasize, 사진 편집, 영상 편집,  콜라주 메이커를 하나로! 세계 유일의 어플, Instasize
+[2019-09-14 00:11:13,163][DEBUG|rankingParser.py:18] >> 115, com.naming.usooprj2_4, 작명 어플 넴유베: 이름짓기, 이름풀이, 개명, 넴유베 도장
+[2019-09-14 00:11:13,165][DEBUG|rankingParser.py:18] >> 116, com.thingsflow.hellobot, 헬로우봇 - 타로챗봇 라마마와 친구들
+[2019-09-14 00:11:13,167][DEBUG|rankingParser.py:18] >> 117, com.yangpark.connecting, 커넥팅 - 심심할 때 통화할 편한 친구
+[2019-09-14 00:11:13,169][DEBUG|rankingParser.py:18] >> 118, kakkawotalk.com.chatting, 가까워톡 클래식 - (메신저형 채팅, 친구만들기, 리워드)
+[2019-09-14 00:11:13,172][DEBUG|rankingParser.py:18] >> 119, com.wisdomhouse.justoon, 저스툰 - 심장이 툰툰! 웹툰, 만화, 웹소설
+[2019-09-14 00:11:13,177][DEBUG|rankingParser.py:18] >> 120, com.life360.android.safetymapd, Life360 - 가족 위치추적기
+[2019-09-14 00:11:13,179][DEBUG|rankingParser.py:18] >> 121, com.hellotalk, HelloTalk 헬로톡-무료 외국어 언어 교환
+[2019-09-14 00:11:13,184][DEBUG|rankingParser.py:18] >> 122, com.idealpiclab.photoeditorpro, Mixart Photo Editor - 만화 이펙트, 콜라주 메이커
+[2019-09-14 00:11:13,186][DEBUG|rankingParser.py:18] >> 123, net.palmplayer.palm, PalmStation
+[2019-09-14 00:11:13,188][DEBUG|rankingParser.py:18] >> 124, com.lezhin.comics, 레진코믹스 - 매일 무료 웹툰
+[2019-09-14 00:11:13,189][DEBUG|rankingParser.py:18] >> 125, com.privateinc.jjang, 짱챗 - 랜덤채팅 친구만들기
+[2019-09-14 00:11:13,191][DEBUG|rankingParser.py:18] >> 126, com.darinsoft.vimo, VLLO (구 Vimo / 비모) - 동영상 편집 어플, Vlog 편집 배속 어플
+[2019-09-14 00:11:13,195][DEBUG|rankingParser.py:18] >> 127, com.daily.zodiac.signs.horoscope.palmistry, Zodiac Signs Master - Face Scanner & Palmistry
+[2019-09-14 00:11:13,197][DEBUG|rankingParser.py:18] >> 128, com.ninewonders.game.newclawmachine, 진짜 인형뽑기-뽑기요(배송, prize, 이색뽑기, 프리미엄)
+[2019-09-14 00:11:13,199][DEBUG|rankingParser.py:18] >> 129, com.strava, Strava GPS 및 사이클링 달리기
+[2019-09-14 00:11:13,201][DEBUG|rankingParser.py:18] >> 130, com.microsoft.office.excel, Microsoft Excel: 스프레드시트 보기, 편집 및 만들기
+[2019-09-14 00:11:13,203][DEBUG|rankingParser.py:18] >> 131, com.ewa.ewaapp, EWA English  초급자를 위한 영어 학습
+[2019-09-14 00:11:13,207][DEBUG|rankingParser.py:18] >> 132, kr.co.smartstudy.pinkfongtv.ko_android_googlemarket, 핑크퐁 TV : 인기 동요 동화 포털
+[2019-09-14 00:11:13,209][DEBUG|rankingParser.py:18] >> 133, com.hancom.office.hwp.editor.hwp_apk.gplaystore, 한컴오피스 한글
+[2019-09-14 00:11:13,211][DEBUG|rankingParser.py:18] >> 134, com.shouter.easyvoca, 이지보카 영어단어 어원을 읽어주는 특별한 영단어 암기앱 단어장
+[2019-09-14 00:11:13,213][DEBUG|rankingParser.py:18] >> 135, com.commsource.beautyplus, BeautyPlus 뷰티플러스 - 올인원 카메라로 만드는 이쁜 셀카 사진
+[2019-09-14 00:11:13,215][DEBUG|rankingParser.py:18] >> 136, m4u.mobile.user, 미팅포유 : 여기서 시작되는 우리의만남
+[2019-09-14 00:11:13,217][DEBUG|rankingParser.py:18] >> 137, kr.co.influential.youngkangapp, 윌라 - 베스트셀러 오디오북&프리미엄 강의
+[2019-09-14 00:11:13,218][DEBUG|rankingParser.py:18] >> 138, com.selabs.speak, 스픽 (Speak): 영어회화, 스피킹, 발음
+[2019-09-14 00:11:13,220][DEBUG|rankingParser.py:18] >> 139, com.autodesk.autocadws, AutoCAD - DWG 편집기
+[2019-09-14 00:11:13,222][DEBUG|rankingParser.py:18] >> 140, com.gau.go.launcherex, GO런처EX: 테마 및 월페이퍼
+[2019-09-14 00:11:13,223][DEBUG|rankingParser.py:18] >> 141, com.huya.niko, Yome Live  여기서 라이브를 즐깁시다! 동영상을 보고 근처의 친구들을 사귑시다.
+[2019-09-14 00:11:13,225][DEBUG|rankingParser.py:18] >> 142, com.bnc.bambi.client, 밤비 - 랜덤채팅 친구 사귀기 채팅
+[2019-09-14 00:11:13,226][DEBUG|rankingParser.py:18] >> 143, com.estickerapp.android, 직장인 이성친구 만들기 - 에스티커 (만남 미팅 소개팅어플)
+[2019-09-14 00:11:13,227][DEBUG|rankingParser.py:18] >> 144, com.sgiggle.production, Tango: 무료 영상 통화 및 문자
+[2019-09-14 00:11:13,228][DEBUG|rankingParser.py:18] >> 145, com.dating.diamatch, 다이아매치 - 학교·직장 인증 고스펙 소개팅
+[2019-09-14 00:11:13,231][DEBUG|rankingParser.py:18] >> 146, com.fancyranchat.randomchat, 랜덤챗 (랜덤채팅, 랜챗)
+[2019-09-14 00:11:13,232][DEBUG|rankingParser.py:18] >> 147, kr.co.lylstudio.unicorn, 유니콘:광고차단 필수 앱
+[2019-09-14 00:11:13,253][DEBUG|rankingParser.py:18] >> 148, com.xvideostudio.videoeditor, VideoShow - 무료 동영상 편집기 & 사진 편집기 & 동영상 촬영
+[2019-09-14 00:11:13,255][DEBUG|rankingParser.py:18] >> 149, com.one.goodnight, 굿나잇 목소리 소개팅앱 1위 리슨 Goodnight
+[2019-09-14 00:11:13,257][DEBUG|rankingParser.py:18] >> 150, com.p1.mobile.putong, 탄탄 - 탄탄한 만남을 위한 소개팅 앱
+[2019-09-14 00:11:13,259][DEBUG|rankingParser.py:18] >> 151, com.apalon.scanner.app, 나만의 스캐너: 스캔 및 인쇄
+[2019-09-14 00:11:13,261][DEBUG|rankingParser.py:18] >> 152, com.inc_2ulip.tulip, 2ulip : 튤립
+[2019-09-14 00:11:13,263][DEBUG|rankingParser.py:18] >> 153, net.digsso, 딕쏘 DIGSSO - 게이(Gay) 소셜 네트워크
+[2019-09-14 00:11:13,265][DEBUG|rankingParser.py:18] >> 154, com.xsol.gnali, 지나리 - 스마트폰 위치추적, 위치공유, 과거위치, 분실방지
+[2019-09-14 00:11:13,286][DEBUG|rankingParser.py:18] >> 155, com.palmistry.horoscope.zodiacsign, Palmistry Master: 에이징 셔터，성별 교환
+[2019-09-14 00:11:13,287][DEBUG|rankingParser.py:18] >> 156, com.apalon.alarmclock.smart, Sleepzy: 알람 시계, 수면 주기 측정 및 수면 분석
+[2019-09-14 00:11:13,289][DEBUG|rankingParser.py:18] >> 157, mega.privacy.android.app, MEGA
+[2019-09-14 00:11:13,291][DEBUG|rankingParser.py:18] >> 158, com.appstard.loveletter, 러브레터 소개팅 -  매일 8명, (연결/대화 100% 무료, 정직한 소개팅)
+[2019-09-14 00:11:13,292][DEBUG|rankingParser.py:18] >> 159, com.skout.android, SKOUT-만남, 채팅, 친구
+[2019-09-14 00:11:13,294][DEBUG|rankingParser.py:18] >> 160, com.onsey.atloves, 올톡 -  주변 100만 회원과 인연만들기 랜덤채팅, 무료채팅, 만남, 친구, 소개팅
+[2019-09-14 00:11:13,295][DEBUG|rankingParser.py:18] >> 161, kr.co.cocoabook.ver1, 코코 - 온라인에서 만나는 진짜 소개팅
+[2019-09-14 00:11:13,297][DEBUG|rankingParser.py:18] >> 162, com.video.lovecam, 사랑캠 - 영상채팅,화상채팅,익명채팅
+[2019-09-14 00:11:13,299][DEBUG|rankingParser.py:18] >> 163, com.cyberlink.powerdirector.DRA140225_01, PowerDirector  동영상 편집 프로그램
+[2019-09-14 00:11:13,301][DEBUG|rankingParser.py:18] >> 164, com.mobions.nayana, 나야나 - 프리미엄 무제한 소개팅
+[2019-09-14 00:11:13,308][DEBUG|rankingParser.py:18] >> 165, com.vsco.cam, VSCO
+[2019-09-14 00:11:13,310][DEBUG|rankingParser.py:18] >> 166, com.mabopractice.app, 마보 - 마음챙김 명상
+[2019-09-14 00:11:13,312][DEBUG|rankingParser.py:18] >> 167, com.newin.nplayer.pro, nPlayer
+[2019-09-14 00:11:13,313][DEBUG|rankingParser.py:18] >> 168, net.littlefox.lf_app_fragment, 리틀팍스 - 영어동화 도서관
+[2019-09-14 00:11:13,315][DEBUG|rankingParser.py:18] >> 169, com.mobions.findlove, 연애의발견 - 당신도 누군가의 인연
+[2019-09-14 00:11:13,316][DEBUG|rankingParser.py:18] >> 170, faceapp.facereading.horoscope.zodica.signs.astrology, Face Secret App - 관상 해석, 뷰티 스캔, 별자리 운세
+[2019-09-14 00:11:13,317][DEBUG|rankingParser.py:18] >> 171, com.doosan.newebsfm, EBS어학FM
+[2019-09-14 00:11:13,318][DEBUG|rankingParser.py:18] >> 172, com.bms.romanceg, 로맨스소설 Club
+[2019-09-14 00:11:13,319][DEBUG|rankingParser.py:18] >> 173, net.nrise.moci, MOCI : 모씨 - 익명의 소통 공간
+[2019-09-14 00:11:13,320][DEBUG|rankingParser.py:18] >> 174, com.apalon.weatherlive.free, 실시간 날씨 버전
+[2019-09-14 00:11:13,322][DEBUG|rankingParser.py:18] >> 175, kr.co.lovechoice, 만남어때
+[2019-09-14 00:11:13,323][DEBUG|rankingParser.py:18] >> 176, com.parau.videochat, ParaU：낯선채팅 & 화상채팅
+[2019-09-14 00:11:13,325][DEBUG|rankingParser.py:18] >> 177, com.kii.safe, Keepsafe 사진 보관함  사진 비디오 숨기기
+[2019-09-14 00:11:13,331][DEBUG|rankingParser.py:18] >> 178, com.serioideas.serio, 세리오 : 검증된 그남자 그여자의 선개팅
+[2019-09-14 00:11:13,333][DEBUG|rankingParser.py:18] >> 179, com.faceagingapp.facesecret, ForeSeer: 노화 얼굴, 미래의 아기, 성별 교환
+[2019-09-14 00:11:13,335][DEBUG|rankingParser.py:18] >> 180, com.wsl.noom, 눔(Noom) - 건강관리,다이어트,당뇨,식단,만보기
+[2019-09-14 00:11:13,337][DEBUG|rankingParser.py:18] >> 181, com.colive.yaja, 야자 라이브 Yaja Live - 실시간 영상채팅으로 새로운 친구 만들고 외국어로 대화하기
+[2019-09-14 00:11:13,340][DEBUG|rankingParser.py:18] >> 182, carton.emoji.aging.camera, Face Master App - carton emoji
+[2019-09-14 00:11:13,341][DEBUG|rankingParser.py:18] >> 183, com.badoo.mobile, Badoo - 무료 채팅 & 데이팅 앱
+[2019-09-14 00:11:13,343][DEBUG|rankingParser.py:18] >> 184, com.uangel.tomokidsStoreYaho2, [EBS공식] 한글이야호, 한글이야호2 (따라쓰기, 읽기, 워크북)
+[2019-09-14 00:11:13,345][DEBUG|rankingParser.py:18] >> 185, com.foresting.app, 포레스팅 foresting
+[2019-09-14 00:11:13,347][DEBUG|rankingParser.py:18] >> 186, com.yazio.android, YAZIO 코치 - 칼로리계산기 어플, 다이어트일기
+[2019-09-14 00:11:13,349][DEBUG|rankingParser.py:18] >> 187, com.pygmalionsoft.therabbit, The Rabbit
+[2019-09-14 00:11:13,352][DEBUG|rankingParser.py:18] >> 188, com.lightricks.facetune.free, Facetune2 - 재미있는 셀카 편집기
+[2019-09-14 00:11:13,354][DEBUG|rankingParser.py:18] >> 189, com.willsm.macaron, 소개팅 마카롱 - 매일 무료소개팅,연애,소개팅,데이트 앱
+[2019-09-14 00:11:13,355][DEBUG|rankingParser.py:18] >> 190, net.starcam.random.chat, 별캠 친구 만들기
+[2019-09-14 00:11:13,357][DEBUG|rankingParser.py:18] >> 191, com.magisto, Magisto - 동영상편집어플 및 뮤직 슬라이드 쇼 제작
+[2019-09-14 00:11:13,358][DEBUG|rankingParser.py:18] >> 192, kong.ting.kongting.talk, 콩팅 - 만남 채팅 친구 애인 소개팅 랜덤채팅 즉석 데이팅 앱
+[2019-09-14 00:11:13,360][DEBUG|rankingParser.py:18] >> 193, com.teamblind.blind, 블라인드 Blind - 직장인 기업 연봉 & 이직 커리어 SNS
+[2019-09-14 00:11:13,362][DEBUG|rankingParser.py:18] >> 194, net.ium.mobile.android, 이음 - 국내 최초 소개팅어플
+[2019-09-14 00:11:13,365][DEBUG|rankingParser.py:18] >> 195, com.ivuu, 알프레드집사 홈씨씨티비 - 무료앳홈카메라어플 (관찰베이비캠,엣홈cctv,웹캠,cctv어플)
+[2019-09-14 00:11:13,366][DEBUG|rankingParser.py:18] >> 196, friedrich.georg.airbattery, AirBattery
+[2019-09-14 00:11:13,368][DEBUG|rankingParser.py:18] >> 197, com.picstudio.photoeditorplus, X Photo Editor - Face Aging & Cartoon Effect
+[2019-09-14 00:11:13,369][DEBUG|rankingParser.py:18] >> 198, com.scanner.protect, QR Code & Barcode Scanner
+[2019-09-14 00:11:13,371][DEBUG|rankingParser.py:18] >> 199, com.imvu.mobilecordova, IMVU - 3D 아바타 소셜 앱
+[2019-09-14 00:11:13,373][DEBUG|rankingParser.py:18] >> 200, com.mlive.mliveapp, MLiveU : Hot Live Show
+[2019-09-14 00:11:13,375][DEBUG|rankingParser.py:18] >> 201, kr.co.dwci.yulhyulgangho, 열혈강호-만화/공식앱
+[2019-09-14 00:11:29,283][DEBUG|rankingParser.py:18] >> 2, com.mojang.minecraftpe, Minecraft
+[2019-09-14 00:11:29,286][DEBUG|rankingParser.py:18] >> 3, com.fizzd.connectedworlds, A Dance Of Fire and Ice
+[2019-09-14 00:11:29,287][DEBUG|rankingParser.py:18] >> 4, com.chucklefish.stardewvalley, Stardew Valley
+[2019-09-14 00:11:29,288][DEBUG|rankingParser.py:18] >> 5, com.robtopx.geometryjump, Geometry Dash
+[2019-09-14 00:11:29,290][DEBUG|rankingParser.py:18] >> 6, com.t2ksports.nba2k20and, NBA 2K20
+[2019-09-14 00:11:29,291][DEBUG|rankingParser.py:18] >> 7, com.and.games505.TerrariaPaid, Terraria
+[2019-09-14 00:11:29,341][DEBUG|rankingParser.py:18] >> 8, com.springgames.onepunch.spring.paid, 원펀치 - LIMITED EDITION
+[2019-09-14 00:11:29,365][DEBUG|rankingParser.py:18] >> 9, com.and.games505.humanfallflat, Human: Fall Flat
+[2019-09-14 00:11:29,367][DEBUG|rankingParser.py:18] >> 10, com.feemodev.cat, 길고양이 이야기 : support edition
+[2019-09-14 00:11:29,369][DEBUG|rankingParser.py:18] >> 11, football.manager.games.fm19.mobile, Football Manager 2019 Mobile
+[2019-09-14 00:11:29,371][DEBUG|rankingParser.py:18] >> 12, com.ssicosm.slime_great_war_pay, 15슬라임
+[2019-09-14 00:11:29,400][DEBUG|rankingParser.py:18] >> 13, com.zigzagame.evertale, 에버테일
+[2019-09-14 00:11:29,402][DEBUG|rankingParser.py:18] >> 14, com.prpr.musedash, Muse Dash
+[2019-09-14 00:11:29,404][DEBUG|rankingParser.py:18] >> 15, com.rayark.cytus2, Cytus II (사이터스Ⅱ)
+[2019-09-14 00:11:29,407][DEBUG|rankingParser.py:18] >> 16, nz.co.codepoint.minimetro, 미니 메트로
+[2019-09-14 00:11:29,425][DEBUG|rankingParser.py:18] >> 17, com.GameCoaster.DungeonMaker, 던전메이커
+[2019-09-14 00:11:29,427][DEBUG|rankingParser.py:18] >> 18, com.robotgentleman.game60seconds, 60 Seconds! Atomic Adventure
+[2019-09-14 00:11:29,429][DEBUG|rankingParser.py:18] >> 19, com.Zonmob.Stickman.FightingGames.ShadowOfDeath, Shadow of Death: 어둠의 기사 - 스틱맨 액션
+[2019-09-14 00:11:29,430][DEBUG|rankingParser.py:18] >> 20, com.piratesoutlaws.fabledgame, Pirates Outlaws
+[2019-09-14 00:11:29,432][DEBUG|rankingParser.py:18] >> 21, com.magmon.cartooncraft, 카툰 크래프트
+[2019-09-14 00:11:29,434][DEBUG|rankingParser.py:18] >> 22, com.elevenbitstudios.twommobile, This War of Mine
+[2019-09-14 00:11:29,436][DEBUG|rankingParser.py:18] >> 23, com.longyoug.hmby, 삼국지:한말패업
+[2019-09-14 00:11:29,438][DEBUG|rankingParser.py:18] >> 24, com.xd.tothemoon, To the Moon
+[2019-09-14 00:11:29,487][DEBUG|rankingParser.py:18] >> 25, com.teamarex.troop, 언노운 나이츠
+[2019-09-14 00:11:29,489][DEBUG|rankingParser.py:18] >> 26, kr.fbl.kingdom, I HAVE A KINGDOM
+[2019-09-14 00:11:29,490][DEBUG|rankingParser.py:18] >> 27, com.panicartstudios.herosiegepocket, Hero Siege: Pocket Edition
+[2019-09-14 00:11:29,492][DEBUG|rankingParser.py:18] >> 28, com.Level5.LT1RKR, 레이튼 교수와 이상한 마을 HD
+[2019-09-14 00:11:29,494][DEBUG|rankingParser.py:18] >> 29, com.NewMeta.GambleDefence, 도박 디펜스
+[2019-09-14 00:11:29,495][DEBUG|rankingParser.py:18] >> 30, com.Level5.LT2RKR, 레이튼 교수와 악마의 상자 모바일 HD 리마스터
+[2019-09-14 00:11:29,499][DEBUG|rankingParser.py:18] >> 31, com.Paladog.KorGG, 팔라독(Paladog)
+[2019-09-14 00:11:29,500][DEBUG|rankingParser.py:18] >> 32, com.banjihagames.seoul2033_backer, 서울 2033 : 후원자
+[2019-09-14 00:11:29,527][DEBUG|rankingParser.py:18] >> 33, com.drycactus.polybridge, Poly Bridge
+[2019-09-14 00:11:29,529][DEBUG|rankingParser.py:18] >> 34, it.rortos.realflightsimulator, RFS - Real Flight Simulator
+[2019-09-14 00:11:29,530][DEBUG|rankingParser.py:18] >> 35, age.of.civilizations2.jakowski.lukasz, Age of Civilizations II
+[2019-09-14 00:11:29,531][DEBUG|rankingParser.py:18] >> 36, com.devolver.reigns, Reigns
+[2019-09-14 00:11:29,532][DEBUG|rankingParser.py:18] >> 37, com.ninjakiwi.bloonstd6, Bloons TD 6
+[2019-09-14 00:11:29,533][DEBUG|rankingParser.py:18] >> 38, com.czechgames.tta, Through the Ages
+[2019-09-14 00:11:29,534][DEBUG|rankingParser.py:18] >> 39, com.ssicosm.dungeon_princess, 던전공주
+[2019-09-14 00:11:29,542][DEBUG|rankingParser.py:18] >> 40, com.buffstudio.sevendays, 세븐데이즈 - 라이트 노벨 어드벤처
+[2019-09-14 00:11:29,544][DEBUG|rankingParser.py:18] >> 41, com.daysofwonder.Splendor.gp, Splendor
+[2019-09-14 00:11:29,546][DEBUG|rankingParser.py:18] >> 42, com.CIEN.AKLG, 아켈로그 연구소
+[2019-09-14 00:11:29,548][DEBUG|rankingParser.py:18] >> 43, com.sofarsogood.incredibox, Incredibox
+[2019-09-14 00:11:29,550][DEBUG|rankingParser.py:18] >> 44, com.dotemu.titanquest, Titan Quest
+[2019-09-14 00:11:29,555][DEBUG|rankingParser.py:18] >> 45, com.square_enix.android_googleplay.chrono, CHRONO TRIGGER (Upgrade Ver.)
+[2019-09-14 00:11:29,557][DEBUG|rankingParser.py:18] >> 46, com.ustwo.monumentvalley, Monument Valley
+[2019-09-14 00:11:29,559][DEBUG|rankingParser.py:18] >> 47, com.singlecellsoftware.sandpremium, Sand! Premium
+[2019-09-14 00:11:29,561][DEBUG|rankingParser.py:18] >> 48, com.creativemobile.beholder, Beholder
+[2019-09-14 00:11:29,563][DEBUG|rankingParser.py:18] >> 49, com.ironhidegames.android.kingdomrushfrontiers, Kingdom Rush Frontiers
+[2019-09-14 00:11:29,565][DEBUG|rankingParser.py:18] >> 50, com.mvizlab.lucy.android.kr, 루시 -그녀가 바라던 것-
+[2019-09-14 00:11:29,567][DEBUG|rankingParser.py:18] >> 51, com.gm_shaber.dayrpremium, Day R Premium
+[2019-09-14 00:11:29,569][DEBUG|rankingParser.py:18] >> 52, com.kleientertainment.doNotStarvePocket, Don't Starve: Pocket Edition
+[2019-09-14 00:11:29,571][DEBUG|rankingParser.py:18] >> 53, age.of.civilizations.jakowski, 문명의 시대
+[2019-09-14 00:11:29,573][DEBUG|rankingParser.py:18] >> 54, air.joara.miracle, 기적의 분식집 Complete
+[2019-09-14 00:11:29,575][DEBUG|rankingParser.py:18] >> 55, net.kairosoft.android.gamedev3en, 게임개발 스토리
+[2019-09-14 00:11:29,576][DEBUG|rankingParser.py:18] >> 56, com.GSTUDIO.pokeaquarium, PokeAquarium
+[2019-09-14 00:11:29,579][DEBUG|rankingParser.py:18] >> 57, com.kiwiwalks.witchspring3, 마녀의 샘3
+[2019-09-14 00:11:29,580][DEBUG|rankingParser.py:18] >> 58, ch.feinheit.games.firststrike, First Strike: Final Hour
+[2019-09-14 00:11:29,582][DEBUG|rankingParser.py:18] >> 59, com.theamazingfrog.thefroggameamazingsimulator.thefroggunadventure, Amazing Swat Frog Simulator City
+[2019-09-14 00:11:29,584][DEBUG|rankingParser.py:18] >> 60, com.noodlecake.gettingoverit, Getting Over It with Bennett Foddy
+[2019-09-14 00:11:29,585][DEBUG|rankingParser.py:18] >> 61, com.hg.townsmen7, 타운스맨 - Townsmen Premium
+[2019-09-14 00:11:29,587][DEBUG|rankingParser.py:18] >> 62, com.ironhidegames.android.kingdomrushorigins, Kingdom Rush Origins
+[2019-09-14 00:11:29,588][DEBUG|rankingParser.py:18] >> 63, com.ironhidegames.android.kingdomrush4, 킹덤 러쉬 벤전스 (Kingdom Rush Vengeance)
+[2019-09-14 00:11:29,590][DEBUG|rankingParser.py:18] >> 64, com.netease.ms3, The Room Three
+[2019-09-14 00:11:29,592][DEBUG|rankingParser.py:18] >> 65, com.nekki.vector.paid, Vector Full
+[2019-09-14 00:11:29,593][DEBUG|rankingParser.py:18] >> 66, com.ironhidegames.android.ironmarines, 아이언 마린 (Iron Marines)
+[2019-09-14 00:11:29,594][DEBUG|rankingParser.py:18] >> 67, com.snkplaymore.android001, THE KING OF FIGHTERS '97
+[2019-09-14 00:11:29,595][DEBUG|rankingParser.py:18] >> 68, air.dog.wfox2, 당신을 기다리는 여우 花
+[2019-09-14 00:11:29,596][DEBUG|rankingParser.py:18] >> 69, com.ubisoft.assassinscreed.identity, 어쌔신 크리드 아이덴티티
+[2019-09-14 00:11:29,597][DEBUG|rankingParser.py:18] >> 70, com.GameCoaster.ProtectDungeon, 던전 지키기
+[2019-09-14 00:11:29,598][DEBUG|rankingParser.py:18] >> 71, com.dotemu.neogeo.mslug3, METAL SLUG 3
+[2019-09-14 00:11:29,599][DEBUG|rankingParser.py:18] >> 72, air.com.RustyLake.RustyLakeRoots, Rusty Lake: Roots
+[2019-09-14 00:11:29,602][DEBUG|rankingParser.py:18] >> 73, com.tomorrowcorporation.humanresourcemachine, Human Resource Machine (휴먼 리소스 머신)
+[2019-09-14 00:11:29,604][DEBUG|rankingParser.py:18] >> 74, com.ninetailgames.roguehearts.paid, 로그하츠
+[2019-09-14 00:11:29,616][DEBUG|rankingParser.py:18] >> 75, com.easytech.rome.android, 위대한 정복자: 로마
+[2019-09-14 00:11:29,618][DEBUG|rankingParser.py:18] >> 76, pier.imageframe.android.knightrunpro, 나이트런:홈커밍
+[2019-09-14 00:11:29,620][DEBUG|rankingParser.py:18] >> 77, com.adriaandejongh.hiddenfolks, Hidden Folks
+[2019-09-14 00:11:29,622][DEBUG|rankingParser.py:18] >> 78, com.squareenixmontreal.hitmansniperandroid, 히트맨 스나이퍼 (Hitman Sniper)
+[2019-09-14 00:11:29,624][DEBUG|rankingParser.py:18] >> 79, net.kairosoft.android.pictures, 영화공방 스토리
+[2019-09-14 00:11:29,626][DEBUG|rankingParser.py:18] >> 80, com.atari.mobile.rctclassic, RollerCoaster Tycoon® Classic
+[2019-09-14 00:11:29,635][DEBUG|rankingParser.py:18] >> 81, air.dog.wfox, 당신을 기다리는 여우
+[2019-09-14 00:11:29,637][DEBUG|rankingParser.py:18] >> 82, football.manager.games.fm19.touch, Football Manager 2019 Touch
+[2019-09-14 00:11:29,639][DEBUG|rankingParser.py:18] >> 83, com.square_enix.android_googleplay.FFIII_GP, FINAL FANTASY III
+[2019-09-14 00:11:29,641][DEBUG|rankingParser.py:18] >> 84, com.Jeminie.Hmmsim2, Hmmsim 2 - Train Simulator
+[2019-09-14 00:11:29,643][DEBUG|rankingParser.py:18] >> 85, com.bigair.FBENGP, 파인딩 블루 (Finding Blue)
+[2019-09-14 00:11:29,645][DEBUG|rankingParser.py:18] >> 86, com.zzicon.thedew, The Dew
+[2019-09-14 00:11:29,647][DEBUG|rankingParser.py:18] >> 87, com.devolver.reigns2, Reigns: Her Majesty
+[2019-09-14 00:11:29,649][DEBUG|rankingParser.py:18] >> 88, com.banjihagames.seoul2033_zero, 서울 2033 : 유시진
+[2019-09-14 00:11:29,656][DEBUG|rankingParser.py:18] >> 89, com.zerorockent.replica, 레플리카 ( Replica )
+[2019-09-14 00:11:29,658][DEBUG|rankingParser.py:18] >> 90, com.distractionware.superhexagon, Super Hexagon
+[2019-09-14 00:11:29,660][DEBUG|rankingParser.py:18] >> 91, game.indiside.nogadagold, 노가다 RPG 골드 : 한.계.돌.파
+[2019-09-14 00:11:29,661][DEBUG|rankingParser.py:18] >> 92, com.square_enix.android_googleplay.FFVI, FINAL FANTASY VI
+[2019-09-14 00:11:29,663][DEBUG|rankingParser.py:18] >> 93, com.squareenixmontreal.lcgo, Lara Croft GO
+[2019-09-14 00:11:29,665][DEBUG|rankingParser.py:18] >> 94, com.entwell.rk_org, 원령의기사
+[2019-09-14 00:11:29,666][DEBUG|rankingParser.py:18] >> 95, com.ustwo.monumentvalley2, Monument Valley 2
+[2019-09-14 00:11:29,669][DEBUG|rankingParser.py:18] >> 96, net.kairosoft.android.pool, 워터파크 스토리
+[2019-09-14 00:11:29,670][DEBUG|rankingParser.py:18] >> 97, com.FlamebaitGames.Passpartout, Passpartout: The Starving Artist
+[2019-09-14 00:11:29,672][DEBUG|rankingParser.py:18] >> 98, com.FireproofStudios.ma81, The Room: Old Sins
+[2019-09-14 00:11:29,673][DEBUG|rankingParser.py:18] >> 99, com.astragon.cs3, Construction Simulator 3
+[2019-09-14 00:11:29,674][DEBUG|rankingParser.py:18] >> 100, com.MindBlossom.WorldTreeVIP, 세계수키우기 VIP
+[2019-09-14 00:11:29,675][DEBUG|rankingParser.py:18] >> 101, com.ninjakiwi.bloonstd5, Bloons TD 5
+[2019-09-14 00:11:29,676][DEBUG|rankingParser.py:18] >> 102, com.fantablade.icey, ICEY
+[2019-09-14 00:11:29,677][DEBUG|rankingParser.py:18] >> 103, com.Nanali.SallysLaw, 샐리의 법칙
+[2019-09-14 00:11:29,678][DEBUG|rankingParser.py:18] >> 104, com.square_enix.android_googleplay.FFV_GP, FINAL FANTASY V
+[2019-09-14 00:11:29,680][DEBUG|rankingParser.py:18] >> 105, rooms.handmadegame.net, 룸즈: 장난감 장인의 저택
+[2019-09-14 00:11:29,686][DEBUG|rankingParser.py:18] >> 106, com.tt2kgames.xcomew, XCOM®: Enemy Within
+[2019-09-14 00:11:29,687][DEBUG|rankingParser.py:18] >> 107, pier.own.android.kysppro, 쿠키요미
+[2019-09-14 00:11:29,689][DEBUG|rankingParser.py:18] >> 108, air.com.RustyLake.RustyLakeParadise, Rusty Lake Paradise
+[2019-09-14 00:11:29,692][DEBUG|rankingParser.py:18] >> 109, com.scottgames.fivenightsatfreddys, Five Nights at Freddy's
+[2019-09-14 00:11:29,694][DEBUG|rankingParser.py:18] >> 110, cc.peacedeath.peacedeath, Peace, Death!
+[2019-09-14 00:11:29,695][DEBUG|rankingParser.py:18] >> 111, com.squareenixmontreal.hitmango, Hitman GO
+[2019-09-14 00:11:29,697][DEBUG|rankingParser.py:18] >> 112, net.kairosoft.android.baseball_en, 야구부 스토리
+[2019-09-14 00:11:29,700][DEBUG|rankingParser.py:18] >> 113, com.disney.WMW, 스왐피(Swampy) Where Is My Water?
+[2019-09-14 00:11:29,702][DEBUG|rankingParser.py:18] >> 114, com.kinkajoo.RummikubHD, Rummikub
+[2019-09-14 00:11:29,704][DEBUG|rankingParser.py:18] >> 115, com.snkplaymore.android007, THE KING OF FIGHTERS '98
+[2019-09-14 00:11:29,706][DEBUG|rankingParser.py:18] >> 116, org.ppsspp.ppssppgold, PPSSPP Gold - PSP emulator
+[2019-09-14 00:11:29,708][DEBUG|rankingParser.py:18] >> 117, com.coffeestainstudios.goatsimulator, Goat Simulator
+[2019-09-14 00:11:29,709][DEBUG|rankingParser.py:18] >> 118, com.square_enix.android_googleplay.FFIV_GP, FINAL FANTASY IV
+[2019-09-14 00:11:29,711][DEBUG|rankingParser.py:18] >> 119, unity.Annapurna.Gorogoa, Gorogoa
+[2019-09-14 00:11:29,713][DEBUG|rankingParser.py:18] >> 120, com.epsxe.ePSXe, ePSXe for Android
+[2019-09-14 00:11:29,716][DEBUG|rankingParser.py:18] >> 121, com.waffleent.starrynight, 별 헤는 밤
+[2019-09-14 00:11:29,717][DEBUG|rankingParser.py:18] >> 122, com.hitcents.stickmanepic, Draw a Stickman: EPIC
+[2019-09-14 00:11:29,719][DEBUG|rankingParser.py:18] >> 123, com.square_enix.android_googleplay.dq1_gp, DRAGON QUEST
+[2019-09-14 00:11:29,721][DEBUG|rankingParser.py:18] >> 124, kr.co.sonnori.whiteday.g, 화이트데이 - 학교라는 이름의 미궁
+[2019-09-14 00:11:29,725][DEBUG|rankingParser.py:18] >> 125, com.jumpgames.RealSteel, Real Steel
+[2019-09-14 00:11:29,727][DEBUG|rankingParser.py:18] >> 126, air.raeyoung.future, 미래의 여친님이 나에게 인사를 건네왔다
+[2019-09-14 00:11:29,728][DEBUG|rankingParser.py:18] >> 127, com.gameloft.android.ANMP.GloftM4HM, 모던 컴뱃 4: 제로 아워
+[2019-09-14 00:11:29,730][DEBUG|rankingParser.py:18] >> 128, com.buffstudio.mysticguardian.paid, 미스틱 가디언 VIP - 엔딩이 있는 레트로 액션 RPG
+[2019-09-14 00:11:29,736][DEBUG|rankingParser.py:18] >> 129, com.Sarepta.MyChildLebensborn, 마이 차일드 "레벤스보른"
+[2019-09-14 00:11:29,737][DEBUG|rankingParser.py:18] >> 130, com.halfbrick.fruitninja, Fruit Ninja Classic
+[2019-09-14 00:11:29,738][DEBUG|rankingParser.py:18] >> 131, com.zitga.empire.warriors.td.tower.defense, Empire Warriors TD Premium: 프리미엄 타워 디펜스 게임 RPG
+[2019-09-14 00:11:29,739][DEBUG|rankingParser.py:18] >> 132, air.net.machinarium.Machinarium.GP, Machinarium (머시나리움)
+[2019-09-14 00:11:29,741][DEBUG|rankingParser.py:18] >> 133, com.zitga.ninja.stickman.legends.shadow.wars, Stickman Legends: 섀도우 워 오프라인 전투 게임 - 스틱맨 레전드
+[2019-09-14 00:11:29,742][DEBUG|rankingParser.py:18] >> 134, com.square_enix.android_googleplay.FFT_en2, FINAL FANTASY TACTICS : WotL
+[2019-09-14 00:11:29,743][DEBUG|rankingParser.py:18] >> 135, com.jutsugames.operator911, 911 Operator
+[2019-09-14 00:11:29,744][DEBUG|rankingParser.py:18] >> 136, com.scottgames.fnaf2, Five Nights at Freddy's 2
+[2019-09-14 00:11:29,757][DEBUG|rankingParser.py:18] >> 137, com.fds.infiniteflight, Infinite Flight - 비행 시뮬레이터
+[2019-09-14 00:11:29,759][DEBUG|rankingParser.py:18] >> 138, com.Onaemo.WhoAmI, 후엠아이: 도로시 이야기
+[2019-09-14 00:11:29,761][DEBUG|rankingParser.py:18] >> 139, air.dog.star, 죽어버린 별의 넋두리
+[2019-09-14 00:11:29,763][DEBUG|rankingParser.py:18] >> 140, com.astragon.cs2014, Construction Simulator 2014
+[2019-09-14 00:11:29,766][DEBUG|rankingParser.py:18] >> 141, com.ea.games.nfs13_row, Need for Speed™ Most Wanted
+[2019-09-14 00:11:29,768][DEBUG|rankingParser.py:18] >> 142, kr.astrowhale.inn, 용사민박
+[2019-09-14 00:11:29,770][DEBUG|rankingParser.py:18] >> 143, com.kiwiwalks.witchspringluna, 마녀의 샘2
+[2019-09-14 00:11:29,772][DEBUG|rankingParser.py:18] >> 144, com.sega.sonic4epi, Sonic 4™ Episode I
+[2019-09-14 00:11:29,774][DEBUG|rankingParser.py:18] >> 145, com.trueaxis.trueskate, True Skate
+[2019-09-14 00:11:29,776][DEBUG|rankingParser.py:18] >> 146, com.kiwiwalks.witchspring, 마녀의 샘
+[2019-09-14 00:11:29,778][DEBUG|rankingParser.py:18] >> 147, age.of.civilizations.asia.jakowski, 문명의 시대 - 아시아
+[2019-09-14 00:11:29,780][DEBUG|rankingParser.py:18] >> 148, com.rac7.DarkEcho, Dark Echo
+[2019-09-14 00:11:29,781][DEBUG|rankingParser.py:18] >> 149, com.devblackroom.noir.ggg, 나와 그녀와 그녀와 그녀의 건전하지 못한 관계
+[2019-09-14 00:11:29,783][DEBUG|rankingParser.py:18] >> 150, com.dd.mk.vip, [VIP] 미사일 RPG: 미사일 키우기
+[2019-09-14 00:11:29,785][DEBUG|rankingParser.py:18] >> 151, amanita_design.samorost3.GP, Samorost 3 (사모로스트 3)
+[2019-09-14 00:11:29,787][DEBUG|rankingParser.py:18] >> 152, com.DSG.isteliastory, 이스텔리아 스토리
+[2019-09-14 00:11:29,789][DEBUG|rankingParser.py:18] >> 153, net.kairosoft.android.paddock_en, 그랑프리 스토리
+[2019-09-14 00:11:29,791][DEBUG|rankingParser.py:18] >> 154, net.kairosoft.android.bouken_en, 던전마을 스토리
+[2019-09-14 00:11:29,793][DEBUG|rankingParser.py:18] >> 155, com.alawar.monkeysfulll, Do Not Feed The Monkeys
+[2019-09-14 00:11:29,794][DEBUG|rankingParser.py:18] >> 156, com.wb.lego.marvel, LEGO® Marvel Super Heroes
+[2019-09-14 00:11:29,798][DEBUG|rankingParser.py:18] >> 157, com.hg.titp, This Is the Police
+[2019-09-14 00:11:29,800][DEBUG|rankingParser.py:18] >> 158, com.DarongStudio.Colorzzle, 컬러즐 (Colorzzle)
+[2019-09-14 00:11:29,802][DEBUG|rankingParser.py:18] >> 159, net.cleverbit.SafariPuzzlesFull, 어린이 퍼즐, 재미 있은 동물 # 2 (풀 게임)
+[2019-09-14 00:11:29,803][DEBUG|rankingParser.py:18] >> 160, com.nekki.shadowfight2.paid, 섀도우 파이트 2 특별판
+[2019-09-14 00:11:29,806][DEBUG|rankingParser.py:18] >> 161, team.gramoxone.onthehook.paid, 온더훅 : 더 얼티밋 패트론 에디션
+[2019-09-14 00:11:29,808][DEBUG|rankingParser.py:18] >> 162, com.square_enix.android_googleplay.FFVII, FINAL FANTASY VII
+[2019-09-14 00:11:29,809][DEBUG|rankingParser.py:18] >> 163, com.dotemu.neogeo.mslugx, METAL SLUG X
+[2019-09-14 00:11:29,810][DEBUG|rankingParser.py:18] >> 164, com.snkplaymore.kof2012a, THE KING OF FIGHTERS-A 2012
+[2019-09-14 00:11:29,811][DEBUG|rankingParser.py:18] >> 165, com.playdead.limbo.full, LIMBO
+[2019-09-14 00:11:29,812][DEBUG|rankingParser.py:18] >> 166, com.and.games505.portal_knights, Portal Knights
+[2019-09-14 00:11:29,813][DEBUG|rankingParser.py:18] >> 167, com.tenbirds.animus, 애니머스 - 아이어 외전
+[2019-09-14 00:11:29,815][DEBUG|rankingParser.py:18] >> 168, com.pixelbite.sg, Space Marshals
+[2019-09-14 00:11:29,818][DEBUG|rankingParser.py:18] >> 169, com.Level5.LaytonMJKR, 레이튼 미스터리 저니 : 일곱 대부호의 음모
+[2019-09-14 00:11:29,820][DEBUG|rankingParser.py:18] >> 170, com.ACCTU, Learn Accounting or Die
+[2019-09-14 00:11:29,821][DEBUG|rankingParser.py:18] >> 171, com.TinyDevbox.DeadRain, 데드레인 : 새로운 좀비 바이러스
+[2019-09-14 00:11:29,823][DEBUG|rankingParser.py:18] >> 172, com.iplay.shBlind, 신 하야리가미 - 블라인드맨
+[2019-09-14 00:11:29,825][DEBUG|rankingParser.py:18] >> 173, com.notdoppler.earntodie, Earn to Die
+[2019-09-14 00:11:29,827][DEBUG|rankingParser.py:18] >> 174, com.devolver.reignsGot, Reigns: 왕좌의 게임
+[2019-09-14 00:11:29,830][DEBUG|rankingParser.py:18] >> 175, air.dog.fish, 방구석에 인어아가씨
+[2019-09-14 00:11:29,832][DEBUG|rankingParser.py:18] >> 176, com.kemonomahjong.app, 케모노 마작 / Kemono Mahjong
+[2019-09-14 00:11:29,834][DEBUG|rankingParser.py:18] >> 177, brownmonster.app.game.rushrally3, Rush Rally 3
+[2019-09-14 00:11:29,838][DEBUG|rankingParser.py:18] >> 178, com.wb.goog.legojurassicworld, LEGO® Jurassic World™
+[2019-09-14 00:11:29,839][DEBUG|rankingParser.py:18] >> 179, com.pixelbite.rr3, Reckless Racing 3
+[2019-09-14 00:11:29,841][DEBUG|rankingParser.py:18] >> 180, com.jdroid.gta3cheater, JCheater: GTA III Edition
+[2019-09-14 00:11:29,843][DEBUG|rankingParser.py:18] >> 181, com.candysoft.HAHWVVIP, 지겨워하지마: VIP+ (방치형 RPG 게임)
+[2019-09-14 00:11:29,846][DEBUG|rankingParser.py:18] >> 182, air.dog.fairy, 정령없는 정령사
+[2019-09-14 00:11:29,848][DEBUG|rankingParser.py:18] >> 183, com.kleientertainment.doNotStarveShipwrecked, Don't Starve: Shipwrecked
+[2019-09-14 00:11:29,849][DEBUG|rankingParser.py:18] >> 184, com.G1Playground.TrickArtDungeon, 트릭아트 던전 VIP
+[2019-09-14 00:11:29,851][DEBUG|rankingParser.py:18] >> 185, com.inxile.BardTale, The Bard's Tale
+[2019-09-14 00:11:29,856][DEBUG|rankingParser.py:18] >> 186, com.dotemu.neogeo.mslug, METAL SLUG
+[2019-09-14 00:11:29,858][DEBUG|rankingParser.py:18] >> 187, jp.gungho.dokuro, Dokuro
+[2019-09-14 00:11:29,859][DEBUG|rankingParser.py:18] >> 188, com.aerofly.aerofly2android, Aerofly 2 Flight Simulator
+[2019-09-14 00:11:29,861][DEBUG|rankingParser.py:18] >> 189, com.giantssoftware.fs18.google, Farming Simulator 18
+[2019-09-14 00:11:29,862][DEBUG|rankingParser.py:18] >> 190, com.square_enix.android_googleplay.dq4, DRAGON QUEST IV
+[2019-09-14 00:11:29,864][DEBUG|rankingParser.py:18] >> 191, com.accidentalqueens.alp_korean, 잃어버린 전화기: 로라의 이야기
+[2019-09-14 00:11:29,865][DEBUG|rankingParser.py:18] >> 192, net.cleverbit.DinoPuzzlesFull, 재미 있은 공룡 퍼즐 게임, 풀 버전.
+[2019-09-14 00:11:29,867][DEBUG|rankingParser.py:18] >> 193, air.dog.deadend, 데드엔드99
+[2019-09-14 00:11:29,868][DEBUG|rankingParser.py:18] >> 194, info.blackroom.noir.pa, 포이즌 애플
+[2019-09-14 00:11:29,869][DEBUG|rankingParser.py:18] >> 195, net.kairosoft.android.sushi_en, 회전초밥 스토리
+[2019-09-14 00:11:29,872][DEBUG|rankingParser.py:18] >> 196, com.coffeestainstudios.goatsimulator.payday, Goat Simulator Payday
+[2019-09-14 00:11:29,873][DEBUG|rankingParser.py:18] >> 197, com.sepiagames.haru, 두 사람의 하루
+[2019-09-14 00:11:29,874][DEBUG|rankingParser.py:18] >> 198, com.ryuminus.srpg, 턴제 SRPG - 세번째기적
+[2019-09-14 00:11:29,875][DEBUG|rankingParser.py:18] >> 199, com.bonusxp.fate, Stranger Things 3: 게임
+[2019-09-14 00:11:29,876][DEBUG|rankingParser.py:18] >> 200, com.leosfortune, 레오스 포춘
+[2019-09-14 00:11:29,881][DEBUG|rankingParser.py:18] >> 201, com.asmodeedigital.carcassonne, Carcassonne: Official Board Game -Tiles & Tactics
+[2019-09-14 00:11:44,897][DEBUG|rankingParser.py:18] >> 2, com.ulugame.goldenkr.google, 리치리치:부자되는 법
+[2019-09-14 00:11:44,900][DEBUG|rankingParser.py:18] >> 3, com.lilithgames.rok.gpkr, 라이즈 오브 킹덤즈
+[2019-09-14 00:11:44,903][DEBUG|rankingParser.py:18] >> 4, com.harmonybit.coolball, Cool Goal!
+[2019-09-14 00:11:44,906][DEBUG|rankingParser.py:18] >> 5, com.xdg.and.wll, 오늘도 우라라 원시 헌팅 라이프
+[2019-09-14 00:11:44,920][DEBUG|rankingParser.py:18] >> 6, com.usfun.yuanzheng, 원정
+[2019-09-14 00:11:44,921][DEBUG|rankingParser.py:18] >> 7, com.supercell.brawlstars, 브롤스타즈
+[2019-09-14 00:11:44,924][DEBUG|rankingParser.py:18] >> 8, com.perfect.slices, Perfect Slices
+[2019-09-14 00:11:44,926][DEBUG|rankingParser.py:18] >> 9, com.netmarble.koongyacm, 쿵야 캐치마인드
+[2019-09-14 00:11:44,928][DEBUG|rankingParser.py:18] >> 10, com.water.balls, Sand Balls
+[2019-09-14 00:11:44,930][DEBUG|rankingParser.py:18] >> 11, com.habby.archero, 궁수의 전설
+[2019-09-14 00:11:44,931][DEBUG|rankingParser.py:18] >> 12, com.qjzj4399kr.google, 기적의 검
+[2019-09-14 00:11:44,934][DEBUG|rankingParser.py:18] >> 13, com.ekkorr.msf, 메탈슬러그 인피니티 - 방치형 RPG
+[2019-09-14 00:11:44,949][DEBUG|rankingParser.py:18] >> 14, com.playrix.homescapes, 꿈의 집 (Homescapes)
+[2019-09-14 00:11:44,951][DEBUG|rankingParser.py:18] >> 15, com.cassette.aquapark, aquapark.io
+[2019-09-14 00:11:44,952][DEBUG|rankingParser.py:18] >> 16, com.lionstudios.mrbullet, Mr Bullet - 스파이 퍼즐
+[2019-09-14 00:11:44,956][DEBUG|rankingParser.py:18] >> 17, com.slippy.linerusher, Fun Race 3D
+[2019-09-14 00:11:44,961][DEBUG|rankingParser.py:18] >> 18, com.pubg.krmobile, 배틀그라운드
+[2019-09-14 00:11:44,962][DEBUG|rankingParser.py:18] >> 19, com.braveorange.p3, 동물의 집
+[2019-09-14 00:11:44,964][DEBUG|rankingParser.py:18] >> 20, com.playrix.gardenscapes, 꿈의 정원 (Gardenscapes)
+[2019-09-14 00:11:44,965][DEBUG|rankingParser.py:18] >> 21, com.roblox.client, ROBLOX
+[2019-09-14 00:11:44,976][DEBUG|rankingParser.py:18] >> 22, com.nflystudio.InfiniteStaircase, 무한의 계단
+[2019-09-14 00:11:44,977][DEBUG|rankingParser.py:18] >> 23, com.ekkorr.endlessfrontier, 오늘도 환생
+[2019-09-14 00:11:44,978][DEBUG|rankingParser.py:18] >> 24, com.rummikubfree, Rummikub
+[2019-09-14 00:11:44,979][DEBUG|rankingParser.py:18] >> 25, com.mojang.minecrafttrialpe, Minecraft 체험판
+[2019-09-14 00:11:44,981][DEBUG|rankingParser.py:18] >> 26, com.dev3factory.shinbiApart, 신비아파트 고스트헌터
+[2019-09-14 00:11:44,983][DEBUG|rankingParser.py:18] >> 27, com.neowiz.games.newmatgo, 피망 뉴맞고 : 고스톱으로 대한민국 1등
+[2019-09-14 00:11:44,984][DEBUG|rankingParser.py:18] >> 28, com.gjg.colorfill3d, Color Fill 3D
+[2019-09-14 00:11:44,985][DEBUG|rankingParser.py:18] >> 29, com.fungames.sniper3d, 스나이퍼 3D 어쌔신:  무료 슈팅 게임 (Sniper 3D Assassin)
+[2019-09-14 00:11:44,993][DEBUG|rankingParser.py:18] >> 30, io.voodoo.crowdcity, Crowd City
+[2019-09-14 00:11:44,996][DEBUG|rankingParser.py:18] >> 31, com.playrix.township, 꿈의 마을 (Township)
+[2019-09-14 00:11:44,998][DEBUG|rankingParser.py:18] >> 32, com.shape.change, Jelly Shift
+[2019-09-14 00:11:45,000][DEBUG|rankingParser.py:18] >> 33, com.tapblaze.pizzabusiness, 좋은 피자, 위대한 피자
+[2019-09-14 00:11:45,002][DEBUG|rankingParser.py:18] >> 34, com.mgc.runnergame, Run Race 3D
+[2019-09-14 00:11:45,004][DEBUG|rankingParser.py:18] >> 35, com.outfit7.herodash, 토킹톰 히어로 대시
+[2019-09-14 00:11:45,006][DEBUG|rankingParser.py:18] >> 36, net.kernys.aooni, 좀비고등학교
+[2019-09-14 00:11:45,008][DEBUG|rankingParser.py:18] >> 37, com.mobirix.swipebrick2, 벽돌깨기 퀘스트
+[2019-09-14 00:11:45,011][DEBUG|rankingParser.py:18] >> 38, com.cjenm.ModooMarbleKakao, 모두의마블
+[2019-09-14 00:11:45,013][DEBUG|rankingParser.py:18] >> 39, com.outfit7.talkingtomgoldrun, 토킹톰 골드런
+[2019-09-14 00:11:45,015][DEBUG|rankingParser.py:18] >> 40, com.os.airforce, 1945
+[2019-09-14 00:11:45,016][DEBUG|rankingParser.py:18] >> 41, com.dena.a12026418, Pokmon Masters
+[2019-09-14 00:11:45,018][DEBUG|rankingParser.py:18] >> 42, com.game5mobile.lineandwater, Happy Glass
+[2019-09-14 00:11:45,020][DEBUG|rankingParser.py:18] >> 43, com.neowiz.games.sudda, 피망 섯다
+[2019-09-14 00:11:45,022][DEBUG|rankingParser.py:18] >> 44, com.epc.tfsgzhw, 삼국지 디펜스M
+[2019-09-14 00:11:45,023][DEBUG|rankingParser.py:18] >> 45, com.supersolid.penguin, 슈퍼펭귄 (Super Penguins)
+[2019-09-14 00:11:45,026][DEBUG|rankingParser.py:18] >> 46, com.turbochilli.rollingsky, 롤링 스카이
+[2019-09-14 00:11:45,029][DEBUG|rankingParser.py:18] >> 47, com.sopt.mafia42.client, 마피아42
+[2019-09-14 00:11:45,031][DEBUG|rankingParser.py:18] >> 48, com.supercell.clashroyale, 클래시 로얄
+[2019-09-14 00:11:45,032][DEBUG|rankingParser.py:18] >> 49, com.nianticlabs.pokemongo, Pokmon GO
+[2019-09-14 00:11:45,034][DEBUG|rankingParser.py:18] >> 50, com.ketchapp.rider, Rider
+[2019-09-14 00:11:45,036][DEBUG|rankingParser.py:18] >> 51, io.voodoo.paper2, Paper.io 2
+[2019-09-14 00:11:45,039][DEBUG|rankingParser.py:18] >> 52, com.YouKo.BSsim, 브롤 스타즈 상자깡 버그판  마인크래프트 게임  고양이  Brawl Stars
+[2019-09-14 00:11:45,041][DEBUG|rankingParser.py:18] >> 53, pampam.ibf2, Bottle Flip 3D
+[2019-09-14 00:11:45,043][DEBUG|rankingParser.py:18] >> 54, com.kunpo.virus, 바이러스 워 - 우주 슈팅 게임
+[2019-09-14 00:11:45,044][DEBUG|rankingParser.py:18] >> 55, com.bluepotiongames.eosm, 에오스 레드
+[2019-09-14 00:11:45,045][DEBUG|rankingParser.py:18] >> 56, com.gameloft.android.ANMP.GloftA9HM, 아스팔트 9: 레전드- 2019 액션 카 레이싱 게임
+[2019-09-14 00:11:45,046][DEBUG|rankingParser.py:18] >> 57, com.kakaogames.friendsracing, 프렌즈레이싱
+[2019-09-14 00:11:45,047][DEBUG|rankingParser.py:18] >> 58, com.NHNEnt.NDuelgo, 한게임 신맞고 : 김준현이 선택한 원조 고스톱
+[2019-09-14 00:11:45,048][DEBUG|rankingParser.py:18] >> 59, com.cmplay.tiles2, Piano Tiles 2™
+[2019-09-14 00:11:45,049][DEBUG|rankingParser.py:18] >> 60, com.igenesoft.hide, 숨바꼭질 온라인 - 실시간 숨바꼭질
+[2019-09-14 00:11:45,051][DEBUG|rankingParser.py:18] >> 61, com.playgendary.tanks, Tank Stars
+[2019-09-14 00:11:45,054][DEBUG|rankingParser.py:18] >> 62, com.chaplin.zxz.google, 가온:신규서버오픈
+[2019-09-14 00:11:45,055][DEBUG|rankingParser.py:18] >> 63, com.robtopx.geometryjumplite, 지오메트리 대시 라이트 (Geometry Dash L)
+[2019-09-14 00:11:45,057][DEBUG|rankingParser.py:18] >> 64, com.bluebeast.ninjaorigin, 닌자세계대전
+[2019-09-14 00:11:45,059][DEBUG|rankingParser.py:18] >> 65, com.highcore.hoopstars, Hoop Stars
+[2019-09-14 00:11:45,061][DEBUG|rankingParser.py:18] >> 66, com.devsisters.gb, 쿠키런: 오븐브레이크
+[2019-09-14 00:11:45,063][DEBUG|rankingParser.py:18] >> 67, com.tapas.heroesrestaurant, 용사식당
+[2019-09-14 00:11:45,083][DEBUG|rankingParser.py:18] >> 68, com.yuriychechulin.throwio, 도끼.io
+[2019-09-14 00:11:45,084][DEBUG|rankingParser.py:18] >> 69, com.smallgiantgames.empires, Empires & Puzzles: RPG Quest
+[2019-09-14 00:11:45,106][DEBUG|rankingParser.py:18] >> 70, com.zplay.willhero, 의지의 히어로
+[2019-09-14 00:11:45,108][DEBUG|rankingParser.py:18] >> 71, com.geishatokyo.trafficrun, Traffic Run!
+[2019-09-14 00:11:45,110][DEBUG|rankingParser.py:18] >> 72, com.longtukorea.rsg, 보스레이브
+[2019-09-14 00:11:45,112][DEBUG|rankingParser.py:18] >> 73, com.gameley.blademaster.spinning.en, Blade Master - Mini Action RPG Game
+[2019-09-14 00:11:45,113][DEBUG|rankingParser.py:18] >> 74, com.Zonmob.ShadowofDeath.FightingGames, Shadow of Death: 어둠의 기사 - 스틱맨 액션
+[2019-09-14 00:11:45,115][DEBUG|rankingParser.py:18] >> 75, com.playgendary.ktb2, Kick the Buddy: Forever
+[2019-09-14 00:11:45,118][DEBUG|rankingParser.py:18] >> 76, com.geishatokyo.snowballio, Snowball.io
+[2019-09-14 00:11:45,120][DEBUG|rankingParser.py:18] >> 77, com.igenesoft.maze, 미로 온라인 - 실시간 미로탈출
+[2019-09-14 00:11:45,123][DEBUG|rankingParser.py:18] >> 78, com.popcore.wreckingball, Wrecking Ball
+[2019-09-14 00:11:45,124][DEBUG|rankingParser.py:18] >> 79, com.monawa.beautygirl, 미친소녀
+[2019-09-14 00:11:45,126][DEBUG|rankingParser.py:18] >> 80, com.sinyee.babybus.princessII, 아기 팬더: 공주 메이크업
+[2019-09-14 00:11:45,128][DEBUG|rankingParser.py:18] >> 81, com.dvloper.grannychaptertwo, Granny: Chapter Two
+[2019-09-14 00:11:45,130][DEBUG|rankingParser.py:18] >> 82, com.Neurononfire.SupremeDuelist, Supreme Duelist Stickman
+[2019-09-14 00:11:45,131][DEBUG|rankingParser.py:18] >> 83, com.playstrom.onpipe, OnPipe
+[2019-09-14 00:11:45,133][DEBUG|rankingParser.py:18] >> 84, com.stormx.eggtycoon, 별난닭 키우기
+[2019-09-14 00:11:45,135][DEBUG|rankingParser.py:18] >> 85, com.game.space.shooter2, 스페이스 슈터: 외계인 슈팅게임
+[2019-09-14 00:11:45,136][DEBUG|rankingParser.py:18] >> 86, com.kwalee.drawit, Draw it
+[2019-09-14 00:11:45,137][DEBUG|rankingParser.py:18] >> 87, com.pixel.art.coloring.color.number, Happy Color  컬러링북, 숫자 색칠 게임
+[2019-09-14 00:11:45,139][DEBUG|rankingParser.py:18] >> 88, com.outfit7.mytalkingtom2, 마이토킹톰 2
+[2019-09-14 00:11:45,140][DEBUG|rankingParser.py:18] >> 89, invaders.os.galaxy.space.shooter.attack.classic, 갤럭시 슈터 - 팔콘 스쿼드 - 외계인 슈팅게임
+[2019-09-14 00:11:45,141][DEBUG|rankingParser.py:18] >> 90, com.playgendary.sportmasters, Bouncemasters!
+[2019-09-14 00:11:45,156][DEBUG|rankingParser.py:18] >> 91, com.neoul.angelsfantasy, 세레스M
+[2019-09-14 00:11:45,158][DEBUG|rankingParser.py:18] >> 92, com.eyu.piano, Dream Piano - Music Game
+[2019-09-14 00:11:45,159][DEBUG|rankingParser.py:18] >> 93, com.nexon.fo4m, FIFA ONLINE 4 M by EA SPORTS™
+[2019-09-14 00:11:45,162][DEBUG|rankingParser.py:18] >> 94, com.zlongame.kr.fzdl, 라플라스M
+[2019-09-14 00:11:45,163][DEBUG|rankingParser.py:18] >> 95, com.ChillyRoom.DungeonShooter, Soul Knight
+[2019-09-14 00:11:45,165][DEBUG|rankingParser.py:18] >> 96, jp.co.ponos.battlecatskr, 냥코 대전쟁
+[2019-09-14 00:11:45,167][DEBUG|rankingParser.py:18] >> 97, com.raongames.bouneball, 바운스볼
+[2019-09-14 00:11:45,192][DEBUG|rankingParser.py:18] >> 98, com.fgol.HungrySharkEvolution, Hungry Shark Evolution
+[2019-09-14 00:11:45,194][DEBUG|rankingParser.py:18] >> 99, com.percent.mybest3, 나의최애캐 (언니돌, #unniedoll)
+[2019-09-14 00:11:45,196][DEBUG|rankingParser.py:18] >> 100, com.youmusic.magictiles, Magic Tiles 3
+[2019-09-14 00:11:45,198][DEBUG|rankingParser.py:18] >> 101, com.dragonest.autochess.google, Auto Chess
+[2019-09-14 00:11:45,200][DEBUG|rankingParser.py:18] >> 102, com.nhnent.Qpoker, 한게임 포커
+[2019-09-14 00:11:45,202][DEBUG|rankingParser.py:18] >> 103, com.gismart.realpianofree, 피아노 실제 - 음악 매직  게임 실행하며 피아노 키보드 로 노래를 배워보세요
+[2019-09-14 00:11:45,203][DEBUG|rankingParser.py:18] >> 104, com.devsisters.CookieRunForKakao, 쿠키런 for Kakao
+[2019-09-14 00:11:45,205][DEBUG|rankingParser.py:18] >> 105, com.h8games.helixjump, Helix Jump
+[2019-09-14 00:11:45,212][DEBUG|rankingParser.py:18] >> 106, com.alien.shooter.galaxy.attack, 우주 전쟁: 외계인들의 공격
+[2019-09-14 00:11:45,214][DEBUG|rankingParser.py:18] >> 107, com.manababa.BeggarKing, 거지 키우기
+[2019-09-14 00:11:45,216][DEBUG|rankingParser.py:18] >> 108, com.yottagames.mafiawar, 마피아 시티
+[2019-09-14 00:11:45,217][DEBUG|rankingParser.py:18] >> 109, com.neowiz.games.poker, 피망 포커: 카지노 로얄 (7포커, 로우바둑이, 하이로우)
+[2019-09-14 00:11:45,223][DEBUG|rankingParser.py:18] >> 110, com.igg.android.lordsmobile, 로드 모바일: 제국의 전쟁 - MMORPG
+[2019-09-14 00:11:45,225][DEBUG|rankingParser.py:18] >> 111, kr.caramel.quiz_stickman, OX 퀴즈 서바이벌 100
+[2019-09-14 00:11:45,227][DEBUG|rankingParser.py:18] >> 112, com.tensquaregames.letsfish2, 낚시 클래시: 스포츠 낚시 게임 (Fishing Clash)
+[2019-09-14 00:11:45,228][DEBUG|rankingParser.py:18] >> 113, com.battle.disc, Battle Disc
+[2019-09-14 00:11:45,232][DEBUG|rankingParser.py:18] >> 114, com.gameloft.android.ANMP.GloftDMHM, 미니언 러쉬  슈퍼배드 러닝 게임
+[2019-09-14 00:11:45,234][DEBUG|rankingParser.py:18] >> 115, com.amanotes.beathopper, Tiles Hop: EDM Rush!
+[2019-09-14 00:11:45,235][DEBUG|rankingParser.py:18] >> 116, com.pixel.gun3d, 픽셀 건 3D (Pixel Gun 3D)
+[2019-09-14 00:11:45,237][DEBUG|rankingParser.py:18] >> 117, com.dopuz.klotski.riddle, Numpuz: Classic Number Games, Num Riddle Puzzle
+[2019-09-14 00:11:45,238][DEBUG|rankingParser.py:18] >> 118, net.peakgames.amy, 독특한 마법과 부스터가 가득한 궁극의 블록 퍼즐 게임!
+[2019-09-14 00:11:45,240][DEBUG|rankingParser.py:18] >> 119, com.playgendary.tom, Tomb of the Mask
+[2019-09-14 00:11:45,242][DEBUG|rankingParser.py:18] >> 120, com.stx.puzzlefuzzle, Puzzle Fuzzle
+[2019-09-14 00:11:45,243][DEBUG|rankingParser.py:18] >> 121, com.hwg.neonsplash, Neon Splash
+[2019-09-14 00:11:45,244][DEBUG|rankingParser.py:18] >> 122, com.ea.gp.fifamobile, FIFA 축구
+[2019-09-14 00:11:45,246][DEBUG|rankingParser.py:18] >> 123, io.voodoo.holeio, Hole.io
+[2019-09-14 00:11:45,249][DEBUG|rankingParser.py:18] >> 124, com.zepetto.theoutlaw, 아웃로 - 실시간 슈팅
+[2019-09-14 00:11:45,250][DEBUG|rankingParser.py:18] >> 125, com.com2us.probaseball3d.normal.freefull.google.global.android.common, 컴투스프로야구2019
+[2019-09-14 00:11:45,253][DEBUG|rankingParser.py:18] >> 126, com.clean.road, Clean Road
+[2019-09-14 00:11:45,255][DEBUG|rankingParser.py:18] >> 127, com.amanotes.pamadancingroad, Dancing Road: Color Ball Run!
+[2019-09-14 00:11:45,257][DEBUG|rankingParser.py:18] >> 128, com.train.taxi, Train Taxi
+[2019-09-14 00:11:45,261][DEBUG|rankingParser.py:18] >> 129, com.wordpuzzle.kr, 워드퍼즐 - 단어 게임
+[2019-09-14 00:11:45,263][DEBUG|rankingParser.py:18] >> 130, com.studioHU.BeatCraft, 비트 크래프트
+[2019-09-14 00:11:45,264][DEBUG|rankingParser.py:18] >> 131, com.mobile.legends, 모바일 레전드: Bang Bang
+[2019-09-14 00:11:45,266][DEBUG|rankingParser.py:18] >> 132, com.differencetenderwhite.skirt, 블록 퍼즐 보석
+[2019-09-14 00:11:45,270][DEBUG|rankingParser.py:18] >> 133, com.nexon.nsc.maplem, 메이플스토리M
+[2019-09-14 00:11:45,272][DEBUG|rankingParser.py:18] >> 134, com.wzxx4399kr.google, 파천: 신이 되는 자
+[2019-09-14 00:11:45,274][DEBUG|rankingParser.py:18] >> 135, com.popcore.makesandwich, Sandwich!
+[2019-09-14 00:11:45,275][DEBUG|rankingParser.py:18] >> 136, com.GF.mdkrkr.hwyad.google, 요괴미식가:Cook&Life
+[2019-09-14 00:11:45,277][DEBUG|rankingParser.py:18] >> 137, com.netmarble.nanakr, 일곱 개의 대죄: GRAND CROSS
+[2019-09-14 00:11:45,279][DEBUG|rankingParser.py:18] >> 138, ocean.nomad.survival.simulator, 해양 유목민 - 뗏목 생존: Survival on Raft - Ocean Nomad
+[2019-09-14 00:11:45,280][DEBUG|rankingParser.py:18] >> 139, com.playgendary.kickthebuddy, Kick the Buddy
+[2019-09-14 00:11:45,283][DEBUG|rankingParser.py:18] >> 140, tiles.piano.anime.music.tiles, 피아노 건반: 애니메이션 음악 재미있는 게임
+[2019-09-14 00:11:45,285][DEBUG|rankingParser.py:18] >> 141, com.ansangha.drparking4, 주차의 달인 4
+[2019-09-14 00:11:45,287][DEBUG|rankingParser.py:18] >> 142, com.gameparadiso.milkchoco, 밀크초코 - 온라인 FPS
+[2019-09-14 00:11:45,289][DEBUG|rankingParser.py:18] >> 143, com.crazylabs.lady.bug, 미라큘러스 레이디버그와 블랙캣 - 공식 게임
+[2019-09-14 00:11:45,294][DEBUG|rankingParser.py:18] >> 144, com.more.dayzsurvival.gp, 라스트 쉘터 (Last Shelter: Survival)
+[2019-09-14 00:11:45,296][DEBUG|rankingParser.py:18] >> 145, com.ansangha.drgomoku, 오목의 달인
+[2019-09-14 00:11:45,297][DEBUG|rankingParser.py:18] >> 146, com.EOAG.IceOnline, 얼음땡 온라인 : 실시간 배틀
+[2019-09-14 00:11:45,299][DEBUG|rankingParser.py:18] >> 147, com.kr.mir2nb19.google, 미르의 전설2 어게인
+[2019-09-14 00:11:45,301][DEBUG|rankingParser.py:18] >> 148, com.supercell.clashofclans, 클래시 오브 클랜
+[2019-09-14 00:11:45,305][DEBUG|rankingParser.py:18] >> 149, com.camelgames.aoz, Age of Z
+[2019-09-14 00:11:45,307][DEBUG|rankingParser.py:18] >> 150, com.NHNEnt.MSudda, 한게임 섯다
+[2019-09-14 00:11:45,308][DEBUG|rankingParser.py:18] >> 151, com.playgendary.polyspherecoolgame, Polysphere
+[2019-09-14 00:11:45,309][DEBUG|rankingParser.py:18] >> 152, com.monawa.kangta, 삼국지강타
+[2019-09-14 00:11:45,310][DEBUG|rankingParser.py:18] >> 153, air.com.hypah.io.slither, slither.io
+[2019-09-14 00:11:45,312][DEBUG|rankingParser.py:18] >> 154, com.outfit7.mytalkingangelafree, 마이토킹안젤라 (My Talking Angela)
+[2019-09-14 00:11:45,313][DEBUG|rankingParser.py:18] >> 155, easy.sudoku.puzzle.solver.free, 스도쿠 - 무료 클래식 스도쿠 퍼즐
+[2019-09-14 00:11:45,314][DEBUG|rankingParser.py:18] >> 156, com.fivebyte.lifeisagame, Life is a game : 인생게임
+[2019-09-14 00:11:45,315][DEBUG|rankingParser.py:18] >> 157, roll.unblock.ball.block.puzzle, 블록 해제 - 블록 퍼즐
+[2019-09-14 00:11:45,318][DEBUG|rankingParser.py:18] >> 158, com.raongames.growcastle, 성 키우기
+[2019-09-14 00:11:45,320][DEBUG|rankingParser.py:18] >> 159, com.spacegame.homedesign, 마이홈 - 꿈의 디자인
+[2019-09-14 00:11:45,322][DEBUG|rankingParser.py:18] >> 160, com.colorhole.game, Color Hole 3D
+[2019-09-14 00:11:45,325][DEBUG|rankingParser.py:18] >> 161, com.yodo1.rodeo.safari, 로데오 스템피드: 스카이 동물원 사파리
+[2019-09-14 00:11:45,327][DEBUG|rankingParser.py:18] >> 162, free.os.jump.superbros.adventure.world, Bob's World - Super Adventure
+[2019-09-14 00:11:45,329][DEBUG|rankingParser.py:18] >> 163, com.r2.sgmnz.kr, 삼국지 오리진
+[2019-09-14 00:11:45,331][DEBUG|rankingParser.py:18] >> 164, com.gamedevltd.wwh, 월드워 히어로즈: WW2 슈팅게임
+[2019-09-14 00:11:45,333][DEBUG|rankingParser.py:18] >> 165, com.matchington.mansion, 행복의 저택
+[2019-09-14 00:11:45,335][DEBUG|rankingParser.py:18] >> 166, com.com2us.ninepb3d.normal.freefull.google.global.android.common, MLB 9이닝스 19
+[2019-09-14 00:11:45,338][DEBUG|rankingParser.py:18] >> 167, com0.Company.ProductName1, 3D운전교실
+[2019-09-14 00:11:45,339][DEBUG|rankingParser.py:18] >> 168, com.pearlabyss.blackdesertm, 검은사막 모바일
+[2019-09-14 00:11:45,341][DEBUG|rankingParser.py:18] >> 169, com.thg.d, 챔피언 스트라이크 : Clash of Heroes
+[2019-09-14 00:11:45,342][DEBUG|rankingParser.py:18] >> 170, com.fantome.penguinisle, 펭귄의 섬
+[2019-09-14 00:11:45,346][DEBUG|rankingParser.py:18] >> 171, com.lockraftuildingimulatoramesorreeairfare, 유휴 레스토랑 매니저
+[2019-09-14 00:11:45,347][DEBUG|rankingParser.py:18] >> 172, com.netmarble.lineageII, 리니지2 레볼루션
+[2019-09-14 00:11:45,349][DEBUG|rankingParser.py:18] >> 173, com.king.candycrushsaga, 캔디크러쉬사가
+[2019-09-14 00:11:45,351][DEBUG|rankingParser.py:18] >> 174, com.Obliqueline.MadRunnerKo, 매드 러너: 한국의 가장 어려운 게임!
+[2019-09-14 00:11:45,355][DEBUG|rankingParser.py:18] >> 175, com.astayommandourvivalgiannisantetokounmpo, 그림자 복수의 전설
+[2019-09-14 00:11:45,357][DEBUG|rankingParser.py:18] >> 176, com.uppetoccerigeadootballminecraftfree, 배구 스포츠 게임
+[2019-09-14 00:11:45,358][DEBUG|rankingParser.py:18] >> 177, com.CommaGate.ScareCrowProject, 수련충 : 수련에 충성하라
+[2019-09-14 00:11:45,360][DEBUG|rankingParser.py:18] >> 178, com.brokenreality.planemerger.android, Merge Plane - Click & Idle Tycoon
+[2019-09-14 00:11:45,362][DEBUG|rankingParser.py:18] >> 179, com.nintendo.zara, Super Mario Run
+[2019-09-14 00:11:45,382][DEBUG|rankingParser.py:18] >> 180, kr.neogames.realfarm, 레알팜
+[2019-09-14 00:11:45,384][DEBUG|rankingParser.py:18] >> 181, com.sinyee.babybus.adventure, 꼬마 팬더의 보석 모험
+[2019-09-14 00:11:45,397][DEBUG|rankingParser.py:18] >> 182, com.rafficllegalastighwayacingvspink, 라이더 마스터 - 무료 모토 레이싱 게임
+[2019-09-14 00:11:45,398][DEBUG|rankingParser.py:18] >> 183, com.nimalrossingocketamptitanic, 유휴 냄비 육성
+[2019-09-14 00:11:45,400][DEBUG|rankingParser.py:18] >> 184, com.choupi.BallBlast, 스타 스나이퍼
+[2019-09-14 00:11:45,401][DEBUG|rankingParser.py:18] >> 185, com.blackhammer.castledefense, 성지키기 온라인
+[2019-09-14 00:11:45,402][DEBUG|rankingParser.py:18] >> 186, com.uriedownreeombieurvivalpocalypseamefungames, Desrt Survival - 좀비 게임
+[2019-09-14 00:11:45,403][DEBUG|rankingParser.py:18] >> 187, com.colorup.game, Color Bump 3D
+[2019-09-14 00:11:45,404][DEBUG|rankingParser.py:18] >> 188, com.tocaboca.tocakitchen2, Toca Kitchen 2
+[2019-09-14 00:11:45,406][DEBUG|rankingParser.py:18] >> 189, com.fungames.battletanksbeta, War Machines: 탱크 게임 - 무료
+[2019-09-14 00:11:45,412][DEBUG|rankingParser.py:18] >> 190, com.kakaogames.tera, 테라 클래식
+[2019-09-14 00:11:45,414][DEBUG|rankingParser.py:18] >> 191, com.manababa.BeggarKing2, 거지키우기2 한푼마을
+[2019-09-14 00:11:45,416][DEBUG|rankingParser.py:18] >> 192, com.ncsoft.lineagem19, 리니지M
+[2019-09-14 00:11:45,417][DEBUG|rankingParser.py:18] >> 193, com.fungames.blockcraft, Block Craft 3D: 무료 건설 게임
+[2019-09-14 00:11:45,419][DEBUG|rankingParser.py:18] >> 194, mini.block.craft.free.mc, 미니 블록 크래프트
+[2019-09-14 00:11:45,438][DEBUG|rankingParser.py:18] >> 195, com.droidhang.ad, Idle Heroes - 아이들 히어로즈
+[2019-09-14 00:11:45,440][DEBUG|rankingParser.py:18] >> 196, net.peakgames.toonblast, Toon Blast
+[2019-09-14 00:11:45,442][DEBUG|rankingParser.py:18] >> 197, com.trianglegames.squarebird, Square Bird
+[2019-09-14 00:11:45,445][DEBUG|rankingParser.py:18] >> 198, com.baklabs.taxi.two, 택시 2
+[2019-09-14 00:11:45,446][DEBUG|rankingParser.py:18] >> 199, com.kwalee.gunpuzzle, Shootout 3D
+[2019-09-14 00:11:45,448][DEBUG|rankingParser.py:18] >> 200, software.simplicial.nebulous, Nebulous
+[2019-09-14 00:11:45,454][DEBUG|rankingParser.py:18] >> 201, com.swingman.game, Swing Star
+[2019-09-14 00:11:45,569][DEBUG|rankingParser.py:109] >> Good Bye Parser! 
+ 

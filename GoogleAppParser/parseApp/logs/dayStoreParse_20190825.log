@@ -1,0 +1,14 @@
+[2019-08-25 00:40:01,832][DEBUG|dayStoreAppParse.py:65] >>  Hello Parser! 
+[2019-08-25 00:40:06,536][DEBUG|dayStoreAppParse.py:27] >> 카카오톡 KakaoTalk, com.kakao.talk, 커뮤니케이션, Kakao Corporation, 100000000.0, 2791274.0, 4.2, 100, 22, 11, 4, 18, 2019년 8월 22일, http://www.kakao.com/talk, Kakao+Corporation, 
+[2019-08-25 00:40:11,237][DEBUG|dayStoreAppParse.py:27] >> Samsung Smart Switch Mobile, com.sec.android.easyMover, 도구, Samsung Electronics Co.,  Ltd., 100000000.0, 181576.0, 4.3, 100, 19, 8, 4, 11, 2019년 8월 8일, http://www.samsung.com/us/smartswitch, , 5200379633052405703
+[2019-08-25 00:40:15,851][DEBUG|dayStoreAppParse.py:27] >> T연락처 - 주소록 실시간 백업, 114 검색, com.skt.prod.phonebook, 도구, SKTelecom, 10000000.0, 9125.0, 3.8, 100, 26, 18, 11, 34, 2019년 7월 23일, http://www.sktelecom.com, SKTelecom, 
+[2019-08-25 00:40:20,385][DEBUG|dayStoreAppParse.py:27] >> 토스, viva.republica.toss, 금융, Viva Republica, 10000000.0, 111383.0, 4.3, 100, 13, 6, 3, 13, 2019년 8월 23일, https://toss.im, , 4939974231902229320
+[2019-08-25 00:40:25,063][DEBUG|dayStoreAppParse.py:27] >> 네이버 - NAVER, com.nhn.android.search, 도서/참고자료, NAVER Corp., 50000000.0, 464970.0, 3.8, 100, 20, 13, 7, 36, 2019년 8월 16일, http://www.navercorp.com, , 6225315284672069550
+[2019-08-25 00:40:29,947][DEBUG|dayStoreAppParse.py:27] >> V3 Mobile Plus 2.0, com.ahnlab.v3mobileplus, 도구, AhnLab Inc., 50000000.0, 96270.0, 3.5, 100, 32, 21, 12, 57, 2019년 8월 13일, http://www.ahnlab.com, AhnLab+Inc., 
+[2019-08-25 00:40:34,505][DEBUG|dayStoreAppParse.py:27] >> SRT - 수서고속철도(NEW), kr.co.srail.newapp, 여행 및 지역정보, ㈜SR - 새로운 고속열차 SRT, 1000000.0, 1044.0, 2.8, 75, 21, 12, 8, 100, 2019년 7월 17일, https://www.srail.co.kr, %E3%88%9CSR+-+%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B3%A0%EC%86%8D%EC%97%B4%EC%B0%A8+SRT, 
+[2019-08-25 00:40:39,156][DEBUG|dayStoreAppParse.py:27] >> Instagram, com.instagram.android, 소셜, Instagram, 1000000000.0, 86614025.0, 4.5, 100, 20, 7, 2, 5, 2019년 8월 20일, http://help.instagram.com/, Instagram, 
+[2019-08-25 00:40:43,627][DEBUG|dayStoreAppParse.py:27] >> 국세청 홈택스, kr.go.nts.android, 도구, National Tax Service, Korea, 5000000.0, 13843.0, 4.1, 100, 23, 13, 4, 22, 2019년 8월 12일, http://nts.go.kr, National+Tax+Service,+Korea, 
+[2019-08-25 00:40:48,297][DEBUG|dayStoreAppParse.py:27] >> (New) i-ONE Bank - IBK기업은행, com.ibk.android.ionebank, 금융, IBK 기업은행, 1000000.0, 4897.0, 2.8, 75, 17, 13, 9, 100, 2019년 7월 23일, http://www.ibk.co.kr, IBK+%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89, 
+[2019-08-25 00:40:57,087][DEBUG|dayStoreAppParse.py:27] >> 당근마켓 - 우리 동네 중고 직거래 벼룩장터, com.towneers.www, 쇼핑, 당근마켓, 5000000.0, 29170.0, 4.6, 100, 16, 4, 1, 4, 2019년 8월 7일, https://www.daangn.com/, %EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93, 
+[2019-08-25 00:40:59,286][DEBUG|dayStoreAppParse.py:157] >> Good Bye Parser! 
+ 

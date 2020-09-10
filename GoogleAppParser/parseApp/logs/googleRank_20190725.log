@@ -1,0 +1,602 @@
+[2019-07-25 09:52:28,979][DEBUG|rankingParser.py:19] >> 1, io.faceapp, FaceApp
+[2019-07-25 09:52:29,016][DEBUG|rankingParser.py:19] >> 2, com.instagram.android, Instagram
+[2019-07-25 09:52:29,039][DEBUG|rankingParser.py:19] >> 3, com.hogangnono.hogangnono, È£°»³ë³ë - ¾ÆÆÄÆ® ½Ç°Å·¡°¡ 1µî ¾Û
+[2019-07-25 09:52:29,047][DEBUG|rankingParser.py:19] >> 4, com.contextlogic.wish, Wish - ¼îÇÎÀº Áñ°Ì´Ù
+[2019-07-25 09:52:29,054][DEBUG|rankingParser.py:19] >> 5, viva.republica.toss, Åä½º
+[2019-07-25 09:52:29,059][DEBUG|rankingParser.py:19] >> 6, com.nhn.android.search, ³×ÀÌ¹ö - NAVER
+[2019-07-25 09:52:29,068][DEBUG|rankingParser.py:19] >> 7, com.kakao.talk, Ä«Ä«¿ÀÅå KakaoTalk
+[2019-07-25 09:52:29,075][DEBUG|rankingParser.py:19] >> 8, com.sec.android.easyMover, Samsung Smart Switch Mobile
+[2019-07-25 09:52:29,081][DEBUG|rankingParser.py:19] >> 9, com.coupang.mobile, ÄíÆÎ (Coupang)
+[2019-07-25 09:52:29,086][DEBUG|rankingParser.py:19] >> 10, com.fineapp.yogiyo, ¹è´Þ¿ä±â¿ä
+[2019-07-25 09:52:29,092][DEBUG|rankingParser.py:19] >> 11, com.towneers.www, ´ç±Ù¸¶ÄÏ - ¿ì¸® µ¿³× Áß°í Á÷°Å·¡ º­·èÀåÅÍ
+[2019-07-25 09:52:29,119][DEBUG|rankingParser.py:19] >> 12, com.netflix.mediaclient, Netflix(³ÝÇÃ¸¯½º)
+[2019-07-25 09:52:29,125][DEBUG|rankingParser.py:19] >> 13, com.sampleapp, ¹è´ÞÀÇ¹ÎÁ·
+[2019-07-25 09:52:29,131][DEBUG|rankingParser.py:19] >> 14, com.kakaobank.channel, Ä«Ä«¿À¹ðÅ© - °°Áö¸¸ ´Ù¸¥ ÀºÇà
+[2019-07-25 09:52:29,137][DEBUG|rankingParser.py:19] >> 15, com.jndwork.weather.forecast.channel.dailyforecast.liveradarmaps, ½Ç½Ã°£ ³¯¾¾ - ÀÏ±â ¿¹º¸ 2019
+[2019-07-25 09:52:29,142][DEBUG|rankingParser.py:19] >> 16, com.ahnlab.v3mobileplus, V3 Mobile Plus 2.0
+[2019-07-25 09:52:29,150][DEBUG|rankingParser.py:19] >> 17, com.palmistry.scan.horoscope, ¼Õ±Ý ¹× º°ÀÚ¸® - ³ëÈ­ Ä«¸Þ¶ó
+[2019-07-25 09:52:29,155][DEBUG|rankingParser.py:19] >> 18, com.security.clean.antivirus.master, Speed Security - ¹ÙÀÌ·¯½º Á¦°Å, ±â±â Ã»¼Ò, °¡¼Ó
+[2019-07-25 09:52:29,161][DEBUG|rankingParser.py:19] >> 19, com.nhn.android.nmap, ³×ÀÌ¹ö Áöµµ, ³»ºñ°ÔÀÌ¼Ç
+[2019-07-25 09:52:29,167][DEBUG|rankingParser.py:19] >> 20, com.sec.android.app.voicenote, »ï¼º À½¼º ³ìÀ½
+[2019-07-25 09:52:29,173][DEBUG|rankingParser.py:19] >> 21, com.samsung.android.app.notes, Samsung Notes
+[2019-07-25 09:52:29,179][DEBUG|rankingParser.py:19] >> 22, com.snowcorp.soda.android, SODA ¼Ò´Ù - Natural Beauty Camera
+[2019-07-25 09:52:29,188][DEBUG|rankingParser.py:19] >> 23, com.forshared.files, 4shared
+[2019-07-25 09:52:29,198][DEBUG|rankingParser.py:19] >> 24, com.kakao.taxi, Ä«Ä«¿À T - ÅÃ½Ã, ´ë¸®¿îÀü, ÁÖÂ÷, ³»ºñ, Ä«Ç®, ¹ÙÀÌÅ©
+[2019-07-25 09:52:29,205][DEBUG|rankingParser.py:19] >> 25, com.sktelecom.ytpoc, 0ÇÑµ¿
+[2019-07-25 09:52:29,212][DEBUG|rankingParser.py:19] >> 26, com.ss.android.ugc.trill, TikTok Æ½Åå
+[2019-07-25 09:52:29,218][DEBUG|rankingParser.py:19] >> 27, com.facebook.katana, Facebook
+[2019-07-25 09:52:29,228][DEBUG|rankingParser.py:19] >> 28, com.google.android.play.games, Google Play °ÔÀÓ
+[2019-07-25 09:52:29,241][DEBUG|rankingParser.py:19] >> 29, com.ibk.android.ionebank, (New) i-ONE Bank - IBK±â¾÷ÀºÇà
+[2019-07-25 09:52:29,249][DEBUG|rankingParser.py:19] >> 30, com.skt.tmap.ku, T map (Æ¼¸Ê,T¸Ê,³»ºñ°ÔÀÌ¼Ç)
+[2019-07-25 09:52:29,256][DEBUG|rankingParser.py:19] >> 31, com.mcdonalds.mobileapp, ¸Æµµ³¯µå
+[2019-07-25 09:52:29,262][DEBUG|rankingParser.py:19] >> 32, me.togather.wave, WAVE - Àß ³ë´Â ¿µ»óÅå, Talk & Play
+[2019-07-25 09:52:29,273][DEBUG|rankingParser.py:19] >> 33, kr.co.captv.pooqV2, POOQ (Ç«)  ½Ç½Ã°£TV ¹«·á
+[2019-07-25 09:52:29,283][DEBUG|rankingParser.py:19] >> 34, net.daum.android.map, Ä«Ä«¿À¸Ê - ´ëÇÑ¹Î±¹ No.1 Áöµµ¾Û ( Áöµµ / ³»ºñ°ÔÀÌ¼Ç / ´ëÁß±³Åë / ·Îµåºä )
+[2019-07-25 09:52:29,289][DEBUG|rankingParser.py:19] >> 35, kr.goodchoice.abouthere, ¿©±â¾î¶§ - ´ëÇÑ¹Î±¹ 1µî Á¾ÇÕ¼÷¹Ú¾Û
+[2019-07-25 09:52:29,296][DEBUG|rankingParser.py:19] >> 36, com.shs.songain, ¼Û°¡ÀÎ ³ë·¡µè±â - È÷Æ®°î, ¹æ¼Û ¿µ»ó, °ø¿¬ ¿µ»ó, 7080 Æ®·ÎÆ® ¸Þµé¸® °¨»ó
+[2019-07-25 09:52:29,303][DEBUG|rankingParser.py:19] >> 37, kr.co.srail.newapp, SRT - ¼ö¼­°í¼ÓÃ¶µµ(NEW)
+[2019-07-25 09:52:29,310][DEBUG|rankingParser.py:19] >> 38, com.nhn.android.band, ¹êµå
+[2019-07-25 09:52:29,319][DEBUG|rankingParser.py:19] >> 39, com.facebook.orca, Messenger
+[2019-07-25 09:52:29,326][DEBUG|rankingParser.py:19] >> 40, com.gorgeous.liteinternational, UlikeÀ¯¶óÀÌÅ© - ½ºÅ¸ÀÏ, °í±Þ ÇÊÅÍ, ºäÆ¼ Ä«¸Þ¶ó
+[2019-07-25 09:52:29,332][DEBUG|rankingParser.py:19] >> 41, com.campmobile.snow, SNOW - ºäÆ¼, ¸ÞÀÌÅ©¾÷, ¼¿ÇÇ Ä«¸Þ¶ó
+[2019-07-25 09:52:29,341][DEBUG|rankingParser.py:19] >> 42, com.korail.talk, ÄÚ·¹ÀÏÅå
+[2019-07-25 09:52:29,348][DEBUG|rankingParser.py:19] >> 43, com.locnall.KimGiSa, Ä«Ä«¿À³»ºñ
+[2019-07-25 09:52:29,355][DEBUG|rankingParser.py:19] >> 44, com.naver.labs.translator, ³×ÀÌ¹ö ÆÄÆÄ°í - AI Åë¹ø¿ª
+[2019-07-25 09:52:29,362][DEBUG|rankingParser.py:19] >> 45, com.google.android.apps.youtube.kids, YouTube Kids
+[2019-07-25 09:52:29,371][DEBUG|rankingParser.py:19] >> 46, app.facereading.signs, ÆäÀÌ½º¸®µù¿¡ÀÌÁö ÆäÀÌ½º »çÀÎ
+[2019-07-25 09:52:29,377][DEBUG|rankingParser.py:19] >> 47, nh.smart.banking, NH½º¸¶Æ®¹ðÅ·
+[2019-07-25 09:52:29,385][DEBUG|rankingParser.py:19] >> 48, net.cj.cjhv.gs.tving, Æ¼ºù(TVING) - ½Ç½Ã°£TV, ¹æ¼ÛVOD, ¿µÈ­VOD
+[2019-07-25 09:52:29,391][DEBUG|rankingParser.py:19] >> 49, fast.phone.clean, ½´ÆÛ ºü¸¥ Å¬¸®³Ê - ¾ÈÆ¼ ¹ÙÀÌ·¯½º ¹× ºÎ½ºÅÍ & Å¬¸®³Ê
+[2019-07-25 09:52:29,401][DEBUG|rankingParser.py:19] >> 50, com.cultsotry.yanolja.nativeapp, ¾ß³îÀÚ - ±¹³» ¹× ÇØ¿Ü È£ÅÚ, ¸ðÅÚ, Ææ¼Ç, °ÔÇÏ, ·¹Àú/Æ¼ÄÏ, ÃÖ´ë 80% ÇÒÀÎ
+[2019-07-25 09:52:29,423][DEBUG|rankingParser.py:19] >> 51, skplanet.musicmate, FLO  ÇÃ·Î
+[2019-07-25 09:52:29,429][DEBUG|rankingParser.py:19] >> 52, com.omnitel.android.lottewebview, ·Ôµ¥È¨¼îÇÎ  ·Ôµ¥ ON
+[2019-07-25 09:52:29,436][DEBUG|rankingParser.py:19] >> 53, kvp.jjy.MispAndroid320, ISP/ÆäÀÌºÏ
+[2019-07-25 09:52:29,453][DEBUG|rankingParser.py:19] >> 54, com.hmusic.listentrot, Æ®·ÎÆ® ¹«·áµè±â - Æ®·ÎÆ® ¸Þµé¸®
+[2019-07-25 09:52:29,462][DEBUG|rankingParser.py:19] >> 55, com.iloen.melon, ¸á·Ð
+[2019-07-25 09:52:29,470][DEBUG|rankingParser.py:19] >> 56, com.banhala.android, ¿¡ÀÌºí¸® - ¼¿·´¸¶ÄÏ ¸ðÀ½¾Û
+[2019-07-25 09:52:29,476][DEBUG|rankingParser.py:19] >> 57, com.gmong.songgain, ¼Û°¡ÀÎ ³ë·¡¸ðÀ½ ¹«·áµè±â - ¹Ì½ºÆ®·Ô ¼Û°¡ÀÎ ³ë·¡¿Í ¿µ»ó ¸ðÀ½
+[2019-07-25 09:52:29,484][DEBUG|rankingParser.py:19] >> 58, com.tf.thinkdroid.viewer, ÇÑÄÄ¿ÀÇÇ½º viewer
+[2019-07-25 09:52:29,489][DEBUG|rankingParser.py:19] >> 59, com.chbreeze.jikbang4a, Á÷¹æ - 2,000¸¸¸íÀÌ ¼±ÅÃÇÑ No.1 ºÎµ¿»ê ¾Û(¾ÆÆÄÆ®,¾ÆÆÄÆ®ºÐ¾ç,¿ø·ë,¿ÀÇÇ½ºÅÚ,ºô¶ó)
+[2019-07-25 09:52:29,496][DEBUG|rankingParser.py:19] >> 60, com.kscc.scxb.mbl, [°ø½Ä]°í¼Ó¹ö½º¸ð¹ÙÀÏ
+[2019-07-25 09:52:29,501][DEBUG|rankingParser.py:19] >> 61, com.lge.lgemembership, LGÀüÀÚ ¸â¹ö½Ê
+[2019-07-25 09:52:29,507][DEBUG|rankingParser.py:19] >> 62, com.kakaopay.app, Ä«Ä«¿ÀÆäÀÌ
+[2019-07-25 09:52:29,512][DEBUG|rankingParser.py:19] >> 63, paint.by.number.pixel.art.coloring.drawing.puzzle, ¼ýÀÚ·Î »öÄ¥ÇÏ±â - ¹«·á »öÄ¥ °øºÎ ¹× ÆÛÁñ °ÔÀÓ
+[2019-07-25 09:52:29,518][DEBUG|rankingParser.py:19] >> 64, kr.backpackr.me.idus, ¾ÆÀÌµð¾î½º(idus) - ÇÚµå¸ÞÀÌµå/¼ö°ø¿¹ ÀåÅÍ
+[2019-07-25 09:52:29,523][DEBUG|rankingParser.py:19] >> 65, com.clean_antivirus.security.master.booster, Security & Antivirus
+[2019-07-25 09:52:29,529][DEBUG|rankingParser.py:19] >> 66, com.titicacacorp.triple, Æ®¸®ÇÃ - ÇØ¿Ü¿©Çà °¡ÀÌµå
+[2019-07-25 09:52:29,535][DEBUG|rankingParser.py:19] >> 67, faceapp.facemystery.learnmoreaboutyourself, HiddenMe Face App -  ³ëÈ­ Ä«¸Þ¶ó, ÆäÀÌ½º¾Û
+[2019-07-25 09:52:29,541][DEBUG|rankingParser.py:19] >> 68, com.google.android.apps.translate, Google ¹ø¿ª
+[2019-07-25 09:52:29,551][DEBUG|rankingParser.py:19] >> 69, kr.co.samsungcard.mpocket, »ï¼º¾ÛÄ«µå - ³» Æù ¾ÈÀÇ »ï¼ºÄ«µå
+[2019-07-25 09:52:29,560][DEBUG|rankingParser.py:19] >> 70, com.cgv.android.movieapp, CGV
+[2019-07-25 09:52:29,569][DEBUG|rankingParser.py:19] >> 71, net.daum.android.daum, ´ÙÀ½ - Daum
+[2019-07-25 09:52:29,584][DEBUG|rankingParser.py:19] >> 72, com.virusscan.privacy.fast.cleaner.booster, X Security - ¹ÙÀÌ·¯½º Á¦°Å, ±â±â Ã»¼Ò, °¡¼Ó
+[2019-07-25 09:52:29,591][DEBUG|rankingParser.py:19] >> 73, com.hyundaicard.appcard, Çö´ëÄ«µå
+[2019-07-25 09:52:29,600][DEBUG|rankingParser.py:19] >> 74, kr.go.kcs.mobile.pubservice, ¸ð¹ÙÀÏ °ü¼¼Ã»
+[2019-07-25 09:52:29,610][DEBUG|rankingParser.py:19] >> 75, com.wemakeprice, À§¸ÞÇÁ - Æ¯°¡´ëÇ¥ (Æ¯°¡ / ¼îÇÎ / ¼îÇÎ¾Û / ÄíÆù / ¹è¼Û)
+[2019-07-25 09:52:29,633][DEBUG|rankingParser.py:19] >> 76, com.bestringtonesapps.bestringtonesfree, ÃÖ°íÀÇ ¹«·á º§¼Ò¸®
+[2019-07-25 09:52:29,672][DEBUG|rankingParser.py:19] >> 77, com.nhn.android.webtoon, ³×ÀÌ¹ö À¥Å÷ - Naver Webtoon
+[2019-07-25 09:52:29,918][DEBUG|rankingParser.py:19] >> 78, com.firstscreen.weather, Ã¹È­¸é ³¯¾¾, ¹Ì¼¼¸ÕÁö - WHO ±âÁØ, ±â»óÃ» ³¯¾¾
+[2019-07-25 09:52:29,925][DEBUG|rankingParser.py:19] >> 79, com.linecorp.b612.android, B612 - ºäÆ¼ È¿°ú, °¨¼ºÇÊÅÍ, ¼¿ÇÇ Ä«¸Þ¶ó
+[2019-07-25 09:52:29,931][DEBUG|rankingParser.py:19] >> 80, com.kscc.xzz.mbl, [°ø½Ä]½Ã¿Ü¹ö½º¸ð¹ÙÀÏ
+[2019-07-25 09:52:29,938][DEBUG|rankingParser.py:19] >> 81, com.goodplay.a511best, ÂøÇÑ À½¾Ç´Ù¿î ÇÃ·¹ÀÌ
+[2019-07-25 09:52:29,944][DEBUG|rankingParser.py:19] >> 82, video.player.videoplayer, ºñµð¿À ÇÃ·¹ÀÌ¾î ÆÛÆåÆ® - ÀÚ¸·, ÄÚµ¦, XPlayer
+[2019-07-25 09:52:29,951][DEBUG|rankingParser.py:19] >> 83, com.skb.btvmobile, oksusu
+[2019-07-25 09:52:29,958][DEBUG|rankingParser.py:19] >> 84, com.samsung.android.voc, Samsung Members
+[2019-07-25 09:52:29,965][DEBUG|rankingParser.py:19] >> 85, gov.incheon.incheonercard, ÀÎÃµeÀ½
+[2019-07-25 09:52:29,971][DEBUG|rankingParser.py:19] >> 86, com.TouchEn.mVaccine.webs, ÅÍÄ¡¿£ ¿¥¹é½Å for Web(±â¾÷¿ë)
+[2019-07-25 09:52:29,977][DEBUG|rankingParser.py:19] >> 87, kr.co.quicket, ¹ø°³ÀåÅÍ - ¸ð¹ÙÀÏ ÃÖ´ë Áß°í¸¶ÄÏ ¾Û(Áß°í³ª¶ó,Áß°íÂ÷)
+[2019-07-25 09:52:29,982][DEBUG|rankingParser.py:19] >> 88, com.kakao.story, Ä«Ä«¿À½ºÅä¸® KakaoStory
+[2019-07-25 09:52:29,988][DEBUG|rankingParser.py:19] >> 89, net.bucketplace, ¿À´ÃÀÇÁý - 550¸¸ÀÌ ¼±ÅÃÇÑ No.1 ÀÎÅ×¸®¾î ÇÊ¼ö¾Û
+[2019-07-25 09:52:29,994][DEBUG|rankingParser.py:19] >> 90, faceapp.magikoly.exploreandhavefun, Magikoly  ÆäÀÌ½º¾Û, ÆäÀÌ½º ¿¡µðÅÍ, ¾ó±¼ ³ëÈ­, ¼ºº° ÀüÈ¯, ÀÎÁ¾ ºÐ¼®±â
+[2019-07-25 09:52:30,000][DEBUG|rankingParser.py:19] >> 91, com.nhn.android.ndrive, ³×ÀÌ¹ö Å¬¶ó¿ìµå - NAVER Cloud
+[2019-07-25 09:52:30,005][DEBUG|rankingParser.py:19] >> 92, tw.mobileapp.qrcode.banner, QR ÄÚµå ¸®´õ/¹ÙÄÚµå ½ºÄ³³Ê
+[2019-07-25 09:52:30,011][DEBUG|rankingParser.py:19] >> 93, com.hnsmall, È¨¾Ø¼îÇÎ ¿ÀÁ÷ ¾Û¿¡¼­¸¸.  10%ÇÒÀÎ + 10%Àû¸³
+[2019-07-25 09:52:30,016][DEBUG|rankingParser.py:19] >> 94, com.megabox.mop, ¸Þ°¡¹Ú½º(MEGABOX)
+[2019-07-25 09:52:30,022][DEBUG|rankingParser.py:19] >> 95, com.ktmusic.geniemusic, Áö´Ï ¹ÂÁ÷ - genie
+[2019-07-25 09:52:30,027][DEBUG|rankingParser.py:19] >> 96, com.shcard.smartpay, ½ÅÇÑÆäÀÌÆÇ
+[2019-07-25 09:52:30,033][DEBUG|rankingParser.py:19] >> 97, sg.bigo.live, BIGO LIVE (ºñ°í¶óÀÌºê)  ¶óÀÌºê °³ÀÎ¹æ¼Û
+[2019-07-25 09:52:30,038][DEBUG|rankingParser.py:19] >> 98, kr.co.alba.webappalba.m, ¾Ë¹ÙÃµ±¹- ¾Ë¹Ù ±¸ÀÎ±¸Á÷ Æ÷ÅÐ¼­ºñ½º
+[2019-07-25 09:52:30,046][DEBUG|rankingParser.py:19] >> 99, kr.co.emart.emartmall, ÀÌ¸¶Æ®¸ô  emart mall
+[2019-07-25 09:52:30,054][DEBUG|rankingParser.py:19] >> 100, com.snapchat.android, Snapchat
+[2019-07-25 09:52:30,060][DEBUG|rankingParser.py:19] >> 101, com.shinhan.sbanking, ½ÅÇÑ ½ò(SOL)  ½ÅÇÑÀºÇà ½º¸¶Æ®Æù¹ðÅ·
+[2019-07-25 09:52:30,066][DEBUG|rankingParser.py:19] >> 102, com.hmallapp, Çö´ëHmall - È¨¼îÇÎ, ¹éÈ­Á¡
+[2019-07-25 09:52:30,072][DEBUG|rankingParser.py:19] >> 103, com.chsapps.songain, ¼Û°¡ÀÎ ³ë·¡µè±â - È÷Æ®°î, ¹æ¼Û ¿µ»ó, ÃÖ½Å °ø¿¬ ¿µ»ó
+[2019-07-25 09:52:30,079][DEBUG|rankingParser.py:19] >> 104, com.lge.mobilemigration, LG ¸ð¹ÙÀÏ ½ºÀ§Ä¡ (º¸³»±â)
+[2019-07-25 09:52:30,087][DEBUG|rankingParser.py:19] >> 105, com.albamon.app, ¾Ë¹Ù¸ó - ¾Ë¹Ù Ã¤¿ë ±¸ÀÎ±¸Á÷ Ãë¾÷Á¤º¸°Ë»ö
+[2019-07-25 09:52:30,093][DEBUG|rankingParser.py:19] >> 106, com.nhnent.payapp, PAYCO - ÆäÀÌÄÚ, ÇýÅÃ±îÁö ¶È¶ÈÇÑ °£Æí°áÁ¦
+[2019-07-25 09:52:30,099][DEBUG|rankingParser.py:19] >> 107, com.bestringtonesapps.freeringtonesforandroid, ¹«·á º§¼Ò¸® Android¢â Àü¿ë
+[2019-07-25 09:52:30,105][DEBUG|rankingParser.py:19] >> 108, socar.Socar, ½îÄ« - 1µî Ä«¼Î¾î¸µ
+[2019-07-25 09:52:30,110][DEBUG|rankingParser.py:19] >> 109, com.future.know, Future: ¾ó±¼, ¼Õ±Ý & º°ÀÚ¸®
+[2019-07-25 09:52:30,115][DEBUG|rankingParser.py:19] >> 110, com.tmon, Æ¼¸ó - ¸ÅÁÖ ¿ù¿äÀÏÀº Æ¼¸óµ¥ÀÌ
+[2019-07-25 09:52:30,121][DEBUG|rankingParser.py:19] >> 111, kr.go.nts.android, ±¹¼¼Ã» È¨ÅÃ½º
+[2019-07-25 09:52:30,127][DEBUG|rankingParser.py:19] >> 112, com.kbstar.kbbank, KB±¹¹ÎÀºÇà ½ºÅ¸¹ðÅ·
+[2019-07-25 09:52:30,132][DEBUG|rankingParser.py:19] >> 113, kr.bitbyte.playkeyboard, ÇÃ·¹ÀÌÅ°º¸µå - ÃÖ¾Öµ¹ Å×¸¶, ¹®ÀÚÆ¼ÄÜ, ³ª¸¸ÀÇ Å×¸¶ Á¦ÀÛ, ¿òÁ÷ÀÌ´Â Å°º¸µå
+[2019-07-25 09:52:30,140][DEBUG|rankingParser.py:19] >> 114, com.croquis.zigzag, Áö±×Àç±× - ¿©¼º¼îÇÎ¸ô ¸ðÀ½, ¼îÇÎ¸ô¼øÀ§
+[2019-07-25 09:52:30,149][DEBUG|rankingParser.py:19] >> 115, uplus.membership, U+¸â¹ö½º - ¸â¹ö½Ê ÇÒÀÎ,¼Ò¾×°áÁ¦,Æ÷ÀÎÆ®,ÄíÆù
+[2019-07-25 09:52:30,158][DEBUG|rankingParser.py:19] >> 116, com.emart.today, ÀÌ¸¶Æ® - ¸ÅÀå¿¡¼­ Áñ±â´Â ½º¸¶Æ®ÇÑ ÇýÅÃ
+[2019-07-25 09:52:30,166][DEBUG|rankingParser.py:19] >> 117, io.storychat, À§Æ® wit
+[2019-07-25 09:52:30,175][DEBUG|rankingParser.py:19] >> 118, com.lifeoverflow.app.weather, ³¯¾¾³¯¾¾ - ³¯¾¾, ¹Ì¼¼¸ÕÁö, ±â»óÃ», À§Á¬, ¾Ë¸²
+[2019-07-25 09:52:30,184][DEBUG|rankingParser.py:19] >> 119, com.smule.singandroid, Smule - 1µî ³ë·¡ ¾îÇÃ
+[2019-07-25 09:52:30,210][DEBUG|rankingParser.py:19] >> 120, com.interpark.shop, ÀÎÅÍÆÄÅ©
+[2019-07-25 09:52:30,217][DEBUG|rankingParser.py:19] >> 121, com.ebay.kr.gmarket, ¼îÇÎÀ» ¹Ù²Ù´Â ¼îÇÎ. G¸¶ÄÏ
+[2019-07-25 09:52:30,225][DEBUG|rankingParser.py:19] >> 122, com.twitter.android, Æ®À§ÅÍ
+[2019-07-25 09:52:30,232][DEBUG|rankingParser.py:19] >> 123, com.hpapp, ÇØÇÇÆ÷ÀÎÆ®
+[2019-07-25 09:52:30,238][DEBUG|rankingParser.py:19] >> 124, com.ahnlab.v3mobilesecurity.soda, V3 Mobile Security - ¹«·á ¹é½Å/ºÎ½ºÅÍ/¾ÛÀá±Ý
+[2019-07-25 09:52:30,253][DEBUG|rankingParser.py:19] >> 125, gsshop.mobile.v2, GS SHOP - ´ç½ÅÀÇ °¡Àå ÁÁÀº ¼±ÅÃÀ» ¸¸µì´Ï´Ù
+[2019-07-25 09:52:30,259][DEBUG|rankingParser.py:19] >> 126, com.sec.android.app.shealth, Samsung Health(»ï¼º Çï½º)
+[2019-07-25 09:52:30,267][DEBUG|rankingParser.py:19] >> 127, com.bisoft.live.weather, ³¯¾¾ ¿À´Ã - ÀÏ±â ¿¹º¸ ¾Û 2019
+[2019-07-25 09:52:30,276][DEBUG|rankingParser.py:19] >> 128, nh.smart.nhcok, NHÄÛ¹ðÅ©
+[2019-07-25 09:52:30,305][DEBUG|rankingParser.py:19] >> 129, kr.co.shiftworks.vguardweb, VG ±â¾÷¿ë Web SDK
+[2019-07-25 09:52:30,312][DEBUG|rankingParser.py:19] >> 130, com.kbcard.cxh.appcard, KB±¹¹Î ¾ÛÄ«µå
+[2019-07-25 09:52:30,318][DEBUG|rankingParser.py:19] >> 131, teamDoppelGanger.SmarterSubway, ÁöÇÏÃ¶ Á¾°áÀÚ : Smarter Subway
+[2019-07-25 09:52:30,324][DEBUG|rankingParser.py:19] >> 132, jp.naver.line.android, ¶óÀÎ LINE
+[2019-07-25 09:52:30,330][DEBUG|rankingParser.py:19] >> 133, net.daum.android.cafe, ´ÙÀ½ Ä«Æä - Daum Cafe
+[2019-07-25 09:52:30,338][DEBUG|rankingParser.py:19] >> 134, com.gangwon.han, µ¿¿µ»ó´Ù¿îÇÁ·Î
+[2019-07-25 09:52:30,344][DEBUG|rankingParser.py:19] >> 135, com.kbcard.kbkookmincard, KB±¹¹ÎÄ«µå
+[2019-07-25 09:52:30,353][DEBUG|rankingParser.py:19] >> 136, com.rainist.banksalad2, ¹ðÅ©»ø·¯µå - ½Å°æ ²¨µµ ³» µ· °ü¸® (ÅëÇÕ ÀÚ»ê°ü¸®, ÀÚµ¿ °¡°èºÎ)
+[2019-07-25 09:52:30,359][DEBUG|rankingParser.py:19] >> 137, com.cntt.lotteria, ·Ôµ¥¸®¾Æ
+[2019-07-25 09:52:30,366][DEBUG|rankingParser.py:19] >> 138, kr.co.nowcom.mobile.afreeca, ¾ÆÇÁ¸®Ä«TV - AfreecaTV
+[2019-07-25 09:52:30,373][DEBUG|rankingParser.py:19] >> 139, com.scbank.ma30, SCÁ¦ÀÏÀºÇà ¸ð¹ÙÀÏ¹ðÅ·
+[2019-07-25 09:52:30,381][DEBUG|rankingParser.py:19] >> 140, com.himart.main, ·Ôµ¥ ON - ·Ôµ¥ÇÏÀÌ¸¶Æ®
+[2019-07-25 09:52:30,388][DEBUG|rankingParser.py:19] >> 141, co.spoonme, ½ºÇ¬ ¶óµð¿À - LIVE¹æ¼Û BJ¼ÒÅë
+[2019-07-25 09:52:30,394][DEBUG|rankingParser.py:19] >> 142, kr.co.cleaninglab.user, Ã»¼Ò¿¬±¸¼Ò - °¡»çµµ¿ì¹Ì, Ã»¼Ò, Ã»¼Òµµ¿ì¹Ì
+[2019-07-25 09:52:30,403][DEBUG|rankingParser.py:19] >> 143, kr.co.lottecinema.lcm, ·Ôµ¥½Ã³×¸¶ ¸ð¹ÙÀÏ¾Û
+[2019-07-25 09:52:30,410][DEBUG|rankingParser.py:19] >> 144, ly.appt.oldify, ³ªÀÌ µç ¾ó±¼ - Oldify¢â Grow Old
+[2019-07-25 09:52:30,422][DEBUG|rankingParser.py:19] >> 145, ctrip.english, Æ®¸³´åÄÄ - Àü ¼¼°è Ç×°ø±Ç, È£ÅÚ, ±âÂ÷Ç¥ & ¾×Æ¼ºñÆ¼ Æ¯°¡ ¿¹¾à, ºí·Ï¹ö½ºÅÍ±Þ ¿©Çà¾Û
+[2019-07-25 09:52:30,448][DEBUG|rankingParser.py:19] >> 146, com.elevenst, 11¹ø°¡
+[2019-07-25 09:52:30,454][DEBUG|rankingParser.py:19] >> 147, com.kakao.page, Ä«Ä«¿ÀÆäÀÌÁö KakaoPage
+[2019-07-25 09:52:30,459][DEBUG|rankingParser.py:19] >> 148, com.google.android.apps.youtube.music, YouTube Music
+[2019-07-25 09:52:30,465][DEBUG|rankingParser.py:19] >> 149, tv.jamlive, Àë¶óÀÌºê (JAM LIVE) - ½Ç½Ã°£ ÄûÁî¼î
+[2019-07-25 09:52:30,470][DEBUG|rankingParser.py:19] >> 150, com.starbucks.co, ½ºÅ¸¹÷½º
+[2019-07-25 09:52:30,476][DEBUG|rankingParser.py:19] >> 151, app.zenly.locator, Zenly - Ä£ÇÑ Ä£±¸³¢¸®
+[2019-07-25 09:52:30,482][DEBUG|rankingParser.py:19] >> 152, weather.forecast.barometer.storm.radar, ³¯¾¾ ¹«·á
+[2019-07-25 09:52:30,490][DEBUG|rankingParser.py:19] >> 153, kr.co.ivlog.mobile.app.cjonecard, CJ ONE
+[2019-07-25 09:52:30,495][DEBUG|rankingParser.py:19] >> 154, com.dencreak.dlcalculator, ¶È¶È°è»ê±â - ¹«·á ´Ù¿ëµµ °è»ê±â
+[2019-07-25 09:52:30,502][DEBUG|rankingParser.py:19] >> 155, com.nhn.android.navercafe, ³×ÀÌ¹ö Ä«Æä  - Naver Cafe
+[2019-07-25 09:52:30,507][DEBUG|rankingParser.py:19] >> 156, com.uplus.onphone, U+¸ð¹ÙÀÏtv-½Ç½Ã°£TV,TV´Ù½Ãº¸±â,ÃÖ½Å¿µÈ­
+[2019-07-25 09:52:30,514][DEBUG|rankingParser.py:19] >> 157, com.naver.vibe, VIBE (¹ÙÀÌºê)
+[2019-07-25 09:52:30,519][DEBUG|rankingParser.py:19] >> 158, com.discord, Discord - °ÔÀÌ¸Ó¸¦ À§ÇÑ ¸Þ½ÅÀú
+[2019-07-25 09:52:30,525][DEBUG|rankingParser.py:19] >> 159, com.remote.control.universal.forall.tv, ¸ðµç TV¿¡ ´ëÇÑ ¿ø°Ý Á¦¾î
+[2019-07-25 09:52:30,531][DEBUG|rankingParser.py:19] >> 160, com.aging.palmistry.predict, Predict Master - ¼Õ±Ý, ³ëÈ­
+[2019-07-25 09:52:30,537][DEBUG|rankingParser.py:19] >> 161, kr.co.sbs.videoplayer, SBS - ¿Â¿¡¾î, VOD 7¸¸Æí ¹«·á
+[2019-07-25 09:52:30,543][DEBUG|rankingParser.py:19] >> 162, com.pikia.muzever, Æ®·ÎÆ® ¹«·áµè±â
+[2019-07-25 09:52:30,549][DEBUG|rankingParser.py:19] >> 163, com.atpc, À½¾Ç¹«·á´Ù¿î ¹«·á ¶óÀÌ¼¾½º MP3 °î, ¶óµð¿À, ³ë·¡¸ðÀ½ MP3, À¯Æ©ºê ¹«·áÀ½¾Çµè±â
+[2019-07-25 09:52:30,554][DEBUG|rankingParser.py:19] >> 164, free.vpn.unblock.proxy.turbovpn, Turbo VPN ¹«Á¦ÇÑ ¹«·á VPN & ºü¸¥ º¸¾È ÇÁ·Ï½Ã Á¢¼Ó
+[2019-07-25 09:52:30,560][DEBUG|rankingParser.py:19] >> 165, kr.co.apptube.hitai2, ÇÏÀÌÅ¸ÀÌ - ÃÖÀú°¡ ¸¶»çÁö, Å¸ÀÌ¸¶»çÁö, µ¥ÀÌÆ®Àå¼Ò, ¹«·áÄíÆù
+[2019-07-25 09:52:30,566][DEBUG|rankingParser.py:19] >> 166, kr.co.station3.dabang, ´Ù¹æ-´ëÇÑ¹Î±¹ ºÎµ¿»ê ¸Å¹° ÃÖ´Ùº¸À¯(¿ø·ë ¿ÀÇÇ½ºÅÚ ¾ÆÆÄÆ® ºÐ¾ç ¿ù¼¼)
+[2019-07-25 09:52:30,572][DEBUG|rankingParser.py:19] >> 167, com.buzzni.android.subapp.shoppingmoa, È¨¼îÇÎ¸ð¾Æ-TVÈ¨¼îÇÎ Æí¼ºÇ¥, »ý¹æ¼Û ¾Ë¸², °Ë»ö, È¨¼îÇÎ¹æ¼Û
+[2019-07-25 09:52:30,577][DEBUG|rankingParser.py:19] >> 168, com.gain.verse, ¼Û°¡ÀÎ ³ë·¡¸ðÀ½ - ¹«·á º£½ºÆ® Æ®·ÎÆ® ÀÎ±â°î ³ë·¡µè±â
+[2019-07-25 09:52:30,583][DEBUG|rankingParser.py:19] >> 169, org.kftc.fido.lnk.lnk_app, ¹ÙÀÌ¿ÀÀÎÁõ °øµ¿¾Û
+[2019-07-25 09:52:30,589][DEBUG|rankingParser.py:19] >> 170, com.ssg.serviceapp.android.egiftcertificate, SSGPAY - ÇýÅÃ À§ÀÇ ÇýÅÃ
+[2019-07-25 09:52:30,597][DEBUG|rankingParser.py:19] >> 171, org.telegram.messenger, ÅÚ·¹±×·¥ °ø½Ä ¾Û Telegram
+[2019-07-25 09:52:30,604][DEBUG|rankingParser.py:19] >> 172, com.skmc.okcashbag.home_google, OKÄ³½¬¹é [Áñ°Å¿òÀÌ Æ÷ÀÎÆ®´Ù]
+[2019-07-25 09:52:30,610][DEBUG|rankingParser.py:19] >> 173, kr.or.giro.android, ¸ð¹ÙÀÏÁö·Î
+[2019-07-25 09:52:30,619][DEBUG|rankingParser.py:19] >> 174, com.lgeha.nuts, LG SmartThinQ
+[2019-07-25 09:52:30,626][DEBUG|rankingParser.py:19] >> 175, com.astroframe.seoulbus, Ä«Ä«¿À¹ö½º
+[2019-07-25 09:52:30,632][DEBUG|rankingParser.py:19] >> 176, kr.tripstore.tripstore, Æ®¸³½ºÅä¾î - No.1 ÇØ¿ÜÆÐÅ°Áö¿©Çà °¡°Ýºñ±³ ¹× ¿¹¾à
+[2019-07-25 09:52:30,640][DEBUG|rankingParser.py:19] >> 177, com.cjoshppingphone, CJmall
+[2019-07-25 09:52:30,645][DEBUG|rankingParser.py:19] >> 178, com.samsung.android.app.watchmanager, Galaxy Wearable (Samsung Gear)
+[2019-07-25 09:52:30,652][DEBUG|rankingParser.py:19] >> 179, facesecret.scanner.camera, ¾È¸é ½ÃÅ©¸´ ½ºÄ³³Ê - ¿¡ÀÌÂ¡ Ä«¸Þ¶ó,¸¸È­ ±×¸² ÀÌ¸ðÆ¼ÄÜ
+[2019-07-25 09:52:30,658][DEBUG|rankingParser.py:19] >> 180, teamdoppelganger.smarterbus, Àü±¹ ½º¸¶Æ® ¹ö½º
+[2019-07-25 09:52:30,664][DEBUG|rankingParser.py:19] >> 181, com.agoda.mobile.consumer, ¾Æ°í´Ù(Agoda) - ¿©Çà °èÈ¹Àº ¾Æ°í´Ù¿Í ÇÔ²²! ¼÷¹Ú ¹× Ç×°ø±ÇÀ» ÃÊÆ¯°¡·Î ¿¹¾àÇÏ¼¼¿ä
+[2019-07-25 09:52:30,670][DEBUG|rankingParser.py:19] >> 182, com.coupang.mobile.eats, ÄíÆÎÀÌÃ÷ - ¸ÀÀÖ´Â À½½ÄÀ» ºü¸£°í ÆíÇÏ°Ô
+[2019-07-25 09:52:30,677][DEBUG|rankingParser.py:19] >> 183, kr.go.wetax.android, ½º¸¶Æ®À§ÅÃ½º
+[2019-07-25 09:52:30,683][DEBUG|rankingParser.py:19] >> 184, com.hcom.android, È£ÅÚ½º´åÄÄ: ÃÖÀú°¡ °´½Ç, È£ÅÚ, Ææ¼Ç ¸®Á¶Æ®¸¦ ÃÖ°í ÆòÁ¡ ¼÷¹Ú ¾îÇÃ·Î ¿¹¾àÇÏ¼¼¿ä
+[2019-07-25 09:52:30,689][DEBUG|rankingParser.py:19] >> 185, com.naver.vapp, ±Û·Î¹ú ½ºÅ¸ ¶óÀÌºê ¾Û V LIVE
+[2019-07-25 09:52:30,695][DEBUG|rankingParser.py:19] >> 186, com.chameleonsong.youtubekoreasong.song7080, 7080 °¡¿ä¸ðÀ½ - 7080 ³ë·¡ ¹«·áµè±â
+[2019-07-25 09:52:30,703][DEBUG|rankingParser.py:19] >> 187, com.nhn.android.nbooks, SERIES - ³×ÀÌ¹ö ½Ã¸®Áî
+[2019-07-25 09:52:30,709][DEBUG|rankingParser.py:19] >> 188, net.ib.android.smcard, »ï¼ºÄ«µå
+[2019-07-25 09:52:30,715][DEBUG|rankingParser.py:19] >> 189, com.tencent.mm, WeChat
+[2019-07-25 09:52:30,720][DEBUG|rankingParser.py:19] >> 190, com.nexstreaming.app.kinemasterfree, Å°³×¸¶½ºÅÍ(KineMaster) - µ¿¿µ»ó ÆíÁý±â
+[2019-07-25 09:52:30,726][DEBUG|rankingParser.py:19] >> 191, com.expedia.bookings, ÀÍ½ºÇÇµð¾Æ - Ç×°ø±Ç, È£ÅÚ, ¿©Çà °èÈ¹
+[2019-07-25 09:52:30,732][DEBUG|rankingParser.py:19] >> 192, com.digidust.elokence.akinator.freemium, Akinator
+[2019-07-25 09:52:30,740][DEBUG|rankingParser.py:19] >> 193, com.picsart.studio, PicsArt Photo Studio: ÄÝ¶óÁê ¸ÞÀÌÄ¿ & »çÁø ¿¡µðÅÍ
+[2019-07-25 09:52:30,746][DEBUG|rankingParser.py:19] >> 194, com.quvideo.xiaoying, VivaVideo - µ¿¿µ»ó ÆíÁý & Ä«¸Þ¶ó ÇÊÅÍ
+[2019-07-25 09:52:30,751][DEBUG|rankingParser.py:19] >> 195, com.dbs.kurly.m2, ¸¶ÄÏÄÃ¸®-³»ÀÏÀÇ Àåº¸±â
+[2019-07-25 09:52:30,758][DEBUG|rankingParser.py:19] >> 196, com.nsmobilehub, NSÈ¨¼îÇÎ
+[2019-07-25 09:52:30,764][DEBUG|rankingParser.py:19] >> 197, com.cloudmosa.puffinFree, Puffin Web Browser
+[2019-07-25 09:52:30,770][DEBUG|rankingParser.py:19] >> 198, com.estmob.android.sendanywhere, Send Anywhere (ÆÄÀÏÀü¼Û)
+[2019-07-25 09:52:30,776][DEBUG|rankingParser.py:19] >> 199, com.hy.sfacer, Fantastic Face¾ó±¼ ºÐ¼® ¹× ³ëÈ­ ¿¹Ãø
+[2019-07-25 09:52:30,783][DEBUG|rankingParser.py:19] >> 200, com.gain.trmedley, ¼Û°¡ÀÎ ³ë·¡¸ðÀ½ ¿ÏÀü¹«·á µè±â - ¼Û°¡ÀÎ Æ®·ÎÆ® ÀÎ±â°î ¸ðÀ½
+[2019-07-25 09:52:49,003][DEBUG|rankingParser.py:19] >> 1, me.sovs.sovs, SOVS - ÃÔ¿µºÎÅ¹ ÇÊ¼ö¾Û
+[2019-07-25 09:52:49,015][DEBUG|rankingParser.py:19] >> 2, eyu.on.pica, @picn2k camera (ÇÇÅ©´Ð Ä«¸Þ¶ó)
+[2019-07-25 09:52:49,022][DEBUG|rankingParser.py:19] >> 3, kr.co.lylstudio.unicorn, À¯´ÏÄÜ:±¤°íÂ÷´Ü ÇÊ¼ö ¾Öµåºí·Ï
+[2019-07-25 09:52:49,031][DEBUG|rankingParser.py:19] >> 4, com.godpeople.GPBIBLE, °«ÇÇÇÃ¼º°æ
+[2019-07-25 09:52:49,037][DEBUG|rankingParser.py:19] >> 5, com.newin.nplayer.pro, nPlayer
+[2019-07-25 09:52:49,044][DEBUG|rankingParser.py:19] >> 6, com.mxtech.videoplayer.pro, MX ÇÃ·¹ÀÌ¾î Pro
+[2019-07-25 09:52:49,051][DEBUG|rankingParser.py:19] >> 7, com.cloudmosa.puffin, Puffin Browser Pro
+[2019-07-25 09:52:49,059][DEBUG|rankingParser.py:19] >> 8, org.trecet.nowhere.tweet2gif.plus, Tweet2gif Plus
+[2019-07-25 09:52:49,066][DEBUG|rankingParser.py:19] >> 9, com.acadoid.lecturenotes, LectureNotes
+[2019-07-25 09:52:49,072][DEBUG|rankingParser.py:19] >> 10, com.fenixx.gameboosterplus, Game Booster  4x Faster (with advance settings)
+[2019-07-25 09:52:49,082][DEBUG|rankingParser.py:19] >> 11, com.utorrent.client.pro, Torrent¢ç Pro - Torrent App
+[2019-07-25 09:52:49,091][DEBUG|rankingParser.py:19] >> 12, com.choco.silentmode, ¹«À½¸ðµå (¼øÁ¤ ¹«À½Ä«¸Þ¶ó)
+[2019-07-25 09:52:49,098][DEBUG|rankingParser.py:19] >> 13, com.hs.toeic5finish, ÅäÀÍ PART5 Á¾°áÀÚ
+[2019-07-25 09:52:49,104][DEBUG|rankingParser.py:19] >> 14, com.binibambini.Mini, ¾î¸°ÀÌ¸¦ À§ÇÑ ±×¸®±â! Á¡¼± µû¶ó ±×¸®±â!
+[2019-07-25 09:52:49,111][DEBUG|rankingParser.py:19] >> 15, com.printedpropshop.dokkos2, Dokk OS 2
+[2019-07-25 09:52:49,118][DEBUG|rankingParser.py:19] >> 16, com.hancom.office.hwp.editor.hwp_apk.gplaystore, ÇÑÄÄ¿ÀÇÇ½º ÇÑ±Û 2014
+[2019-07-25 09:52:49,125][DEBUG|rankingParser.py:19] >> 17, kr.pe.designerj.airbudspopup, AirBuds Popup - airpod battery app (1st gen)
+[2019-07-25 09:52:49,132][DEBUG|rankingParser.py:19] >> 18, jp.snowlife01.android.mutecamera, ¹«À½¸ðµåPro
+[2019-07-25 09:52:49,140][DEBUG|rankingParser.py:19] >> 19, com.extreamsd.usbaudioplayerpro, USB Audio Player PRO
+[2019-07-25 09:52:49,146][DEBUG|rankingParser.py:19] >> 20, com.maxmpz.audioplayer.unlock, Poweramp Full Version Unlocker
+[2019-07-25 09:52:49,153][DEBUG|rankingParser.py:19] >> 21, com.jpbrothers.android.pictail.sub6, ÇÈÅ×ÀÏ - Limited Edition
+[2019-07-25 09:52:49,160][DEBUG|rankingParser.py:19] >> 22, com.etoos.wordmaster.sat20002018, Word master ¿öµå¸¶½ºÅÍ ¼ö´É 2000(18°³Á¤)
+[2019-07-25 09:52:49,166][DEBUG|rankingParser.py:19] >> 23, com.ccswe.appmanagerpro, CCSWE App Manager Pro License
+[2019-07-25 09:52:49,171][DEBUG|rankingParser.py:19] >> 24, com.apptrio.hi_fi_status, Hi-Fi Status(LG)
+[2019-07-25 09:52:49,178][DEBUG|rankingParser.py:19] >> 25, com.monotype.android.font.aa16yearsold, Aa½ÊÀ°»ì¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:49,187][DEBUG|rankingParser.py:19] >> 26, net.saltycrackers.daygram, µ¥ÀÌ±×·¥ - ÇÏ·ç ÇÑÁÙ ÀÏ±âÀå
+[2019-07-25 09:52:49,194][DEBUG|rankingParser.py:19] >> 27, com.tistory.es1015.kakao.theme.check2, ³ëÆ® Ä«ÅåÅ×¸¶ - ½ÉÇÃ Ä«ÅåÅ×¸¶ 8.0.0
+[2019-07-25 09:52:49,199][DEBUG|rankingParser.py:19] >> 28, slide.watchFrenzy.premium, Watch Face -WatchMaker Premium for Android Wear OS
+[2019-07-25 09:52:49,205][DEBUG|rankingParser.py:19] >> 29, com.simplemobiletools.gallery.pro, ½ÉÇÃ °¶·¯¸® Pro
+[2019-07-25 09:52:49,213][DEBUG|rankingParser.py:19] >> 30, com.realbyteapps.moneya, ÆíÇÑ°¡°èºÎ (+À½¼º, PC)
+[2019-07-25 09:52:49,219][DEBUG|rankingParser.py:19] >> 31, com.etoos.wordmaster.midhighlevel2016, Word Master ¿öµå¸¶½ºÅÍ Áßµî °í³­µµ(°³Á¤)
+[2019-07-25 09:52:49,227][DEBUG|rankingParser.py:19] >> 32, com.intsig.BizCardReader, CamCard (¸íÇÔ½ºÄ³³Ê ÇÑ±Û ÇÑÀÚ ÀÏ¾î µ¿½ÃÀÎ½Ä)
+[2019-07-25 09:52:49,233][DEBUG|rankingParser.py:19] >> 33, com.monotype.android.font.aaracoongulim, Aa³Ê±¸¸®±¼¸²¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:49,240][DEBUG|rankingParser.py:19] >> 34, com.intermedia.hd.camera.pro, HD Ä«¸Þ¶ó PRO  : ÃÖ°íÀÇ Àü¹® Ä«¸Þ¶ó ÀÀ¿ë ÇÁ·Î±×·¥
+[2019-07-25 09:52:50,545][DEBUG|rankingParser.py:19] >> 35, com.screwbar.gudakcamera, ±¸´Ú
+[2019-07-25 09:52:50,551][DEBUG|rankingParser.py:19] >> 36, noad.geulga, ¾Æ¶ó-¸¸È­ºä¾î,ÅØ½ºÆ®ºä¾î,½ºÄµºä¾î,¼Ò¼³ºä¾î
+[2019-07-25 09:52:50,558][DEBUG|rankingParser.py:19] >> 37, com.teslacoilsw.launcher.prime, Nova Launcher Prime
+[2019-07-25 09:52:50,564][DEBUG|rankingParser.py:19] >> 38, org.prowl.torque, Torque Pro (OBD2 / ÀÚµ¿Â÷)
+[2019-07-25 09:52:50,570][DEBUG|rankingParser.py:19] >> 39, com.intsig.lic.camscanner, CamScanner (License)
+[2019-07-25 09:52:50,576][DEBUG|rankingParser.py:19] >> 40, net.dinglisch.android.taskerm, Tasker
+[2019-07-25 09:52:50,582][DEBUG|rankingParser.py:19] >> 41, com.kakao.talk.theme.SummerShiba, ÈÞ°¡ÁßÀÌ´Ù ½Ã¹Ù - Ä«Ä«¿ÀÅå Å×¸¶
+[2019-07-25 09:52:50,590][DEBUG|rankingParser.py:19] >> 42, com.skydoves.secretreocder, ºñ¹Ð³ìÀ½ ÇÁ·Î (Secret Recorder Pro) - ³ìÀ½±â, °­ÀÇ³ìÀ½, ¸ô·¡³ìÀ½
+[2019-07-25 09:52:50,597][DEBUG|rankingParser.py:19] >> 43, com.elsebook.koreanhistory, Å«º°½Ü °³³ä ÇÑ±¹»ç
+[2019-07-25 09:52:50,602][DEBUG|rankingParser.py:19] >> 44, com.jake.TouchMacro, ÅÍÄ¡¸ÅÅ©·Î-ÀÚµ¿ÅÍÄ¡
+[2019-07-25 09:52:50,608][DEBUG|rankingParser.py:19] >> 45, com.kmplayerpro, µ¿¿µ»ó ÇÃ·¹ÀÌ¾î KM Pro - HD Player, 4K ºñµð¿À ÇÃ·¹ÀÌ¾î, ÄÚµ¦, ÀÚ¸·
+[2019-07-25 09:52:50,614][DEBUG|rankingParser.py:19] >> 46, org.androidtown.jckoreanradio, JC ÇÑ±¹ ¶óµð¿À Premium
+[2019-07-25 09:52:50,621][DEBUG|rankingParser.py:19] >> 47, com.orangeorapple.flashcards, Flashcards Deluxe
+[2019-07-25 09:52:50,629][DEBUG|rankingParser.py:19] >> 48, com.tistory.es1015.kakao.theme.halgneon, ¹Ý³×¿Â Ä«ÅåÅ×¸¶ - ½ÉÇÃ Ä«ÅåÅ×¸¶
+[2019-07-25 09:52:50,637][DEBUG|rankingParser.py:19] >> 49, bruenor.magicbox, Magic DosBox
+[2019-07-25 09:52:50,642][DEBUG|rankingParser.py:19] >> 50, com.realnumworks.focustimerpro, FocusTimer Pro - °øºÎ ½À°üÀÌ ¹Ù²î´Â ¾Û
+[2019-07-25 09:52:50,648][DEBUG|rankingParser.py:19] >> 51, com.defianttech.diskdiggerpro, DiskDigger Pro file recovery
+[2019-07-25 09:52:50,657][DEBUG|rankingParser.py:19] >> 52, psyberia.alpinequest.full, AlpineQuest Off-Road Explorer
+[2019-07-25 09:52:50,665][DEBUG|rankingParser.py:19] >> 53, com.orux.oruxmapsDonate, ¿À·è½º¸Ê µµ³×ÀÌÆ®
+[2019-07-25 09:52:50,670][DEBUG|rankingParser.py:19] >> 54, com.etoos.wordmaster.midskill2016, Word Master ¿öµå¸¶½ºÅÍ Áßµî ½Ç·Â
+[2019-07-25 09:52:50,677][DEBUG|rankingParser.py:19] >> 55, com.irmavep.app.libro, Ã¥²ÈÀÌ+ (µ¶¼­±â·Ï, µµ¼­°ü¸®)
+[2019-07-25 09:52:50,683][DEBUG|rankingParser.py:19] >> 56, jp.co.unbalance.tesou_ko, ¼Õ±Ý Áø´Ü
+[2019-07-25 09:52:50,689][DEBUG|rankingParser.py:19] >> 57, com.appstar.callrecorderpro, ÅëÈ­ ³ìÀ½ Pro
+[2019-07-25 09:52:50,694][DEBUG|rankingParser.py:19] >> 58, com.seankimworks.sentencemaster, ¼¾ÅÙ½º ¸¶½ºÅÍ
+[2019-07-25 09:52:50,700][DEBUG|rankingParser.py:19] >> 59, com.quvideo.xiaoying.pro, VivaVideo PRO ºñµð¿À ÆíÁý HD
+[2019-07-25 09:52:50,706][DEBUG|rankingParser.py:19] >> 60, com.tss21.input.korean, TS ÇÑ±Û Å°º¸µå Pro-ÃµÁöÀÎ2
+[2019-07-25 09:52:50,713][DEBUG|rankingParser.py:19] >> 61, com.nhn.android.phrasebookplus, ³×ÀÌ¹ö 15°³±¹ ±Û·Î¹úÈ¸È­ Plus-¾ð¾îº° 4000¹®Àå
+[2019-07-25 09:52:50,720][DEBUG|rankingParser.py:19] >> 62, com.hs.sutuksuwan20plus, 20 ¼öÆ¯+¼ö¿Ï ´Ü¾îPlus: ºóÃâ ¿ì¼± ´Ü¾î ÃÑÁ¤¸®
+[2019-07-25 09:52:50,726][DEBUG|rankingParser.py:19] >> 63, com.nicky.jiung.domagic, ¿ì¿Í! - È­¸éÀ» ±ú°í µ¿ÀüÀÌ ³ª¿À´Â ¸¶¼ú¾Û!
+[2019-07-25 09:52:50,732][DEBUG|rankingParser.py:19] >> 64, com.jinhak.vocaicon_middle_pro, ±×¸²¾î¿ø ÁßÇÐ VOCA Pro + Ã¹ È­¸é ÄûÁî
+[2019-07-25 09:52:50,738][DEBUG|rankingParser.py:19] >> 65, kr.review.lifesaju, Çö´ë»çÁÖ - Çö´ëÀÎÀ» À§ÇÑ »çÁÖÇ®ÀÌ ¹é°ú
+[2019-07-25 09:52:50,744][DEBUG|rankingParser.py:19] >> 66, com.doosandonga.app.dictionary.primeengkor, ÇÁ¶óÀÓ ¿µÇÑÇÑ¿µ»çÀü
+[2019-07-25 09:52:50,750][DEBUG|rankingParser.py:19] >> 67, com.imageline.FLM, FL Studio Mobile
+[2019-07-25 09:52:50,757][DEBUG|rankingParser.py:19] >> 68, com.monotype.android.font.enamored365, 365È¦µü¹ÝÇß¾î¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:50,763][DEBUG|rankingParser.py:19] >> 69, com.monotype.android.font.aaflutter, Aa¼³·½ÁÖÀÇ¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:50,769][DEBUG|rankingParser.py:19] >> 70, handasoft.mobile.divination_pro, 2019 Á¡½ÅPRO : ¿À´ÃÀÇ ¿î¼¼, »çÁÖÀÇ ¿ÏÀüÆÇ
+[2019-07-25 09:52:50,778][DEBUG|rankingParser.py:19] >> 71, com.arobasmusic.guitarpro, Guitar Pro
+[2019-07-25 09:52:50,785][DEBUG|rankingParser.py:19] >> 72, com.x0.strai.frepkey, FRep Unlock Key
+[2019-07-25 09:52:50,793][DEBUG|rankingParser.py:19] >> 73, com.pdp.deviceowner, Package Disabler Pro ( Owner APP) All Android
+[2019-07-25 09:52:50,800][DEBUG|rankingParser.py:19] >> 74, com.noctuasoftware.stellarium, Stellarium Mobile ÇÏ´ÃÁöµµ
+[2019-07-25 09:52:50,806][DEBUG|rankingParser.py:19] >> 75, com.devguru.eltwomonusb, TwomonUSB(Åõ¸óUSB) - USB¸ð´ÏÅÍ
+[2019-07-25 09:52:50,812][DEBUG|rankingParser.py:19] >> 76, com.mesoft.meplayer, ¿µÈ­º¸¸ç ¿µ¾î°øºÎ - ¹è¼ÓÀç»ý ¹ÌÇÃ·¹ÀÌ¾î¹«ºñÇÁ·Î ¾îÇÐ¿ë µ¿¿µ»ó ÇÃ·¹ÀÌ¾î
+[2019-07-25 09:52:50,818][DEBUG|rankingParser.py:19] >> 77, com.monotype.android.font.aakingoffont, AaÆùÆ®ÀÇ¿Õ¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:50,826][DEBUG|rankingParser.py:19] >> 78, com.etoos.wordmaster.highbasic2016, Word Master ¿öµå¸¶½ºÅÍ °íµî BASIC
+[2019-07-25 09:52:50,858][DEBUG|rankingParser.py:19] >> 79, com.softchaser.iKnowYouP, ÁöÇÇÁö±â (»çÁÖ,¿î¼¼,±ÃÇÕ,ÅäÁ¤ºñ°á,ÀÌ¸§,ÇØ¸ù)
+[2019-07-25 09:52:50,864][DEBUG|rankingParser.py:19] >> 80, com.minjok.pjdic, Ä£ÀÏÀÎ¸í»çÀü
+[2019-07-25 09:52:50,869][DEBUG|rankingParser.py:19] >> 81, com.one.ui.s10.iconpack, ONE UI Icon Pack : S10
+[2019-07-25 09:52:50,878][DEBUG|rankingParser.py:19] >> 82, com.jetappfactory.jetaudioplus, Á¦Æ®¿Àµð¿À ÇÃ·¯½º - °íÇØ»óµµ À½¿ø Àç»ý ¹ÂÁ÷ ÇÃ·¹ÀÌ¾î
+[2019-07-25 09:52:50,889][DEBUG|rankingParser.py:19] >> 83, com.kmshack.mute, ¹«À½¸ðµå  (±âº» Ä«¸Þ¶ó ¹«À½)
+[2019-07-25 09:52:50,898][DEBUG|rankingParser.py:19] >> 84, com.etoos.wordmaster.sat20002016, Word master ¿öµå¸¶½ºÅÍ ¼ö´É 2000(°³Á¤)
+[2019-07-25 09:52:50,906][DEBUG|rankingParser.py:19] >> 85, com.tedkim88.fitnesscounter_kr, ¿îµ¿ °³¼ö ¼¼±â - Çï½º, ¿ä°¡ Ä«¿îÆ® Æ®·¹ÀÌ³Ê
+[2019-07-25 09:52:50,914][DEBUG|rankingParser.py:19] >> 86, com.limeberry.dansoomhanja, ´Ü¼û ÀÏº»¾îÇÑÀÚ (ÀÏº»¾î »ó¿ëÇÑÀÚ)
+[2019-07-25 09:52:50,921][DEBUG|rankingParser.py:19] >> 87, inc.trilokia.gfxtool, Gamers GLTool Pro with Game Turbo & Game Tuner
+[2019-07-25 09:52:50,928][DEBUG|rankingParser.py:19] >> 88, com.elsebook.handal, ÇÑ±Û ´ÞÀÎ - ¸ÂÃã¹ý °øºÎ
+[2019-07-25 09:52:50,940][DEBUG|rankingParser.py:19] >> 89, com.ss.edgegestures, ¿§Áö Á¦½ºÃ³
+[2019-07-25 09:52:50,952][DEBUG|rankingParser.py:19] >> 90, com.appbank.easybible, ¾Æ°¡Æä ½¬¿î¼º°æ
+[2019-07-25 09:52:50,959][DEBUG|rankingParser.py:19] >> 91, kr.co.trutory.bandalmun.public9, 9±Þ °ø¹«¿ø ±âÃâ¹®Á¦ ÇØ¼³Áý
+[2019-07-25 09:52:50,965][DEBUG|rankingParser.py:19] >> 92, eu.thedarken.sdm.unlocker, SD Maid Pro - ¾ð¶ôÄ¿
+[2019-07-25 09:52:50,971][DEBUG|rankingParser.py:19] >> 93, com.etoos.wordmaster.midbasic2016, Word Master ¿öµå¸¶½ºÅÍ Áßµî ±âÃÊ
+[2019-07-25 09:52:50,977][DEBUG|rankingParser.py:19] >> 94, com.flyersoft.moonreaderp, Moon+ Reader Pro
+[2019-07-25 09:52:50,983][DEBUG|rankingParser.py:19] >> 95, com.daolsoft.ybmeke, YBM ¿ÃÀÎ¿Ã ¿µÇÑ¿µ ÇÃ·¯½º »çÀü
+[2019-07-25 09:52:50,989][DEBUG|rankingParser.py:19] >> 96, com.panda.gamebooster, Panda Game Booster & GFX Tool for Battleground
+[2019-07-25 09:52:50,997][DEBUG|rankingParser.py:19] >> 97, com.visiblebody.atlas, Human Anatomy Atlas 2019:Complete 3D Human Body
+[2019-07-25 09:52:51,003][DEBUG|rankingParser.py:19] >> 98, com.digipom.easyvoicerecorder.pro, ÀÌÁö º¸ÀÌ½º ·¹ÄÚ´õ ÇÁ·Î
+[2019-07-25 09:52:51,010][DEBUG|rankingParser.py:19] >> 99, com.enex2.popdiary, POPdiary+ : ÀÏ±â, ´ÙÀÌ¾î¸®
+[2019-07-25 09:52:51,017][DEBUG|rankingParser.py:19] >> 100, com.monotype.android.font.badhandwriting365, 365¹ß²Ù¶ô±Û¾¾¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:51,023][DEBUG|rankingParser.py:19] >> 101, inc.trilokia.pubgfxtool, PUB Gfx+ Tool:#1 GFX Tool(with advance settings)
+[2019-07-25 09:52:51,029][DEBUG|rankingParser.py:19] >> 102, com.ithersta.stardewvalleyplanner, Assistant for Stardew Valley
+[2019-07-25 09:52:51,035][DEBUG|rankingParser.py:19] >> 103, com.SimG.SimForklift, Áö°ÔÂ÷ ¸éÇã½ÃÇè ½Ã¹Ä·¹ÀÌÅÍ
+[2019-07-25 09:52:51,041][DEBUG|rankingParser.py:19] >> 104, xyz.masmas.film.cloudy, Å¬¶ó¿ìµð ÇÊ¸§ - Èå¸² ÇÊÅÍ ¿Ïº® ±¸Çö!
+[2019-07-25 09:52:51,046][DEBUG|rankingParser.py:19] >> 105, jjong.kim.rotationcontrol_pro, È­¸éÈ¸Àü pro
+[2019-07-25 09:52:51,052][DEBUG|rankingParser.py:19] >> 106, com.modelmakertools.simplemindpro, SimpleMind Pro - Intuitive Mind Mapping
+[2019-07-25 09:52:51,062][DEBUG|rankingParser.py:19] >> 107, com.vitotechnology.StarWalk2, Star Walk 2 - ÇÏ´ÃÁöµµ£ºº°ÀÚ¸® Ã£±â, ½ºÅ¸Áöµµ, Áõ°­ Çö½Ç Ãµ¹®ÇÐ
+[2019-07-25 09:52:51,067][DEBUG|rankingParser.py:19] >> 108, com.nll.acr.license, ACR License
+[2019-07-25 09:52:51,073][DEBUG|rankingParser.py:19] >> 109, com.marinetraffic.android, MarineTraffic ship positions
+[2019-07-25 09:52:51,078][DEBUG|rankingParser.py:19] >> 110, com.monotype.android.font.aaloafaround, AaºóµÕ±Û¾¾¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:51,084][DEBUG|rankingParser.py:19] >> 111, kr.co.topaz7company.blackbox, ºí·¢¹Ú½ºX ¸ô·¡Ä«¸Þ¶ó
+[2019-07-25 09:52:51,090][DEBUG|rankingParser.py:19] >> 112, com.neutroncode.mp, Neutron Music Player
+[2019-07-25 09:52:51,095][DEBUG|rankingParser.py:19] >> 113, com.grill.psjoy, PSJoy: PC Remote Play Spy for PS4
+[2019-07-25 09:52:51,103][DEBUG|rankingParser.py:19] >> 114, com.chanel.weather.forecast.accu.pro, ÀÏ±â ¿¹º¸ Àü¹®°¡
+[2019-07-25 09:52:51,119][DEBUG|rankingParser.py:19] >> 115, kr.co.trutory.bandalmun.public7, 7±Þ °ø¹«¿ø ±âÃâ¹®Á¦ ÇØ¼³Áý
+[2019-07-25 09:52:51,126][DEBUG|rankingParser.py:19] >> 116, vr.audio.voicerecorderpro, À½¼º ·¹ÄÚ´õ ÇÁ·Î
+[2019-07-25 09:52:51,133][DEBUG|rankingParser.py:19] >> 117, com.frozenape.tempo, Metronome: Tempo ¸ÞÆ®·Î³ð
+[2019-07-25 09:52:51,139][DEBUG|rankingParser.py:19] >> 118, com.tocaboca.tocahairsalon3, Toca Hair Salon 3
+[2019-07-25 09:52:51,147][DEBUG|rankingParser.py:19] >> 119, kr.co.trutory.pass2pass.historyhigh, ÇÑ±¹»ç´É·Â°ËÁ¤½ÃÇè °í±Þ ÇØ¼³Áý
+[2019-07-25 09:52:51,154][DEBUG|rankingParser.py:19] >> 120, com.devguru.ntwomon, Twomon SE (Åõ¸ó SE) - ÈÞ´ë¿ë µð½ºÇÃ·¹ÀÌ, USB ¸ð´ÏÅÍ
+[2019-07-25 09:52:51,497][DEBUG|rankingParser.py:19] >> 121, com.global.tarotmasterpro, Å¸·Î¸¶½ºÅÍ Pro-¿À´ÃÀÇÅ¸·Î
+[2019-07-25 09:52:51,503][DEBUG|rankingParser.py:19] >> 122, com.ss.launcher2.key, ÅäÅ» ·±Ã³ Å°
+[2019-07-25 09:52:51,508][DEBUG|rankingParser.py:19] >> 123, com.pixelcurves.tlauncher, TL Mods
+[2019-07-25 09:52:51,516][DEBUG|rankingParser.py:19] >> 124, co.byeol.hanneung, ÇÑ±¹»ç ´É·Â
+[2019-07-25 09:52:51,522][DEBUG|rankingParser.py:19] >> 125, cz.zdenekhorak.mibandtools, Tools & Mi Band
+[2019-07-25 09:52:51,528][DEBUG|rankingParser.py:19] >> 126, com.nynix.knots3d, ¸Åµì ¾Û 3D  ( Knots 3D )
+[2019-07-25 09:52:51,533][DEBUG|rankingParser.py:19] >> 127, new_chalkboard.katalk.crayon, Ä¥ÆÇ Ä«Ä«¿ÀÅå Å×¸¶ VER2
+[2019-07-25 09:52:51,538][DEBUG|rankingParser.py:19] >> 128, com.myscript.nebo, MyScript Nebo ³×º¸
+[2019-07-25 09:52:51,546][DEBUG|rankingParser.py:19] >> 129, com.kakao.talk.theme.Okcheori_FreshSummer, ¿ÁÃ¶ÀÌ_½Ì±×·¯¿î¿©¸§ Ä«ÅåÅ×¸¶
+[2019-07-25 09:52:51,552][DEBUG|rankingParser.py:19] >> 130, com.etoos.wordmaster.sat.word_complete.v2015, Word Master ¿öµå¸¶½ºÅÍ ¼ö´É¾îÈÖ¿Ï¼º
+[2019-07-25 09:52:51,558][DEBUG|rankingParser.py:19] >> 131, com.inergy.pocketkorea, Æ÷ÄÏÇÑ±¹»ç
+[2019-07-25 09:52:51,565][DEBUG|rankingParser.py:19] >> 132, com.daolsoft.jawonhanja, ÀÚ¿øÇ®ÀÌ ÇÑÀÚ 1900
+[2019-07-25 09:52:51,571][DEBUG|rankingParser.py:19] >> 133, com.jb.babycrying_paid, ¾Æ±â ¿ïÀ½ ¾Ë¸®¹Ì (¾Æ±â ¼ö¸é ¸ð´ÏÅÍ & ¾Ë¶÷ & ÀÚÀå°¡)
+[2019-07-25 09:52:51,578][DEBUG|rankingParser.py:19] >> 134, com.monotype.android.font.aabeyours, Aa³²Ä£ÇØÁÙ°Ô¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:51,586][DEBUG|rankingParser.py:19] >> 135, com.wolfram.android.alpha, WolframAlpha
+[2019-07-25 09:52:51,593][DEBUG|rankingParser.py:19] >> 136, com.massimobiolcati.irealb, iReal Pro  À½¾ÇÃ¥ & ¹ÝÁÖ
+[2019-07-25 09:52:51,601][DEBUG|rankingParser.py:19] >> 137, com.elsebook.handal.spacing, ¶ç¾î¾²±â
+[2019-07-25 09:52:51,610][DEBUG|rankingParser.py:19] >> 138, com.mani.maniadministration, ¸¶´Ï ÇàÁ¤ÇÐ
+[2019-07-25 09:52:51,618][DEBUG|rankingParser.py:19] >> 139, com.affinityblue.tunable, Tunable: Music Practice Tools
+[2019-07-25 09:52:51,623][DEBUG|rankingParser.py:19] >> 140, com.acrosoft.sajupedia, »çÁÖ´ëÀü-¿î¼¼,¸í¸®,ÅäÁ¤ºñ°á,±Í°î,±ÃÇÕ,ÅÃÀÏ,¼º¸í,²Þ
+[2019-07-25 09:52:51,629][DEBUG|rankingParser.py:19] >> 141, com.runtastic.android.squats.pro, Runtastic Squats PRO½ºÄõÆ® ´Ù¸®»ì»©±â
+[2019-07-25 09:52:51,636][DEBUG|rankingParser.py:19] >> 142, com.junapps.BibleLexOriDic, ¹ÙÀÌºí·º½º ¼º°æº»¹®ÇØ¼®»çÀü
+[2019-07-25 09:52:51,644][DEBUG|rankingParser.py:19] >> 143, com.entusapps.play2, PL@Y 2 - ÇÁ¸®¹Ì¾ö Æ¼ÄÏºÏ + Æ÷ÅäÄ¶¸°´õ ( ÇÃ·¹ÀÌ¾Û, PL@Y2 )
+[2019-07-25 09:52:51,653][DEBUG|rankingParser.py:19] >> 144, com.phigolf.golfnavipro, GOLF NAVI Pro
+[2019-07-25 09:52:51,662][DEBUG|rankingParser.py:19] >> 145, net.liveatc.liveatc_app, LiveATC for Android
+[2019-07-25 09:52:51,668][DEBUG|rankingParser.py:19] >> 146, com.panda.gamepad, Panda Gamepad Pro (BETA)
+[2019-07-25 09:52:51,674][DEBUG|rankingParser.py:19] >> 147, com.go9android.subwaysmarthelper21, ÁöÇÏÃ¶ ¾îµðÀÖ´Ï
+[2019-07-25 09:52:51,680][DEBUG|rankingParser.py:19] >> 148, com.runtastic.android.pushup.pro, Runtastic Push-Ups PRO ÆÈ±ÁÇôÆì±â
+[2019-07-25 09:52:51,685][DEBUG|rankingParser.py:19] >> 149, com.kakao.talk.theme.Okcheori_NightAir, ¿ÁÃ¶ÀÌ_±âºÐÁÁÀº ¹ã°ø±â Ä«ÅåÅ×¸¶
+[2019-07-25 09:52:51,691][DEBUG|rankingParser.py:19] >> 150, maa.vaporwavewallpaperspro, Vaporwave Wallpapers PRO  (NO ADS)
+[2019-07-25 09:52:51,700][DEBUG|rankingParser.py:19] >> 151, com.hiqrecorder.full, Hi-Q MP3 À½¼º ³ìÀ½±â (Ç®¹öÀü)
+[2019-07-25 09:52:51,707][DEBUG|rankingParser.py:19] >> 152, com.lensesdev.manual.camera.pro, ¼öµ¿ Ä«¸Þ¶ó : DSLR Ä«¸Þ¶ó Àü¹®
+[2019-07-25 09:52:51,714][DEBUG|rankingParser.py:19] >> 153, xsoftstudio.musicplayer.pro, Poweraudio Pro Music Player
+[2019-07-25 09:52:51,721][DEBUG|rankingParser.py:19] >> 154, com.hompee.mybible.billiard_new, ´ç±¸ 3Äí¼Ç ½Ã½ºÅÛ À¯·á
+[2019-07-25 09:52:51,727][DEBUG|rankingParser.py:19] >> 155, com.advasoft.touchretouch, TouchRetouch
+[2019-07-25 09:52:51,733][DEBUG|rankingParser.py:19] >> 156, com.tbig.playerpro, PlayerPro Music Player
+[2019-07-25 09:52:51,741][DEBUG|rankingParser.py:19] >> 157, com.speedsoftware.rootexplorer, Root Explorer
+[2019-07-25 09:52:51,747][DEBUG|rankingParser.py:19] >> 158, com.yongcalcompany.JlptVip, È¸µ¶JLPT(À¯·á)
+[2019-07-25 09:52:51,753][DEBUG|rankingParser.py:19] >> 159, kr.co.bausoft.JpmrM, °­ÇåÀÇ ÁÂÆÄ¸í¸®ÇÐ
+[2019-07-25 09:52:51,760][DEBUG|rankingParser.py:19] >> 160, com.acadoid.lecturerecordings, LectureRecordings
+[2019-07-25 09:52:51,767][DEBUG|rankingParser.py:19] >> 161, com.wakdev.nfctools.pro, NFC Tools - Pro Edition
+[2019-07-25 09:52:51,777][DEBUG|rankingParser.py:19] >> 162, com.dev47apps.droidcamx, DroidCamX Wireless Webcam Pro
+[2019-07-25 09:52:51,786][DEBUG|rankingParser.py:19] >> 163, com.softchaser.iDosaPhone, µµ»çÆù (¸¸¼¼·Â ¿ªÇÐ µµ±¸)
+[2019-07-25 09:52:51,794][DEBUG|rankingParser.py:19] >> 164, com.lge.wsdeveloper.ux8.oneui, [UX8] OneUI/Galaxy S10 Theme LG G8 V50 V40 Pie
+[2019-07-25 09:52:51,806][DEBUG|rankingParser.py:19] >> 165, com.hackers.app.toeiclistening, ÇØÄ¿½º¸®½º´×ÇÙ½ÉÆí ÅäÀÍ - TOEIC ÅäÀÍ´Ü¾î ÅäÀÍ°øºÎ
+[2019-07-25 09:52:51,819][DEBUG|rankingParser.py:19] >> 166, com.apedroid.hwkeyboardhelper, External Keyboard Helper Pro
+[2019-07-25 09:52:51,836][DEBUG|rankingParser.py:19] >> 167, pro.gif.videotogif.gifeditor.gifmaker, GIF ¸ÞÀÌÄ¿, GIF ÆíÁý±â, µ¿¿µ»ó ¸ÞÀÌÄ¿, VideoÀ» GIF·Î Pro
+[2019-07-25 09:52:51,861][DEBUG|rankingParser.py:19] >> 168, com.tocaboca.tocahospital, Toca Life: Hospital
+[2019-07-25 09:52:51,870][DEBUG|rankingParser.py:19] >> 169, com.plantools.fpactivity, + PLANNER (ÇÃ·¯½º ÇÃ·¡³Ê)
+[2019-07-25 09:52:51,884][DEBUG|rankingParser.py:19] >> 170, udk.android.reader, ezPDF Reader PDF - ÆäÀÌÆÛ¸®½º ¸®´õ
+[2019-07-25 09:52:51,895][DEBUG|rankingParser.py:19] >> 171, com.monotype.android.font.aaspring3, Aaº½º½º½¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:51,904][DEBUG|rankingParser.py:19] >> 172, net.headnum.kream.ktm.unlocker, Ä«Å×¸¸ PRO - Ä«Ä«¿ÀÅå Å×¸¶ ¸¸µé±â
+[2019-07-25 09:52:51,912][DEBUG|rankingParser.py:19] >> 173, com.filmic.filmicpro, FiLMiC Pro: ÇÁ·Î HD ¼öµ¿ ºñµð¿À Ä«¸Þ¶ó ¾îÇÃ
+[2019-07-25 09:52:51,918][DEBUG|rankingParser.py:19] >> 174, com.monotype.android.font.aamayfivedays, Aa¿À¿ù¿ÀÀÏ¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:51,926][DEBUG|rankingParser.py:19] >> 175, com.monotype.android.font.aaniceguy, AaÂøÇÑ³²ÀÚ¢â ÇÑ±¹¾îFlipfont
+[2019-07-25 09:52:51,942][DEBUG|rankingParser.py:19] >> 176, com.cateater.stopmotionstudiopro, Stop Motion Studio Pro
+[2019-07-25 09:52:51,957][DEBUG|rankingParser.py:19] >> 177, air.com.alenddl.AltongEngFull, ¾ËÅë¿©Çà¿µ¾î Full
+[2019-07-25 09:52:51,964][DEBUG|rankingParser.py:19] >> 178, com.monotype.android.font.rixtodaytoon, Rix¿À´ÃÀÇ¸¸È­¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:51,973][DEBUG|rankingParser.py:19] >> 179, example.matharithmetics_pro, ¼öÇÐ Æ®¸¯(¾Ï»ê ¿¬½À) PRO
+[2019-07-25 09:52:51,981][DEBUG|rankingParser.py:19] >> 180, jjong.kim.securitycard_m_1500, º¸¾ÈÄ«µå+ pro
+[2019-07-25 09:52:51,989][DEBUG|rankingParser.py:19] >> 181, com.wordnet.dic.synonym, (ÁÖ)³¹¸» - ¿ì¸®¸» À¯ÀÇ¾î »çÀü
+[2019-07-25 09:52:51,997][DEBUG|rankingParser.py:19] >> 182, com.ton.tarotofozpay, ¿ÀÁîÀÇÅ¸·Î+ - Å¸·Î, Å¸·ÎÄ«µå, Å¸·ÎÁ¡, ¿î¼¼
+[2019-07-25 09:52:52,003][DEBUG|rankingParser.py:19] >> 183, com.ss.powershortcuts, ÆÄ¿ö ¼îÄÆ (Power Shortcuts) - °­·ÂÇÑ ¹Ù·Î°¡±â »ý¼º!
+[2019-07-25 09:52:52,011][DEBUG|rankingParser.py:19] >> 184, com.shopmoment.momentprocamera, Moment Pro Camera
+[2019-07-25 09:52:52,021][DEBUG|rankingParser.py:19] >> 185, com.sheet.music, ³» À½¾Ç Á¡¼ö - ¾Çº¸ ºä¾î, ¹ÂÁ÷ ½ºÄ³³Ê
+[2019-07-25 09:52:52,029][DEBUG|rankingParser.py:19] >> 186, com.cleo.unse.cheonha, ÃµÇÏ¿î¼¼ (¿î¼¼, »çÁÖ, ±ÃÇÕ)
+[2019-07-25 09:52:52,036][DEBUG|rankingParser.py:19] >> 187, com.simplevision.workout.tabataadfree, Tabata TimerÅ¸¹ÙÅ¸ ¿îµ¿ Å¸ÀÌ¸Ó Ad Free
+[2019-07-25 09:52:52,044][DEBUG|rankingParser.py:19] >> 188, com.jpbrothers.android.pictail.sub3, ÇÈÅ×ÀÏ -  BlueHawaii
+[2019-07-25 09:52:52,052][DEBUG|rankingParser.py:19] >> 189, net.n.holybible.gnh, È¦¸®¹ÙÀÌºí(ÇÑ¿µ ¿Àµð¿À,»çÀü ¼º°æ,»õÂù¼Û°¡,NIV)
+[2019-07-25 09:52:52,060][DEBUG|rankingParser.py:19] >> 190, xyz.masmas.film.analog, ¾Æ³¯·Î±× ÇÊ¸§ - ¿¾ Çâ¼ö °¡µæÇÑ Àü¹®°¡¿ë »çÁø ÇÊÅÍ ¾Û!
+[2019-07-25 09:52:52,068][DEBUG|rankingParser.py:19] >> 191, com.ngocgiap.lgtheme.black.g7, Black theme for LG G8 V50 V40 V35 G7 (V30 Pie)
+[2019-07-25 09:52:52,074][DEBUG|rankingParser.py:19] >> 192, yuns27.electriccertificationsecondexam, Àü±â±â»ç »ê¾÷±â»ç ½Ç±â ÇÙ½É Á¤¸®
+[2019-07-25 09:52:52,081][DEBUG|rankingParser.py:19] >> 193, com.prehensivefortunepremium, ¿î¼¼ºñ°á ÇÁ¸®¹Ì¾ö  ±¤°í Á¦°Å ¹öÀü
+[2019-07-25 09:52:52,088][DEBUG|rankingParser.py:19] >> 194, com.monotype.android.font.handwriting365, 365³»°¡¾´±Û¾¾¢â ÇÑ±¹¾î Flipfont
+[2019-07-25 09:52:52,095][DEBUG|rankingParser.py:19] >> 195, com.embibleR, ¹Ì°¡¿¤ ¼º°æ (°³¿ª°³Á¤)
+[2019-07-25 09:52:52,102][DEBUG|rankingParser.py:19] >> 196, com.elsebook.handal.sokdam, ¿ì¸® ¼Ó´ã
+[2019-07-25 09:52:52,113][DEBUG|rankingParser.py:19] >> 197, kr.co.trutory.bandalmun.policeexam, °æÂû°ø¹«¿ø ÇØ¼³Áý
+[2019-07-25 09:52:52,120][DEBUG|rankingParser.py:19] >> 198, com.panda.keymapper.bit64, Panda Keymapper 64bit -  Gamepad,mouse,keyboard
+[2019-07-25 09:52:52,126][DEBUG|rankingParser.py:19] >> 199, com.simi.screenlockpaid, È­¸é Àá±Ý(¹Ù·Î °¡±â ¸Þ´º)(±¤°í ¾øÀ½)
+[2019-07-25 09:52:52,134][DEBUG|rankingParser.py:19] >> 200, com.kapp.ifont.donate, ¾ÆÀÌÆùÆ®(±Û²Ã Àü¹®°¡)
+[2019-07-25 09:53:11,684][DEBUG|rankingParser.py:19] >> 1, kr.co.lylstudio.unicorn, «æ«Ë«³«ó:Í±«Ö«í«Ã«¯ù±âÎ«¢«×«ê
+[2019-07-25 09:53:11,708][DEBUG|rankingParser.py:19] >> 2, jp.snowlife01.android.mutecamera, «««á«éÙíëåûùPro£¨øöñÞ«««á«éªä«Ó«Ç«ªªâèÇîïÙíëåûù£©
+[2019-07-25 09:53:11,720][DEBUG|rankingParser.py:19] >> 3, com.sony.tvsideview.dtcpplayer, Video & TV SideView«×«ì«ä«×«é«°«¤«ó
+[2019-07-25 09:53:11,727][DEBUG|rankingParser.py:19] >> 4, com.maxmpz.audioplayer.unlock, Poweramp Full Version Unlocker
+[2019-07-25 09:53:11,734][DEBUG|rankingParser.py:19] >> 5, jp.sisyou.kumikashi.mutedefaultcamera, øöñÞ«««á«éªòÙíëåûù¡¡Ùíëå«â«É«¢«×«ê£¨«««á«é÷åûù÷ú£©¡¡«¹«¯«·«çªÏâ¢ÔÑï·ôðªÇ
+[2019-07-25 09:53:11,740][DEBUG|rankingParser.py:19] >> 6, com.beliefengine.handyapp, HANDY «Ç«Ã«µ«óéÄ«â«Ç«ë«Ä«ë
+[2019-07-25 09:53:11,748][DEBUG|rankingParser.py:19] >> 7, com.teslacoilsw.launcher.prime, Nova Launcher Prime
+[2019-07-25 09:53:11,755][DEBUG|rankingParser.py:19] >> 8, com.simplemobiletools.gallery.pro, «·«ó«×«ë «®«ã«é«ê Pro
+[2019-07-25 09:53:11,762][DEBUG|rankingParser.py:19] >> 9, jp.sisyou.kumikashi.allmutemode, Ùíëå«â«É£¨øöñÞ«««á«éªÎÙíëåûùªòúÞ£©«««á«é«ß«å«È¡¡«¹«¯«·«çªÏâ¢ÔÑÙíëåûùªÇ
+[2019-07-25 09:53:11,772][DEBUG|rankingParser.py:19] >> 10, com.justsystems.atokmobile.service, ATOK (ìíÜâåÞìýÕô«·«¹«Æ«à)
+[2019-07-25 09:53:11,782][DEBUG|rankingParser.py:19] >> 11, com.digipom.easyvoicerecorder.pro, ÊÛ«Ü«¤«¹«ì«³«À«×«í
+[2019-07-25 09:53:11,789][DEBUG|rankingParser.py:19] >> 12, com.ultimate_math.cubecutapp, Ï¼Ð¿ªÎØ¡£¼ï·£¾
+[2019-07-25 09:53:11,796][DEBUG|rankingParser.py:19] >> 13, com.pasoya.orbis, «ª«Ó«¹«¬«¤«É - ì¹ÔÑãÒ«ª«Ó«¹ «Í«º«ßøÚªê Ùý ÷×Î¦×Û
+[2019-07-25 09:53:11,802][DEBUG|rankingParser.py:19] >> 14, studypro.spi.higengo, SPIÞªåëåÞ ¡¼Study Pro¡½
+[2019-07-25 09:53:11,809][DEBUG|rankingParser.py:19] >> 15, jp.co.gamegate.takagisan.takagi, ª«ªéª«ª¤ß¾â¢ªÎÍÔÙÊªµªó«¢«é«à
+[2019-07-25 09:53:11,816][DEBUG|rankingParser.py:19] >> 16, jp.tanyu.SmartAlarm, «¹«Þ«È«¢«é«à £¨ÙÍªÞª·ãÁÍª£©
+[2019-07-25 09:53:11,823][DEBUG|rankingParser.py:19] >> 17, com.mxtech.videoplayer.pro, MX Player Pro
+[2019-07-25 09:53:11,831][DEBUG|rankingParser.py:19] >> 18, com.onkyo.jp.hfplayer_unlocker, Onkyo HF Player Unlocker
+[2019-07-25 09:53:11,842][DEBUG|rankingParser.py:19] >> 19, com.mobisystems.fonts, OfficeSuite Font Pack
+[2019-07-25 09:53:11,849][DEBUG|rankingParser.py:19] >> 20, net.dinglisch.android.taskerm, Tasker
+[2019-07-25 09:53:11,854][DEBUG|rankingParser.py:19] >> 21, jp.com.snow.contactsxpro, ï³ü¥íãX - ï³ü¥ & Ö§Õ©à»«¢«×«ê
+[2019-07-25 09:53:11,860][DEBUG|rankingParser.py:19] >> 22, com.komado.Odyssey.com.nifty.homepage2, èÇîïÙíëå«Ó«Ç«ª«««á«é¡¡4KÍÔòõªÞªÇ¡¡ÔÑõÉç¯øºó¢øöñÞ«««á«éá¼ëåª³ªÎ«¢«×«êªÇèÇÌ¿
+[2019-07-25 09:53:11,868][DEBUG|rankingParser.py:19] >> 23, com.intsig.lic.camscanner, CamScanner èÇîï÷ú (License)
+[2019-07-25 09:53:11,876][DEBUG|rankingParser.py:19] >> 24, studypro.spi, SPIåëåÞ ¡¼Study Pro¡½
+[2019-07-25 09:53:11,883][DEBUG|rankingParser.py:19] >> 25, com.bilingirl.helpmetravel, Õéú¼çÈü¥ - Help me Travel
+[2019-07-25 09:53:11,890][DEBUG|rankingParser.py:19] >> 26, au.com.metro.dwjr.boffos, Dumb Ways JR Boffo's Breakfast
+[2019-07-25 09:53:11,898][DEBUG|rankingParser.py:19] >> 27, com.visiblebody.atlas, «Ò«å«Þ«ó«¢«Ê«È«ß«¢«È«é«¹2019£º 3DªËªèªëèÇÛýªÊìÑ
+[2019-07-25 09:53:11,904][DEBUG|rankingParser.py:19] >> 28, com.advasoft.touchretouch, TouchRetouch
+[2019-07-25 09:53:11,910][DEBUG|rankingParser.py:19] >> 29, com.printedpropshop.dokkos2, Dokk OS 2
+[2019-07-25 09:53:11,919][DEBUG|rankingParser.py:19] >> 30, com.teacapps.barcodescanner.pro, QR«³«É£¦«Ð«³«É«ê«À£¨Pro£©
+[2019-07-25 09:53:11,929][DEBUG|rankingParser.py:19] >> 31, jp.co.mirai_ii.nfc.allinone.now, îïªÎ IC«««É ª³ªìªÒªÈªÄ¡¸ªÊª¦¡¹
+[2019-07-25 09:53:11,941][DEBUG|rankingParser.py:19] >> 32, com.familyapp.anpan.customdialer.charge, ÒýÑ¦ÒöªÇªóªïÍ±Ùíª·÷ú£¨÷×ü¥«¿«¤«Þªäãáü¬ìã¡¢«×«ì«Õ«£«Ã«¯«¹ªÊªÉÒýÑ¦Òöï³ü¥«¢«×«ê£©
+[2019-07-25 09:53:11,961][DEBUG|rankingParser.py:19] >> 33, com.x0.strai.frepkey, FRep Unlock Key
+[2019-07-25 09:53:11,967][DEBUG|rankingParser.py:19] >> 34, net.techet.netanalyzer.an, Network Analyzer Pro
+[2019-07-25 09:53:11,976][DEBUG|rankingParser.py:19] >> 35, com.twitpane.premium, ªÄª¤ªÃªÈªÚªóPlus(Twitter«¢«×«ê)
+[2019-07-25 09:53:11,989][DEBUG|rankingParser.py:19] >> 36, com.nic_english.gym.NicGym, «Ë«Ã«¯ãÒçÈü¥«¸«à «Ù«¿÷ú
+[2019-07-25 09:53:11,997][DEBUG|rankingParser.py:19] >> 37, com.nll.acr.license, ACR«é«¤«»«ó«¹
+[2019-07-25 09:53:12,003][DEBUG|rankingParser.py:19] >> 38, jp.co.alpha.dlna.mlpfordtv, Media Link Player for DTV
+[2019-07-25 09:53:12,009][DEBUG|rankingParser.py:19] >> 39, com.hole19golf.wear, Hole19 Golf GPS for Smartwatch
+[2019-07-25 09:53:12,017][DEBUG|rankingParser.py:19] >> 40, com.njwuji.study, ªÉªóªÉªóü¥ª¹ª¿ªáªÎâëÊàçÈíÂÙþ«È«ì«Ë«ó«°
+[2019-07-25 09:53:12,032][DEBUG|rankingParser.py:19] >> 41, jp.dtechgame.gridmanalarm, «°«ê«Ã«É«Þ«ó «¢«é«à -if your smile-
+[2019-07-25 09:53:12,039][DEBUG|rankingParser.py:19] >> 42, jp.snowlife01.android.clipboard, «¯«ê«Ã«×«Ü«ÉPro¡¼«ª«Ð«ì«¤øúãÆªÎõÌãæ«¯«ê«Ã«×«Ü«É«¢«×«ê¡½
+[2019-07-25 09:53:12,048][DEBUG|rankingParser.py:19] >> 43, com.massimobiolcati.irealb, iReal Pro - ÜÏªÈ«Ð«Ã«­«ó«°«È«é«Ã«¯
+[2019-07-25 09:53:12,054][DEBUG|rankingParser.py:19] >> 44, jp.co.gamegate.gochiusa.chino.schedule, ª´ªÁª¦ªµ«««ì«ó«À«Á«Îøº
+[2019-07-25 09:53:12,060][DEBUG|rankingParser.py:19] >> 45, com.fenixx.gameboosterplus, Game Booster  4x Faster (with advance settings)
+[2019-07-25 09:53:12,075][DEBUG|rankingParser.py:19] >> 46, smartwatchstudios.app.gears3navigation, Navigation Pro: Google Maps Navi on Samsung Watch
+[2019-07-25 09:53:12,085][DEBUG|rankingParser.py:19] >> 47, org.twisevictory.jp, «á«ó«¿«ë«ê«×ªÎ«¢«×«ê£º«ï«ó«À«¦«£«¯
+[2019-07-25 09:53:12,091][DEBUG|rankingParser.py:19] >> 48, com.tocaboca.tocapets, Toca Life: Pets
+[2019-07-25 09:53:12,097][DEBUG|rankingParser.py:19] >> 49, com.ss.edgegestures, «¨«Ã«¸«¸«§«¹«Á«ã
+[2019-07-25 09:53:12,104][DEBUG|rankingParser.py:19] >> 50, abdelrahman.wifianalyzerpremium, WiFi«¢«Ê«é«¤«¶«×«ì«ß«¢«à
+[2019-07-25 09:53:12,109][DEBUG|rankingParser.py:19] >> 51, com.pubrof.pubrofboki2, «Ñ«Ö«í«ÕÝ­ÑÀ£²ÐäßÂåöÝ­ÑÀ ìíßÂÝ­ÑÀÞÂóþ 2019Ò´Óø÷ú
+[2019-07-25 09:53:12,116][DEBUG|rankingParser.py:19] >> 52, com.metamoji.mazec, mazec3£¨â¢ßöª­ªËªèªë«««ó«¿«óìíÜâåÞìýÕô£©
+[2019-07-25 09:53:12,121][DEBUG|rankingParser.py:19] >> 53, com.algoriddim.djay, djay 2
+[2019-07-25 09:53:12,127][DEBUG|rankingParser.py:19] >> 54, com.rhmsoft.pulsar.pro, Pulsar ëå«×«ì«¤«ä «×«í
+[2019-07-25 09:53:12,134][DEBUG|rankingParser.py:19] >> 55, com.marinetraffic.android, MarineTraffic ship positions
+[2019-07-25 09:53:12,140][DEBUG|rankingParser.py:19] >> 56, org.prowl.torque, Torque Pro (OBD2/Car)
+[2019-07-25 09:53:12,148][DEBUG|rankingParser.py:19] >> 57, com.thegosa.board.theme, «Ü«É| Xperia¢â«Æ«Þ+«¢«¤«³«ó
+[2019-07-25 09:53:12,154][DEBUG|rankingParser.py:19] >> 58, com.media.bestrecorder.audiorecorderpro, «Ü«¤«¹«ì«³«À«×«í
+[2019-07-25 09:53:12,161][DEBUG|rankingParser.py:19] >> 59, com.wiseschematics.eqfy, Eqfy Equalizer
+[2019-07-25 09:53:12,168][DEBUG|rankingParser.py:19] >> 60, com.quvideo.xiaoying.pro, VivaVideo PRO: «Ó«Ç«ª«¨«Ç«£«¿£¦ÔÑøºó¢«¢«×«ê
+[2019-07-25 09:53:12,174][DEBUG|rankingParser.py:19] >> 61, com.skyjos.apps.fileexplorer, FE File Explorer Pro - «Õ«¡«¤«ë«Þ«Í«¸«ã
+[2019-07-25 09:53:12,180][DEBUG|rankingParser.py:19] >> 62, jp.charactervoice.xea10.asuna, Xperia Ear Duo(«¢«¹«Ê)
+[2019-07-25 09:53:12,187][DEBUG|rankingParser.py:19] >> 63, me.plusnow.shield.stable, AdShield - Ad blocker, No more ads & tracking
+[2019-07-25 09:53:12,193][DEBUG|rankingParser.py:19] >> 64, org.azasoft.swapper, Swapper for Root (Donate)
+[2019-07-25 09:53:12,201][DEBUG|rankingParser.py:19] >> 65, by.avowl.coils.vapetools, Vape Tools Box [for true Geeks]
+[2019-07-25 09:53:12,207][DEBUG|rankingParser.py:19] >> 66, com.appglobe.watch.face.ksana,  Watch Face - Ksana Sweep for Android Wear OS
+[2019-07-25 09:53:12,214][DEBUG|rankingParser.py:19] >> 67, com.hanamarusha.muteall.pro, «««á«éÙíëåûùMuteAll£¨øöñÞ«««á«éªâ«Ó«Ç«ªªâÙíëåûù£©¡¡«¹«¯«·«çªÏâ¢ÔÑªÇÙíëåûùÊ¦Òö
+[2019-07-25 09:53:12,220][DEBUG|rankingParser.py:19] >> 68, net.saltycrackers.daygram, «Ç«¤«°«é«à
+[2019-07-25 09:53:12,227][DEBUG|rankingParser.py:19] >> 69, com.tocaboca.tocahospital, Toca Life: Hospital
+[2019-07-25 09:53:12,233][DEBUG|rankingParser.py:19] >> 70, com.owners_age.stken_app_paid, ÓëËï Î¦ËÛÙýó¢ 2019Ò´÷ú¡¸«¹«¿«±«ó¡¹
+[2019-07-25 09:53:12,242][DEBUG|rankingParser.py:19] >> 71, jp.newsmedia.ecoken.app3, ecoïÒóþ«»«ß«Ê(ð¯£³Ý»)¡¸ò¥Ê¦ÒöªÊÞäªËú¾ª±ªÆ¡¹
+[2019-07-25 09:53:12,248][DEBUG|rankingParser.py:19] >> 72, jp.chau2chaun2.mannerstimer, «ª«È«Þ«ÊPlus+
+[2019-07-25 09:53:12,254][DEBUG|rankingParser.py:19] >> 73, jp.snowlife01.android.rotationcontrolpro, ØüªÎüÞ£¨ú¾ª­£©ªòð¤åÙ¡¼«í«Æ«·«ç«ó«³«ó«È«í«ëPro ¡½
+[2019-07-25 09:53:12,259][DEBUG|rankingParser.py:19] >> 74, com.natewren.lines, «é«¤«ó - «ß«Ë«Þ«ê«¹«ÈªÎ«¢«¤«³«ó
+[2019-07-25 09:53:12,268][DEBUG|rankingParser.py:19] >> 75, com.safeincloud, «Ñ«¹«ï«É «Þ«Í«¸«ã SafeInCloud Pro
+[2019-07-25 09:53:12,277][DEBUG|rankingParser.py:19] >> 76, com.softama.twitamaplus, «Ä«¤«¿«Þ+
+[2019-07-25 09:53:12,286][DEBUG|rankingParser.py:19] >> 77, com.miz.clocklike, «Ç«¸«¿«ëãÁÍªûùÍª «×«í÷ú («Ç«¸«¿«ëãÁÍª£¦«««ì«ó«À£¦ô¸£¦RSS)
+[2019-07-25 09:53:12,292][DEBUG|rankingParser.py:19] >> 78, com.tocaboca.tocaschool, «È«Ã«««é«¤«Õ«¹«¯«ë Toca Life School
+[2019-07-25 09:53:12,300][DEBUG|rankingParser.py:19] >> 79, com.chanel.weather.forecast.accu.pro, ô¸åøÜÃ«×«í
+[2019-07-25 09:53:12,310][DEBUG|rankingParser.py:19] >> 80, com.ss.squarehome.key, «¹«¯«¨«¢«Û«àªÎ«­ - «é«ó«Á«ã
+[2019-07-25 09:53:12,320][DEBUG|rankingParser.py:19] >> 81, jp.snowlife01.android.pro_cache_delete, «­«ã«Ã«·«åÞûð¶Pro
+[2019-07-25 09:53:12,329][DEBUG|rankingParser.py:19] >> 82, com.modelmakertools.simplemindpro, SimpleMind Pro - Intuitive Mind Mapping
+[2019-07-25 09:53:12,336][DEBUG|rankingParser.py:19] >> 83, info.my_kintore, My ÐÉ«È«ì: ªòÓ´ª¨ªÞª·ªçª¦
+[2019-07-25 09:53:12,341][DEBUG|rankingParser.py:19] >> 84, com.rookiestudio.perfectviewer.donate, Perfect ViewerªËÐöÜõ
+[2019-07-25 09:53:12,350][DEBUG|rankingParser.py:19] >> 85, com.intermedia.hd.camera.pro, HD«««á«é«×«í : Best Professional Camera App
+[2019-07-25 09:53:12,357][DEBUG|rankingParser.py:19] >> 86, com.softmedia.receiver, AirReceiver
+[2019-07-25 09:53:12,363][DEBUG|rankingParser.py:19] >> 87, com.klinker.android.twitter_l, Talon for Twitter
+[2019-07-25 09:53:12,370][DEBUG|rankingParser.py:19] >> 88, jp.ne.biglobe.target1900, çÈåÞ«¿«²«Ã«È1900ÍëãÒ«¢«×«ê |  «Ó«Ã«°«í«ÖçÈåÞ
+[2019-07-25 09:53:12,376][DEBUG|rankingParser.py:19] >> 89, biz.koikoi.stereo, 3DãÊÕôüÞÜÖ
+[2019-07-25 09:53:12,382][DEBUG|rankingParser.py:19] >> 90, jp.co.fsi.refills, Refills£¨«·«¹«Æ«àâ¢íã«««ì«ó«À«¹«±«¸«å«é£©
+[2019-07-25 09:53:12,390][DEBUG|rankingParser.py:19] >> 91, sk.michalec.DigiClockWidgetPro, DIGI ãÁÍª«¦«£«¸«§«Ã«È
+[2019-07-25 09:53:12,396][DEBUG|rankingParser.py:19] >> 92, com.devguru.eltwomonusb, TwomonUSB - USB «â«Ë«¿,«Ç«å«¢«ë«â«Ë«¿
+[2019-07-25 09:53:12,403][DEBUG|rankingParser.py:19] >> 93, com.rhmsoft.edit.pro, QuickEdit «Æ«­«¹«È«¨«Ç«£«¿«×«í
+[2019-07-25 09:53:12,414][DEBUG|rankingParser.py:19] >> 94, com.amazing_create.android.andclip, aNdClip «¯«ê«Ã«×«Ü«Éíå
+[2019-07-25 09:53:12,422][DEBUG|rankingParser.py:19] >> 95, com.urbandroid.sleep.full.key, Sleep as Android Unlock
+[2019-07-25 09:53:12,428][DEBUG|rankingParser.py:19] >> 96, com.daylightmap.moon.pro.android, êÅÌð
+[2019-07-25 09:53:12,435][DEBUG|rankingParser.py:19] >> 97, jp.snowlife01.android.screenshot, ¡¼Ùíëå¡½«¹«¯«ê«ó«·«ç«Ã«ÈPro - ÔÑªÎÖ§«­«ã«×«Á«ãªËõÌîêªÊ«­«ã«×«Á«ã«¢«×«ê
+[2019-07-25 09:53:12,441][DEBUG|rankingParser.py:19] >> 98, com.pubrof.pubrofboki3, «Ñ«Ö«í«ÕÝ­ÑÀ£³Ðä ìíßÂÝ­ÑÀÞÂóþ 2019Ò´Óø÷ú
+[2019-07-25 09:53:12,448][DEBUG|rankingParser.py:19] >> 99, com.katekyonet.ecology, õÌÓ­ùêÌ«£¡«¨«³ïÒ
+[2019-07-25 09:53:12,455][DEBUG|rankingParser.py:19] >> 100, jp.ne.kutu.PanecalPlus, ï³öñ Panecal Plus
+[2019-07-25 09:53:12,464][DEBUG|rankingParser.py:19] >> 101, com.gmail.anolivetree, Image Shrink(ßÀ«ê«µ«¤«º)
+[2019-07-25 09:53:12,471][DEBUG|rankingParser.py:19] >> 102, air.com.kanarii.okiyome2, ªÑªÃªÈªªªá
+[2019-07-25 09:53:12,480][DEBUG|rankingParser.py:19] >> 103, jp.gr.aqua.mozc, AquaMozc
+[2019-07-25 09:53:12,490][DEBUG|rankingParser.py:19] >> 104, air.boycraft.insecthunting, á¦Í£ªÎÍàóõó¢
+[2019-07-25 09:53:12,498][DEBUG|rankingParser.py:19] >> 105, com.runtastic.android.pro2, Runtastic PRO GPS «é«ó«Ë«ó«°£¦«¦«©«­«ó«°Ëå×îÍªö´ÑÀ«¢«×«ê
+[2019-07-25 09:53:12,504][DEBUG|rankingParser.py:19] >> 106, com.toh.callrecord.pro, «³«ë«ì«³«À«×«í
+[2019-07-25 09:53:12,510][DEBUG|rankingParser.py:19] >> 107, jp.newsmedia.ecoken.app1, ecoïÒóþ«»«ß«Ê(ð¯1Ý»)¡¸ò¢Ï¹ªÎü»ÌÑªÈÎ¤ð¹¡¹
+[2019-07-25 09:53:12,515][DEBUG|rankingParser.py:19] >> 108, com.ratana.sunsurveyor, «µ«ó¡¤«µ«Ù«¤«ä (Sun Surveyor)
+[2019-07-25 09:53:12,523][DEBUG|rankingParser.py:19] >> 109, jp.ne.biglobe.wisdomdict.gp2, «¦«£«º«À«àçÈûúûúçÈîðÍëãÒ«¢«×«ê |çÈü¥TOEICªËßö
+[2019-07-25 09:53:12,533][DEBUG|rankingParser.py:19] >> 110, com.cloudmosa.puffin, Puffin Browser Pro
+[2019-07-25 09:53:12,542][DEBUG|rankingParser.py:19] >> 111, jp.newsmedia.ecoken.app2, ecoïÒóþ«»«ß«Ê(ð¯2Ý»)¡¸ü»ÌÑÙýð¹ªòò±ªë¡¹
+[2019-07-25 09:53:12,552][DEBUG|rankingParser.py:19] >> 112, jp.sblo.pandora.jota.plus.prokey, Jota+¡ÚPRO-KEY
+[2019-07-25 09:53:12,558][DEBUG|rankingParser.py:19] >> 113, com.playsquare.kikutan_all_toeic, «­«¯«¿«ó [All-in-One] TOEIC¢ç Test Score 600+800+990ùêÜâ÷ú
+[2019-07-25 09:53:12,569][DEBUG|rankingParser.py:19] >> 114, com.stmp.minimalface, Watch Face - Minimal & Elegant for Android Wear OS
+[2019-07-25 09:53:12,576][DEBUG|rankingParser.py:19] >> 115, cz.acrobits.softphone.aliengroundwire, Groundwire
+[2019-07-25 09:53:12,585][DEBUG|rankingParser.py:19] >> 116, asia.uniuni.simplear, SuguSumu : «·«ó«×«ë«¿«¹«¯«­«é
+[2019-07-25 09:53:12,596][DEBUG|rankingParser.py:19] >> 117, jp.hoheto.HohetoApp, ªÛªØªÈßæÒ´êÅìíï¿ª¤
+[2019-07-25 09:53:12,605][DEBUG|rankingParser.py:19] >> 118, com.app.superfriendly.daily, Ú¤ª­×µª·ìíßÈçÈü¥«Í«¤«Æ«£«Ö1000ìÑªÈíÂªÃª¿çÈü¥
+[2019-07-25 09:53:12,612][DEBUG|rankingParser.py:19] >> 119, jp.ne.biglobe.zhong_set.gp, ñéìíìíñéîð ÍëãÒ«¢«×«ê£ü«Ó«Ã«°«í«Ößö
+[2019-07-25 09:53:12,619][DEBUG|rankingParser.py:19] >> 120, jp.co.asukanet.aftershutter, ÔÑªòªËª¹ªë«¢«×«ê¡¸AfterShutter 4K¡¹
+[2019-07-25 09:53:12,629][DEBUG|rankingParser.py:19] >> 121, com.binibambini.Mini, í­ÍêªÎª¿ªáªÎÖ£ã§¡±àÊªòªÊª¾ªêªÞª·ªçª¦£¡
+[2019-07-25 09:53:12,676][DEBUG|rankingParser.py:19] >> 122, com.digion.dixim.android.play.aquosplayer, AQUOS «ê«â«È«×«ì«ä
+[2019-07-25 09:53:12,700][DEBUG|rankingParser.py:19] >> 123, eu.thedarken.sdm.unlocker, SD«á«¤«É «×«í - «é«¤«»«ó«¹«­
+[2019-07-25 09:53:12,708][DEBUG|rankingParser.py:19] >> 124, jp.co.korg.kaossilator.android, KORG Kaossilator for Android
+[2019-07-25 09:53:12,723][DEBUG|rankingParser.py:19] >> 125, jp.or.ias.qs_tube_construction1st_fee, 1ÐäÎ·ÍïÞÀã¿Íï«±«¤«¿«¤ªâªó_êóÖù÷ú
+[2019-07-25 09:53:12,771][DEBUG|rankingParser.py:19] >> 126, com.hiqrecorder.full, Hi-Q MP3«Ü«¤«¹«ì«³«À£¨«Õ«ë£©
+[2019-07-25 09:53:12,778][DEBUG|rankingParser.py:19] >> 127, jp.co.joker.kazuki.hygiene.management1, ð¯1ðúêÛßæÎ·×âíºãËÙýð¹ó¢¡¡ªêª¹ªµªó«·«ê«º
+[2019-07-25 09:53:12,784][DEBUG|rankingParser.py:19] >> 128, com.tocaboca.tocaneighborhood, «È«Ã«««é«¤«Õ: «Í«¤«Ð«Õ«Ã«É£¨Toca Life: Neighborhood£©
+[2019-07-25 09:53:12,790][DEBUG|rankingParser.py:19] >> 129, jp.dstudy.boiler2.ver001, 2Ðä«Ü«¤«éÐüÞÍ
+[2019-07-25 09:53:12,811][DEBUG|rankingParser.py:19] >> 130, com.extreamsd.usbaudioplayerpro, USB Audio Player PRO
+[2019-07-25 09:53:12,817][DEBUG|rankingParser.py:19] >> 131, com.intsig.BizCardReader, CamCard:Ù£í©Î·×âìíÜâåÞöâ16åëåÞ
+[2019-07-25 09:53:12,823][DEBUG|rankingParser.py:19] >> 132, com.ydbs.ggj, ÞçªÎèâ
+[2019-07-25 09:53:12,829][DEBUG|rankingParser.py:19] >> 133, com.playsquare.pastan_1, ªÇªëâ÷«Ñ«¹ çÈ¢ç 1Ðä ¡¼èÚÙþÞä¡½
+[2019-07-25 09:53:12,838][DEBUG|rankingParser.py:19] >> 134, jp.co.imagineer.yk.ichi2.w, ß£ô¹ìéÙýìéÓÍá¦Í£ÞÈ
+[2019-07-25 09:53:12,849][DEBUG|rankingParser.py:19] >> 135, net.ddroid.aw.watchface.rv05, V05 WatchFace for Android Wear
+[2019-07-25 09:53:12,859][DEBUG|rankingParser.py:19] >> 136, com.tkoffice.builder, ¡¸ìéÐäËïõéÞÍ¡¹áôóþ
+[2019-07-25 09:53:12,867][DEBUG|rankingParser.py:19] >> 137, com.utorrent.client.pro, Torrent¢ç Pro - Torrent App
+[2019-07-25 09:53:12,874][DEBUG|rankingParser.py:19] >> 138, jp.main.brits.docotore.fp3, ªÉª³«È«ì FP3ÐäÎ¡ Î¦ËÛÙýð¹ó¢
+[2019-07-25 09:53:12,882][DEBUG|rankingParser.py:19] >> 139, com.wolfram.android.alpha, WolframAlpha
+[2019-07-25 09:53:12,890][DEBUG|rankingParser.py:19] >> 140, link.mikan.teppeki, mikan Ûú
+[2019-07-25 09:53:12,898][DEBUG|rankingParser.py:19] >> 141, jp.co.gakkonet.quizninjakankendx, ùÓí®ïÒùÓùÓí®«È«ì«Ë«ó«°DX
+[2019-07-25 09:53:12,908][DEBUG|rankingParser.py:19] >> 142, de.zorillasoft.musicfolderplayer.donate, ëå«Õ«©«ë«À«×«ì«ä¡¡«Õ«ë«Ð«¸«ç«ó
+[2019-07-25 09:53:12,915][DEBUG|rankingParser.py:19] >> 143, cc.mdi.ShuwaStation, â¢ü¥«¹«Æ«·«ç«ó
+[2019-07-25 09:53:12,923][DEBUG|rankingParser.py:19] >> 144, com.jndapp.line.x.iconpack, LineX Icon Pack
+[2019-07-25 09:53:12,931][DEBUG|rankingParser.py:19] >> 145, jp.co.latika.android.toeic.listening, TOEIC¢ç«Æ«¹«È«ê«¹«Ë«ó«°360Ùý
+[2019-07-25 09:53:12,940][DEBUG|rankingParser.py:19] >> 146, air.jp.co.beret.EngSuraSura, «¹«é«¹«éü¥ª¹ª¿ªáªÎâëÊàçÈíÂÙþ«·«ã«Ã«Õ«ë«È«ì«Ë«ó«°
+[2019-07-25 09:53:12,947][DEBUG|rankingParser.py:19] >> 147, jp.ne.biglobe.shinmeikai.gp, ãæÙ¥ú°åÞîð ÍëãÒ«¢«×«ê£ü«Ó«Ã«°«í«Ößö
+[2019-07-25 09:53:12,954][DEBUG|rankingParser.py:19] >> 148, com.tocaboca.tocaoffice, «È«Ã«««é«¤«Õ£º«ª«Õ«£«¹ªÇªÏ
+[2019-07-25 09:53:12,961][DEBUG|rankingParser.py:19] >> 149, vr.audio.voicerecorderpro, «Ü«¤«¹«ì«³«À«×«í
+[2019-07-25 09:53:12,970][DEBUG|rankingParser.py:19] >> 150, com.digidust.elokence.akinator.paid, Akinator VIP
+[2019-07-25 09:53:12,976][DEBUG|rankingParser.py:19] >> 151, jp.web5.ussy.mydrillbookmakerkey, äÞÑÀ«É«ê«ë«á«« «é«¤«»«ó«¹«­
+[2019-07-25 09:53:12,982][DEBUG|rankingParser.py:19] >> 152, jp.handsaid.shuhasucho_2019, ñ²÷îíã2019
+[2019-07-25 09:53:12,988][DEBUG|rankingParser.py:19] >> 153, com.kohei.pcmrecorder.pro, PCMëå Pro
+[2019-07-25 09:53:12,996][DEBUG|rankingParser.py:19] >> 154, net.studiofly.android.ringoplus, ï³ü¥íãR Plus
+[2019-07-25 09:53:13,002][DEBUG|rankingParser.py:19] >> 155, com.fstop.photo.key, F-Stop«®«ã«é«ê«×«í
+[2019-07-25 09:53:13,012][DEBUG|rankingParser.py:19] >> 156, sk.mildev84.agendareminder.unlockkey, ì¡ð¹«¦«£«¸«§«Ã«È KEY
+[2019-07-25 09:53:13,018][DEBUG|rankingParser.py:19] >> 157, com.imageline.FLM, FL Studio Mobile
+[2019-07-25 09:53:13,027][DEBUG|rankingParser.py:19] >> 158, jp.co.latika.android.toeic.grammar.all, TOEIC¢ç«Æ«¹«ÈÙþÛö640Ùý1
+[2019-07-25 09:53:13,036][DEBUG|rankingParser.py:19] >> 159, com.dynamo.seihoapp, ßæÜÁìéÚõÎ¤ïïãËìéÙýìéÓÍÎ¦ËÛÙýð¹ó¢
+[2019-07-25 09:53:13,046][DEBUG|rankingParser.py:19] >> 160, jp.co.gamegate.rezero.lemm, «ê«¼«í«¢«é«à¡¡¢¦«ì«àøº¢¦
+[2019-07-25 09:53:13,055][DEBUG|rankingParser.py:19] >> 161, com.hantor.CozyMagPlus, ÓÞÌð & Ú°Ìð Plus («ë«Ú)
+[2019-07-25 09:53:13,062][DEBUG|rankingParser.py:19] >> 162, jp.ne.biglobe.genius5je3.gp, «¸«Ë«¢«¹çÈûúð¯5÷úûúçÈð¯3÷ú | «Ó«Ã«°«í«Ößö
+[2019-07-25 09:53:13,070][DEBUG|rankingParser.py:19] >> 163, cz.zdenekhorak.mibandtools, Tools & Mi Band
+[2019-07-25 09:53:13,083][DEBUG|rankingParser.py:19] >> 164, jp.or.wlpm.bible2017, á¡ßö ãæËÇ2017
+[2019-07-25 09:53:13,091][DEBUG|rankingParser.py:19] >> 165, com.filmic.filmicpro, FiLMiC Pro: «×«í«««á«é«Þ«óªâÞÅéÄª¹ªë«Ó«Ç«ª«««á«é«¢«×«ê
+[2019-07-25 09:53:13,100][DEBUG|rankingParser.py:19] >> 166, org.kustom.wallpaper.pro, KLWP Live Wallpaper Pro Key
+[2019-07-25 09:53:13,108][DEBUG|rankingParser.py:19] >> 167, com.metamoji.noteanytime2, MetaMoJi Note£¨â¢ßöª­«Î«È«¢«×«ê£©
+[2019-07-25 09:53:13,118][DEBUG|rankingParser.py:19] >> 168, com.digibites.calendarplus, DigiCal+ ìíÜâ«««ì«ó«À«¹«±«¸«å«ë
+[2019-07-25 09:53:13,125][DEBUG|rankingParser.py:19] >> 169, com.phardera.evasysmon, EVA System Monitor
+[2019-07-25 09:53:13,133][DEBUG|rankingParser.py:19] >> 170, com.bushidroid.app.ghostseeker, Ghost Seeker - ãý÷®ßãÑ¦ -
+[2019-07-25 09:53:13,141][DEBUG|rankingParser.py:19] >> 171, jp.co.technosquare.android.gappendixp, â¢íãªÎÜõ+
+[2019-07-25 09:53:13,149][DEBUG|rankingParser.py:19] >> 172, com.tkoffice.takken, ¡¸ÓëËïÞÍ¡¹Î¦ËÛÙýð¹¡¶áôéÄ¡·
+[2019-07-25 09:53:13,156][DEBUG|rankingParser.py:19] >> 173, com.bytebolt.midiloops, MIDI Voyager Pro
+[2019-07-25 09:53:13,164][DEBUG|rankingParser.py:19] >> 174, com.jrtstudio.AnotherMusicPlayer.Unlocker, Rocket Player «×«ì«ß«¢«à«ª«Ç«£«ª
+[2019-07-25 09:53:13,172][DEBUG|rankingParser.py:19] >> 175, jp.gr.java_conf.recorrect.unkou_kamotsu, ê¡ú¼Î·×âíºãË (ü§Úª)¡¸30ìíùêÌ««×«í«°«é«à¡¹
+[2019-07-25 09:53:13,179][DEBUG|rankingParser.py:19] >> 176, net.stefano.stefanoface2, Ultimate Watch 2 watch face
+[2019-07-25 09:53:13,187][DEBUG|rankingParser.py:19] >> 177, jp.ne.sakura.token.gosenfu02, ªªªóª×ªÁªãªó
+[2019-07-25 09:53:13,194][DEBUG|rankingParser.py:19] >> 178, com.loadlynx_jp.estilynx, Estilynx - Ì¸îÝßöªäôëÏ´ßöªòáÈðÄª¯íÂà÷¡¢ª­ªìª¤ªËìÔáì
+[2019-07-25 09:53:13,200][DEBUG|rankingParser.py:19] >> 179, com.sikebox.retrorika.material.icons, (SALE) RETRORIKA ICON PACK
+[2019-07-25 09:53:13,209][DEBUG|rankingParser.py:19] >> 180, com.orangeorapple.flashcards, Flashcards Deluxe
+[2019-07-25 09:53:13,218][DEBUG|rankingParser.py:19] >> 181, jp.main.brits.docotore.fp2, ªÉª³«È«ì FP2ÐäÎ¡ Î¦ËÛÙýð¹ó¢
+[2019-07-25 09:53:13,226][DEBUG|rankingParser.py:19] >> 182, com.ioslauncher.pro, X Launcher Pro: PhoneX Theme, OS12 Control Center
+[2019-07-25 09:53:13,234][DEBUG|rankingParser.py:19] >> 183, org.kustom.widget.pro, KWGT Kustom Widget Pro Key
+[2019-07-25 09:53:13,241][DEBUG|rankingParser.py:19] >> 184, com.homeysoft.nexususb.importer, USB Media Explorer
+[2019-07-25 09:53:13,250][DEBUG|rankingParser.py:19] >> 185, com.jetappfactory.jetaudioplus, «¸«§«Ã«È«ª«Ç«£«ª«×«é«¹ - ÍÔëåòõªÎëå«×«ì«ä
+[2019-07-25 09:53:13,259][DEBUG|rankingParser.py:19] >> 186, pixbit.prime, PixBit - Pixel Icon Pack
+[2019-07-25 09:53:13,271][DEBUG|rankingParser.py:19] >> 187, slide.watchFrenzy.premium, Watch Face -WatchMaker Premium for Android Wear OS
+[2019-07-25 09:53:13,282][DEBUG|rankingParser.py:19] >> 188, org.nattou.layerpainthd, LayerPaint HD
+[2019-07-25 09:53:13,290][DEBUG|rankingParser.py:19] >> 189, link.mikan.toeic_frequent_word_600, mikan TOEIC
+[2019-07-25 09:53:13,297][DEBUG|rankingParser.py:19] >> 190, itotsuka.karaoke_memo_pro, «««é«ª«±«á«â
+[2019-07-25 09:53:13,311][DEBUG|rankingParser.py:19] >> 191, jp.mowmow.simpleaf, simpleaf (â¢ßöª­«á«â)
+[2019-07-25 09:53:13,319][DEBUG|rankingParser.py:19] >> 192, jp.co.gamegate.oregairu.iroha, åï«¬«¤«ë«¢«é«à ¢¦ª¤ªíªÏøº¢¦
+[2019-07-25 09:53:13,327][DEBUG|rankingParser.py:19] >> 193, com.n_evolution.SlotCounter, i«¹«í«Ã«È«««¦«ó«¿ (á³æµ«««¦«ó«È & àâïÒ÷÷Ü¬)
+[2019-07-25 09:53:13,334][DEBUG|rankingParser.py:19] >> 194, jp.co.fsi.fskaren.dl, FSKAREN(ìíÜâåÞìýÕô«·«¹«Æ«à)
+[2019-07-25 09:53:13,344][DEBUG|rankingParser.py:19] >> 195, shoubousetubishi4.app, á¼ÛÁàâÝáÞÍ £´×¾ Î¦ËÛÙý ×¾Ùý
+[2019-07-25 09:53:13,353][DEBUG|rankingParser.py:19] >> 196, jp.gr.java_conf.howlcifer.memocharge, «á«âíã êóÖù÷ú
+[2019-07-25 09:53:13,359][DEBUG|rankingParser.py:19] >> 197, org.peakfinder.area.alps, PeakFinder AR
+[2019-07-25 09:53:13,367][DEBUG|rankingParser.py:19] >> 198, jp.co.fenrir.android.sleipnir_black, Sleipnir Mobile Black Edition
+[2019-07-25 09:53:13,375][DEBUG|rankingParser.py:19] >> 199, org.korosoft.notepadpro.android, «Î«È«Ñ«Ã«É«×«í
+[2019-07-25 09:53:13,381][DEBUG|rankingParser.py:19] >> 200, jp.hanulles.blog_paid_matome_reader_hanull, Hanull Gold - 2ªÁªãªóªÍªë«Ö«í«°ªÞªÈªá«ê«À - 250«µ«¤«Èì¤ß¾
+[2019-07-25 09:54:20,582][DEBUG|rankingParser.py:100] >> Good Bye Parser! 
+ 

@@ -1,0 +1,179 @@
+[2019-09-10 07:35:06,954][DEBUG|parseNewProvider.py:85] >>  Hello Parser! 
+[2019-09-10 07:35:08,485][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,504][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,511][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,518][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,525][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,535][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,543][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,549][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,561][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,572][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,579][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,585][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,591][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,597][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,603][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,609][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,615][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,621][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,627][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,633][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,639][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,646][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:08,652][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 07:35:16,858][DEBUG|parseNewProvider.py:29] >> 관돔(Kwan Dorm) - 가톨릭관동대학교 생활관, 258497.0, app.indvel.ckudorm, 도구, Infinity Grp., 500.0, 0, 0, 0, 0, 0, 0, 0, 2019년 9월 6일, mailto:fbtkdqja112@gmail.com, Infinity+Grp., 
+[2019-09-10 07:35:23,212][DEBUG|parseNewProvider.py:29] >> 百姫召喚〜異世界との絆〜, 258498.0, com.a.one.nnjp, 롤플레잉, 9Splay, 10000.0, 1485.0, 4.0, 100, 18, 23, 9, 20, 2019년 8월 6일, https://global.9splay.com/, 9Splay, 
+[2019-09-10 07:35:34,765][DEBUG|parseNewProvider.py:29] >> Play Edition, 258500.0, com.atanusanyal.playedition.update, 맞춤 설정, Atanu Sanyal, 10000.0, 118.0, 0, 0, 0, 0, 0, 0, 2019년 8월 28일, http://atanusanyal.blogspot.in, , 8082276105481481415
+[2019-09-10 07:35:41,316][DEBUG|parseNewProvider.py:29] >> 비프리투어 :: 현지투어, 액티비티 예약 등 해외 여행계획어플, 258501.0, com.befreetour.befreemobile, 여행 및 지역정보, PT KORINA PRIMA SINERGI, 1000.0, 17.0, 5.0, 100, 0, 0, 0, 0, 2019년 8월 7일, http://www.befreetour.com, PT+KORINA+PRIMA+SINERGI, 
+[2019-09-10 07:35:47,627][DEBUG|parseNewProvider.py:29] >> Zipline Valley - 물리학 퍼즐 게임, 258502.0, com.dalakgames.ziplinevalley, 퍼즐, Narcade, 100000.0, 335.0, 3.4, 100, 37, 18, 14, 66, 2019년 9월 6일, http://narcade.com/games/farmbubbles.html, , 7666709667877958099
+[2019-09-10 07:35:59,145][DEBUG|parseNewProvider.py:33] >> ABC PreSchool Kids - 학습 게임, 258504.0, com.gamesforkids.preschoolworksheets.alphabets, 교육, GunjanApps Studios, 1000000.0, 3036.0, 4.3, 100, 22, 7, 8, 10, 2019년 8월 26일, None, GunjanApps+Studios, 
+[2019-09-10 07:36:05,656][DEBUG|parseNewProvider.py:29] >> 트래블러 - 국내 여행 가이드 (서울 · 부산 · 제주도 등: 관광지, 축제, 호텔), 258505.0, com.hcmfactory.android.haiko, 여행 및 지역정보, darkSide, 100.0, 0, 0, 0, 0, 0, 0, 0, 2019년 9월 8일, mailto:hcmfactory@gmail.com, darkSide, 
+[2019-09-10 07:36:11,995][DEBUG|parseNewProvider.py:29] >> 팬덤 for 아미 - 팬 커뮤니티, 배경화면, 움짤, 258506.0, com.idolstar.fandom.bangtan, 커뮤니케이션, APPSFACTORY, 1000.0, 10.0, 4.4, 100, 28, 0, 0, 14, 2019년 9월 6일, mailto:appsfactory214@gmail.com, APPSFACTORY, 
+[2019-09-10 07:36:18,483][DEBUG|parseNewProvider.py:29] >> 9 square, 258507.0, com.insat.tamasle.square, 아케이드, tamas-le, 10000.0, 28.0, 0, 0, 0, 0, 0, 0, 2015년 6월 14일, https://twitter.com/AurelienLeloup, tamas-le, 
+[2019-09-10 07:36:24,926][DEBUG|parseNewProvider.py:29] >> 나이트메들리, 258508.0, com.jan.nitemedly815, 음악/오디오, 홍익소프트, 1000.0, 0, 0, 0, 0, 0, 0, 0, 2019년 7월 26일, mailto:ndesign7@gmail.com, %ED%99%8D%EC%9D%B5%EC%86%8C%ED%94%84%ED%8A%B8, 
+[2019-09-10 07:36:36,353][DEBUG|parseNewProvider.py:29] >> 영문법파일-영어문법정리,영문법학습,내손안의 영문법, 258510.0, com.knowledgeware.modelexecutor80.EnglishGrammarFiles_3896999699, 교육, 플랫폼연구소, 500.0, 6.0, 3.5, 100, 33, 0, 0, 66, 2019년 2월 2일, https://blog.naver.com/dksdusn/221451639736, %ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%B0%EA%B5%AC%EC%86%8C, 
+[2019-09-10 07:36:47,697][DEBUG|parseNewProvider.py:29] >> UOKA - 질감나는 생활 카메라, 258512.0, com.lemon.yokaoversea, 사진, Lemon, Inc., 1000.0, 15.0, 4.1, 100, 50, 12, 12, 12, 2019년 8월 21일, mailto:uoka@bytedance.com, Lemon,+Inc., 
+[2019-09-10 07:36:59,212][DEBUG|parseNewProvider.py:29] >> 엄마가 읽어주는 옛이야기, 258514.0, com.nanoombaby3, 교육, 나눔교육, 500.0, 0, 0, 0, 0, 0, 0, 0, 2018년 12월 13일, mailto:nanoomeducation@gmail.com, %EB%82%98%EB%88%94%EA%B5%90%EC%9C%A1, 
+[2019-09-10 07:37:05,591][DEBUG|parseNewProvider.py:29] >> Panda Gamepad Pro (BETA), 258515.0, com.panda.gamepad, 도구, Panda Gaming Studio, 50000.0, 6773.0, 2.8, 79, 10, 12, 14, 100, 2019년 8월 8일, mailto:wangjiji1999@gmail.com, Panda+Gaming+Studio, 
+[2019-09-10 07:37:17,222][DEBUG|parseNewProvider.py:33] >> 아기 팬더의 펭귄 달리기, 258517.0, com.sinyee.babybus.penguin, 교육, BabyBus Kids Games, 50000.0, 20.0, 0, 0, 0, 0, 0, 0, 2019년 8월 29일, None, , 4946022439885210717
+[2019-09-10 07:37:23,694][DEBUG|parseNewProvider.py:29] >> 통화 녹음기 : 전화 녹음기 ACR - 사기번호 자동 조회를 지원하는 음질 좋은 자동녹음기, 258518.0, com.softcorelab.callrecorder, 생산성, SoftCoreLAB, 10000.0, 225.0, 4.4, 100, 10, 3, 1, 12, 2019년 9월 9일, mailto:softcorelab@gmail.com, SoftCoreLAB, 
+[2019-09-10 07:37:30,099][DEBUG|parseNewProvider.py:33] >> Hangman Premium, 258519.0, com.tellmewow.senior.hangman.premium, 퍼즐, Senior Games, 50000.0, 1902.0, 4.6, 100, 20, 3, 0, 3, 2019년 8월 29일, None, , 7914063472596114629
+[2019-09-10 07:37:36,161][DEBUG|parseNewProvider.py:29] >> lucky7stock, 258520.0, com.trade_system.one.luckystockone, 비즈니스, 럭키스탁, 1.0, 0, 0, 0, 0, 0, 0, 0, 2019년 9월 2일, mailto:lucky7stock7@gmail.com, %EB%9F%AD%ED%82%A4%EC%8A%A4%ED%83%81, 
+[2019-09-10 07:37:42,678][DEBUG|parseNewProvider.py:29] >> 엄마가 문을 잠갔다  - 탈출 게임, 258521.0, com.tygame.g35, 캐주얼 게임, ABC escape games, 50000.0, 459.0, 4.0, 100, 15, 9, 4, 28, 2018년 8월 24일, http://www.abcescapegames.com, , 9014234262441242973
+[2019-09-10 07:37:49,079][DEBUG|parseNewProvider.py:29] >> 음성 녹음기 - 오디오 편집기, 258522.0, com.ultimate.recorder.voiceaudio, 음악/오디오, Green Apple Studio, 500000.0, 6751.0, 4.8, 100, 7, 0, 1, 2, 2019년 9월 5일, mailto:appleinfo.studio@gmail.com, Green+Apple+Studio, 
+[2019-09-10 07:37:55,319][DEBUG|parseNewProvider.py:29] >> 티레이더배틀 유안타증권, 258523.0, com.yuanta.tradarbattle, 금융, Yuanta Securities Korea Co., Ltd., 1000.0, 6.0, 4.7, 100, 50, 0, 0, 0, 2019년 9월 9일, http://www.myasset.com, Yuanta+Securities+Korea+Co.,+Ltd., 
+[2019-09-10 07:38:01,558][DEBUG|parseNewProvider.py:29] >> 헤이비트X빗썸, 258524.0, heybit.io.heybit.bithumb, 금융, 헤이비트, 10.0, 0, 0, 0, 0, 0, 0, 0, 2019년 9월 5일, https://www.heybit.io, %ED%97%A4%EC%9D%B4%EB%B9%84%ED%8A%B8, 
+[2019-09-10 07:38:08,325][DEBUG|parseNewProvider.py:29] >> 충청남도 공무원 사이버교육, 258525.0, kr.co.hunet.MobileLearningCenterForChungnam, 교육, HUNET, 1000.0, 0, 0, 0, 0, 0, 0, 0, 2019년 8월 27일, http://www.hunet.co.kr, HUNET, 
+[2019-09-10 07:38:14,797][DEBUG|parseNewProvider.py:29] >> 파일이즈  플레이어, 258526.0, kr.co.icoxs.mobile.fileisplayer2, 동영상 플레이어/편집기, JWYeom, 1000.0, 0, 0, 0, 0, 0, 0, 0, 2019년 9월 3일, http://www.fileis.co.kr, JWYeom, 
+[2019-09-10 07:38:26,165][DEBUG|parseNewProvider.py:29] >> 김제사랑상품권, 258528.0, kr.co.itsng.gimje, 금융, ITSNG, 10.0, 0, 0, 0, 0, 0, 0, 0, 2019년 6월 4일, mailto:itsng@itsng.co.kr, ITSNG, 
+[2019-09-10 07:38:32,520][DEBUG|parseNewProvider.py:29] >> 링크플래너 - 설계사, 258529.0, kr.co.linkplanner.linkplannerfc, 금융, 링크플래너, 100.0, 0, 0, 0, 0, 0, 0, 0, 2019년 6월 23일, https://www.linkplanner.co.kr, %EB%A7%81%ED%81%AC%ED%94%8C%EB%9E%98%EB%84%88, 
+[2019-09-10 07:38:38,702][DEBUG|parseNewProvider.py:29] >> 경북FC, 258530.0, kr.co.sin.dg_fc_app_20190901, 커뮤니케이션, Sin  kihak, 1000.0, 0, 0, 0, 0, 0, 0, 0, 2019년 9월 1일, mailto:kor9915@gmail.com, Sin++kihak, 
+[2019-09-10 07:38:44,894][DEBUG|parseNewProvider.py:29] >> SB톡톡플러스, 258531.0, kr.or.sbbank.plus, 금융, 저축은행 중앙회, 1000.0, 17.0, 2.4, 40, 20, 10, 0, 100, 2019년 9월 9일, https://www.fsb.or.kr, %EC%A0%80%EC%B6%95%EC%9D%80%ED%96%89+%EC%A4%91%EC%95%99%ED%9A%8C, 
+[2019-09-10 07:38:51,219][DEBUG|parseNewProvider.py:29] >> 패스폰 테스트 - PassPhone TEST, 258532.0, kr.webadsky.passphone, 도구, 한국인터넷센터, 500.0, 5.0, 5.0, 100, 0, 0, 0, 0, 2019년 8월 28일, http://passphone.co.kr/, %ED%95%9C%EA%B5%AD%EC%9D%B8%ED%84%B0%EB%84%B7%EC%84%BC%ED%84%B0, 
+[2019-09-10 07:38:57,534][DEBUG|parseNewProvider.py:29] >> SOVS2 - 포즈 카메라, 258533.0, me.sovs.sovs2, 사진, SOVS Co., Ltd., 1000.0, 5.0, 4.0, 100, 33, 0, 0, 33, 2019년 8월 29일, http://www.facebook.com/sovsofficial, SOVS+Co.,+Ltd., 
+[2019-09-10 07:39:03,999][DEBUG|parseNewProvider.py:29] >> Apps Sale - 할인 중인 유료 앱과 게임, 258534.0, net.sjava.salesapp, 쇼핑, nTools, 10000.0, 121.0, 4.5, 100, 16, 7, 1, 6, 2019년 8월 31일, mailto:support@ntoolslab.com, nTools, 
+[2019-09-10 07:39:10,736][DEBUG|parseNewProvider.py:33] >> Bọ chiến, 258535.0, org.cocos2d.BattleBugs, 캐주얼 게임, wasabivn, 10000.0, 152.0, 3.3, 100, 11, 9, 3, 73, 2019년 8월 22일, None, wasabivn, 
+[2019-09-10 07:39:17,144][DEBUG|parseNewProvider.py:29] >> 심플스톤 : 간단한 하스스톤 덱 제작기, 258536.0, xyz.appmaker.rapuli, 엔터테인먼트, 솔라리어스, 1000.0, 25.0, 4.8, 100, 0, 0, 0, 4, 2019년 6월 3일, mailto:ansewo@naver.com, %EC%86%94%EB%9D%BC%EB%A6%AC%EC%96%B4%EC%8A%A4, 
+[2019-09-10 07:39:23,467][DEBUG|parseNewProvider.py:29] >> Energy Ring - Note 10/5G/+ battery indicator!, 258537.0, you.in.spark.energy.ring.note, 맞춤 설정, IJP, 10000.0, 70.0, 4.7, 100, 12, 8, 1, 0, 2019년 9월 3일, mailto:ijp@live.in, , 8849558708667380674
+[2019-09-10 07:39:23,542][DEBUG|parseNewProvider.py:201] >> Good Bye Parser! 
+ 
+[2019-09-10 14:17:13,926][DEBUG|parseNewProvider.py:85] >>  Hello Parser! 
+[2019-09-10 14:17:15,397][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258537.0, you.in.spark.energy.ring.note
+[2019-09-10 14:17:15,406][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258536.0, xyz.appmaker.rapuli
+[2019-09-10 14:17:15,414][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258535.0, org.cocos2d.BattleBugs
+[2019-09-10 14:17:15,421][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258525.0, kr.co.hunet.MobileLearningCenterForChungnam
+[2019-09-10 14:17:15,440][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258522.0, com.ultimate.recorder.voiceaudio
+[2019-09-10 14:17:15,448][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258523.0, com.yuanta.tradarbattle
+[2019-09-10 14:17:15,457][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258524.0, heybit.io.heybit.bithumb
+[2019-09-10 14:17:15,465][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258521.0, com.tygame.g35
+[2019-09-10 14:17:15,478][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258507.0, com.insat.tamasle.square
+[2019-09-10 14:17:15,491][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,498][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,505][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,511][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,517][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,523][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,529][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,535][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,541][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,547][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,552][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,558][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,564][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,569][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,575][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,581][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,587][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,593][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,599][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,605][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,611][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,616][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,622][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,628][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258515.0, com.panda.gamepad
+[2019-09-10 14:17:15,639][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258520.0, com.trade_system.one.luckystockone
+[2019-09-10 14:17:15,648][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258529.0, kr.co.linkplanner.linkplannerfc
+[2019-09-10 14:17:15,656][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258530.0, kr.co.sin.dg_fc_app_20190901
+[2019-09-10 14:17:15,663][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258532.0, kr.webadsky.passphone
+[2019-09-10 14:17:15,670][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258534.0, net.sjava.salesapp
+[2019-09-10 14:17:15,677][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258537.0, you.in.spark.energy.ring.note
+[2019-09-10 14:17:15,684][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258536.0, xyz.appmaker.rapuli
+[2019-09-10 14:17:15,691][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258535.0, org.cocos2d.BattleBugs
+[2019-09-10 14:17:15,697][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258525.0, kr.co.hunet.MobileLearningCenterForChungnam
+[2019-09-10 14:17:15,704][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258522.0, com.ultimate.recorder.voiceaudio
+[2019-09-10 14:17:15,711][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258523.0, com.yuanta.tradarbattle
+[2019-09-10 14:17:15,717][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258524.0, heybit.io.heybit.bithumb
+[2019-09-10 14:17:15,724][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258521.0, com.tygame.g35
+[2019-09-10 14:17:15,732][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258518.0, com.softcorelab.callrecorder
+[2019-09-10 14:17:15,739][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258533.0, me.sovs.sovs2
+[2019-09-10 14:17:15,747][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258472.0, com.gangebadagb.byapps
+[2019-09-10 14:17:15,755][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258506.0, com.idolstar.fandom.bangtan
+[2019-09-10 14:17:15,763][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258528.0, kr.co.itsng.gimje
+[2019-09-10 14:17:15,770][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258519.0, com.tellmewow.senior.hangman.premium
+[2019-09-10 14:17:15,778][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258517.0, com.sinyee.babybus.penguin
+[2019-09-10 14:17:15,785][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258512.0, com.lemon.yokaoversea
+[2019-09-10 14:17:15,793][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258504.0, com.gamesforkids.preschoolworksheets.alphabets
+[2019-09-10 14:17:15,801][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258510.0, com.knowledgeware.modelexecutor80.EnglishGrammarFiles_3896999699
+[2019-09-10 14:17:15,809][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258498.0, com.a.one.nnjp
+[2019-09-10 14:17:15,817][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258508.0, com.jan.nitemedly815
+[2019-09-10 14:17:15,824][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258502.0, com.dalakgames.ziplinevalley
+[2019-09-10 14:17:15,832][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258501.0, com.befreetour.befreemobile
+[2019-09-10 14:17:15,842][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258531.0, kr.or.sbbank.plus
+[2019-09-10 14:17:15,850][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258497.0, app.indvel.ckudorm
+[2019-09-10 14:17:15,858][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258505.0, com.hcmfactory.android.haiko
+[2019-09-10 14:17:15,866][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258418.0, com.minecraftgranny.app
+[2019-09-10 14:17:15,873][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258412.0, com.hedera.wallet
+[2019-09-10 14:17:15,881][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258409.0, com.greenteagames.bunnyrunracing
+[2019-09-10 14:17:15,888][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258408.0, com.grannymomo.scarymomo.momo2k19
+[2019-09-10 14:17:15,896][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258406.0, com.games.cleo
+[2019-09-10 14:17:15,903][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258500.0, com.atanusanyal.playedition.update
+[2019-09-10 14:17:15,911][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258514.0, com.nanoombaby3
+[2019-09-10 14:17:15,919][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258526.0, kr.co.icoxs.mobile.fileisplayer2
+[2019-09-10 14:17:15,926][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258398.0, com.brilliantgamez.real.hippo.robot.car.city.battle.transform
+[2019-09-10 14:17:15,934][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258399.0, com.cafe24.ec.plusachats2
+[2019-09-10 14:17:15,942][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258397.0, com.aropakorea.yeowon
+[2019-09-10 14:17:15,949][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258401.0, com.crablue.weapongirl
+[2019-09-10 14:17:15,958][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258405.0, com.funpop.android_unicorncake
+[2019-09-10 14:17:15,965][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258407.0, com.glitch.pro
+[2019-09-10 14:17:15,973][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258344.0, ahorrador.doctor.bateria.power.saver
+[2019-09-10 14:17:15,980][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258347.0, blck.piano1.tiles.pianogames
+[2019-09-10 14:17:15,988][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258348.0, com.SuperAwesome.HP
+[2019-09-10 14:17:15,995][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258358.0, com.gaon.joyfultalk
+[2019-09-10 14:17:16,003][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258364.0, com.luckystars.hairstylesstepbystep
+[2019-09-10 14:17:16,011][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258363.0, com.looknone.byapps
+[2019-09-10 14:17:16,019][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258362.0, com.lmgame.liangyunet.google
+[2019-09-10 14:17:16,026][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258361.0, com.insta.instapay
+[2019-09-10 14:17:16,033][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258360.0, com.imweb.appS201806265b31e9f9b9a03_5ba51cec6f1b2
+[2019-09-10 14:17:16,041][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258359.0, com.hyperitycorp.app.inside
+[2019-09-10 14:17:16,050][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258356.0, com.fullfat.nicksoccer
+[2019-09-10 14:17:16,058][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258353.0, com.ch2ho.hybridshop.gift24
+[2019-09-10 14:17:16,066][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258352.0, com.bubu.nationalflagquiz
+[2019-09-10 14:17:16,074][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258351.0, com.bookpalcomics.single.yandere2
+[2019-09-10 14:17:16,081][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258372.0, com.solution317.android.hsicare
+[2019-09-10 14:17:16,089][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258371.0, com.softcorelab.vibration
+[2019-09-10 14:17:16,097][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258370.0, com.selfiecamerazone.camb612.beautyfilters
+[2019-09-10 14:17:16,105][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258380.0, com.zone.campus.daejeon
+[2019-09-10 14:17:16,112][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258210.0, com.davidgiga1993.mixingstationpro
+[2019-09-10 14:17:16,122][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258236.0, audio.effect.music.equalizer.musicplayer
+[2019-09-10 14:17:16,129][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258518.0, com.softcorelab.callrecorder
+[2019-09-10 14:17:16,136][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258533.0, me.sovs.sovs2
+[2019-09-10 14:17:16,143][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258506.0, com.idolstar.fandom.bangtan
+[2019-09-10 14:17:16,150][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258528.0, kr.co.itsng.gimje
+[2019-09-10 14:17:16,156][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258519.0, com.tellmewow.senior.hangman.premium
+[2019-09-10 14:17:16,163][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258517.0, com.sinyee.babybus.penguin
+[2019-09-10 14:17:16,170][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258512.0, com.lemon.yokaoversea
+[2019-09-10 14:17:16,177][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258504.0, com.gamesforkids.preschoolworksheets.alphabets
+[2019-09-10 14:17:16,184][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258510.0, com.knowledgeware.modelexecutor80.EnglishGrammarFiles_3896999699
+[2019-09-10 14:17:16,191][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258498.0, com.a.one.nnjp
+[2019-09-10 14:17:16,198][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258508.0, com.jan.nitemedly815
+[2019-09-10 14:17:16,204][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258502.0, com.dalakgames.ziplinevalley
+[2019-09-10 14:17:16,211][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258501.0, com.befreetour.befreemobile
+[2019-09-10 14:17:16,218][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258531.0, kr.or.sbbank.plus
+[2019-09-10 14:17:16,225][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258497.0, app.indvel.ckudorm
+[2019-09-10 14:17:16,232][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258505.0, com.hcmfactory.android.haiko
+[2019-09-10 14:17:16,240][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258500.0, com.atanusanyal.playedition.update
+[2019-09-10 14:17:16,247][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258514.0, com.nanoombaby3
+[2019-09-10 14:17:16,256][DEBUG|parseNewProvider.py:43] >> Already App! update >> , 258526.0, kr.co.icoxs.mobile.fileisplayer2
+[2019-09-10 14:17:17,026][DEBUG|parseNewProvider.py:206] >> Good Bye Parser! 
+ 

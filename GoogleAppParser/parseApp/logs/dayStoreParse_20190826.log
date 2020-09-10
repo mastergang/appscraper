@@ -1,0 +1,14 @@
+[2019-08-26 00:40:02,071][DEBUG|dayStoreAppParse.py:65] >>  Hello Parser! 
+[2019-08-26 00:40:06,779][DEBUG|dayStoreAppParse.py:27] >> 지니 뮤직 - genie, com.ktmusic.geniemusic, 음악/오디오, 지니뮤직, 5000000.0, 38145.0, 3.2, 100, 38, 36, 22, 80, 2019년 7월 29일, http://www.genie.co.kr, %EC%A7%80%EB%8B%88%EB%AE%A4%EC%A7%81, 
+[2019-08-26 00:40:11,454][DEBUG|dayStoreAppParse.py:27] >> PAYCO - 페이코, 혜택까지 똑똑한 간편결제, com.nhnent.payapp, 라이프스타일, NHN Corp., 5000000.0, 17362.0, 4.4, 100, 7, 4, 2, 13, 2019년 8월 14일, http://www.payco.com/, , 9081645972946213311
+[2019-08-26 00:40:15,941][DEBUG|dayStoreAppParse.py:27] >> 지그재그 - 여성쇼핑몰 모음, 쇼핑몰순위, com.croquis.zigzag, 쇼핑, croquis.com, 5000000.0, 56858.0, 4.6, 100, 25, 7, 1, 3, 2019년 8월 3일, http://zigzag.kr, croquis.com, 
+[2019-08-26 00:40:20,611][DEBUG|dayStoreAppParse.py:27] >> 지하철 종결자 : Smarter Subway, teamDoppelGanger.SmarterSubway, 지도/내비게이션, TeamDoppelGanger, 10000000.0, 79285.0, 4.3, 100, 27, 8, 4, 13, 2019년 7월 29일, https://www.smartersubway.co.kr/, TeamDoppelGanger, 
+[2019-08-26 00:40:25,166][DEBUG|dayStoreAppParse.py:27] >> 착한 음악다운 플레이, com.goodplay.a511best, 동영상 플레이어/편집기, FREE+++, 500000.0, 7709.0, 4.5, 100, 16, 4, 2, 6, 2019년 8월 15일, mailto:haho201905@gmail.com, FREE%2B%2B%2B, 
+[2019-08-26 00:40:30,028][DEBUG|dayStoreAppParse.py:27] >> 카카오버스, com.astroframe.seoulbus, 지도/내비게이션, Kakao Corporation, 10000000.0, 47948.0, 3.9, 100, 28, 14, 8, 30, 2019년 7월 9일, https://map.kakao.com/info/kakao_bus%20, Kakao+Corporation, 
+[2019-08-26 00:40:34,591][DEBUG|dayStoreAppParse.py:27] >> 삼성화재, com.samsungfire.insurance, 금융, 삼성화재, 1000000.0, 6084.0, 4.1, 100, 28, 13, 7, 20, 2019년 8월 21일, http://m.samsungfire.com, %EC%82%BC%EC%84%B1%ED%99%94%EC%9E%AC, 
+[2019-08-26 00:40:39,246][DEBUG|dayStoreAppParse.py:27] >> Google Duo - 고화질 화상 통화, com.google.android.apps.tachyon, 커뮤니케이션, Google LLC, 1000000000.0, 4216730.0, 4.6, 100, 23, 6, 1, 3, 2019년 8월 16일, mailto:apps-help@google.com, , 5700313618786177705
+[2019-08-26 00:40:43,947][DEBUG|dayStoreAppParse.py:27] >> 쇼핑을 바꾸는 쇼핑. G마켓, com.ebay.kr.gmarket, 쇼핑, G마켓, 10000000.0, 72440.0, 3.8, 100, 25, 16, 9, 36, 2019년 8월 23일, http://www.gmarket.co.kr, G%EB%A7%88%EC%BC%93, 
+[2019-08-26 00:40:48,551][DEBUG|dayStoreAppParse.py:27] >> YouTube Music, com.google.android.apps.youtube.music, 음악/오디오, Google LLC, 100000000.0, 671839.0, 4.0, 100, 19, 10, 6, 23, 2019년 8월 19일, https://music.youtube.com, , 5700313618786177705
+[2019-08-26 00:40:52,996][DEBUG|dayStoreAppParse.py:27] >> Q-Net 큐넷(자격의 모든 것), com.mcnc.parecis.hrdkorea.qnet, 교육, 한국산업인력공단., 1000000.0, 5311.0, 2.5, 52, 15, 12, 7, 100, 2019년 8월 8일, http://www.q-net.or.kr/, %ED%95%9C%EA%B5%AD%EC%82%B0%EC%97%85%EC%9D%B8%EB%A0%A5%EA%B3%B5%EB%8B%A8., 
+[2019-08-26 00:40:52,999][DEBUG|dayStoreAppParse.py:157] >> Good Bye Parser! 
+ 

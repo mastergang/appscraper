@@ -1,0 +1,1364 @@
+[2020-04-04 00:10:07,259][DEBUG] >> *************** (1) ranking imfomation Start ***************
+[2020-04-04 00:11:04,839][DEBUG] >> 1, com.kakao.talk, 카카오톡 KakaoTalk
+[2020-04-04 00:11:04,843][DEBUG] >> 2, com.movefastcompany.bora, 하쿠나 라이브 -  Live 방송
+[2020-04-04 00:11:04,857][DEBUG] >> 3, com.frograms.wplay, 왓챠플레이
+[2020-04-04 00:11:04,859][DEBUG] >> 4, sg.bigo.live, Bigo Live (비고라이브)  라이브방송, 영상채팅
+[2020-04-04 00:11:04,861][DEBUG] >> 5, tv.twitch.android.app, Twitch: 리그 오브 레전드, Hearthstone, MMO 게임 스트리밍 라이브 시청
+[2020-04-04 00:11:04,863][DEBUG] >> 6, com.google.android.apps.subscriptions.red, Google One
+[2020-04-04 00:11:04,865][DEBUG] >> 7, net.nrise.wippy, 위피 - 동네 친구가 필요할 때
+[2020-04-04 00:11:04,867][DEBUG] >> 8, com.azarlive.android, 아자르 Azar -라이브로 친구찾기, 영상메신저
+[2020-04-04 00:11:04,869][DEBUG] >> 9, com.NoonDate, 정오의 데이트 소개팅 - 동네친구와 대화하고 만남이 필요할 때
+[2020-04-04 00:11:04,871][DEBUG] >> 10, com.colondee.simkoong3, 심쿵 - 대한민국 1등 동네친구 만들기 앱
+[2020-04-04 00:11:04,888][DEBUG] >> 11, jp.naver.lineplay.android, 라인 플레이  전세계 No.1 패션 게임
+[2020-04-04 00:11:04,889][DEBUG] >> 12, com.charmy.cupist, 글램 - 모든 매력적인 만남
+[2020-04-04 00:11:04,891][DEBUG] >> 13, app.hybirds.skypeople, 스카이피플 (스피) : 서울대생이 만든 인증을 통한 안전한 소개팅 + 직장인 익명 커뮤니티
+[2020-04-04 00:11:04,892][DEBUG] >> 14, com.p1.mobile.putong, 탄탄 - 남사친이 필요할 때
+[2020-04-04 00:11:04,894][DEBUG] >> 15, kr.co.millie.millieshelf, 밀리의 서재 - 독서와 무제한 친해지리
+[2020-04-04 00:11:04,895][DEBUG] >> 16, com.mate.korean, Kmate 케이메이트 - 한국을 사랑하는 외국인친구 사귀기, 미팅, 외국어 채팅, 언어교환
+[2020-04-04 00:11:04,896][DEBUG] >> 17, com.yeoboya.com.yeoboya, 여보야 - 결혼, 재혼을 위한 중매쟁이 앱
+[2020-04-04 00:11:04,897][DEBUG] >> 18, com.dorsia.amanda, 아만다: 눈 높아도 괜찮은 프리미엄 소개팅
+[2020-04-04 00:11:04,915][DEBUG] >> 19, com.tinder, Tinder 새로운 친구를 발견해봐
+[2020-04-04 00:11:04,917][DEBUG] >> 20, com.goldspoon, 골드스푼 : 자격을 갖춘 남녀를 위한 안전한 소개팅
+[2020-04-04 00:11:04,938][DEBUG] >> 21, com.endressdreamky.loveting, 너랑나랑 - 매일16명 소개팅 (소셜데이팅,연애)
+[2020-04-04 00:11:04,940][DEBUG] >> 22, com.quvideo.xiaoying, VivaVideo - 동영상 편집 어플 & 무비메이커
+[2020-04-04 00:11:04,942][DEBUG] >> 23, com.koikatsu.android.dokidoki2.kr, 당연시 - 당신도 연애를 시작할 때, 미팅/소개팅/동네 친구 찾기
+[2020-04-04 00:11:04,944][DEBUG] >> 24, kr.cocone.minime, 포켓미니
+[2020-04-04 00:11:04,946][DEBUG] >> 25, me.zepeto.main, ZEPETO
+[2020-04-04 00:11:04,947][DEBUG] >> 26, com.mobile.sptalks, 빠른톡S - 더 강력해진 실시간 영상통화, 목소리듣고 빠르게 인연 찾는 어플
+[2020-04-04 00:11:04,956][DEBUG] >> 27, kr.co.influential.youngkangapp, 오디오북의 시작 - 윌라
+[2020-04-04 00:11:04,958][DEBUG] >> 28, com.abletree.someday, 썸데이 - 이상형 만남 소개팅 (만남, 데이트, 소개팅 어플)
+[2020-04-04 00:11:04,969][DEBUG] >> 29, com.yangpark.connecting, 커넥팅 - 클린한 소셜 통화 어플
+[2020-04-04 00:11:04,971][DEBUG] >> 30, com.nexstreaming.app.kinemasterfree, 키네마스터 - 동영상 편집, 동영상 자막, 필터, vlog 편집 앱
+[2020-04-04 00:11:04,972][DEBUG] >> 31, kr.chat.wangtalk, 원앙챗(안심결제)
+[2020-04-04 00:11:04,974][DEBUG] >> 32, fire.ting.fireting.chat, 만남,돌싱,중년,채팅어플,아줌마중매,무료채팅,소개팅,재혼만남,만남어플 - 불팅
+[2020-04-04 00:11:04,975][DEBUG] >> 33, com.un7qi3.forceteller, 포스텔러 - 애정운, 신년운세, 무료운세, 사주, 타로, 궁합, 토정비결, 별자리, 손금
+[2020-04-04 00:11:04,978][DEBUG] >> 34, com.bluepin.kidsworldforgoogleplay, 카카오키즈
+[2020-04-04 00:11:04,980][DEBUG] >> 35, com.friendscube.somoim, 소모임 - No.1 취미모임 앱
+[2020-04-04 00:11:04,982][DEBUG] >> 36, kr.co.kkongtalk.app, (앙팅 즐팅 통합) 앙팅즐팅 톡톡 랜덤채팅
+[2020-04-04 00:11:04,983][DEBUG] >> 37, com.isharing.isharing, 아이쉐어링 위치추적 - 가족 자녀안심, 친구찾기, GPS 안심이
+[2020-04-04 00:11:04,985][DEBUG] >> 38, com.dunamu.stockplus, 증권플러스 for Kakao - 국민 증권앱
+[2020-04-04 00:11:04,987][DEBUG] >> 39, com.probits.argo, 아르고 ARGO - 영상메신저, 영상채팅, 친구찾기
+[2020-04-04 00:11:04,995][DEBUG] >> 40, com.videochat.livu, LivU - 랜덤 영상 채팅
+[2020-04-04 00:11:04,997][DEBUG] >> 41, com.selabs.speak, 스픽 (Speak): 영어회화, 스피킹, 발음
+[2020-04-04 00:11:04,999][DEBUG] >> 42, com.smule.singandroid, Smule - 소셜 노래방 앱
+[2020-04-04 00:11:05,000][DEBUG] >> 43, com.naver.vapp, V LIVE
+[2020-04-04 00:11:05,001][DEBUG] >> 44, com.evernote, Evernote  수첩, 노트와 메모를 위한 플래너
+[2020-04-04 00:11:05,002][DEBUG] >> 45, com.enuma.todomath, 토도 수학
+[2020-04-04 00:11:05,003][DEBUG] >> 46, com.paktor, 스와이프 - 새로운 친구 찾기
+[2020-04-04 00:11:05,004][DEBUG] >> 47, com.ca_smart.izonemail, IZ*ONE Private Mail
+[2020-04-04 00:11:05,005][DEBUG] >> 48, com.nxc.catchitenglishbasic.google, 캐치잇 잉글리시 : 게임보다 쉬운 영어 학습
+[2020-04-04 00:11:05,006][DEBUG] >> 49, vixr.bermuda, Bermuda - 화상채팅으로 새로운 친구 만나기
+[2020-04-04 00:11:05,009][DEBUG] >> 50, com.thingsflow.hellobot, 헬로우봇 - AI 사주타로상담
+[2020-04-04 00:11:05,013][DEBUG] >> 51, com.microsoft.skydrive, Microsoft OneDrive
+[2020-04-04 00:11:05,015][DEBUG] >> 52, com.nhn.android.band, 밴드
+[2020-04-04 00:11:05,017][DEBUG] >> 53, kr.co.april7.eundabang.google, 은하수다방 - 돌싱, 재혼을 위한 프리미엄 소개팅
+[2020-04-04 00:11:05,019][DEBUG] >> 54, kr.co.april7.buddy, 다톡 - 무료 채팅으로 동네 친구, 톡친구 사귀기
+[2020-04-04 00:11:05,040][DEBUG] >> 55, com.hellomarket.chat, 즐겁게톡 - 채팅, 랜덤채팅
+[2020-04-04 00:11:05,042][DEBUG] >> 56, kr.christiandate.app, 크리스천데이트 -  기독교 청년들을 위한 소개팅
+[2020-04-04 00:11:05,044][DEBUG] >> 57, com.rcplatform.livechat, Tumile라이브 캣 - 새로운 사람들 만나기 & 무료 라이브 채팅
+[2020-04-04 00:11:05,046][DEBUG] >> 58, com.chatproject2019.chattingtalk, 채팅 만남 비밀친구 필요할때 - 즐챗
+[2020-04-04 00:11:05,048][DEBUG] >> 59, com.blued.international, Blued - 게이 데이팅 & 라이브 앱
+[2020-04-04 00:11:05,050][DEBUG] >> 60, to.likey.android, 라이키 Likey - 셀럽과 단둘이 1:1 채팅
+[2020-04-04 00:11:05,052][DEBUG] >> 61, kr.love.danggasa, 당신 가까이에 사랑이 있습니다.
+[2020-04-04 00:11:05,053][DEBUG] >> 62, com.sunny.v01, 써니캠 - 영상채팅
+[2020-04-04 00:11:05,055][DEBUG] >> 63, com.picsart.studio, PicsArt Photo Editor: 콜라주 메이커 & 사진 편집기
+[2020-04-04 00:11:05,057][DEBUG] >> 64, kr.co.vcnc.android.couple, 비트윈 Between
+[2020-04-04 00:11:05,058][DEBUG] >> 65, net.couplemaker.meeting, 소개팅 1등, 커플메이커 (연애,데이팅,만남,미팅 앱)
+[2020-04-04 00:11:05,060][DEBUG] >> 66, com.hy.sfacer, Fantastic Face 얼굴 분석 및 노화 예측
+[2020-04-04 00:11:05,062][DEBUG] >> 67, com.dropbox.android, Dropbox: 백업, 동기화 및 공유를 위한 클라우드 스토리지
+[2020-04-04 00:11:05,064][DEBUG] >> 68, at.nk.tools.iTranslate, iTranslate 번역 - 번역기 & 사전
+[2020-04-04 00:11:05,065][DEBUG] >> 69, com.dkzkcmzl.secretFriend, 1km 돌싱 만남톡 - 비밀친구
+[2020-04-04 00:11:05,067][DEBUG] >> 70, com.darinsoft.vimo, VLLO 블로 - 쉬운 동영상 편집 어플 브이로그 앱
+[2020-04-04 00:11:05,068][DEBUG] >> 71, com.mrblue.mrblue, 미스터블루  최신 웹툰 소설 만화 무료 감상앱
+[2020-04-04 00:11:05,070][DEBUG] >> 72, com.dkzkcmzl.ddokTalk, 중년~ 떡톡 조건없는 즐톡
+[2020-04-04 00:11:05,072][DEBUG] >> 73, com.intsig.camscanner, CamScanner - 문서를 PDF로 스캔하기
+[2020-04-04 00:11:05,073][DEBUG] >> 74, com.hd.wallpaper.backgrounds, OPixels - Comic Art Photos Editor
+[2020-04-04 00:11:05,075][DEBUG] >> 75, com.toomics.zzamtoon.google, 투믹스 - 웹툰 (무료웹툰/인기만화)
+[2020-04-04 00:11:05,076][DEBUG] >> 76, com.conbus.anna, 인공지능 소개팅 애나 - 목소리도 듣고 분석도 하고
+[2020-04-04 00:11:05,077][DEBUG] >> 77, tteok.ting.tteokting, 떡팅  채팅어플,만남,랜덤채팅,친구,애인,소개팅,무료채팅 인기어플
+[2020-04-04 00:11:05,078][DEBUG] >> 78, co.benx.weverse, 위버스 Weverse
+[2020-04-04 00:11:05,079][DEBUG] >> 79, com.fluidtouch.noteshelf2, Noteshelf - 손으로 메모하고 | PDF 주석을 달아 정리하고
+[2020-04-04 00:11:05,081][DEBUG] >> 80, com.nil.danjjak, 단짝 게임 - 친구사귀기 예쁜 아바타 만들기 즐거운 월드이벤트 함께 즐기는 우리들만의 공간
+[2020-04-04 00:11:05,082][DEBUG] >> 81, free.vpn.unblock.proxy.turbovpn, Turbo VPN 무제한 무료 VPN & 빠른 보안 프록시 접속
+[2020-04-04 00:11:05,083][DEBUG] >> 82, jp.dena.showroom, SHOWROOM - free live streaming
+[2020-04-04 00:11:05,085][DEBUG] >> 83, net.ib.mn, 최애돌♡ - 아이돌 순위 / 스케줄 / 퀴즈
+[2020-04-04 00:11:05,087][DEBUG] >> 84, com.entermedia.mobile.karaoke, 매직씽 아싸노래방 : 모두를 위한 모바일 노래방
+[2020-04-04 00:11:05,088][DEBUG] >> 85, com.jobplanet.kr.android, 잡플래닛-2020년 일하기 좋은 기업은 어디?
+[2020-04-04 00:11:05,090][DEBUG] >> 86, com.hancom.office.hwp.editor.hwp_apk.gplaystore, 한컴오피스 한글
+[2020-04-04 00:11:05,092][DEBUG] >> 87, com.google.android.apps.docs, Google 드라이브
+[2020-04-04 00:11:05,094][DEBUG] >> 88, com.moonlight.freefollowers, 라이크리 - 셀럽 또는 인플루언서가 될 수 있는 가장 쉬운 방법!
+[2020-04-04 00:11:05,096][DEBUG] >> 89, com.playland.fancyslime, Fancy Slime
+[2020-04-04 00:11:05,098][DEBUG] >> 90, jp.pxv.android, pixiv
+[2020-04-04 00:11:05,101][DEBUG] >> 91, handasoft.dangeori.mobile, 단거리연애 : 동네친구와 채팅하기
+[2020-04-04 00:11:05,103][DEBUG] >> 92, com.doosan.newebsfm, EBS어학FM
+[2020-04-04 00:11:05,116][DEBUG] >> 93, kr.co.psynet, LIVE스코어 - KBO, EPL, NBA 등 가장 빠른 스포츠 전종목 라이브스코어
+[2020-04-04 00:11:05,118][DEBUG] >> 94, com.inssachat, 인싸채팅 - 인싸를 위한 채팅 무료채팅 랜덤채팅 만남
+[2020-04-04 00:11:05,120][DEBUG] >> 95, com.duolingo, 듀오링고(Duolingo): 무료 영어 학습
+[2020-04-04 00:11:05,122][DEBUG] >> 96, com.naming.usooprj2_4, 작명 어플 넴유베: 이름짓기, 이름풀이, 개명, 넴유베 도장
+[2020-04-04 00:11:05,124][DEBUG] >> 97, com.triplens.android, Triplens: 사진 번역기
+[2020-04-04 00:11:05,125][DEBUG] >> 98, com.bnklab.android.dating, 프렌미 - 연인보다 편한 친구사이
+[2020-04-04 00:11:05,128][DEBUG] >> 99, emotion.onekm, 1km - 동네 친구, 소모임, 이성만남
+[2020-04-04 00:11:05,129][DEBUG] >> 100, com.apalon.scanner.app, 나만의 스캐너: 스캔 및 인쇄
+[2020-04-04 00:11:05,131][DEBUG] >> 101, com.milk.talk, 밀크톡 - 영상 채팅, 화상 채팅, 영상 톡, 채팅 어플 만남
+[2020-04-04 00:11:05,133][DEBUG] >> 102, com.epyrus.fanmuking_g, 판무킹 -판타지 무협소설을 간편하게 읽을 수 있는 서점
+[2020-04-04 00:11:05,141][DEBUG] >> 103, com.inc_2ulip.tulip, 2ulip : 튤립
+[2020-04-04 00:11:05,143][DEBUG] >> 104, com.skout.android, SKOUT-만남, 채팅, 친구
+[2020-04-04 00:11:05,145][DEBUG] >> 105, com.noyesrun.meeff.kr, 미프 MEEFF - 한국을 좋아하는 전 세계 외국인 친구 사귀기
+[2020-04-04 00:11:05,147][DEBUG] >> 106, com.life360.android.safetymapd, Life360 - 가족 위치추적기
+[2020-04-04 00:11:05,148][DEBUG] >> 107, com.tech.analytics, Xprofile
+[2020-04-04 00:11:05,150][DEBUG] >> 108, com.elinsoft.camandchat, 캠앤챗 - 랜덤채팅 영상채팅 화상채팅 무료채팅 만남어플 채팅 소개팅
+[2020-04-04 00:11:05,151][DEBUG] >> 109, jp.naver.line.android, 라인 LINE
+[2020-04-04 00:11:05,152][DEBUG] >> 110, com.nordvpn.android, NordVPN: 안전한 인터넷과 온라인 보안을 즐길 수 있는 안드로이드용 VPN 앱
+[2020-04-04 00:11:05,153][DEBUG] >> 111, com.infraware.office.link, 폴라리스 오피스 - 무료 한글, 오피스 문서 + PDF,  텍스트 뷰어
+[2020-04-04 00:11:05,154][DEBUG] >> 112, com.baloota.dumpster, 덤스터(Dumpster)  안드로이드 최고의 파일 복원 앱
+[2020-04-04 00:11:05,156][DEBUG] >> 113, com.video.lovecam, 사랑캠 - 영상채팅,화상채팅,익명채팅
+[2020-04-04 00:11:05,157][DEBUG] >> 114, mega.privacy.android.app, MEGA
+[2020-04-04 00:11:05,177][DEBUG] >> 115, com.microsoft.office.excel, Microsoft Excel: 스프레드시트 보기, 편집 및 만들기
+[2020-04-04 00:11:05,180][DEBUG] >> 116, com.calm.android, Calm - 명상 및 굿나잇 스토리
+[2020-04-04 00:11:05,192][DEBUG] >> 117, com.hellotalk, HelloTalk 헬로톡-무료 외국어 언어 교환
+[2020-04-04 00:11:05,194][DEBUG] >> 118, com.ewa.ewaapp, EWA English  초급자를 위한 영어 학습
+[2020-04-04 00:11:05,196][DEBUG] >> 119, com.nwz.ichampclient, 아이돌챔프 - 쇼챔피언, 아이돌투표, 팬덤, 아이돌
+[2020-04-04 00:11:05,210][DEBUG] >> 120, com.scs.android.chattalk, 세이클럽 미니 - 대화, 무료채팅, 친구찾기
+[2020-04-04 00:11:05,212][DEBUG] >> 121, com.wsl.noom, 눔(Noom) - 건강관리,다이어트,당뇨,식단,만보기
+[2020-04-04 00:11:05,214][DEBUG] >> 122, kr.co.hunet.dailysnack, 데일리스낵
+[2020-04-04 00:11:05,224][DEBUG] >> 123, com.shouter.easyvoca, 이지보카 - 영어단어 어원을 읽어주는 특별한 영단어 암기앱 단어장
+[2020-04-04 00:11:05,226][DEBUG] >> 124, com.commsource.beautyplus, BeautyPlus 뷰티플러스 - 올인원 카메라로 만드는 이쁜 셀카 사진
+[2020-04-04 00:11:05,227][DEBUG] >> 125, com.asiainno.uplive, 업라이브Uplive
+[2020-04-04 00:11:05,229][DEBUG] >> 126, net.littlefox.lf_app_fragment, 리틀팍스 - 영어동화 도서관
+[2020-04-04 00:11:05,231][DEBUG] >> 127, com.lezhin.comics, 레진코믹스 - 매일 무료 웹툰
+[2020-04-04 00:11:05,263][DEBUG] >> 128, cc.chatmore.dating, 국민어장 - 무료채팅, 랜덤채팅
+[2020-04-04 00:11:05,266][DEBUG] >> 129, kr.manchat.ao, 채팅남녀 - 남녀 모두를 위한 채팅 무료채팅 랜덤채팅 영상채팅 만남
+[2020-04-04 00:11:05,268][DEBUG] >> 130, com.dating.diamatch, 다이아매치 - 학교·직장 인증 고스펙 소개팅
+[2020-04-04 00:11:05,270][DEBUG] >> 131, com.uangel.tomokidsStoreYaho2, [EBS공식] 한글이야호, 한글이야호2 (따라쓰기, 읽기, 워크북)
+[2020-04-04 00:11:05,272][DEBUG] >> 132, com.donga.trotpick, 트롯픽 - TROTPICK
+[2020-04-04 00:11:05,275][DEBUG] >> 133, kr.co.smartstudy.pinkfongtv.ko_android_googlemarket, 핑크퐁 TV : 인기 동요 동화 포털
+[2020-04-04 00:11:05,291][DEBUG] >> 134, com.everysing.lysn, 리슨 Lysn
+[2020-04-04 00:11:05,293][DEBUG] >> 135, com.strava, Strava GPS 및 사이클링 달리기
+[2020-04-04 00:11:05,309][DEBUG] >> 136, com.wisdomhouse.justoon, 코미코
+[2020-04-04 00:11:05,310][DEBUG] >> 137, com.mindclass.android, 코끼리 - 수면, 힐링, 스트레스 해소
+[2020-04-04 00:11:05,312][DEBUG] >> 138, com.imo.android.imoim, imo - free group video calls
+[2020-04-04 00:11:05,314][DEBUG] >> 139, kr.co.gleammedia.starplay, 스타플레이 : STARPLAY - KPOP 아이돌 콘텐츠 THE SHOW 더쇼 순위투표
+[2020-04-04 00:11:05,315][DEBUG] >> 140, net.palmplayer.palm, PalmStation
+[2020-04-04 00:11:05,328][DEBUG] >> 141, com.mlive.mliveapp, MLiveU : Hot Live Show
+[2020-04-04 00:11:05,330][DEBUG] >> 142, com.bnc.bambi.client, 밤비 - 랜덤채팅 익명쪽지 톡친구
+[2020-04-04 00:11:05,332][DEBUG] >> 143, com.privateinc.jjang, 짱챗 - 랜덤채팅 친구만들기
+[2020-04-04 00:11:05,333][DEBUG] >> 144, com.dkzkcmzl.thunderTalk, 벙개톡 - 채팅으로 여사친, 톡친구
+[2020-04-04 00:11:05,334][DEBUG] >> 145, com.vsco.cam, VSCO: 사진 및 동영상 편집기
+[2020-04-04 00:11:05,336][DEBUG] >> 146, hotspotshield.android.vpn, Hotspot Shield 무료로 VPN 대리 & WiFi 보안 (Security)
+[2020-04-04 00:11:05,338][DEBUG] >> 147, com.xsol.gnali, 지나리 - 실시간 위치추적, 위치공유, 과거위치, 분실방지
+[2020-04-04 00:11:05,340][DEBUG] >> 148, com.vcv.misstalks, 미스톡S - 영상톡, 친구만들기, 영상채팅, 만남, 화상채팅, 애인만들기, 영상통화
+[2020-04-04 00:11:05,342][DEBUG] >> 149, com.colive.yaja, 야자 라이브 Yaja Live - 실시간 영상채팅으로 새로운 친구 만들고 외국어로 대화하기
+[2020-04-04 00:11:05,344][DEBUG] >> 150, com.yazio.android, YAZIO 코치 - 칼로리계산기 어플, 다이어트일기
+[2020-04-04 00:11:05,345][DEBUG] >> 151, com.scatterlab.soljr, 연애의 과학 - 심리학 연애팁과 심리 테스트
+[2020-04-04 00:11:05,348][DEBUG] >> 152, com.estickerapp.android, 직장인 이성 친구 만남 데이팅 - 에스티커 (데이트 채팅 미팅 소개팅어플)
+[2020-04-04 00:11:05,368][DEBUG] >> 153, com.quriously.airklass, 에어클래스 AIR KLASS
+[2020-04-04 00:11:05,370][DEBUG] >> 154, com.appland.qrscanner, QR & Barcode Scanner
+[2020-04-04 00:11:05,373][DEBUG] >> 155, kr.jungrammer.superranchat, 랜챗 - 랜덤채팅
+[2020-04-04 00:11:05,377][DEBUG] >> 156, screenrecorder.recorder.editor, V Recorder 화면 녹화기 - 오디오, 동영상 편집기, Screen Recorder
+[2020-04-04 00:11:05,386][DEBUG] >> 157, com.mabopractice.app, 마보 - 명상, 마음의 안정, 깊은 수면
+[2020-04-04 00:11:05,388][DEBUG] >> 158, im.kumu.ph, Kumu - Pinoy Livestream Community Gameshows
+[2020-04-04 00:11:05,390][DEBUG] >> 159, com.palmsecret.horoscope, Palm Secret - 노화 카메라, 손금 리더, 별자리
+[2020-04-04 00:11:05,392][DEBUG] >> 160, com.jsdev.instasize, 사진 편집, 영상 편집,  콜라주 메이커를 하나로! 세계 유일의 어플, Instasize
+[2020-04-04 00:11:05,394][DEBUG] >> 161, com.leanus.loveae.kr, 사랑애 - 10초에 1커플 탄생
+[2020-04-04 00:11:05,396][DEBUG] >> 162, com.njsoft.missyou, 아미슈 - 채팅,비밀채팅,랜덤채팅,소개팅,연애,만남,은밀한대화
+[2020-04-04 00:11:05,399][DEBUG] >> 163, xyz.livetalk, 라이브톡 - 무료 영상채팅,화상채팅
+[2020-04-04 00:11:05,401][DEBUG] >> 164, com.xvideostudio.videoeditor, VideoShow - 무료 동영상 편집기 & 사진 편집기 & 동영상 촬영
+[2020-04-04 00:11:05,403][DEBUG] >> 165, com.one.goodnight, 굿나잇 목소리 소개팅앱 리슨 Goodnight
+[2020-04-04 00:11:05,404][DEBUG] >> 166, com.autodesk.autocadws, AutoCAD - DWG 편집기
+[2020-04-04 00:11:05,406][DEBUG] >> 167, net.digsso, 딕쏘 DIGSSO - 게이(Gay) 소셜 네트워크
+[2020-04-04 00:11:05,408][DEBUG] >> 168, com.fusionmedia.investing, 주식, 외환: 포트폴리오 및 뉴스
+[2020-04-04 00:11:05,409][DEBUG] >> 169, com.huya.yome, Yome Live 라이브, 개인 방송 및 스트리밍
+[2020-04-04 00:11:05,411][DEBUG] >> 170, com.dkzkcmzl.bubbleTalk, 동네친구 채팅 버블톡
+[2020-04-04 00:11:05,413][DEBUG] >> 171, com.scanner.protect, QR Code & Barcode Scanner
+[2020-04-04 00:11:05,415][DEBUG] >> 172, asia.jmate.travelfriends, AsianMate - 일본의 지방 가이드 찾기
+[2020-04-04 00:11:05,416][DEBUG] >> 173, kr.co.quicket, 번개장터 - 모바일 최대 중고마켓 앱 (중고나라, 중고차)
+[2020-04-04 00:11:05,417][DEBUG] >> 174, com.sm1.EverySing, 에브리싱 No. 1 스마트 노래방
+[2020-04-04 00:11:05,418][DEBUG] >> 175, com.appstard.loveletter, 러브레터 소개팅 -  매일 8명, (연결/대화 100% 무료, 정직한 소개팅)
+[2020-04-04 00:11:05,420][DEBUG] >> 176, com.chegg, Chegg Study - Homework Help
+[2020-04-04 00:11:05,421][DEBUG] >> 177, com.apalon.weatherlive.free, 실시간 날씨 버전
+[2020-04-04 00:11:05,422][DEBUG] >> 178, com.teamblind.blind, 블라인드 Blind - 직장인 기업 연봉 & 이직 커리어 SNS
+[2020-04-04 00:11:05,424][DEBUG] >> 179, com.kii.safe, Keepsafe 사진 보관함  사진 비디오 숨기기
+[2020-04-04 00:11:05,426][DEBUG] >> 180, com.mchaeting.sweettalk, 스윗톡
+[2020-04-04 00:11:05,428][DEBUG] >> 181, com.applepie4.mylittlepet, 헬로펫 - 폰화면에 고양이 강아지 키우기, 펫 키우기 게임
+[2020-04-04 00:11:05,430][DEBUG] >> 182, com.lightricks.pixaloop, Enlight Pixaloop
+[2020-04-04 00:11:05,432][DEBUG] >> 183, com.cyberlink.powerdirector.DRA140225_01, 파워디렉터(PowerDirector)  YouTube 동영상 편집기
+[2020-04-04 00:11:05,435][DEBUG] >> 184, mars.nomad.com.blinddate2018, 블데 - 매력 없으면 가입 못하는 프리미엄 인증 어플(블라인드 데이트)
+[2020-04-04 00:11:05,437][DEBUG] >> 185, jp.eure.android.pairs_tw, Pairs(페어즈): 진짜 연애 하고싶을때
+[2020-04-04 00:11:05,439][DEBUG] >> 186, com.canva.editor, Canva: 무료 그래픽 디자인 도구 및 로고 편집기
+[2020-04-04 00:11:05,442][DEBUG] >> 187, es.monkimun.lingokids, Lingokids - The playlearning™ 영어 앱
+[2020-04-04 00:11:05,444][DEBUG] >> 188, com.adobe.lrmobile, Adobe Lightroom - 사진 편집 포토샵 어플
+[2020-04-04 00:11:05,446][DEBUG] >> 189, com.bms.romanceg, 로맨스소설 Club
+[2020-04-04 00:11:05,448][DEBUG] >> 190, com.microsoft.office.word, Microsoft Word: 이동 중에 문서 작성, 편집 및 공유
+[2020-04-04 00:11:05,450][DEBUG] >> 191, com.dkzkcmzl.letsbefriend, 만남, 바로 만나자 - 다만남
+[2020-04-04 00:11:05,452][DEBUG] >> 192, com.machipopo.media17, LIVIT - 17
+[2020-04-04 00:11:05,454][DEBUG] >> 193, com.weplli.project.pororocon, 뽀로로콘 - 어린이 아바타 놀이 학습
+[2020-04-04 00:11:05,456][DEBUG] >> 194, org.pmf.selso, 남녀공학 - 익명소통, 채팅앱
+[2020-04-04 00:11:05,459][DEBUG] >> 195, com.gen.workoutme, BetterMe: 체중 감량 운동
+[2020-04-04 00:11:05,460][DEBUG] >> 196, com.parau.videochat, ParaU：낯선채팅 & 화상채팅
+[2020-04-04 00:11:05,462][DEBUG] >> 197, com.sgiggle.production, Tango - Live Video Broadcasts
+[2020-04-04 00:11:05,464][DEBUG] >> 198, com.apalon.weatherradar.free, 실시간 일기예보 및 레이더
+[2020-04-04 00:11:05,466][DEBUG] >> 199, com.udemy.android, Udemy - 유데미 온라인 학습
+[2020-04-04 00:11:05,481][DEBUG] >> 200, air.com.rosettastone.mobile.CoursePlayer, 뉴로제타스톤
+[2020-04-04 00:11:20,199][DEBUG] >> 1, com.mojang.minecraftpe, Minecraft
+[2020-04-04 00:11:20,201][DEBUG] >> 2, com.chucklefish.stardewvalley, 스타듀 밸리 Stardew Valley
+[2020-04-04 00:11:20,203][DEBUG] >> 3, com.fizzd.connectedworlds, A Dance Of Fire and Ice
+[2020-04-04 00:11:20,204][DEBUG] >> 4, com.ironhidegames.android.kingdomrush4, 킹덤 러쉬 벤전스 (Kingdom Rush Vengeance)
+[2020-04-04 00:11:20,205][DEBUG] >> 5, nz.co.codepoint.minimetro, 미니 메트로
+[2020-04-04 00:11:20,207][DEBUG] >> 6, com.sega.soccer, Football Manager 2020 Mobile
+[2020-04-04 00:11:20,208][DEBUG] >> 7, it.rortos.realflightsimulator, RFS - Real Flight Simulator
+[2020-04-04 00:11:20,209][DEBUG] >> 8, com.and.games505.humanfallflat, Human: Fall Flat
+[2020-04-04 00:11:20,228][DEBUG] >> 9, com.Classicgame.SuperBunnyManLite, Classic game：Super Bunny Man Lite
+[2020-04-04 00:11:20,230][DEBUG] >> 10, com.talesshop.some, 썸썸 편의점
+[2020-04-04 00:11:20,233][DEBUG] >> 11, com.devolver.grispaid, GRIS
+[2020-04-04 00:11:20,235][DEBUG] >> 12, com.banjihagames.seoul2033_backer, 서울 2033 : 후원자
+[2020-04-04 00:11:20,237][DEBUG] >> 13, com.ustwo.monumentvalley, Monument Valley
+[2020-04-04 00:11:20,239][DEBUG] >> 14, com.robtopx.geometryjump, Geometry Dash
+[2020-04-04 00:11:20,243][DEBUG] >> 15, com.prpr.musedash, Muse Dash
+[2020-04-04 00:11:20,245][DEBUG] >> 16, com.daysofwonder.Splendor.gp, Splendor
+[2020-04-04 00:11:20,259][DEBUG] >> 17, com.Paladog.KorGG, 팔라독(Paladog)
+[2020-04-04 00:11:20,261][DEBUG] >> 18, com.acton.nakedking1google, 네이키드킹
+[2020-04-04 00:11:20,263][DEBUG] >> 19, com.t2ksports.nba2k20and, NBA 2K20
+[2020-04-04 00:11:20,264][DEBUG] >> 20, com.drycactus.polybridge, Poly Bridge
+[2020-04-04 00:11:20,266][DEBUG] >> 21, com.ironhidegames.android.kingdomrushfrontiers, Kingdom Rush Frontiers
+[2020-04-04 00:11:20,268][DEBUG] >> 22, cc.peacedeath.peacedeath, Peace, Death!
+[2020-04-04 00:11:20,270][DEBUG] >> 23, com.noodlecake.gettingoverit, Getting Over It with Bennett Foddy
+[2020-04-04 00:11:20,271][DEBUG] >> 24, com.piratesoutlaws.fabledgame, Pirates Outlaws
+[2020-04-04 00:11:20,286][DEBUG] >> 25, com.GameCoaster.DungeonMaker, 던전메이커
+[2020-04-04 00:11:20,288][DEBUG] >> 26, com.Zonmob.Stickman.FightingGames.ShadowOfDeath, Shadow of Death: 어둠의 기사 - 스틱맨 액션
+[2020-04-04 00:11:20,289][DEBUG] >> 27, air.com.RustyLake.WhiteDoor, The White Door
+[2020-04-04 00:11:20,291][DEBUG] >> 28, com.ironhidegames.android.kingdomrushorigins, Kingdom Rush Origins
+[2020-04-04 00:11:20,293][DEBUG] >> 29, com.panicartstudios.herosiegepocket, Hero Siege: 포켓 에디션
+[2020-04-04 00:11:20,294][DEBUG] >> 30, com.Level5.LT1RKR, 레이튼 교수와 이상한 마을 HD
+[2020-04-04 00:11:20,296][DEBUG] >> 31, id.application.asdc, 알베도 카르타
+[2020-04-04 00:11:20,298][DEBUG] >> 32, com.and.games505.TerrariaPaid, Terraria
+[2020-04-04 00:11:20,301][DEBUG] >> 33, com.ssicosm.dungeon_princess, 던전공주
+[2020-04-04 00:11:20,302][DEBUG] >> 34, com.robotgentleman.game60seconds, 60 Seconds! Atomic Adventure
+[2020-04-04 00:11:20,303][DEBUG] >> 35, com.teamarex.troop, 언노운 나이츠
+[2020-04-04 00:11:20,305][DEBUG] >> 36, com.kiwiwalks.witchspring4, 마녀의 샘4
+[2020-04-04 00:11:20,306][DEBUG] >> 37, com.ninjakiwi.bloonstd6, Bloons TD 6
+[2020-04-04 00:11:20,307][DEBUG] >> 38, com.asmodeedigital.terraformingmars, Terraforming Mars
+[2020-04-04 00:11:20,308][DEBUG] >> 39, com.PlausibleConcept.BadNorthFull, Bad North: Jotunn Edition
+[2020-04-04 00:11:20,309][DEBUG] >> 40, com.zigzagame.evertale, 에버테일
+[2020-04-04 00:11:20,319][DEBUG] >> 41, air.joara.miracle, 기적의 분식집 Complete
+[2020-04-04 00:11:20,321][DEBUG] >> 42, com.Level5.LT2RKR, 레이튼 교수와 악마의 상자 모바일 HD 리마스터
+[2020-04-04 00:11:20,322][DEBUG] >> 43, net.kairosoft.android.basket, 농구리그 스토리
+[2020-04-04 00:11:20,324][DEBUG] >> 44, com.singlecellsoftware.sandpremium, Sand! Premium
+[2020-04-04 00:11:20,326][DEBUG] >> 45, jp.konami.epjCastlevania2, Castlevania: Symphony of the Night
+[2020-04-04 00:11:20,328][DEBUG] >> 46, com.FlamebaitGames.Passpartout, Passpartout: The Starving Artist
+[2020-04-04 00:11:20,332][DEBUG] >> 47, com.longyoug.hmby, 삼국지 한말패업
+[2020-04-04 00:11:20,334][DEBUG] >> 48, com.GameCoaster.ProtectDungeon, 던전 지키기
+[2020-04-04 00:11:20,337][DEBUG] >> 49, age.of.civilizations2.jakowski.lukasz, Age of Civilizations II
+[2020-04-04 00:11:20,339][DEBUG] >> 50, pier.own.android.kysppro, 쿠키요미
+[2020-04-04 00:11:20,340][DEBUG] >> 51, com.atari.mobile.rctclassic, RollerCoaster Tycoon® Classic
+[2020-04-04 00:11:20,343][DEBUG] >> 52, com.Jeminie.Hmmsim2, Hmmsim 2 - Train Simulator
+[2020-04-04 00:11:20,345][DEBUG] >> 53, com.accidentalqueens.alp_korean, 잃어버린 전화기: 로라의 이야기
+[2020-04-04 00:11:20,347][DEBUG] >> 54, com.coffeestainstudios.goatsimulator, Goat Simulator
+[2020-04-04 00:11:20,349][DEBUG] >> 55, net.kairosoft.android.gamedev3en, 게임개발 스토리
+[2020-04-04 00:11:20,351][DEBUG] >> 56, air.dog.wfox, 당신을 기다리는 여우
+[2020-04-04 00:11:20,356][DEBUG] >> 57, com.devolver.reigns, Reigns
+[2020-04-04 00:11:20,358][DEBUG] >> 58, ch.feinheit.games.firststrike, First Strike: Final Hour
+[2020-04-04 00:11:20,361][DEBUG] >> 59, valsar.dungeonwarfare, 던전 워페어
+[2020-04-04 00:11:20,363][DEBUG] >> 60, com.kiwiwalks.witchspring, 마녀의 샘
+[2020-04-04 00:11:20,366][DEBUG] >> 61, com.ironhidegames.android.ironmarines, 아이언 마린 (Iron Marines)
+[2020-04-04 00:11:20,368][DEBUG] >> 62, com.FlatGames.myapp, 마왕의 시간
+[2020-04-04 00:11:20,370][DEBUG] >> 63, com.alawar.monkeysfulll, Do Not Feed The Monkeys
+[2020-04-04 00:11:20,372][DEBUG] >> 64, com.aerofly.aeroflyfs2020, Aerofly FS 2020
+[2020-04-04 00:11:20,374][DEBUG] >> 65, com.kiwiwalks.witchspring3, 마녀의 샘3
+[2020-04-04 00:11:20,397][DEBUG] >> 66, air.dog.wfox2, 당신을 기다리는 여우 花
+[2020-04-04 00:11:20,398][DEBUG] >> 67, kr.co.sonnori.whiteday.g, 화이트데이 - 학교라는 이름의 미궁
+[2020-04-04 00:11:20,399][DEBUG] >> 68, com.magmon.cartooncraft, 카툰 크래프트
+[2020-04-04 00:11:20,401][DEBUG] >> 69, com.dotemu.titanquest, Titan Quest
+[2020-04-04 00:11:20,402][DEBUG] >> 70, com.mlb.RBIBaseball2020, R.B.I. Baseball 20
+[2020-04-04 00:11:20,403][DEBUG] >> 71, com.MindBlossom.WorldTreeVIP, 세계수키우기 VIP
+[2020-04-04 00:11:20,405][DEBUG] >> 72, com.sofarsogood.incredibox, Incredibox
+[2020-04-04 00:11:20,408][DEBUG] >> 73, com.squareenixmontreal.hitmansniperandroid, 히트맨 스나이퍼 (Hitman Sniper)
+[2020-04-04 00:11:20,409][DEBUG] >> 74, com.feemodev.cat, 길고양이 이야기 : support edition
+[2020-04-04 00:11:20,411][DEBUG] >> 75, com.bigair.FBENGP, 파인딩 블루 (Finding Blue)
+[2020-04-04 00:11:20,413][DEBUG] >> 76, com.D3Go.mendel, Alien: Blackout
+[2020-04-04 00:11:20,415][DEBUG] >> 77, com.sega.soccer.champions, Football Manager 2020 Touch
+[2020-04-04 00:11:20,426][DEBUG] >> 78, com.jutsugames.operator911, 911 Operator
+[2020-04-04 00:11:20,428][DEBUG] >> 79, air.raeyoung.future, 미래의 여친님이 나에게 인사를 건네왔다
+[2020-04-04 00:11:20,430][DEBUG] >> 80, com.kleientertainment.doNotStarvePocket, Don't Starve: Pocket Edition
+[2020-04-04 00:11:20,433][DEBUG] >> 81, com.footballagent.ko, 풋볼 에이전트
+[2020-04-04 00:11:20,435][DEBUG] >> 82, com.pixelcurves.terlauncher, TL Pro
+[2020-04-04 00:11:20,437][DEBUG] >> 83, jp.nippon1.disgaearefine, Disgaea 1 Complete
+[2020-04-04 00:11:20,438][DEBUG] >> 84, com.xd.tothemoon, To the Moon
+[2020-04-04 00:11:20,440][DEBUG] >> 85, com.jumpgames.RealSteel, Real Steel
+[2020-04-04 00:11:20,442][DEBUG] >> 86, com.devolver.reigns2, Reigns: Her Majesty
+[2020-04-04 00:11:20,444][DEBUG] >> 87, com.astragon.cs2014, Construction Simulator 2014
+[2020-04-04 00:11:20,446][DEBUG] >> 88, com.RobotGentleman.sixtyParsecs.mobile, 60 Parsecs!
+[2020-04-04 00:11:20,449][DEBUG] >> 89, com.scottgames.fnaf2, Five Nights at Freddy's 2
+[2020-04-04 00:11:20,451][DEBUG] >> 90, com.fds.infiniteflight, Infinite Flight - 비행 시뮬레이터
+[2020-04-04 00:11:20,452][DEBUG] >> 91, com.Nanali.SallysLaw, 샐리의 법칙
+[2020-04-04 00:11:20,454][DEBUG] >> 92, age.of.civilizations.jakowski, 문명의 시대
+[2020-04-04 00:11:20,456][DEBUG] >> 93, net.kairosoft.android.pool, 워터파크 스토리
+[2020-04-04 00:11:20,458][DEBUG] >> 94, com.distractionware.superhexagon, Super Hexagon
+[2020-04-04 00:11:20,459][DEBUG] >> 95, com.halfbrick.fruitninja, Fruit Ninja Classic
+[2020-04-04 00:11:20,461][DEBUG] >> 96, com.mountains.feathertop, Florence
+[2020-04-04 00:11:20,463][DEBUG] >> 97, com.hg.bcnw, Battle Chasers: Nightwar
+[2020-04-04 00:11:20,464][DEBUG] >> 98, com.GSTUDIO.pokeaquarium, PokeAquarium
+[2020-04-04 00:11:20,466][DEBUG] >> 99, com.bluebraingames.houseofdavinci2, The House of Da Vinci 2
+[2020-04-04 00:11:20,467][DEBUG] >> 100, com.digidiced.ixsrelease, Isle of Skye: 전략적인 보드 게임
+[2020-04-04 00:11:20,468][DEBUG] >> 101, com.noodlecake.drtc, Death Road to Canada
+[2020-04-04 00:11:20,469][DEBUG] >> 102, com.gm_shaber.dayrpremium, Day R Premium
+[2020-04-04 00:11:20,471][DEBUG] >> 103, air.com.RustyLake.RustyLakeRoots, Rusty Lake: Roots
+[2020-04-04 00:11:20,472][DEBUG] >> 104, co.yakand.agentaapuzzleindisguise, Agent A - 숨겨진 퍼즐
+[2020-04-04 00:11:20,474][DEBUG] >> 105, net.kairosoft.android.depart2, 백화점 스토리2
+[2020-04-04 00:11:20,476][DEBUG] >> 106, net.cleverbit.DinoPuzzlesFull, 재미 있은 공룡 퍼즐 게임, 풀 버전.
+[2020-04-04 00:11:20,477][DEBUG] >> 107, com.peppapig.partytime, Peppa Pig (페퍼 피그): 페파피그의 파티 타임
+[2020-04-04 00:11:20,480][DEBUG] >> 108, com.GamBridzy.SiiMi, SIIMI(시미)
+[2020-04-04 00:11:20,481][DEBUG] >> 109, air.dog.fairy, 정령없는 정령사
+[2020-04-04 00:11:20,484][DEBUG] >> 110, com.epsxe.ePSXe, ePSXe for Android
+[2020-04-04 00:11:20,486][DEBUG] >> 111, com.hitcents.stickmanepic, Draw a Stickman: EPIC
+[2020-04-04 00:11:20,488][DEBUG] >> 112, com.jds.batim, Bendy and the Ink Machine
+[2020-04-04 00:11:20,490][DEBUG] >> 113, com.rac7.DarkEcho, Dark Echo
+[2020-04-04 00:11:20,492][DEBUG] >> 114, com.snkplaymore.android007, THE KING OF FIGHTERS '98
+[2020-04-04 00:11:20,494][DEBUG] >> 115, com.scottgames.fivenightsatfreddys, Five Nights at Freddy's
+[2020-04-04 00:11:20,495][DEBUG] >> 116, com.CrazyMonkeyStudios.Hidden, Hidden Through Time
+[2020-04-04 00:11:20,497][DEBUG] >> 117, com.hitcents.drawastickmanepic2, Draw a Stickman: EPIC 2
+[2020-04-04 00:11:20,499][DEBUG] >> 118, com.nekki.vector.paid, Vector Full
+[2020-04-04 00:11:20,501][DEBUG] >> 119, com.entwell.rk_org, 원령의기사
+[2020-04-04 00:11:20,502][DEBUG] >> 120, com.kentauros.from, 프롬어스 : 새로운 시작
+[2020-04-04 00:11:20,504][DEBUG] >> 121, air.com.RustyLake.RustyLakeParadise, Rusty Lake Paradise
+[2020-04-04 00:11:20,506][DEBUG] >> 122, air.dog.star, 죽어버린 별의 넋두리
+[2020-04-04 00:11:20,508][DEBUG] >> 123, com.tribe.hondoom, 대출산부족
+[2020-04-04 00:11:20,509][DEBUG] >> 124, com.adriaandejongh.hiddenfolks, Hidden Folks
+[2020-04-04 00:11:20,511][DEBUG] >> 125, com.beamdog.baldursgateIIenhancededition, Baldur's Gate II: Enhanced Edition
+[2020-04-04 00:11:20,513][DEBUG] >> 126, org.ppsspp.ppssppgold, PPSSPP Gold - PSP emulator
+[2020-04-04 00:11:20,515][DEBUG] >> 127, games.paveldogreat.fluidsim, Fluid Simulation - Trippy Stress Reliever
+[2020-04-04 00:11:20,517][DEBUG] >> 128, com.nevil.acuariumtycoon, 아쿠아리움 타이쿤
+[2020-04-04 00:11:20,518][DEBUG] >> 129, com.digidiced.abvrelease, Agricola All Creatures...
+[2020-04-04 00:11:20,520][DEBUG] >> 130, com.corrodinggames.rts, Rusted Warfare - RTS Strategy
+[2020-04-04 00:11:20,521][DEBUG] >> 131, com.square_enix.android_googleplay.dq1_gp, DRAGON QUEST
+[2020-04-04 00:11:20,522][DEBUG] >> 132, com.snackgames.demonking, 마왕 (Demon King)
+[2020-04-04 00:11:20,523][DEBUG] >> 133, com.disney.WMW, 스왐피(Swampy) Where Is My Water?
+[2020-04-04 00:11:20,524][DEBUG] >> 134, com.kinkajoo.RummikubHD, Rummikub
+[2020-04-04 00:11:20,525][DEBUG] >> 135, com.wereviz.evolution, 당신은 희망 입니다 (You are Hope)
+[2020-04-04 00:11:20,526][DEBUG] >> 136, com.web3o.bus.simulator.vietnam, Bus Simulator Vietnam
+[2020-04-04 00:11:20,529][DEBUG] >> 137, com.kemonomahjong.app, 케모노 마작 / Kemono Mahjong
+[2020-04-04 00:11:20,531][DEBUG] >> 138, com.asmodeedigital.carcassonne, Carcassonne: Official Board Game -Tiles & Tactics
+[2020-04-04 00:11:20,533][DEBUG] >> 139, air.com.shirogames.evoland12, Evoland
+[2020-04-04 00:11:20,535][DEBUG] >> 140, com.feralinteractive.gridas, GRID™ Autosport
+[2020-04-04 00:11:20,537][DEBUG] >> 141, com.dd.mk.vip, [VIP] 미사일 RPG: 미사일 키우기
+[2020-04-04 00:11:20,539][DEBUG] >> 142, com.nekki.shadowfight2.paid, 섀도우 파이트 2 특별판
+[2020-04-04 00:11:20,541][DEBUG] >> 143, com.gameloft.android.ANMP.GloftM4HM, 모던 컴뱃 4: 제로 아워
+[2020-04-04 00:11:20,544][DEBUG] >> 144, com.netease.ms3, The Room Three
+[2020-04-04 00:11:20,546][DEBUG] >> 145, air.net.machinarium.Machinarium.GP, Machinarium (머시나리움)
+[2020-04-04 00:11:20,548][DEBUG] >> 146, valsar.dungeonwarfare2, 던전 워페어 2
+[2020-04-04 00:11:20,549][DEBUG] >> 147, air.dog.fish, 방구석에 인어아가씨
+[2020-04-04 00:11:20,551][DEBUG] >> 148, com.wb.lego.marvel, LEGO® Marvel Super Heroes
+[2020-04-04 00:11:20,553][DEBUG] >> 149, unity.Annapurna.Gorogoa, Gorogoa
+[2020-04-04 00:11:20,554][DEBUG] >> 150, com.thegentlebros.catquest, Cat Quest
+[2020-04-04 00:11:20,556][DEBUG] >> 151, com.outerminds.pewdiepie, PewDiePie: Legend of Brofist
+[2020-04-04 00:11:20,558][DEBUG] >> 152, com.dotemu.neogeo.mslug3, METAL SLUG 3
+[2020-04-04 00:11:20,560][DEBUG] >> 153, net.kairosoft.android.manga_ippon_en, 만화가 스토리
+[2020-04-04 00:11:20,562][DEBUG] >> 154, com.playdead.limbo.full, LIMBO
+[2020-04-04 00:11:20,564][DEBUG] >> 155, com.czechgames.tta, Through the Ages
+[2020-04-04 00:11:20,566][DEBUG] >> 156, com.wb.goog.legojurassicworld, LEGO® Jurassic World™
+[2020-04-04 00:11:20,568][DEBUG] >> 157, com.kiwiwalks.witchspringluna, 마녀의 샘2
+[2020-04-04 00:11:20,570][DEBUG] >> 158, com.pockettrend.neomonsters, 네오 몬스터
+[2020-04-04 00:11:20,572][DEBUG] >> 159, com.digidiced.lhbrelease, Le Havre: The Inland Port
+[2020-04-04 00:11:20,574][DEBUG] >> 160, com.giantssoftware.fs20.google, Farming Simulator 20
+[2020-04-04 00:11:20,576][DEBUG] >> 161, com.EtherGaming.PocketRoguesUltimate, Pocket Rogues: Ultimate
+[2020-04-04 00:11:20,577][DEBUG] >> 162, com.escalationstudios.nuke, Please, Don't Touch Anything 3D
+[2020-04-04 00:11:20,578][DEBUG] >> 163, com.ninetailgames.roguehearts.paid, 로그하츠
+[2020-04-04 00:11:20,580][DEBUG] >> 164, air.kilke.blind, 미래세계의 맹인
+[2020-04-04 00:11:20,582][DEBUG] >> 165, com.zerorockent.replica, 레플리카 ( Replica )
+[2020-04-04 00:11:20,583][DEBUG] >> 166, com.gameloft.android.ANMP.GloftICHM, Sonic Runners Adventure - 초고속 액션 게임
+[2020-04-04 00:11:20,584][DEBUG] >> 167, com.peppapig.sportsday, Peppa Pig (페퍼 피그): 페파피그의 운동회
+[2020-04-04 00:11:20,586][DEBUG] >> 168, com.coffeestainstudios.goatsimulator.mmo, Goat Simulator MMO Simulator
+[2020-04-04 00:11:20,588][DEBUG] >> 169, net.kairosoft.android.bouken_en, 던전마을 스토리
+[2020-04-04 00:11:20,590][DEBUG] >> 170, team.gramoxone.onthehook.paid, 온더훅 : 더 얼티밋 패트론 에디션
+[2020-04-04 00:11:20,593][DEBUG] >> 171, com.playdekgames.twilightstruggle, Twilight Struggle
+[2020-04-04 00:11:20,595][DEBUG] >> 172, com.elevenbitstudios.twommobile, This War of Mine
+[2020-04-04 00:11:20,597][DEBUG] >> 173, com.candysoft.HAHWVVIP, 지겨워하지마: VIP+ (방치형 RPG 게임)
+[2020-04-04 00:11:20,599][DEBUG] >> 174, com.tomorrowcorporation.humanresourcemachine, Human Resource Machine (휴먼 리소스 머신)
+[2020-04-04 00:11:20,601][DEBUG] >> 175, com.ubisoft.assassinscreed.identity, 어쌔신 크리드 아이덴티티
+[2020-04-04 00:11:20,603][DEBUG] >> 176, com.snkplaymore.android001, THE KING OF FIGHTERS '97
+[2020-04-04 00:11:20,606][DEBUG] >> 177, com.sega.sonic4epi, Sonic 4™ Episode I
+[2020-04-04 00:11:20,607][DEBUG] >> 178, com.jds.batds, Boris and the Dark Survival
+[2020-04-04 00:11:20,609][DEBUG] >> 179, com.infinity.traffix, Traffix
+[2020-04-04 00:11:20,611][DEBUG] >> 180, net.kairosoft.android.densha_en, 기차역 스토리
+[2020-04-04 00:11:20,612][DEBUG] >> 181, com.snowgames.gleamoffire, 글림 오브 파이어 Plus+
+[2020-04-04 00:11:20,614][DEBUG] >> 182, games.dali.adventure.lucid.dream.part.two, Lucid Dream 2: 수수께끼 모험 게임
+[2020-04-04 00:11:20,616][DEBUG] >> 183, com.hg.townsmen7, 타운스맨 - Townsmen Premium
+[2020-04-04 00:11:20,617][DEBUG] >> 184, com.headupgames.bridgeconstructorportal, 브릿지 컨스트럭터 포탈
+[2020-04-04 00:11:20,620][DEBUG] >> 185, com.horriblegames.dragoncastle, Dragon Castle: The Board Game
+[2020-04-04 00:11:20,622][DEBUG] >> 186, com.web3o.car.simulator.vietnam, Car Simulator Vietnam
+[2020-04-04 00:11:20,624][DEBUG] >> 187, com.headupgames.bridgeconstructor, 브리지 생성자
+[2020-04-04 00:11:20,625][DEBUG] >> 188, com.scottgames.fnaf3, Five Nights at Freddy's 3
+[2020-04-04 00:11:20,627][DEBUG] >> 189, net.kairosoft.android.onsen_en, 온천골 스토리
+[2020-04-04 00:11:20,629][DEBUG] >> 190, free.card.game.gostop2018.premium.pro, 고스톱 프리 프로 : 프리미엄 맞고
+[2020-04-04 00:11:20,631][DEBUG] >> 191, com.FireproofStudios.ma81, The Room: Old Sins
+[2020-04-04 00:11:20,632][DEBUG] >> 192, com.notdoppler.earntodie, Earn to Die
+[2020-04-04 00:11:20,634][DEBUG] >> 193, com.snkplaymore.kof2012a, THE KING OF FIGHTERS-A 2012
+[2020-04-04 00:11:20,635][DEBUG] >> 194, net.kairosoft.android.school2_en, 아카데미 스토리2
+[2020-04-04 00:11:20,637][DEBUG] >> 195, com.dawinstone.b2bep, 배드 투 배드: 익스팅션 (프리미엄)
+[2020-04-04 00:11:20,638][DEBUG] >> 196, age.of.civilizations.asia.jakowski, 문명의 시대 - 아시아
+[2020-04-04 00:11:20,639][DEBUG] >> 197, rooms.handmadegame.net, 룸즈: 장난감 장인의 저택
+[2020-04-04 00:11:20,640][DEBUG] >> 198, com.ea.games.nfs13_row, Need for Speed™ Most Wanted
+[2020-04-04 00:11:20,642][DEBUG] >> 199, mycity.friendshouse, My City : 내 친구의 집
+[2020-04-04 00:11:20,643][DEBUG] >> 200, com.square_enix.android_googleplay.dq4, DRAGON QUEST IV
+[2020-04-04 00:11:34,849][DEBUG] >> 1, com.playgendary.creamaster, 완벽한 크림
+[2020-04-04 00:11:34,852][DEBUG] >> 2, com.joycity.blessmobile, 블레스 모바일
+[2020-04-04 00:11:34,854][DEBUG] >> 3, com.xmgame.savethegirl, Save The Girl
+[2020-04-04 00:11:34,856][DEBUG] >> 4, com.riotgames.league.teamfighttactics, 전략적 팀 전투: 리그 오브 레전드 전략 게임
+[2020-04-04 00:11:34,858][DEBUG] >> 5, com.clovergames.lordofheroes, 로드 오브 히어로즈
+[2020-04-04 00:11:34,860][DEBUG] >> 6, com.playgendary.hitmasters, 히트마스터
+[2020-04-04 00:11:34,862][DEBUG] >> 7, com.freeplay.runandfight, 조이느 클래시 3D
+[2020-04-04 00:11:34,864][DEBUG] >> 8, com.playrix.gardenscapes, 꿈의 정원 (Gardenscapes)
+[2020-04-04 00:11:34,866][DEBUG] >> 9, com.lilithgame.hgame.gp.kr, AFK 아레나
+[2020-04-04 00:11:34,867][DEBUG] >> 10, com.gravity.rot.aos, 라그나로크 택틱스
+[2020-04-04 00:11:34,869][DEBUG] >> 11, com.lionstudios.mrninja, 미스터 닌자 - 슬라이시 퍼즐
+[2020-04-04 00:11:34,871][DEBUG] >> 12, com.mind.quiz.brain.out, Brain Out  넌센스 마스터, 두뇌 트레이닝
+[2020-04-04 00:11:34,872][DEBUG] >> 13, com.longtukorea.origin, 용의기원
+[2020-04-04 00:11:34,875][DEBUG] >> 14, com.amanotes.beathopper, Tiles Hop: EDM Rush!
+[2020-04-04 00:11:34,876][DEBUG] >> 15, com.percent.royaldice, 랜덤 다이스(Random Dice) : PvP 디펜스
+[2020-04-04 00:11:34,878][DEBUG] >> 16, com.pubg.krmobile, 배틀그라운드
+[2020-04-04 00:11:34,879][DEBUG] >> 17, com.unicostudio.braintest, Brain Test: 트리키 퍼즐
+[2020-04-04 00:11:34,881][DEBUG] >> 18, com.roblox.client, ROBLOX
+[2020-04-04 00:11:34,883][DEBUG] >> 19, com.blendergame.smash, Blend It 3D
+[2020-04-04 00:11:34,885][DEBUG] >> 20, com.whitedot.bfg, Fish Go.io
+[2020-04-04 00:11:34,886][DEBUG] >> 21, com.peakx.stickfight.and.inter, 콤배트 오브 히어로 - Combat of Hero
+[2020-04-04 00:11:34,888][DEBUG] >> 22, com.lsblkr.alk.gz.gp, 주트라이브
+[2020-04-04 00:11:34,889][DEBUG] >> 23, com.playrix.homescapes, 꿈의 집 (Homescapes)
+[2020-04-04 00:11:34,890][DEBUG] >> 24, com.supercell.brawlstars, 브롤스타즈
+[2020-04-04 00:11:34,892][DEBUG] >> 25, com.playrix.fishdomdd.gplay, 피쉬돔 (Fishdom)
+[2020-04-04 00:11:34,893][DEBUG] >> 26, com.drgames.sftx, 삼국지:대세영웅
+[2020-04-04 00:11:34,894][DEBUG] >> 27, com.kayac.park_master, Park Master
+[2020-04-04 00:11:34,895][DEBUG] >> 28, puzzle.blockpuzzle.cube.relax, 나무 블록 퍼즐 - 무료 클래식 블록 퍼즐 게임
+[2020-04-04 00:11:34,896][DEBUG] >> 29, com.crazylabs.dentist, Dentist Bling
+[2020-04-04 00:11:34,899][DEBUG] >> 30, net.snowpipe.tongkey_mobile, 피구왕통키M
+[2020-04-04 00:11:34,901][DEBUG] >> 31, com.malvo.frisbee, Ultimate Disc
+[2020-04-04 00:11:34,903][DEBUG] >> 32, com.mojang.minecrafttrialpe, Minecraft 체험판
+[2020-04-04 00:11:34,905][DEBUG] >> 33, com.parkourrace.game, Parkour Race - Freerun Game
+[2020-04-04 00:11:34,906][DEBUG] >> 34, cacacat.wobble.man.upstairs, 와블맨 - Wobble Man
+[2020-04-04 00:11:34,908][DEBUG] >> 35, com.joypac.doufu, Tofu Girl
+[2020-04-04 00:11:34,910][DEBUG] >> 36, com.shinbishauntedhouse, 신비아파트 공식앱
+[2020-04-04 00:11:34,912][DEBUG] >> 37, com.idle.digging, 게으른 삽질 타이쿤
+[2020-04-04 00:11:34,914][DEBUG] >> 38, com.vizorapps.klondike, 클론다이크 어드벤처
+[2020-04-04 00:11:34,916][DEBUG] >> 39, com.appadvisory.drawclimber, 무승부등산가 - Draw Climber
+[2020-04-04 00:11:34,917][DEBUG] >> 40, com.habby.archero, 궁수의 전설
+[2020-04-04 00:11:34,919][DEBUG] >> 41, com.zplay.blade, Sharpen Blade
+[2020-04-04 00:11:34,920][DEBUG] >> 42, com.app.rescuecut, Rescue Cut - Rope Puzzle
+[2020-04-04 00:11:34,922][DEBUG] >> 43, com.ua.building.Lokicraft, LokiCraft
+[2020-04-04 00:11:34,924][DEBUG] >> 44, kr.xdg.rs.android, 후궁의 법칙
+[2020-04-04 00:11:34,925][DEBUG] >> 45, com.BallGames.Woodturning, Woodturning
+[2020-04-04 00:11:34,928][DEBUG] >> 46, com.matchington.mansion, 행복의 저택
+[2020-04-04 00:11:34,929][DEBUG] >> 47, com.puzzle.miniworld, Pocket World 3D
+[2020-04-04 00:11:34,931][DEBUG] >> 48, com.ua.toybuilding.survival, Крафт Вегас
+[2020-04-04 00:11:34,933][DEBUG] >> 49, com.wordpuzzle.kr, 워드퍼즐 - 단어 게임! 재미있는 단어 퍼즐
+[2020-04-04 00:11:34,935][DEBUG] >> 50, com.global.wfwd.google, 황제의 꿈
+[2020-04-04 00:11:34,936][DEBUG] >> 51, net.kernys.aooni, 좀비고등학교
+[2020-04-04 00:11:34,938][DEBUG] >> 52, com.maroieqrwlk.unpin, Pull the Pin
+[2020-04-04 00:11:34,940][DEBUG] >> 53, free.os.jump.superbros.adventure.world, 클래식 어드벤처
+[2020-04-04 00:11:34,941][DEBUG] >> 54, com.king.candycrushsaga, 캔디크러쉬사가
+[2020-04-04 00:11:34,942][DEBUG] >> 55, com.os.airforce, 1945
+[2020-04-04 00:11:34,943][DEBUG] >> 56, com.radpirates.luckylooter, Lucky Looter
+[2020-04-04 00:11:34,945][DEBUG] >> 57, com.easybrain.brain.test.easy.game, Easy Game - 뇌 테스트와 어려운 지력 퍼즐
+[2020-04-04 00:11:34,947][DEBUG] >> 58, com.xhhd.xianyugame.korea, 꽃피는 달빛
+[2020-04-04 00:11:34,948][DEBUG] >> 59, com.perfect.slices, Perfect Slices
+[2020-04-04 00:11:34,949][DEBUG] >> 60, com.outfit7.mytalkingtom2, 마이토킹톰 2
+[2020-04-04 00:11:34,950][DEBUG] >> 61, com.matteljv.uno, UNO!™
+[2020-04-04 00:11:34,953][DEBUG] >> 62, com.sandboxol.indiegame.bedwar, Bed Wars
+[2020-04-04 00:11:34,955][DEBUG] >> 63, com.awesomepiece.endz, 도와줘! 엔즈
+[2020-04-04 00:11:34,957][DEBUG] >> 64, com.painter.cutandpaint, Cut and Paint
+[2020-04-04 00:11:34,960][DEBUG] >> 65, jp.co.ponos.battlecatskr, 냥코 대전쟁
+[2020-04-04 00:11:34,961][DEBUG] >> 66, com.AKAStudio.KnightRun, 나이트런: 레콘키스타
+[2020-04-04 00:11:34,963][DEBUG] >> 67, com.igenesoft.hide, 숨바꼭질 온라인 - 실시간 숨바꼭질
+[2020-04-04 00:11:34,965][DEBUG] >> 68, com.crazylabs.lady.bug, 미라큘러스 레이디버그와 블랙캣
+[2020-04-04 00:11:34,966][DEBUG] >> 69, com.tomo.pushbattle, Push Battle !
+[2020-04-04 00:11:34,969][DEBUG] >> 70, com.ulugame.goldenkr.google, 리치리치
+[2020-04-04 00:11:34,971][DEBUG] >> 71, com.ulugame.cmlkr.google, 좀비스팟:미녀와 좀비
+[2020-04-04 00:11:34,972][DEBUG] >> 72, com.nflystudio.InfiniteStaircase, 무한의 계단
+[2020-04-04 00:11:34,974][DEBUG] >> 73, com.tilestack.ts, Juicy Stack - 3D Tile Puzzlе
+[2020-04-04 00:11:34,976][DEBUG] >> 74, mobi.gameguru.slapkings, Slap Kings
+[2020-04-04 00:11:34,977][DEBUG] >> 75, com.camelgames.aoz, Age of Z
+[2020-04-04 00:11:34,979][DEBUG] >> 76, com.arenaofstarsonline.chof, 크리스탈본 : 운명의 영웅들 (Crystalborne)
+[2020-04-04 00:11:34,981][DEBUG] >> 77, com.outfit7.herodash, 토킹톰 히어로 대시
+[2020-04-04 00:11:34,983][DEBUG] >> 78, com.addictive.strategy.army, Art of War: Legions
+[2020-04-04 00:11:34,985][DEBUG] >> 79, com.outfit7.talkingtomgoldrun, 토킹톰 골드런
+[2020-04-04 00:11:34,986][DEBUG] >> 80, com.funplus.kingofavalon, King of Avalon: 전략 멀티 플레이어 전쟁 | 드래곤 전쟁
+[2020-04-04 00:11:34,988][DEBUG] >> 81, com.gamma.find.diff, 틀린 그림 찾기 1000레벨 이상
+[2020-04-04 00:11:34,990][DEBUG] >> 82, com.rummikubfree, Rummikub
+[2020-04-04 00:11:34,992][DEBUG] >> 83, com.dev3factory.shinbiApart, 신비아파트 고스트헌터 - 1:1배틀모드
+[2020-04-04 00:11:34,993][DEBUG] >> 84, com.find.out.hidden.objects, Find Out  숨은 물건 찾기
+[2020-04-04 00:11:34,995][DEBUG] >> 85, io.voodoo.crowdcity, Crowd City
+[2020-04-04 00:11:34,997][DEBUG] >> 86, com.devsisters.gb, 쿠키런: 오븐브레이크
+[2020-04-04 00:11:34,998][DEBUG] >> 87, com.trianglegames.squarebird, Square Bird
+[2020-04-04 00:11:34,999][DEBUG] >> 88, com.playrix.township, 꿈의 마을 (Township)
+[2020-04-04 00:11:35,000][DEBUG] >> 89, com.topchopgames.skyroller, Sky Roller
+[2020-04-04 00:11:35,001][DEBUG] >> 90, com.spacegame.homedesign, 마이홈 - 꿈의 디자인
+[2020-04-04 00:11:35,003][DEBUG] >> 91, com.playgendary.kickthebuddy, Kick the Buddy
+[2020-04-04 00:11:35,004][DEBUG] >> 92, com.time.trigger, Johnny Trigger
+[2020-04-04 00:11:35,005][DEBUG] >> 93, com.tencent.tmgp.kr.codm, 콜 오브 듀티: 모바일
+[2020-04-04 00:11:35,008][DEBUG] >> 94, com.honeyponey.bubbletea, Bubble Tea!
+[2020-04-04 00:11:35,011][DEBUG] >> 95, com.pnixgames.golfkingwt, 골프 킹 - 월드 투어
+[2020-04-04 00:11:35,012][DEBUG] >> 96, com.square_enix.android_googleplay.WOTVffbeww, WAR OF THE VISIONS FFBE
+[2020-04-04 00:11:35,014][DEBUG] >> 97, com.netmarble.survival, A3: 스틸얼라이브
+[2020-04-04 00:11:35,016][DEBUG] >> 98, net.updategames.granny, 그래니의 저택 - 온라인 탈출
+[2020-04-04 00:11:35,018][DEBUG] >> 99, com.NHNEnt.NDuelgo, 한게임 신맞고 : 대한민국 원조 고스톱
+[2020-04-04 00:11:35,020][DEBUG] >> 100, com.YouKo.SimBrawl, 브롤 스타즈 상자깡 버그판  마인크래프트 게임  고양이  Brawl Stars
+[2020-04-04 00:11:35,022][DEBUG] >> 101, com.RedLineGames.Game49, Ice Cream Inc.
+[2020-04-04 00:11:35,024][DEBUG] >> 102, com.neowiz.games.newmatgo, 피망 뉴맞고 : 고스톱으로 대한민국 1등
+[2020-04-04 00:11:35,026][DEBUG] >> 103, com.rubygames.assassin, Hunter Assassin
+[2020-04-04 00:11:35,028][DEBUG] >> 104, com.ohmgames.smashthemall, Push'em all
+[2020-04-04 00:11:35,029][DEBUG] >> 105, invaders.os.galaxy.space.shooter.attack.classic, 갤럭시 슈터 - 팔콘 스쿼드 - 외계인 슈팅게임
+[2020-04-04 00:11:35,031][DEBUG] >> 106, com.igenesoft.maze, 미로 온라인 - 실시간 미로탈출
+[2020-04-04 00:11:35,033][DEBUG] >> 107, com.geishatokyo.snowballio, Snowball.io
+[2020-04-04 00:11:35,034][DEBUG] >> 108, com.differencetenderwhite.skirt, 블록 퍼즐 보석
+[2020-04-04 00:11:35,036][DEBUG] >> 109, com.ryohei.haruki.Exit, EXiTS  - 방탈출 게임
+[2020-04-04 00:11:35,038][DEBUG] >> 110, com.supersolid.penguin, 슈퍼펭귄 (Super Penguins)
+[2020-04-04 00:11:35,040][DEBUG] >> 111, com.gym.racegame, Epic Race 3D
+[2020-04-04 00:11:35,041][DEBUG] >> 112, com.zaechioghe.ballpipes, Ball Pipes
+[2020-04-04 00:11:35,043][DEBUG] >> 113, com.gameparadiso.milkchoco, 밀크초코
+[2020-04-04 00:11:35,044][DEBUG] >> 114, mini.block.craft.free.mc, 미니 블록 크래프트
+[2020-04-04 00:11:35,046][DEBUG] >> 115, com.supercell.clashroyale, 클래시 로얄
+[2020-04-04 00:11:35,047][DEBUG] >> 116, com.kakaogames.friendsracing, 프렌즈레이싱
+[2020-04-04 00:11:35,049][DEBUG] >> 117, com.supercell.clashofclans, 클래시 오브 클랜
+[2020-04-04 00:11:35,050][DEBUG] >> 118, com.easybrain.nonogram, Nonogram.com - 픽처 크로스 퍼즐 게임
+[2020-04-04 00:11:35,052][DEBUG] >> 119, com.qjzj4399kr.google, 기적의 검
+[2020-04-04 00:11:35,053][DEBUG] >> 120, com.game.space.shooter2, 스페이스 슈터: 외계인 슈팅게임
+[2020-04-04 00:11:35,054][DEBUG] >> 121, com.netease.g93na, 메카시티: ZERO
+[2020-04-04 00:11:35,055][DEBUG] >> 122, com.amanotes.pamadancingroad, Dancing Road: Color Ball Run!
+[2020-04-04 00:11:35,056][DEBUG] >> 123, com.smallgiantgames.empires, 엠파이어 & 퍼즐 (Empires & Puzzles)
+[2020-04-04 00:11:35,057][DEBUG] >> 124, com.nintendo.zaka, Mario Kart Tour
+[2020-04-04 00:11:35,059][DEBUG] >> 125, com.nianticlabs.pokemongo, Pokmon GO
+[2020-04-04 00:11:35,061][DEBUG] >> 126, com.gismart.piano.games.music.keyboard, Piano - 피아노 음악 게임
+[2020-04-04 00:11:35,062][DEBUG] >> 127, com.cinamongames.maybe, maybe-메이비:내가 만드는 이야기
+[2020-04-04 00:11:35,064][DEBUG] >> 128, com.wawagame.app.toypaint, Toy Paint
+[2020-04-04 00:11:35,066][DEBUG] >> 129, com.glu.disneygame, Disney 소서러스 아레나
+[2020-04-04 00:11:35,067][DEBUG] >> 130, com.nexon.nsc.maplem, 메이플스토리M
+[2020-04-04 00:11:35,069][DEBUG] >> 131, com.playgendary.tanks, 탱크 스타
+[2020-04-04 00:11:35,071][DEBUG] >> 132, com.sundaytoz.kakao.joy, 디즈니 팝 타운
+[2020-04-04 00:11:35,073][DEBUG] >> 133, com.tfgco.games.sports.free.tennis.clash, 테니스 클래시: 재미있는 스포츠 게임
+[2020-04-04 00:11:35,075][DEBUG] >> 134, com.tangent.breadrun, 브레드 런
+[2020-04-04 00:11:35,077][DEBUG] >> 135, com.fungames.blockcraft, Block Craft 3D: 무료 건설 게임
+[2020-04-04 00:11:35,079][DEBUG] >> 136, com.easybrain.block.puzzle.games, BlockuDoku - 블록 퍼즐 게임
+[2020-04-04 00:11:35,080][DEBUG] >> 137, com.wildspike.wormszone, 웜스 존.io - 게걸스러운 뱀
+[2020-04-04 00:11:35,082][DEBUG] >> 138, com.bhvr.beyondthewall, 왕좌의 게임: Beyond the Wall
+[2020-04-04 00:11:35,084][DEBUG] >> 139, com.fluffyfairygames.idleminertycoon, 광산타이쿤 - 방치형 광산 매니저
+[2020-04-04 00:11:35,085][DEBUG] >> 140, com.king.candycrush4, 캔디크러쉬 프렌즈 사가
+[2020-04-04 00:11:35,087][DEBUG] >> 141, com0.Company.ProductName1, 3D운전교실
+[2020-04-04 00:11:35,089][DEBUG] >> 142, com.playgendary.sportmasters, Bouncemasters
+[2020-04-04 00:11:35,091][DEBUG] >> 143, com.zplay.willhero, 의지의 히어로
+[2020-04-04 00:11:35,092][DEBUG] >> 144, io.voodoo.paper2, Paper.io 2
+[2020-04-04 00:11:35,094][DEBUG] >> 145, com.mobile.legends, 모바일 레전드: Bang Bang
+[2020-04-04 00:11:35,097][DEBUG] >> 146, net.wooga.junes_journey_hidden_object_mystery_game, June's Journey - 숨은그림찾기
+[2020-04-04 00:11:35,098][DEBUG] >> 147, com.pixel.gun3d, 픽셀 건 3D (Pixel Gun 3D)
+[2020-04-04 00:11:35,100][DEBUG] >> 148, com.linekong.wxggkr, 검은달
+[2020-04-04 00:11:35,101][DEBUG] >> 149, com.tocaboca.tocakitchen2, Toca Kitchen 2
+[2020-04-04 00:11:35,103][DEBUG] >> 150, com.vkslrzm.Zombie, 매직서바이벌
+[2020-04-04 00:11:35,104][DEBUG] >> 151, com.tocaboca.tocakitchen2, Toca Kitchen 2
+[2020-04-04 00:11:35,105][DEBUG] >> 152, com.vkslrzm.Zombie, 매직서바이벌
+[2020-04-04 00:11:35,106][DEBUG] >> 153, com.kerun.word.block.ko, 단어호감 - 단어 지우기 게임
+[2020-04-04 00:11:35,107][DEBUG] >> 154, com.mihua.korea.android, 삼국군웅전
+[2020-04-04 00:11:35,108][DEBUG] >> 155, com.com2us.probaseball3d.normal.freefull.google.global.android.common, 컴투스프로야구2020
+[2020-04-04 00:11:35,111][DEBUG] >> 156, com.Neurononfire.SupremeDuelist, Supreme Duelist Stickman
+[2020-04-04 00:11:35,112][DEBUG] >> 157, com.osloalbet.forest, Fireboy & Watergirl in The Forest Temple
+[2020-04-04 00:11:35,115][DEBUG] >> 158, com.cjenm.ModooMarbleKakao, 모두의마블
+[2020-04-04 00:11:35,117][DEBUG] >> 159, com.zenga.mypatience, Color Me Happy!
+[2020-04-04 00:11:35,119][DEBUG] >> 160, com.kgs.housedesigner, 하우스 디자이너 : 수정 및 뒤집기
+[2020-04-04 00:11:35,121][DEBUG] >> 161, com.bandagames.mpuzzle.gp, 매직 직소 퍼즐
+[2020-04-04 00:11:35,123][DEBUG] >> 162, com.davin.moai, 랜덤 모아이 디펜스
+[2020-04-04 00:11:35,124][DEBUG] >> 163, air.com.hypah.io.slither, slither.io
+[2020-04-04 00:11:35,126][DEBUG] >> 164, com.nexters.herowars, Hero Wars
+[2020-04-04 00:11:35,128][DEBUG] >> 165, com.sinyee.babybus.adventure, 꼬마 팬더의 보석 모험
+[2020-04-04 00:11:35,130][DEBUG] >> 166, com.mobirix.jnggonlns, 프로 장기
+[2020-04-04 00:11:35,132][DEBUG] >> 167, com.cjenm.sknights, 세븐나이츠
+[2020-04-04 00:11:35,134][DEBUG] >> 168, com.appnetgames.headhunters, HeadHunters io
+[2020-04-04 00:11:35,135][DEBUG] >> 169, com.lszenlamzr.parkingjam, Parking Jam 3D
+[2020-04-04 00:11:35,137][DEBUG] >> 170, com.sega.sonicdash, Sonic Dash
+[2020-04-04 00:11:35,139][DEBUG] >> 171, com.game.jam.date.the.girl.best.tinder.hot.hook.up.meet, Date the Girl 3D
+[2020-04-04 00:11:35,140][DEBUG] >> 172, com.fgol.HungrySharkEvolution, Hungry Shark Evolution
+[2020-04-04 00:11:35,142][DEBUG] >> 173, com.game5mobile.lineandwater, Happy Glass
+[2020-04-04 00:11:35,144][DEBUG] >> 174, com.brokenreality.planemerger.android, Merge Plane - Click & Idle Tycoon
+[2020-04-04 00:11:35,146][DEBUG] >> 175, com.electroniccat.animalstackjump, Animal Stack 3D
+[2020-04-04 00:11:35,147][DEBUG] >> 176, com.YoStarKR.Arknights, 명일방주
+[2020-04-04 00:11:35,149][DEBUG] >> 177, com.sinyee.babybus.world, 아기 팬더의 세상
+[2020-04-04 00:11:35,150][DEBUG] >> 178, com.playgendary.coffeeshop3d, Coffee Shop 3D
+[2020-04-04 00:11:35,152][DEBUG] >> 179, com.fungames.sniper3d, 스나이퍼 3D 어쌔신:  무료 슈팅 게임 (Sniper 3D Assassin)
+[2020-04-04 00:11:35,154][DEBUG] >> 180, com.devsisters.CookieRunForKakao, 쿠키런 for Kakao
+[2020-04-04 00:11:35,155][DEBUG] >> 181, com.king.candycrushsodasaga, 캔디크러쉬소다
+[2020-04-04 00:11:35,157][DEBUG] >> 182, com.Celltop.SpiralRoll, Spiral Roll
+[2020-04-04 00:11:35,158][DEBUG] >> 183, com.europosit.pixelcoloring, Pixel Art: 숫자로 색칠하기 책
+[2020-04-04 00:11:35,159][DEBUG] >> 184, com.pixel.art.coloring.color.number, Happy Color  컬러링북, 숫자 색칠 게임
+[2020-04-04 00:11:35,160][DEBUG] >> 185, com.sopt.mafia42.client, 마피아42
+[2020-04-04 00:11:35,161][DEBUG] >> 186, com.minogames.cats.client, 고양이 게임(Cat Game) - The Cats Collector!
+[2020-04-04 00:11:35,162][DEBUG] >> 187, com.EightStudio.PitzMaker, 피츠메이커
+[2020-04-04 00:11:35,163][DEBUG] >> 188, com.youmusic.magictiles, Magic Tiles 3
+[2020-04-04 00:11:35,164][DEBUG] >> 189, com.gamepub.by.g, 엘프:드래곤소환사
+[2020-04-04 00:11:35,166][DEBUG] >> 190, ocean.nomad.survival.simulator, 해양 유목민 - 뗏목 생존: Survival on Raft - Ocean Nomad
+[2020-04-04 00:11:35,168][DEBUG] >> 191, com.mytona.seekersnotes.android, 추적자의 노트: 숨겨진 미스터리
+[2020-04-04 00:11:35,169][DEBUG] >> 192, com.seyeonsoft.pastel, 파스텔걸 : 옷입히기 게임
+[2020-04-04 00:11:35,171][DEBUG] >> 193, com.raongames.bouneball, 바운스볼
+[2020-04-04 00:11:35,173][DEBUG] >> 194, easy.sudoku.puzzle.solver.free, 스도쿠 - 무료 클래식 스도쿠 퍼즐
+[2020-04-04 00:11:35,175][DEBUG] >> 195, com.gonggames.kbo3.aos.google.kr, 이사만루3
+[2020-04-04 00:11:35,176][DEBUG] >> 196, com.EOAG.IceOnline, 얼음땡 온라인 : 실시간 배틀
+[2020-04-04 00:11:35,178][DEBUG] >> 197, com.wawagame.app.ttnl2, 텐텐뇌력
+[2020-04-04 00:11:35,180][DEBUG] >> 198, com.easybrain.sudoku.android, 스도쿠 - 무료 두뇌훈련 스도쿠 퍼즐
+[2020-04-04 00:11:35,182][DEBUG] >> 199, com.gezellig.roadcrash, 로드 크래쉬
+[2020-04-04 00:11:35,184][DEBUG] >> 200, com.outfit7.mytalkingtomfree, 마이토킹톰 (My Talking Tom)
+[2020-04-04 00:11:49,710][DEBUG] >> 1, gov.gyeonggi.ggcard, 경기지역화폐
+[2020-04-04 00:11:49,714][DEBUG] >> 2, us.zoom.videomeetings, ZOOM Cloud Meetings
+[2020-04-04 00:11:49,716][DEBUG] >> 3, com.sec.android.app.shealth, Samsung Health(삼성 헬스)
+[2020-04-04 00:11:49,718][DEBUG] >> 4, com.towneers.www, 당근마켓 - 우리 동네 중고 직거래 벼룩장터
+[2020-04-04 00:11:49,721][DEBUG] >> 5, com.instagram.android, Instagram
+[2020-04-04 00:11:49,722][DEBUG] >> 6, com.nhn.android.search, 네이버 - NAVER
+[2020-04-04 00:11:49,724][DEBUG] >> 7, com.nhn.android.band, 밴드
+[2020-04-04 00:11:49,725][DEBUG] >> 8, com.tf.thinkdroid.viewer, 한컴오피스 viewer
+[2020-04-04 00:11:49,727][DEBUG] >> 9, com.kakao.talk, 카카오톡 KakaoTalk
+[2020-04-04 00:11:49,729][DEBUG] >> 10, com.Classting, 클래스팅 - 학교 플랫폼
+[2020-04-04 00:11:49,731][DEBUG] >> 11, com.netflix.mediaclient, Netflix(넷플릭스)
+[2020-04-04 00:11:49,733][DEBUG] >> 12, com.sec.android.easyMover, Samsung Smart Switch Mobile
+[2020-04-04 00:11:49,734][DEBUG] >> 13, com.ahnlab.v3mobileplus, V3 Mobile Plus 2.0
+[2020-04-04 00:11:49,735][DEBUG] >> 14, com.nhn.android.navertv, SERIES ON - 네이버 시리즈 ON
+[2020-04-04 00:11:49,737][DEBUG] >> 15, com.ewut.allealimi, 스마트 공지시스템 e알리미
+[2020-04-04 00:11:49,738][DEBUG] >> 16, kr.ebs.primary.player, EBS 초등
+[2020-04-04 00:11:49,739][DEBUG] >> 17, com.google.android.apps.classroom, Google Classroom
+[2020-04-04 00:11:49,741][DEBUG] >> 18, com.iscreammedia.app.hiclass.android, 하이클래스-알림장, 가정통신문, 하이톡
+[2020-04-04 00:11:49,742][DEBUG] >> 19, kr.or.nhic, M건강보험
+[2020-04-04 00:11:49,744][DEBUG] >> 20, com.sktelecom.tauth, PASS by SK TELECOM(구, T인증)
+[2020-04-04 00:11:49,747][DEBUG] >> 21, viva.republica.toss, 토스
+[2020-04-04 00:11:49,750][DEBUG] >> 22, net.bucketplace, 오늘의집 - 900만이 선택한 No.1 인테리어 필수앱
+[2020-04-04 00:11:49,753][DEBUG] >> 23, com.lguplus.smartotp, PASS by U+(구, U+인증)
+[2020-04-04 00:11:49,755][DEBUG] >> 24, kr.go.kcs.mobile.pubservice, 모바일 관세청
+[2020-04-04 00:11:49,757][DEBUG] >> 25, com.chbreeze.jikbang4a, 직방 - 2,800만명이 선택한 No.1 부동산 앱(아파트,분양,원룸,오피스텔,빌라,상가)
+[2020-04-04 00:11:49,759][DEBUG] >> 26, nh.smart.banking, NH스마트뱅킹
+[2020-04-04 00:11:49,761][DEBUG] >> 27, com.fineapp.yogiyo, 배달요기요
+[2020-04-04 00:11:49,763][DEBUG] >> 28, com.kakaobank.channel, 카카오뱅크 - 같지만 다른 은행
+[2020-04-04 00:11:49,765][DEBUG] >> 29, com.coupang.mobile, 쿠팡 (Coupang)
+[2020-04-04 00:11:49,767][DEBUG] >> 30, com.sampleapp, 배달의민족
+[2020-04-04 00:11:49,769][DEBUG] >> 31, com.croquis.zigzag, 지그재그 - No.1 여성쇼핑몰 모음앱
+[2020-04-04 00:11:49,771][DEBUG] >> 32, app.kr.go.bokjiro, 복지로
+[2020-04-04 00:11:49,773][DEBUG] >> 33, com.nhn.android.nmap, 네이버 지도, 내비게이션
+[2020-04-04 00:11:49,775][DEBUG] >> 34, kr.co.kyobobook.KEL, 교보문고 전자도서관
+[2020-04-04 00:11:49,777][DEBUG] >> 35, com.komscochak.m.client, 지역상품권 chak
+[2020-04-04 00:11:49,779][DEBUG] >> 36, com.imcompany.school2, 아이엠스쿨 - 한국 1위 알림장
+[2020-04-04 00:11:49,781][DEBUG] >> 37, com.wooribank.smart.npib, 우리은행 우리WON뱅킹
+[2020-04-04 00:11:49,783][DEBUG] >> 38, com.sec.android.app.popupcalculator, Samsung Calculator
+[2020-04-04 00:11:49,785][DEBUG] >> 39, com.fusionmedia.investing, 주식, 외환: 포트폴리오 및 뉴스
+[2020-04-04 00:11:49,787][DEBUG] >> 40, com.kt.ktauth, PASS by KT(구, KT인증)
+[2020-04-04 00:11:49,789][DEBUG] >> 41, com.rainist.banksalad2, 뱅크샐러드
+[2020-04-04 00:11:49,790][DEBUG] >> 42, com.TouchEn.mVaccine.webs, 터치엔 엠백신 for Web(기업용)
+[2020-04-04 00:11:49,792][DEBUG] >> 43, com.oliveyoung, 올리브영
+[2020-04-04 00:11:49,794][DEBUG] >> 44, com.bizplay.bizzeropay, 비플제로페이 - 서울사랑상품권, 온누리상품권, 지역사랑상품권
+[2020-04-04 00:11:49,795][DEBUG] >> 45, kvp.jjy.MispAndroid320, ISP/페이북
+[2020-04-04 00:11:49,796][DEBUG] >> 46, com.nhn.android.nbooks, SERIES - 네이버 시리즈
+[2020-04-04 00:11:49,798][DEBUG] >> 47, com.skt.tmap.ku, T map - 내비게이션 / 지도
+[2020-04-04 00:11:49,799][DEBUG] >> 48, com.freegoodmusic.mrtrotsong, 미스터트롯 무료듣기  미스터트롯 트로트 메들리  미스터트롯 방송영상, 예선 참가곡 듣기
+[2020-04-04 00:11:49,800][DEBUG] >> 49, com.omnitel.android.lottewebview, 롯데홈쇼핑
+[2020-04-04 00:11:49,801][DEBUG] >> 50, com.freegoodmusic.imyoungwoong, 임영웅 무료듣기  미스터트롯 임영웅 메들리  미스터트롯 임영웅 방송, 예선 참가곡 듣기
+[2020-04-04 00:11:49,802][DEBUG] >> 51, com.linkzen.app, 키움증권 영웅문S
+[2020-04-04 00:11:49,803][DEBUG] >> 52, kr.co.captv.pooqV2, wavve(웨이브) - 재미의 파도를 타다!
+[2020-04-04 00:11:49,806][DEBUG] >> 53, com.infraware.office.reader.team, 폴라리스 뷰어 - PDF, 한글, 오피스 문서 무료 뷰어
+[2020-04-04 00:11:49,808][DEBUG] >> 54, kr.co.samsungcard.mpocket, 삼성카드
+[2020-04-04 00:11:49,809][DEBUG] >> 55, com.trnew.heros, 임영웅 노래모음 무료 - 히트곡, 방송 영상, 공연 영상, 뽕짝 트로트 메들리 감상
+[2020-04-04 00:11:49,811][DEBUG] >> 56, com.kbstar.kbbank, KB국민은행 스타뱅킹
+[2020-04-04 00:11:49,813][DEBUG] >> 57, com.iloen.melon, 멜론
+[2020-04-04 00:11:49,815][DEBUG] >> 58, kr.backpackr.me.idus, 아이디어스(idus) - 작품부터 취미까지!
+[2020-04-04 00:11:49,817][DEBUG] >> 59, com.banhala.android, 에이블리 - 셀럽마켓 모음앱
+[2020-04-04 00:11:49,819][DEBUG] >> 60, com.campmobile.snow, SNOW 스노우
+[2020-04-04 00:11:49,821][DEBUG] >> 61, com.triplens.android, Triplens: 사진 번역기
+[2020-04-04 00:11:49,823][DEBUG] >> 62, com.infraware.office.link, 폴라리스 오피스 - 무료 한글, 오피스 문서 + PDF,  텍스트 뷰어
+[2020-04-04 00:11:49,825][DEBUG] >> 63, com.google.android.apps.meetings, 행아웃 Meet
+[2020-04-04 00:11:49,826][DEBUG] >> 64, nh.smart.nhcok, NH콕뱅크
+[2020-04-04 00:11:49,828][DEBUG] >> 65, org.telegram.messenger, 텔레그램 공식 앱 Telegram
+[2020-04-04 00:11:49,830][DEBUG] >> 66, net.daum.android.daum, 다음 - Daum
+[2020-04-04 00:11:49,832][DEBUG] >> 67, com.kt.android.goodpay, 착한페이
+[2020-04-04 00:11:49,833][DEBUG] >> 68, com.contextlogic.wish, Wish - 쇼핑은 즐겁다
+[2020-04-04 00:11:49,836][DEBUG] >> 69, net.cj.cjhv.gs.tving, 티빙(TVING) - 실시간TV, 방송VOD, 영화VOD
+[2020-04-04 00:11:49,837][DEBUG] >> 70, com.google.android.play.games, Google Play 게임
+[2020-04-04 00:11:49,839][DEBUG] >> 71, com.discord, Discord - 게이머를 위한 메신저
+[2020-04-04 00:11:49,841][DEBUG] >> 72, com.ibk.android.ionebank, i-ONE Bank - 개인고객용
+[2020-04-04 00:11:49,842][DEBUG] >> 73, com.tmon, 타임커머스 티몬
+[2020-04-04 00:11:49,844][DEBUG] >> 74, kr.ebs.middle.player, EBS 중학 +
+[2020-04-04 00:11:49,846][DEBUG] >> 75, com.forshared.files, 4shared
+[2020-04-04 00:11:49,847][DEBUG] >> 76, kr.co.applyhome, 청약홈
+[2020-04-04 00:11:49,849][DEBUG] >> 77, com.snowcorp.soda.android, SODA 소다 - Natural Beauty Camera
+[2020-04-04 00:11:49,850][DEBUG] >> 78, net.nshc.droidx3, Droid-X III 백신 (기업용)
+[2020-04-04 00:11:49,851][DEBUG] >> 79, com.finnq.f1, 핀크 Finnq
+[2020-04-04 00:11:49,852][DEBUG] >> 80, com.locnall.KimGiSa, 카카오내비
+[2020-04-04 00:11:49,853][DEBUG] >> 81, com.facebook.katana, Facebook
+[2020-04-04 00:11:49,854][DEBUG] >> 82, kr.go.minwon.m, 정부24(구 민원24)
+[2020-04-04 00:11:49,855][DEBUG] >> 83, com.kakaopay.app, 카카오페이
+[2020-04-04 00:11:49,856][DEBUG] >> 84, net.daum.android.map, 카카오맵 - 대한민국 No.1 지도앱 ( 지도 / 내비게이션 / 대중교통 / 로드뷰 )
+[2020-04-04 00:11:49,858][DEBUG] >> 85, com.sec.android.app.voicenote, 삼성 음성 녹음
+[2020-04-04 00:11:49,860][DEBUG] >> 86, skplanet.musicmate, FLO  플로
+[2020-04-04 00:11:49,862][DEBUG] >> 87, com.kbsec.mts.iplustarngm2, KB증권  'M-able' (마블) - 대표MTS (비대면계좌개설 포함)
+[2020-04-04 00:11:49,863][DEBUG] >> 88, com.google.android.projection.gearhead, Android Auto - 호환되는 차량 및 헤드유닛용
+[2020-04-04 00:11:49,865][DEBUG] >> 89, com.samsungpop.android.mpop, 삼성증권 mPOP (계좌개설 겸용)
+[2020-04-04 00:11:49,867][DEBUG] >> 90, sg.bigo.live, Bigo Live (비고라이브)  라이브방송, 영상채팅
+[2020-04-04 00:11:49,869][DEBUG] >> 91, com.ss.android.ugc.trill, TikTok 틱톡
+[2020-04-04 00:11:49,870][DEBUG] >> 92, com.kt.android.dongbaekpay, 부산 동백전
+[2020-04-04 00:11:49,872][DEBUG] >> 93, com.hyundaicard.appcard, 현대카드
+[2020-04-04 00:11:49,874][DEBUG] >> 94, com.bestringtonesapps.freeringtonesforandroid, 무료 벨소리 Android™ 전용
+[2020-04-04 00:11:49,875][DEBUG] >> 95, kr.or.keris.smartedu.ec, 위두랑, wedorang
+[2020-04-04 00:11:49,877][DEBUG] >> 96, com.elevenst, 11번가
+[2020-04-04 00:11:49,879][DEBUG] >> 97, com.gorgeous.liteinternational, Ulike유라이크 - 스타일, 고급 필터, 뷰티 카메라
+[2020-04-04 00:11:49,881][DEBUG] >> 98, com.kbcard.kbkookmincard, KB국민카드
+[2020-04-04 00:11:49,883][DEBUG] >> 99, com.shcard.smartpay, 신한페이판
+[2020-04-04 00:11:49,884][DEBUG] >> 100, kr.co.lylstudio.httpsguard, 유니콘 HTTPS 우회앱 -  안전하고 빠른 HTTPS/SNI 차단 우회앱
+[2020-04-04 00:11:49,886][DEBUG] >> 101, nh.smart.allonebank, 올원뱅크(All One Bank)
+[2020-04-04 00:11:49,888][DEBUG] >> 102, kr.go.nts.android, 국세청 홈택스 [손택스]
+[2020-04-04 00:11:49,890][DEBUG] >> 103, com.hpapp, 해피포인트
+[2020-04-04 00:11:49,891][DEBUG] >> 104, com.mathpresso.qanda, 콴다 - 500만 다운로드 수학 공부앱
+[2020-04-04 00:11:49,893][DEBUG] >> 105, com.nhn.android.navercafe, 네이버 카페  - Naver Cafe
+[2020-04-04 00:11:49,895][DEBUG] >> 106, kr.co.quicket, 번개장터 - 모바일 최대 중고마켓 앱 (중고나라, 중고차)
+[2020-04-04 00:11:49,896][DEBUG] >> 107, com.alibaba.aliexpresshd, AliExpress - 스마트한쇼핑, 더즐거운생활
+[2020-04-04 00:11:49,898][DEBUG] >> 108, com.hanabank.ebk.channel.android.hananbank, 하나원큐 - 하나은행 스마트폰뱅킹
+[2020-04-04 00:11:49,899][DEBUG] >> 109, com.dbs.kurly.m2, 마켓컬리-내일의 장보기
+[2020-04-04 00:11:49,900][DEBUG] >> 110, tv.twitch.android.app, Twitch: 리그 오브 레전드, Hearthstone, MMO 게임 스트리밍 라이브 시청
+[2020-04-04 00:11:49,901][DEBUG] >> 111, com.ahnlab.v3mobilesecurity.soda, V3 Mobile Security - 무료 백신/부스터/앱잠금
+[2020-04-04 00:11:49,902][DEBUG] >> 112, com.nhn.android.ndrive, 네이버 클라우드 - NAVER Cloud
+[2020-04-04 00:11:49,903][DEBUG] >> 113, com.musinsa.store, 셀렉트숍 무신사 - SELECT SHOP MUSINSA
+[2020-04-04 00:11:49,904][DEBUG] >> 114, com.ebay.kr.gmarket, 쇼핑을 바꾸는 쇼핑. G마켓
+[2020-04-04 00:11:49,905][DEBUG] >> 115, com.kiwoom.app.kiwoomaccount, 키움증권 계좌개설
+[2020-04-04 00:11:49,907][DEBUG] >> 116, video.player.videoplayer, 비디오 플레이어 퍼펙트 - 자막, 코덱, XPlayer
+[2020-04-04 00:11:49,916][DEBUG] >> 117, com.nhn.android.webtoon, 네이버 웹툰 - Naver Webtoon
+[2020-04-04 00:11:49,919][DEBUG] >> 118, com.dho.mobilefax, 모바일팩스
+[2020-04-04 00:11:49,920][DEBUG] >> 119, com.naver.vapp, V LIVE
+[2020-04-04 00:11:49,922][DEBUG] >> 120, kr.co.nowcom.mobile.afreeca, 아프리카TV - AfreecaTV
+[2020-04-04 00:11:49,924][DEBUG] >> 121, com.locker.freetrot, 트로트  트로트 노래모음 - 트로트 메들리 무료듣기
+[2020-04-04 00:11:49,926][DEBUG] >> 122, com.emart.today, 이마트 - 매장에서 즐기는 스마트한 혜택
+[2020-04-04 00:11:49,927][DEBUG] >> 123, com.shinhan.sbanking, 신한 쏠(SOL)  신한은행 스마트폰뱅킹
+[2020-04-04 00:11:49,929][DEBUG] >> 124, com.schoolbell_e.schoolbell_e, 학교종이
+[2020-04-04 00:11:49,931][DEBUG] >> 125, com.hnsmall, 홈앤쇼핑 오직 앱에서만.  10%할인 + 10%적립
+[2020-04-04 00:11:49,933][DEBUG] >> 126, com.frograms.wplay, 왓챠플레이
+[2020-04-04 00:11:49,934][DEBUG] >> 127, com.kbcard.cxh.appcard, KB국민 앱카드
+[2020-04-04 00:11:49,936][DEBUG] >> 128, com.truefriend.neosmarta, 한국투자증권 (계좌개설 포함)
+[2020-04-04 00:11:49,938][DEBUG] >> 129, com.google.android.apps.youtube.music, YouTube Music
+[2020-04-04 00:11:49,939][DEBUG] >> 130, com.naver.labs.translator, 네이버 파파고 - AI 통번역
+[2020-04-04 00:11:49,941][DEBUG] >> 131, com.ksncho.hospitalinfo, 굿닥  마스크스캐너, 병원약국찾기, 성형시술 모아보기 필수앱
+[2020-04-04 00:11:49,943][DEBUG] >> 132, com.lge.lgemembership, LG전자 멤버십
+[2020-04-04 00:11:49,944][DEBUG] >> 133, com.jasonmg.market09, 공구마켓
+[2020-04-04 00:11:49,946][DEBUG] >> 134, com.movefastcompany.bora, 하쿠나 라이브 -  Live 방송
+[2020-04-04 00:11:49,947][DEBUG] >> 135, kr.co.zumo.app, LIFEPLUS
+[2020-04-04 00:11:49,948][DEBUG] >> 136, kr.co.burgerkinghybrid, (공식) 버거킹 BURGER KING®KOREA
+[2020-04-04 00:11:49,949][DEBUG] >> 137, kr.co.ssg, SSG.COM
+[2020-04-04 00:11:49,950][DEBUG] >> 138, org.kftc.fido.lnk.lnk_app, 바이오인증 공동앱
+[2020-04-04 00:11:49,951][DEBUG] >> 139, com.albamon.app, 알바몬 - 알바 채용 구인구직 취업정보검색
+[2020-04-04 00:11:49,952][DEBUG] >> 140, com.wemakeprice, 위메프 - 특가대표 (특가 / 쇼핑 / 쇼핑앱 / 쿠폰 / 배송)
+[2020-04-04 00:11:49,953][DEBUG] >> 141, com.facebook.orca, Messenger  무료 SMS 및 영상 통화
+[2020-04-04 00:11:49,957][DEBUG] >> 142, com.ktmusic.geniemusic, 지니 뮤직 - genie
+[2020-04-04 00:11:49,959][DEBUG] >> 143, com.mcdonalds.mobileapp, 맥도날드
+[2020-04-04 00:11:49,961][DEBUG] >> 144, com.cp.checkpay, 체크페이  제로페이 결제기반 온누리상품권, 지역화폐 구매 및 간편송금, ATM 서비스
+[2020-04-04 00:11:49,963][DEBUG] >> 145, com.shinhancard.smartshinhan, 신한카드
+[2020-04-04 00:11:49,965][DEBUG] >> 146, com.naver.vibe, NAVER VIBE (바이브)
+[2020-04-04 00:11:49,966][DEBUG] >> 147, com.nhn.android.naverplayer, 네이버TV
+[2020-04-04 00:11:49,968][DEBUG] >> 148, com.dunamu.stockplus, 증권플러스 for Kakao - 국민 증권앱
+[2020-04-04 00:11:49,970][DEBUG] >> 149, com.kakao.story, 카카오스토리 KakaoStory
+[2020-04-04 00:11:49,973][DEBUG] >> 150, kr.co.station3.dabang, 다방 - 대한민국 부동산 매물 최다보유
+[2020-04-04 00:11:49,975][DEBUG] >> 151, com.lcacApp, 롯데카드(+앱카드)
+[2020-04-04 00:11:49,977][DEBUG] >> 152, com.microsoft.teams, Microsoft Teams
+[2020-04-04 00:11:49,978][DEBUG] >> 153, free.vpn.unblock.proxy.turbovpn, Turbo VPN 무제한 무료 VPN & 빠른 보안 프록시 접속
+[2020-04-04 00:11:49,980][DEBUG] >> 154, com.wooriwm.txsmart, 모바일증권 나무(계좌개설 겸용)
+[2020-04-04 00:11:49,982][DEBUG] >> 155, com.pinterest, Pinterest (핀터레스트): 수백만개의 아이디어
+[2020-04-04 00:11:49,984][DEBUG] >> 156, com.jt.alimee, 제이티아이알리미
+[2020-04-04 00:11:49,986][DEBUG] >> 157, kr.co.alba.webappalba.m, 알바천국- 알바 구인구직 포털서비스
+[2020-04-04 00:11:49,988][DEBUG] >> 158, com.art.app.primary, 아트닷컴 A-RT.COM - ABC마트의 새로운 통합 사이트
+[2020-04-04 00:11:49,990][DEBUG] >> 159, com.chameleonsong.youtubekoreasong.limyoungwoong, 임영웅 노래듣기 - 미스터트롯 트로트 전곡 무료듣기
+[2020-04-04 00:11:49,992][DEBUG] >> 160, com.nhnent.payapp, PAYCO - 페이코, 혜택까지 똑똑한 간편결제
+[2020-04-04 00:11:49,994][DEBUG] >> 161, com.markmount.wadiz, 와디즈(wadiz) - 펀딩으로 있게하자
+[2020-04-04 00:11:49,996][DEBUG] >> 162, com.google.android.apps.translate, Google 번역
+[2020-04-04 00:11:49,997][DEBUG] >> 163, com.kakao.taxi, 카카오 T - 택시, 대리운전, 주차, 내비, 카풀, 바이크
+[2020-04-04 00:11:49,999][DEBUG] >> 164, com.studiog7.imyeongung, 임영웅 노래모음 - 미스터트롯 진 임영웅 노래 무료듣기
+[2020-04-04 00:11:50,001][DEBUG] >> 165, com.picsart.studio, PicsArt Photo Editor: 콜라주 메이커 & 사진 편집기
+[2020-04-04 00:11:50,002][DEBUG] >> 166, com.un7qi3.forceteller, 포스텔러 - 애정운, 신년운세, 무료운세, 사주, 타로, 궁합, 토정비결, 별자리, 손금
+[2020-04-04 00:11:50,004][DEBUG] >> 167, kr.go.keis.worknet, 워크넷(WorkNet)
+[2020-04-04 00:11:50,005][DEBUG] >> 168, com.freemusic.trot, 임영웅무료듣기- 미스터트롯, 트로트 메들리, 방송 영상, 뽕짝 트로트 메들리, 히트곡
+[2020-04-04 00:11:50,006][DEBUG] >> 169, com.dencreak.dlcalculator, 똑똑계산기 - 무료 다용도 계산기
+[2020-04-04 00:11:50,007][DEBUG] >> 170, com.intsig.camscanner, CamScanner - 문서를 PDF로 스캔하기
+[2020-04-04 00:11:50,008][DEBUG] >> 171, laftel.net.laftel, 라프텔 - 애니 감상 및 취향저격 추천, 스트리밍
+[2020-04-04 00:11:50,009][DEBUG] >> 172, pedometer.steptracker.calorieburner.stepcounter, 무료 만보기-걸음 측정기 및 칼로리 카운터
+[2020-04-04 00:11:50,010][DEBUG] >> 173, com.samsung.android.app.watchmanager, Galaxy Wearable (Samsung Gear)
+[2020-04-04 00:11:50,013][DEBUG] >> 174, com.appsinnova.android.keepclean, KeepClean - 깨끗하고 빠르게
+[2020-04-04 00:11:50,015][DEBUG] >> 175, sk.com.shopping, SK스토아 (SK가 만든 TV쇼핑, SK stoa)
+[2020-04-04 00:11:50,017][DEBUG] >> 176, com.messaging.textrasms.manager, Messages
+[2020-04-04 00:11:50,019][DEBUG] >> 177, nh.smart.nhallonepay, 올원페이(NH앱카드)
+[2020-04-04 00:11:50,021][DEBUG] >> 178, gov.incheon.incheonercard, 인천e음
+[2020-04-04 00:11:50,023][DEBUG] >> 179, net.daum.android.cafe, 다음 카페 - Daum Cafe
+[2020-04-04 00:11:50,025][DEBUG] >> 180, com.ezhld.recipe, 요리백과 만개의레시피
+[2020-04-04 00:11:50,027][DEBUG] >> 181, show.grip, 그립(GRIP) - 라이브 쇼핑
+[2020-04-04 00:11:50,029][DEBUG] >> 182, kr.or.nps.smart, 내 곁에 국민연금
+[2020-04-04 00:11:50,031][DEBUG] >> 183, jp.naver.line.android, 라인 LINE
+[2020-04-04 00:11:50,033][DEBUG] >> 184, com.vaultmicro.kidsnote, 키즈노트::유치원,어린이집,학원 필수 앱!
+[2020-04-04 00:11:50,034][DEBUG] >> 185, com.cjkoreaexpress, CJ대한통운 택배
+[2020-04-04 00:11:50,036][DEBUG] >> 186, kr.co.mysdis.mysterydiscount, 미스할인  최저가, 공동구매앱, 생활쇼핑, 소셜커머스, 특가이벤트
+[2020-04-04 00:11:50,038][DEBUG] >> 187, com.google.android.apps.youtube.creator, YouTube Studio
+[2020-04-04 00:11:50,039][DEBUG] >> 188, kr.co.emart.emartmall, 이마트몰  emart mall
+[2020-04-04 00:11:50,041][DEBUG] >> 189, com.google.android.apps.youtube.kids, YouTube Kids
+[2020-04-04 00:11:50,043][DEBUG] >> 190, com.starbucks.co, 스타벅스
+[2020-04-04 00:11:50,045][DEBUG] >> 191, com.happypointcard.happyorder, 해피오더
+[2020-04-04 00:11:50,046][DEBUG] >> 192, com.coden.android.ebs, EBSi 고교강의
+[2020-04-04 00:11:50,048][DEBUG] >> 193, com.cisco.webex.meetings, Cisco Webex Meetings
+[2020-04-04 00:11:50,050][DEBUG] >> 194, kr.co.sbs.videoplayer, SBS - 온에어, VOD 7만편 무료
+[2020-04-04 00:11:50,051][DEBUG] >> 195, com.cultsotry.yanolja.nativeapp, 야놀자 - 국내 및 해외 호텔, 모텔, 펜션, 레저, 렌터카, KTX 최대 80% 할인
+[2020-04-04 00:11:50,053][DEBUG] >> 196, gsshop.mobile.v2, GS SHOP - 당신의 가장 좋은 선택을 만듭니다
+[2020-04-04 00:11:50,055][DEBUG] >> 197, com.linecorp.b612.android, B612 - 뷰티 효과, 감성필터, 셀피 카메라
+[2020-04-04 00:11:50,057][DEBUG] >> 198, com.nhn.android.naverdic, 네이버 사전
+[2020-04-04 00:11:50,058][DEBUG] >> 199, com.mkcoapub.trotlyw, 임영웅 무료듣기 - 미스터트롯 트로트 뽕짝 노래모음
+[2020-04-04 00:11:50,059][DEBUG] >> 200, me.mycake, Cake(케이크): 무료 영어 학습
+[2020-04-04 00:11:50,132][DEBUG] >> *************** (1) ranking imfomation End *************** 
+
+[2020-04-04 00:50:06,648][DEBUG] >> *************** (2) Day store App parsing Start ***************
+[2020-04-04 00:50:27,163][DEBUG] >> 마녀의 샘3, com.kiwiwalks.witchspring3, 롤플레잉, Kiwiwalks Co.,Ltd., 100000.0, 12631.0, 4.4, 100, 7, 1, 1, 15, 2019년 10월 15일, http://www.kiwiwalks.com, Kiwiwalks+Co.,Ltd., 
+[2020-04-04 00:50:38,211][DEBUG] >> 당신을 기다리는 여우 花, air.dog.wfox2, 캐주얼 게임, tales#, 5000.0, 1088.0, 4.9, 100, 2, 0, 0, 0, 2019년 7월 31일, http://www.talesshop.com, , 5888094142938776857
+[2020-04-04 00:50:48,523][DEBUG] >> 화이트데이 - 학교라는 이름의 미궁, kr.co.sonnori.whiteday.g, 어드벤처, SONNORI, 10000.0, 1592.0, 4.1, 100, 18, 5, 12, 17, 2019년 3월 27일, http://www.white-day.co.kr, SONNORI, 
+[2020-04-04 00:50:58,978][DEBUG] >> 카툰 크래프트, com.magmon.cartooncraft, 전략, Studio NAP, 1000000.0, 34092.0, 4.3, 100, 23, 10, 4, 10, 2020년 3월 25일, http://www.1506games.com/, , 7020958561307331497
+[2020-04-04 00:51:09,317][DEBUG] >> Titan Quest, com.dotemu.titanquest, 액션, HandyGames, 100000.0, 18776.0, 4.0, 100, 28, 18, 8, 20, 2020년 3월 5일, https://www.handy-games.com, , 5551663097723105743
+[2020-04-04 00:51:24,753][DEBUG] >> R.B.I. Baseball 20, com.mlb.RBIBaseball2020, 스포츠, MLB Advanced Media, L.P., 500.0, 90.0, 4.2, 100, 30, 12, 5, 14, 2020년 3월 28일, http://rbigame.com, MLB+Advanced+Media,+L.P., 
+[2020-04-04 00:51:35,098][DEBUG] >> 세계수키우기 VIP, com.MindBlossom.WorldTreeVIP, 시뮬레이션, Mind Blossom, 100000.0, 4477.0, 3.9, 100, 29, 17, 11, 23, 2020년 3월 29일, http://cafe.naver.com/madbeat, Mind+Blossom, 
+[2020-04-04 00:51:45,281][DEBUG] >> Incredibox, com.sofarsogood.incredibox, 음악, So Far So Good, 100000.0, 12392.0, 4.8, 100, 7, 2, 0, 2, 2020년 2월 20일, None, So+Far+So+Good, 
+[2020-04-04 00:51:55,640][DEBUG] >> 히트맨 스나이퍼 (Hitman Sniper), com.squareenixmontreal.hitmansniperandroid, 액션, SQUARE ENIX Ltd, 10000000.0, 775064.0, 4.5, 100, 19, 7, 3, 8, 2020년 4월 1일, http://www.square-enix.com/eng/, , 4949621155772591939
+[2020-04-04 00:52:06,068][DEBUG] >> 길고양이 이야기 : support edition, com.feemodev.cat, 어드벤처, feemodev, 10000.0, 347.0, 4.8, 100, 15, 1, 0, 1, 2020년 3월 12일, https://twitter.com/feemodev, , 8891464333771186871
+[2020-04-04 00:52:16,678][DEBUG] >> 파인딩 블루 (Finding Blue), com.bigair.FBENGP, 아케이드, BigAirSoft, 10000.0, 936.0, 3.3, 100, 26, 13, 10, 71, 2018년 12월 28일, https://www.facebook.com/pages/Finding-Blue/398929503550284, BigAirSoft, 
+[2020-04-04 00:52:27,107][DEBUG] >> Alien: Blackout, com.D3Go.mendel, 어드벤처, D3 Go!, 50000.0, 3444.0, 4.0, 100, 25, 10, 7, 26, 2019년 3월 21일, https://d3go.com/games/alienblackout/, D3+Go!, 
+[2020-04-04 00:52:37,379][DEBUG] >> 카카오톡 KakaoTalk, com.kakao.talk, 커뮤니케이션, Kakao Corporation, 100000000.0, 2858760.0, 4.0, 100, 21, 11, 6, 23, 2020년 4월 2일, http://www.kakao.com/talk, Kakao+Corporation, 
+[2020-04-04 00:52:48,772][DEBUG] >> 하쿠나 라이브 -  Live 방송, com.movefastcompany.bora, 엔터테인먼트, MOVEFAST Company, 5000000.0, 33371.0, 3.9, 100, 12, 11, 6, 28, 2020년 3월 26일, https://hakuna.live, MOVEFAST+Company, 
+[2020-04-04 00:52:59,053][DEBUG] >> 왓챠플레이, com.frograms.wplay, 엔터테인먼트, Watcha Inc., 1000000.0, 26482.0, 4.1, 100, 30, 11, 4, 22, 2020년 3월 19일, http://play.watcha.net, Watcha+Inc., 
+[2020-04-04 00:53:09,376][DEBUG] >> Bigo Live (비고라이브) – 라이브방송, 영상채팅, sg.bigo.live, 소셜, BIGO TECHNOLOGY PTE. LTD., 100000000.0, 3731004.0, 4.5, 100, 10, 6, 2, 8, 2020년 4월 3일, https://www.bigo.tv/, BIGO+TECHNOLOGY+PTE.+LTD., 
+[2020-04-04 00:53:19,571][DEBUG] >> Twitch: 리그 오브 레전드, Hearthstone, MMO 게임 스트리밍 라이브 시청, tv.twitch.android.app, 엔터테인먼트, Twitch Interactive, Inc., 50000000.0, 3054288.0, 4.6, 100, 13, 3, 1, 6, 2020년 3월 26일, http://www.twitch.tv, Twitch+Interactive,+Inc., 
+[2020-04-04 00:53:30,037][DEBUG] >> Google One, com.google.android.apps.subscriptions.red, 생산성, Google LLC, 10000000.0, 54230.0, 4.3, 100, 15, 8, 3, 12, 2020년 3월 26일, http://one.google.com/, , 5700313618786177705
+[2020-04-04 00:53:41,803][DEBUG] >> 위피 - 동네 친구가 필요할 때, net.nrise.wippy, 소셜, NRISE, 1000000.0, 15225.0, 4.2, 100, 13, 6, 2, 22, 2020년 3월 30일, https://www.facebook.com/likewippy, NRISE, 
+[2020-04-04 00:53:51,962][DEBUG] >> 아자르 Azar -라이브로 친구찾기, 영상메신저, com.azarlive.android, 커뮤니케이션, Hyperconnect inc, 100000000.0, 1456316.0, 4.1, 100, 10, 8, 4, 24, 2020년 4월 3일, http://azarlive.com, , 5582869145102839922
+[2020-04-04 00:54:02,496][DEBUG] >> 정오의 데이트 소개팅 - 동네친구와 대화하고 만남이 필요할 때, com.NoonDate, 소셜, Mozzet Co.Ltd., 1000000.0, 47591.0, 3.9, 100, 41, 21, 5, 28, 2020년 3월 31일, http://www.noondate.com, , 8049918057764232522
+[2020-04-04 00:54:12,932][DEBUG] >> 심쿵 - 대한민국 1등 동네친구 만들기 앱, com.colondee.simkoong3, 소셜, Colondee, 1000000.0, 51561.0, 4.2, 100, 17, 4, 2, 21, 2020년 3월 19일, mailto:simkoong5@gmail.com, Colondee, 
+[2020-04-04 00:54:23,282][DEBUG] >> 라인 플레이 – 전세계 No.1 패션 게임, jp.naver.lineplay.android, 소셜, LINE Corporation, 10000000.0, 908639.0, 3.8, 100, 24, 17, 9, 31, 2020년 2월 26일, http://lp.play.line.me/, , 4919265583026901892
+[2020-04-04 00:54:33,823][DEBUG] >> 글램 - 모든 매력적인 만남, com.charmy.cupist, 데이트, Cupist Inc., 1000000.0, 33879.0, 4.1, 100, 26, 9, 4, 22, 2020년 3월 25일, http://glam.am, , 7004289232742857223
+[2020-04-04 00:54:44,311][DEBUG] >> 스카이피플 (스피) : 서울대생이 만든 인증을 통한 안전한 소개팅 + 직장인 익명 커뮤니티, app.hybirds.skypeople, 데이트, 에이치소사이어티, 100000.0, 3754.0, 4.2, 100, 43, 10, 3, 16, 2020년 3월 11일, http://www.hsociety.co.kr, %EC%97%90%EC%9D%B4%EC%B9%98%EC%86%8C%EC%82%AC%EC%9D%B4%EC%96%B4%ED%8B%B0, 
+[2020-04-04 00:54:54,463][DEBUG] >> 탄탄 - 남사친이 필요할 때, com.p1.mobile.putong, 소셜, Tantan Hong Kong Limited, 10000000.0, 797787.0, 4.2, 100, 22, 12, 4, 17, 2020년 3월 31일, http://www.tantanapp.com, Tantan+Hong+Kong+Limited, 
+[2020-04-04 00:55:04,648][DEBUG] >> 밀리의 서재 - 독서와 무제한 친해지리, kr.co.millie.millieshelf, 도서/참고자료, 밀리의서재, 1000000.0, 10247.0, 4.0, 100, 33, 14, 6, 24, 2020년 3월 18일, http://www.millie.co.kr/, %EB%B0%80%EB%A6%AC%EC%9D%98%EC%84%9C%EC%9E%AC, 
+[2020-04-04 00:55:14,808][DEBUG] >> Kmate 케이메이트 - 한국을 사랑하는 외국인친구 사귀기, 미팅, 외국어 채팅, 언어교환, com.mate.korean, 데이트, Kmate Communications, 100000.0, 2842.0, 4.0, 100, 2, 1, 1, 33, 2020년 3월 6일, http://kmate.net, Kmate+Communications, 
+[2020-04-04 00:55:25,017][DEBUG] >> 여보야 - 결혼, 재혼을 위한 중매쟁이 앱, com.yeoboya.com.yeoboya, 소셜, (주)인포렉스, 1000000.0, 13727.0, 4.3, 100, 5, 3, 3, 15, 2020년 3월 19일, http://m.yeoboya.com, %28%EC%A3%BC%29%EC%9D%B8%ED%8F%AC%EB%A0%89%EC%8A%A4, 
+[2020-04-04 00:55:35,520][DEBUG] >> 아만다: 눈 높아도 괜찮은 프리미엄 소개팅, com.dorsia.amanda, 소셜, NextMatch, 1000000.0, 25662.0, 2.9, 77, 31, 23, 13, 100, 2020년 3월 17일, http://amanda.co.kr, NextMatch, 
+[2020-04-04 00:55:46,487][DEBUG] >> Tinder 새로운 친구를 발견해봐, com.tinder, 라이프스타일, Tinder, 100000000.0, 3798432.0, 3.7, 100, 29, 12, 7, 42, 2020년 3월 30일, http://www.gotinder.com, , 8070166968320699506
+[2020-04-04 00:55:57,028][DEBUG] >> 골드스푼 : 자격을 갖춘 남녀를 위한 안전한 소개팅, com.goldspoon, 소셜, Triple comma Corp., 50000.0, 1240.0, 4.5, 100, 5, 2, 0, 13, 2020년 4월 1일, http://goldspoon.co, Triple+comma+Corp., 
+[2020-04-04 00:56:18,166][DEBUG] >> 너랑나랑 - 매일16명 소개팅 (소셜데이팅,연애), com.endressdreamky.loveting, 소셜, NextMatch, 1000000.0, 39566.0, 4.5, 100, 5, 3, 2, 10, 2020년 3월 31일, http://nextmatch.kr/, NextMatch, 
+[2020-04-04 00:56:28,765][DEBUG] >> VivaVideo - 동영상 편집 어플 & 무비메이커, com.quvideo.xiaoying, 동영상 플레이어/편집기, QuVideo Inc. Best Video Editor & Video Maker App, 100000000.0, 11693193.0, 4.5, 100, 14, 6, 2, 7, 2020년 4월 3일, http://www.vivavideo.tv, , 8999952960853938956
+[2020-04-04 00:56:39,317][DEBUG] >> 당연시 - 당신도 연애를 시작할 때, 미팅/소개팅/동네 친구 찾기, com.koikatsu.android.dokidoki2.kr, 소셜, BNKLAB, 1000000.0, 39605.0, 3.8, 100, 32, 13, 5, 38, 2019년 12월 19일, https://www.facebook.com/DangYeonsi, BNKLAB, 
+[2020-04-04 00:56:50,333][DEBUG] >> 포켓미니, kr.cocone.minime, 소셜, COCONE, 500000.0, 64578.0, 3.5, 100, 33, 25, 13, 49, 2020년 3월 23일, None, , 8855028161027947263
+[2020-04-04 00:57:00,846][DEBUG] >> ZEPETO, me.zepeto.main, 엔터테인먼트, SNOW Corporation, 10000000.0, 471072.0, 4.0, 100, 19, 11, 6, 25, 2020년 3월 25일, https://zepeto.me/, SNOW+Corporation, 
+[2020-04-04 00:57:11,371][DEBUG] >> 빠른톡S - 더 강력해진 실시간 영상통화, 목소리듣고 빠르게 인연 찾는 어플, com.mobile.sptalks, 소셜, 더 새롭고 빠른 만남어플, 100000.0, 1134.0, 4.6, 100, 2, 0, 0, 12, 2020년 3월 2일, mailto:sspdtalk@gmail.com, %EB%8D%94+%EC%83%88%EB%A1%AD%EA%B3%A0+%EB%B9%A0%EB%A5%B8+%EB%A7%8C%EB%82%A8%EC%96%B4%ED%94%8C, 
+[2020-04-04 00:57:21,760][DEBUG] >> 오디오북의 시작 - 윌라, kr.co.influential.youngkangapp, 교육, 윌라(welaaa), 500000.0, 2236.0, 4.2, 100, 33, 14, 7, 13, 2020년 4월 2일, http://www.welaaa.com, %EC%9C%8C%EB%9D%BC%28welaaa%29, 
+[2020-04-04 00:57:32,097][DEBUG] >> 썸데이 - 이상형 만남 소개팅 (만남, 데이트, 소개팅 어플), com.abletree.someday, 데이트, AbleTree, 500000.0, 17141.0, 4.7, 100, 23, 5, 0, 0, 2020년 4월 2일, https://www.facebook.com/someday1200, AbleTree, 
+[2020-04-04 00:57:42,646][DEBUG] >> 커넥팅 - 클린한 소셜 통화 어플, com.yangpark.connecting, 소셜, YP Labs Co, 100000.0, 1637.0, 3.9, 100, 38, 18, 13, 23, 2020년 3월 13일, https://www.connectingapp.co.kr, YP+Labs+Co, 
+[2020-04-04 00:57:53,033][DEBUG] >> 키네마스터 - 동영상 편집, 동영상 자막, 필터, vlog 편집 앱, com.nexstreaming.app.kinemasterfree, 동영상 플레이어/편집기, KineMaster Corporation, 100000000.0, 2344655.0, 4.5, 100, 14, 6, 3, 9, 2020년 2월 27일, http://www.kinemaster.com, KineMaster+Corporation, 
+[2020-04-04 00:58:03,460][DEBUG] >> 원앙챗(안심결제), kr.chat.wangtalk, 커뮤니케이션, 호영근, 5000.0, 11.0, 4.0, 100, 0, 0, 12, 25, 2019년 10월 3일, mailto:nguyendungviperys@gmail.com, %ED%98%B8%EC%98%81%EA%B7%BC, 
+[2020-04-04 00:58:14,446][DEBUG] >> 만남,돌싱,중년,채팅어플,아줌마중매,무료채팅,소개팅,재혼만남,만남어플 - 불팅, fire.ting.fireting.chat, 데이트, GoodMatch lnc., 100000.0, 2062.0, 3.9, 100, 3, 2, 4, 32, 2020년 2월 3일, mailto:ujinneo79@gmail.com, GoodMatch+lnc., 
+[2020-04-04 00:58:25,748][DEBUG] >> 포스텔러 - 애정운, 신년운세, 무료운세, 사주, 타로, 궁합, 토정비결, 별자리, 손금, com.un7qi3.forceteller, 엔터테인먼트, Team UN7QI3, 1000000.0, 5950.0, 4.2, 100, 18, 8, 5, 17, 2020년 3월 21일, https://www.forceteller.com, Team+UN7QI3, 
+[2020-04-04 00:58:36,342][DEBUG] >> 카카오키즈, com.bluepin.kidsworldforgoogleplay, 교육, Kakao Kids, 1000000.0, 12427.0, 4.1, 100, 19, 11, 3, 23, 2020년 3월 11일, None, , 6591847695760395164
+[2020-04-04 00:58:46,887][DEBUG] >> 소모임 - No.1 취미모임 앱, com.friendscube.somoim, 소셜, 프렌즈큐브, 1000000.0, 19212.0, 4.3, 100, 28, 9, 3, 10, 2020년 3월 9일, http://www.friendscube.com, %ED%94%84%EB%A0%8C%EC%A6%88%ED%81%90%EB%B8%8C, 
+[2020-04-04 00:58:57,378][DEBUG] >> (앙팅 즐팅 통합) 앙팅즐팅 톡톡 랜덤채팅, kr.co.kkongtalk.app, 커뮤니케이션, KKONGTALK, 100000.0, 973.0, 3.4, 100, 19, 19, 10, 63, 2020년 2월 19일, mailto:smkimgeo@gmail.com, KKONGTALK, 
+[2020-04-04 00:59:09,832][DEBUG] >> 아이쉐어링 위치추적 - 가족 자녀안심, 친구찾기, GPS 안심이, com.isharing.isharing, 커뮤니케이션, ISHARINGSOFT, INC., 5000000.0, 45474.0, 4.3, 100, 21, 7, 3, 15, 2020년 3월 29일, https://isharingsoft.com, ISHARINGSOFT,+INC., 
+[2020-04-04 00:59:20,317][DEBUG] >> 증권플러스 for Kakao - 국민 증권앱, com.dunamu.stockplus, 금융, Dunamu, 1000000.0, 35321.0, 4.2, 100, 24, 9, 3, 18, 2020년 3월 27일, http://www.dunamu.com, Dunamu, 
+[2020-04-04 00:59:31,119][DEBUG] >> 아르고 ARGO - 영상메신저, 영상채팅, 친구찾기, com.probits.argo, 소셜, Probits Co. LTD, 1000000.0, 14334.0, 3.7, 100, 10, 9, 7, 41, 2020년 3월 27일, http://www.argozone.com, Probits+Co.+LTD, 
+[2020-04-04 00:59:46,118][DEBUG] >> LivU - 랜덤 영상 채팅, com.videochat.livu, 소셜, LIVU Team, 10000000.0, 235100.0, 4.5, 100, 7, 3, 2, 11, 2020년 3월 27일, http://www.livu.me, LIVU+Team, 
+[2020-04-04 00:59:56,735][DEBUG] >> 스픽 (Speak): 영어회화, 스피킹, 발음, com.selabs.speak, 교육, Speakeasy Labs, 100000.0, 1932.0, 4.4, 100, 16, 8, 4, 8, 2020년 4월 1일, http://usespeak.com, Speakeasy+Labs, 
+[2020-04-04 01:00:07,337][DEBUG] >> Smule - 소셜 노래방 앱, com.smule.singandroid, 음악/오디오, Smule, 100000000.0, 3857422.0, 4.0, 100, 16, 11, 6, 24, 2020년 3월 31일, http://www.smule.com, Smule, 
+[2020-04-04 01:00:17,635][DEBUG] >> V LIVE, com.naver.vapp, 엔터테인먼트, NAVER Corp., 50000000.0, 616140.0, 4.4, 100, 13, 5, 2, 11, 2020년 3월 30일, http://vlive.tv, , 6225315284672069550
+[2020-04-04 01:00:28,187][DEBUG] >> Evernote – 수첩, 노트와 메모를 위한 플래너, com.evernote, 생산성, Evernote Corporation, 100000000.0, 1551370.0, 4.2, 100, 20, 8, 4, 17, 2020년 3월 20일, http://www.evernote.com, Evernote+Corporation, 
+[2020-04-04 01:00:38,700][DEBUG] >> 토도 수학, com.enuma.todomath, 교육, Enuma, 100000.0, 1534.0, 4.2, 100, 10, 3, 3, 21, 2020년 3월 12일, None, , 6502483039297512592
+[2020-04-04 01:00:49,378][DEBUG] >> 스와이프 - 새로운 친구 찾기, com.paktor, 라이프스타일, Paktor Pte. Ltd., 5000000.0, 155409.0, 4.4, 100, 3, 2, 1, 13, 2020년 3월 23일, http://www.gopaktor.com, Paktor+Pte.+Ltd., 
+[2020-04-04 01:01:00,029][DEBUG] >> IZ*ONE Private Mail, com.ca_smart.izonemail, 엔터테인먼트, 株式会社CAスマート, 10000.0, 941.0, 4.2, 100, 6, 8, 2, 19, 2020년 3월 26일, https://izone-mail.com/, %E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BECA%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88, 
+[2020-04-04 01:01:10,540][DEBUG] >> 캐치잇 잉글리시 : 게임보다 쉬운 영어 학습, com.nxc.catchitenglishbasic.google, 교육, CatchItPlay, 1000000.0, 50431.0, 4.5, 100, 40, 10, 1, 3, 2020년 4월 3일, http://catchitplay.com, CatchItPlay, 
+[2020-04-04 01:01:20,919][DEBUG] >> Bermuda - 화상채팅으로 새로운 친구 만나기, vixr.bermuda, 라이프스타일, Bermuda Inc., 10000000.0, 81820.0, 4.0, 100, 11, 7, 5, 28, 2020년 3월 31일, https://www.thebermuda.net, Bermuda+Inc., 
+[2020-04-04 01:01:32,291][DEBUG] >> 헬로우봇 - AI 사주・타로・상담, com.thingsflow.hellobot, 소셜, thingsflow Inc., 1000000.0, 19378.0, 4.3, 100, 21, 9, 4, 10, 2020년 3월 31일, http://hellobot.co, thingsflow+Inc., 
+[2020-04-04 01:01:42,672][DEBUG] >> Microsoft OneDrive, com.microsoft.skydrive, 생산성, Microsoft Corporation, 1000000000.0, 1597331.0, 4.6, 100, 17, 5, 2, 5, 2020년 4월 2일, https://aka.ms/OneDriveOnAndroid, , 6720847872553662727
+[2020-04-04 01:01:53,071][DEBUG] >> 밴드, com.nhn.android.band, 소셜, NAVER Corp., 50000000.0, 373530.0, 4.5, 100, 24, 8, 2, 6, 2020년 4월 2일, http://www.band.us, , 6225315284672069550
+[2020-04-04 01:02:04,010][DEBUG] >> 은하수다방 - 돌싱, 재혼을 위한 프리미엄 소개팅, kr.co.april7.eundabang.google, 소셜, April7 Inc., 100000.0, 19783.0, 4.0, 100, 49, 32, 9, 16, 2020년 4월 1일, http://www.eundabang.com, April7+Inc., 
+[2020-04-04 01:02:14,353][DEBUG] >> 다톡 - 무료 채팅으로 동네 친구, 톡친구 사귀기, kr.co.april7.buddy, 소셜, April7 Inc., 500000.0, 12242.0, 3.8, 100, 34, 33, 9, 33, 2019년 12월 9일, mailto:help@datalk.kr, April7+Inc., 
+[2020-04-04 01:02:33,073][DEBUG] >> 즐겁게톡 - 채팅, 랜덤채팅, com.hellomarket.chat, 데이트, 강철기름, 100000.0, 671.0, 2.7, 60, 21, 19, 14, 100, 2020년 3월 27일, mailto:oilymetalsong@gmail.com, %EA%B0%95%EC%B2%A0%EA%B8%B0%EB%A6%84, 
+[2020-04-04 01:02:43,992][DEBUG] >> 크리스천데이트 -  기독교 청년들을 위한 소개팅, kr.christiandate.app, 소셜, QTNetworks Inc., 100000.0, 3309.0, 4.2, 100, 25, 15, 4, 14, 2020년 3월 23일, http://christiandate.kr, QTNetworks+Inc., 
+[2020-04-04 01:02:54,482][DEBUG] >> Tumile라이브 캣 - 새로운 사람들 만나기 & 무료 라이브 채팅, com.rcplatform.livechat, 라이프스타일, LiveChat Studio, 10000000.0, 398190.0, 4.5, 100, 6, 3, 2, 9, 2020년 3월 27일, mailto:rcplatform@126.com, LiveChat+Studio, 
+[2020-04-04 01:03:05,073][DEBUG] >> 채팅 만남 비밀친구 필요할때 - 즐챗, com.chatproject2019.chattingtalk, 소셜, GTQ, 100000.0, 2980.0, 3.6, 100, 27, 33, 9, 43, 2019년 12월 11일, mailto:angelatk19@gmail.com, GTQ, 
+[2020-04-04 01:03:15,380][DEBUG] >> Blued - 게이 데이팅 & 라이브 앱, com.blued.international, 소셜, Blue City Holdings Co., Ltd., 10000000.0, 145291.0, 4.3, 100, 9, 5, 3, 13, 2020년 4월 2일, http://www.blued.com, Blue+City+Holdings+Co.,+Ltd., 
+[2020-04-04 01:03:25,579][DEBUG] >> 라이키 Likey - 셀럽과 단둘이 1:1 채팅, to.likey.android, 커뮤니케이션, TPC Internet, 1000.0, 14.0, 3.6, 100, 0, 25, 0, 50, 2020년 4월 2일, https://melikey.co, TPC+Internet, 
+[2020-04-04 01:03:48,073][DEBUG] >> 당신 가까이에 사랑이 있습니다., kr.love.danggasa, 데이트, 황기선, 1000.0, 23.0, 4.0, 100, 6, 20, 0, 26, 2019년 12월 23일, mailto:richardkeosid@gmail.com, %ED%99%A9%EA%B8%B0%EC%84%A0, 
+[2020-04-04 01:03:58,386][DEBUG] >> 써니캠 - 영상채팅, com.sunny.v01, 데이트, cooluck, 10000.0, 96.0, 3.6, 100, 15, 11, 3, 50, 2019년 4월 4일, mailto:chansealsmin@gmail.com, cooluck, 
+[2020-04-04 01:04:08,857][DEBUG] >> PicsArt Photo Editor: 콜라주 메이커 & 사진 편집기, com.picsart.studio, 사진, PicsArt, 500000000.0, 9240026.0, 4.3, 100, 15, 6, 3, 12, 2020년 4월 3일, https://picsart.com, , 5408830062919995155
+[2020-04-04 01:04:19,516][DEBUG] >> 비트윈 Between, kr.co.vcnc.android.couple, 소셜, VCNC, 10000000.0, 503099.0, 4.7, 100, 12, 4, 1, 3, 2020년 3월 31일, https://between.us, , 6050963813160412198
+[2020-04-04 01:04:30,113][DEBUG] >> 소개팅 1등, 커플메이커 (연애,데이팅,만남,미팅 앱), net.couplemaker.meeting, 소셜, 100만명이 선택한 인기어플, 1000000.0, 105064.0, 4.4, 100, 26, 9, 2, 10, 2019년 10월 3일, http://couplemaker.net, , 5696068529090996582
+[2020-04-04 01:04:40,958][DEBUG] >> Fantastic Face –얼굴 분석 및 노화 예측, com.hy.sfacer, 라이프스타일, VIPTOP DATA LIMITED, 10000000.0, 88075.0, 3.7, 100, 4, 2, 2, 47, 2019년 11월 12일, mailto:facemenow2018@gmail.com, VIPTOP+DATA+LIMITED, 
+[2020-04-04 01:04:51,170][DEBUG] >> Dropbox: 백업, 동기화 및 공유를 위한 클라우드 스토리지, com.dropbox.android, 생산성, Dropbox, Inc., 500000000.0, 1999913.0, 4.2, 100, 19, 8, 3, 15, 2020년 4월 1일, https://www.dropbox.com, Dropbox,+Inc., 
+[2020-04-04 01:05:01,686][DEBUG] >> iTranslate 번역 - 번역기 & 사전, at.nk.tools.iTranslate, 생산성, iTranslate, 50000000.0, 345643.0, 3.8, 100, 14, 5, 3, 42, 2020년 4월 1일, https://www.itranslate.com/, , 9134966397852256976
+[2020-04-04 01:05:12,267][DEBUG] >> 1km 돌싱 만남톡 - 비밀친구, com.dkzkcmzl.secretFriend, 커뮤니케이션, 버블톡, 10000.0, 1882.0, 4.4, 100, 7, 9, 5, 7, 2020년 3월 25일, mailto:dkzkcmzl86@gmail.com, %EB%B2%84%EB%B8%94%ED%86%A1, 
+[2020-04-04 01:05:22,430][DEBUG] >> VLLO 블로 - 쉬운 동영상 편집 어플 브이로그 앱, com.darinsoft.vimo, 동영상 플레이어/편집기, vimosoft, 1000000.0, 59141.0, 4.3, 100, 27, 11, 5, 10, 2020년 1월 26일, http://www.vimosoft.com, vimosoft, 
+[2020-04-04 01:05:33,081][DEBUG] >> 미스터블루 – 최신 웹툰 소설 만화 무료 감상앱, com.mrblue.mrblue, 만화, Mr. Blue Corporation, 1000000.0, 6897.0, 3.6, 100, 41, 28, 16, 46, 2020년 3월 11일, http://m.mrblue.com, Mr.+Blue+Corporation, 
+[2020-04-04 01:05:43,332][DEBUG] >> 중년~ 떡톡 조건없는 즐톡, com.dkzkcmzl.ddokTalk, 커뮤니케이션, 버블톡, 10000.0, 1273.0, 4.4, 100, 14, 13, 4, 5, 2020년 3월 25일, mailto:dkzkcmzl86@gmail.com, %EB%B2%84%EB%B8%94%ED%86%A1, 
+[2020-04-04 01:05:53,713][DEBUG] >> CamScanner - 문서를 PDF로 스캔하기, com.intsig.camscanner, 생산성, INTSIG Information Co.,Ltd, 100000000.0, 2489296.0, 4.8, 100, 13, 2, 0, 2, 2020년 4월 1일, https://www.camscanner.com, INTSIG+Information+Co.,Ltd, 
+[2020-04-04 01:06:04,563][DEBUG] >> OPixels - Comic Art Photos Editor, com.hd.wallpaper.backgrounds, 맞춤 설정, MISSU LIMITED, 5000000.0, 45675.0, 2.7, 67, 8, 7, 3, 100, 2019년 10월 30일, mailto:hdwallpaperhome@gmail.com, MISSU+LIMITED, 
+[2020-04-04 01:06:15,075][DEBUG] >> 투믹스 - 웹툰 (무료웹툰/인기만화), com.toomics.zzamtoon.google, 만화, (주)투믹스, 1000000.0, 5407.0, 3.5, 100, 23, 26, 14, 52, 2020년 3월 16일, http://www.toomics.com, %28%EC%A3%BC%29%ED%88%AC%EB%AF%B9%EC%8A%A4, 
+[2020-04-04 01:06:25,614][DEBUG] >> 인공지능 소개팅 애나 - 목소리도 듣고 분석도 하고, com.conbus.anna, 소셜, CONBUS, 500000.0, 15776.0, 3.6, 100, 12, 12, 7, 48, 2020년 2월 26일, http://conbus.net/, , 7829815212624066473
+[2020-04-04 01:06:36,096][DEBUG] >> 떡팅 ¦ 채팅어플,만남,랜덤채팅,친구,애인,소개팅,무료채팅 인기어플, tteok.ting.tteokting, 데이트, 떡팅 Co.Ltd., 100000.0, 3969.0, 4.6, 100, 0, 0, 0, 11, 2019년 10월 8일, mailto:rlagksk0914@gmail.com, %EB%96%A1%ED%8C%85+Co.Ltd., 
+[2020-04-04 01:06:46,288][DEBUG] >> 위버스 Weverse, co.benx.weverse, 소셜, beNX CO., LTD, 1000000.0, 161406.0, 4.7, 100, 7, 2, 1, 4, 2020년 3월 28일, https://www.weverse.io, beNX+CO.,+LTD, 
+[2020-04-04 01:06:56,460][DEBUG] >> Noteshelf - 손으로 메모하고 | PDF 주석을 달아 정리하고, com.fluidtouch.noteshelf2, 생산성, Fluid Touch, 10000.0, 1522.0, 4.1, 100, 68, 30, 15, 9, 2020년 4월 2일, http://www.fluidtouch.biz, Fluid+Touch, 
+[2020-04-04 01:07:12,562][DEBUG] >> 단짝 게임 - 친구사귀기 예쁜 아바타 만들기 즐거운 월드이벤트 함께 즐기는 우리들만의 공간, com.nil.danjjak, 소셜, Nil, 500000.0, 62074.0, 4.2, 100, 23, 14, 4, 14, 2020년 4월 2일, mailto:nildollchat@gmail.com, Nil, 
+[2020-04-04 01:07:23,008][DEBUG] >> Turbo VPN –무제한 무료 VPN & 빠른 보안 프록시 접속, free.vpn.unblock.proxy.turbovpn, 도구, Innovative Connecting, 100000000.0, 3690542.0, 4.6, 100, 7, 4, 1, 6, 2020년 3월 27일, https://www.turbovpn.co, Innovative+Connecting, 
+[2020-04-04 01:07:33,943][DEBUG] >> SHOWROOM - free live streaming, jp.dena.showroom, 엔터테인먼트, SHOWROOM Inc., 1000000.0, 30932.0, 4.2, 100, 51, 27, 6, 9, 2020년 3월 11일, https://www.showroom-live.com/, SHOWROOM+Inc., 
+[2020-04-04 01:07:44,180][DEBUG] >> 최애돌♡ - 아이돌 순위 / 스케줄 / 퀴즈, net.ib.mn, 엔터테인먼트, ExodusEnt., 1000000.0, 119643.0, 4.7, 100, 8, 3, 1, 3, 2020년 3월 18일, http://www.myloveidol.com, , 8737683101952824607
+[2020-04-04 01:07:54,468][DEBUG] >> 매직씽 아싸노래방 : 모두를 위한 모바일 노래방, com.entermedia.mobile.karaoke, 음악/오디오, ENTERMEDIA Co., Ltd., 1000000.0, 21350.0, 4.0, 100, 12, 8, 5, 26, 2020년 2월 27일, mailto:qna@magicsing.com, ENTERMEDIA+Co.,+Ltd., 
+[2020-04-04 01:08:05,249][DEBUG] >> 잡플래닛-2020년 일하기 좋은 기업은 어디?, com.jobplanet.kr.android, 비즈니스, Braincommerce, 1000000.0, 2497.0, 4.2, 100, 30, 11, 3, 14, 2020년 3월 24일, https://www.jobplanet.co.kr, Braincommerce, 
+[2020-04-04 01:08:15,510][DEBUG] >> 한컴오피스 한글, com.hancom.office.hwp.editor.hwp_apk.gplaystore, 비즈니스, Hancom Inc., 10000.0, 872.0, 3.0, 100, 29, 88, 81, 70, 2020년 2월 14일, http://www.hancom.com, Hancom+Inc., 
+[2020-04-04 01:08:25,950][DEBUG] >> Google 드라이브, com.google.android.apps.docs, 생산성, Google LLC, 5000000000.0, 5220268.0, 4.4, 100, 16, 8, 3, 10, 2020년 3월 30일, https://support.google.com/drive/?p=android_drive_help, , 5700313618786177705
+[2020-04-04 01:08:37,232][DEBUG] >> 라이크리 - 셀럽 또는 인플루언서가 될 수 있는 가장 쉬운 방법!, com.moonlight.freefollowers, 소셜, 라이크리, 10000.0, 916.0, 3.9, 100, 37, 21, 13, 25, 2020년 3월 23일, mailto:instalike8909@gmail.com, %EB%9D%BC%EC%9D%B4%ED%81%AC%EB%A6%AC, 
+[2020-04-04 01:08:47,382][DEBUG] >> Fancy Slime, com.playland.fancyslime, 엔터테인먼트, Kiki Fun Games, 5000000.0, 39064.0, 1.7, 20, 1, 2, 2, 100, 2019년 11월 4일, http://eoegjfogerenef.com, Kiki+Fun+Games, 
+[2020-04-04 01:08:57,834][DEBUG] >> pixiv, jp.pxv.android, 소셜, pixiv Inc., 1000000.0, 123899.0, 4.6, 100, 16, 4, 2, 3, 2020년 3월 31일, https://www.pixiv.net, pixiv+Inc., 
+[2020-04-04 01:09:07,969][DEBUG] >> 단거리연애 : 동네친구와 채팅하기, handasoft.dangeori.mobile, 커뮤니케이션, 단거리연애, 1000000.0, 26331.0, 4.4, 100, 0, 3, 0, 13, 2020년 3월 24일, mailto:iiosoft0@gmail.com, , 4635303078517964347
+[2020-04-04 01:09:18,588][DEBUG] >> EBS어학FM, com.doosan.newebsfm, 교육, Dong-A publishing co., ltd, 100000.0, 1014.0, 3.5, 100, 36, 24, 11, 54, 2020년 3월 10일, http://www.dongapublishing.com, Dong-A+publishing+co.,+ltd, 
+[2020-04-04 01:09:31,161][DEBUG] >> LIVE스코어 - KBO, EPL, NBA 등 가장 빠른 스포츠 전종목 라이브스코어, kr.co.psynet, 스포츠, PSYNET, 1000000.0, 56544.0, 4.0, 100, 18, 11, 4, 25, 2020년 4월 2일, http://www.psynet.co.kr, PSYNET, 
+[2020-04-04 01:09:41,372][DEBUG] >> 인싸채팅 - 인싸를 위한 채팅 무료채팅 랜덤채팅 만남, com.inssachat, 소셜, 핵인싸, 50000.0, 1174.0, 4.3, 100, 2, 4, 2, 17, 2019년 4월 14일, http://inssachat.com, %ED%95%B5%EC%9D%B8%EC%8B%B8, 
+[2020-04-04 01:09:51,889][DEBUG] >> 듀오링고(Duolingo): 무료 영어 학습, com.duolingo, 교육, Duolingo, 100000000.0, 8907029.0, 4.7, 100, 18, 3, 0, 2, 2020년 3월 31일, https://www.duolingo.com/, , 6957685454452609502
+[2020-04-04 01:10:02,094][DEBUG] >> 작명 어플 넴유베: 이름짓기, 이름풀이, 개명, 넴유베 도장, com.naming.usooprj2_4, 출산/육아, USOOSOFT Co.,Ltd, 500000.0, 4030.0, 4.8, 100, 1, 1, 0, 4, 2019년 5월 23일, http://www.usoosoft.com, USOOSOFT+Co.,Ltd, 
+[2020-04-04 01:10:12,222][DEBUG] >> Triplens: 사진 번역기, com.triplens.android, 도구, Kita Apps, 10000000.0, 18907.0, 2.1, 33, 3, 4, 4, 100, 2020년 4월 2일, http://triplens.kitabilgiapps.com/, Kita+Apps, 
+[2020-04-04 01:10:22,729][DEBUG] >> 프렌미 - 연인보다 편한 친구사이, com.bnklab.android.dating, 커뮤니케이션, BNKLAB, 1000000.0, 7983.0, 2.9, 86, 24, 26, 14, 100, 2019년 12월 30일, mailto:cs_swm@bnklab.com, BNKLAB, 
+[2020-04-04 01:10:33,165][DEBUG] >> 1km - 동네 친구, 소모임, 이성만남, emotion.onekm, 데이트, malang, 5000000.0, 34342.0, 4.1, 100, 28, 19, 4, 16, 2020년 3월 16일, https://assets.adxcorp.kr/redirect?url=http://www.1km.co.kr, malang, 
+[2020-04-04 01:10:44,164][DEBUG] >> 나만의 스캐너: 스캔 및 인쇄, com.apalon.scanner.app, 비즈니스, Apalon Apps, 5000000.0, 33069.0, 3.9, 100, 22, 12, 3, 33, 2020년 3월 26일, http://apalon.com, , 7148047194848561719
+[2020-04-04 01:10:54,306][DEBUG] >> 밀크톡 - 영상 채팅, 화상 채팅, 영상 톡, 채팅 어플 만남, com.milk.talk, 데이트, 비젼소프트, 10000.0, 79.0, 3.7, 100, 36, 18, 10, 42, 2020년 3월 10일, http://milktalk.co.kr, %EB%B9%84%EC%A0%BC%EC%86%8C%ED%94%84%ED%8A%B8, 
+[2020-04-04 01:11:04,991][DEBUG] >> 판무킹 -판타지 무협소설을 간편하게 읽을 수 있는 서점, com.epyrus.fanmuking_g, 도서/참고자료, wooriebook Inc, 10000.0, 123.0, 3.8, 100, 21, 19, 10, 30, 2020년 3월 19일, http://appclub.epyrus.com, wooriebook+Inc, 
+[2020-04-04 01:11:15,522][DEBUG] >> 2ulip : 튤립, com.inc_2ulip.tulip, 라이프스타일, 2ulip Inc., 10000.0, 391.0, 4.3, 100, 25, 10, 1, 11, 2020년 2월 27일, https://www.2ulip.com, 2ulip+Inc., 
+[2020-04-04 01:11:25,914][DEBUG] >> SKOUT-만남, 채팅, 친구, com.skout.android, 소셜, Skout Inc., 50000000.0, 1157928.0, 4.3, 100, 9, 6, 3, 16, 2020년 3월 2일, http://www.skout.com, , 8993195399885453984
+[2020-04-04 01:11:36,514][DEBUG] >> 미프 MEEFF - 한국을 좋아하는 전 세계 외국인 친구 사귀기, com.noyesrun.meeff.kr, 소셜, malang, 1000000.0, 39837.0, 3.9, 100, 26, 18, 10, 23, 2020년 3월 30일, https://assets.adxcorp.kr/redirect?url=http://www.noyesrun.com, malang, 
+[2020-04-04 01:11:46,711][DEBUG] >> Life360 - 가족 위치추적기, com.life360.android.safetymapd, 라이프스타일, Life360, 50000000.0, 1193101.0, 4.5, 100, 22, 5, 2, 6, 2020년 4월 2일, http://www.life360.com, Life360, 
+[2020-04-04 01:11:56,912][DEBUG] >> Xprofile, com.tech.analytics, 도구, S&Z Apps, 5000000.0, 165208.0, 4.1, 100, 3, 2, 1, 26, 2020년 3월 26일, https://x-profile.web.app/, S%26Z+Apps, 
+[2020-04-04 01:12:07,028][DEBUG] >> 캠앤챗 - 랜덤채팅 영상채팅 화상채팅 무료채팅 만남어플 채팅 소개팅, com.elinsoft.camandchat, 데이트, Nicknigrei, 10000.0, 65.0, 4.5, 100, 0, 1, 0, 14, 2020년 2월 11일, mailto:nickbookshorna@gmail.com, Nicknigrei, 
+[2020-04-04 01:12:17,271][DEBUG] >> 라인 LINE, jp.naver.line.android, 커뮤니케이션, LINE Corporation, 500000000.0, 12034865.0, 4.1, 100, 18, 12, 6, 20, 2020년 4월 2일, http://line.me, , 4919265583026901892
+[2020-04-04 01:12:27,904][DEBUG] >> NordVPN: 안전한 인터넷과 온라인 보안을 즐길 수 있는 안드로이드용 VPN 앱, com.nordvpn.android, 도구, NordVPN apps, 10000000.0, 215971.0, 4.3, 100, 8, 3, 2, 16, 2020년 3월 30일, https://nordvpn.com, NordVPN+apps, 
+[2020-04-04 01:12:38,359][DEBUG] >> 폴라리스 오피스 - 무료 한글, 오피스 문서 + PDF,  텍스트 뷰어, com.infraware.office.link, 생산성, Infraware Inc., 50000000.0, 583226.0, 3.9, 100, 28, 13, 7, 27, 2020년 3월 30일, https://www.polarisoffice.com, Infraware+Inc., 
+[2020-04-04 01:12:48,536][DEBUG] >> 덤스터(Dumpster) – 안드로이드 최고의 파일 복원 앱, com.baloota.dumpster, 도구, Baloota, 10000000.0, 304852.0, 4.3, 100, 17, 8, 3, 13, 2020년 3월 26일, https://www.dumpsterapp.mobi, , 5104976176358171231
+[2020-04-04 01:12:58,868][DEBUG] >> 사랑캠 - 영상채팅,화상채팅,익명채팅, com.video.lovecam, 데이트, 여사장 컴퍼니, 10000.0, 166.0, 4.5, 100, 8, 6, 0, 10, 2020년 3월 23일, mailto:lovecam486@gmail.com, %EC%97%AC%EC%82%AC%EC%9E%A5+%EC%BB%B4%ED%8D%BC%EB%8B%88, 
+[2020-04-04 01:13:09,142][DEBUG] >> MEGA, mega.privacy.android.app, 생산성, Mega Ltd, 50000000.0, 686118.0, 3.9, 100, 19, 10, 5, 33, 2020년 3월 23일, https://mega.nz, Mega+Ltd, 
+[2020-04-04 01:13:19,335][DEBUG] >> Microsoft Excel: 스프레드시트 보기, 편집 및 만들기, com.microsoft.office.excel, 생산성, Microsoft Corporation, 1000000000.0, 2420146.0, 4.4, 100, 21, 8, 3, 7, 2020년 3월 23일, https://products.office.com, , 6720847872553662727
+[2020-04-04 01:13:29,517][DEBUG] >> Calm - 명상 및 굿나잇 스토리, com.calm.android, 건강/운동, Calm.com, Inc., 10000000.0, 216969.0, 4.5, 100, 16, 5, 2, 9, 2020년 3월 25일, http://www.calm.com, Calm.com,+Inc., 
+[2020-04-04 01:13:40,021][DEBUG] >> HelloTalk 헬로톡-무료 외국어 언어 교환, com.hellotalk, 교육, HelloTalk Learn Languages App, 5000000.0, 116490.0, 4.4, 100, 15, 5, 2, 9, 2020년 3월 30일, http://www.HelloTalk.com, HelloTalk+Learn+Languages+App, 
+[2020-04-04 01:13:50,660][DEBUG] >> EWA English  초급자를 위한 영어 학습, com.ewa.ewaapp, 교육, Lithium Lab Pte Ltd, 10000000.0, 212099.0, 4.6, 100, 20, 3, 0, 4, 2020년 3월 26일, http://www.appewa.com, Lithium+Lab+Pte+Ltd, 
+[2020-04-04 01:14:00,843][DEBUG] >> 아이돌챔프 - 쇼챔피언, 아이돌투표, 팬덤, 아이돌, com.nwz.ichampclient, 엔터테인먼트, MBCPLUS, 1000000.0, 17639.0, 4.3, 100, 21, 10, 4, 10, 2020년 3월 31일, http://www.idolchamp.co.kr/, MBCPLUS, 
+[2020-04-04 01:14:11,114][DEBUG] >> 세이클럽 미니 - 대화, 무료채팅, 친구찾기, com.scs.android.chattalk, 커뮤니케이션, Sayclub, 1000000.0, 8026.0, 3.6, 100, 9, 8, 5, 48, 2020년 3월 23일, http://me.sayclub.com, Sayclub, 
+[2020-04-04 01:14:21,346][DEBUG] >> 눔(Noom) - 건강관리,다이어트,당뇨,식단,만보기, com.wsl.noom, 건강/운동, Noom Inc., 10000000.0, 196104.0, 4.1, 100, 18, 5, 5, 21, 2020년 3월 26일, http://www.noom.com, Noom+Inc., 
+[2020-04-04 01:14:31,664][DEBUG] >> 데일리스낵, kr.co.hunet.dailysnack, 교육, (주) Hunet, 100.0, 0, 0, 0, 0, 0, 0, 0, 2020년 4월 2일, http://www.dailysnack.com, %28%EC%A3%BC%29+Hunet, 
+[2020-04-04 01:14:45,825][DEBUG] >> 이지보카 - 영어단어 어원을 읽어주는 특별한 영단어 암기앱 단어장, com.shouter.easyvoca, 교육, Shouter Inc., 100000.0, 2650.0, 4.8, 100, 8, 5, 0, 1, 2020년 2월 5일, http://www.shouter.com, , 8858269426735939834
+[2020-04-04 01:14:56,271][DEBUG] >> BeautyPlus 뷰티플러스 - 올인원 카메라로 만드는 이쁜 셀카 사진, com.commsource.beautyplus, 사진, Meitu (China) Limited, 100000000.0, 4360657.0, 4.5, 100, 16, 7, 2, 7, 2020년 4월 1일, http://www.beautyplus.com/, Meitu+%28China%29+Limited, 
+[2020-04-04 01:15:06,419][DEBUG] >> 업라이브Uplive, com.asiainno.uplive, 소셜, Asia Innovations HK Limited, 10000000.0, 121884.0, 4.2, 100, 9, 7, 4, 18, 2020년 3월 28일, http://www.upliveapp.com, Asia+Innovations+HK+Limited, 
+[2020-04-04 01:15:16,845][DEBUG] >> 리틀팍스 - 영어동화 도서관, net.littlefox.lf_app_fragment, 교육, LITTLE FOX INC., 1000000.0, 7112.0, 4.2, 100, 14, 5, 2, 21, 2020년 3월 17일, http://www.littlefox.com, , 8549610620990682894
+[2020-04-04 01:15:27,716][DEBUG] >> 레진코믹스 - 매일 무료 웹툰, com.lezhin.comics, 만화, LEZHIN ENTERTAINMENT, 5000000.0, 35863.0, 3.5, 100, 30, 24, 17, 50, 2020년 3월 18일, http://www.lezhin.com/en, LEZHIN+ENTERTAINMENT, 
+[2020-04-04 01:15:38,030][DEBUG] >> 국민어장 - 무료채팅, 랜덤채팅, cc.chatmore.dating, 커뮤니케이션, 물좋은 랜덤채팅, 500000.0, 1538.0, 3.3, 100, 14, 12, 9, 68, 2019년 12월 27일, http://www.chatmore.cc, %EB%AC%BC%EC%A2%8B%EC%9D%80+%EB%9E%9C%EB%8D%A4%EC%B1%84%ED%8C%85, 
+[2020-04-04 01:15:48,329][DEBUG] >> 채팅남녀 - 남녀 모두를 위한 채팅 무료채팅 랜덤채팅 영상채팅 만남, kr.manchat.ao, 소셜, 채팅남녀, 10000.0, 184.0, 5.0, 100, 0, 0, 0, 0, 2020년 2월 28일, mailto:manchat.kr@gmail.com, %EC%B1%84%ED%8C%85%EB%82%A8%EB%85%80, 
+[2020-04-04 01:15:58,668][DEBUG] >> 다이아매치 - 학교·직장 인증 고스펙 소개팅, com.dating.diamatch, 소셜, 상위1%, 10000.0, 1702.0, 4.8, 100, 5, 0, 0, 2, 2019년 12월 23일, mailto:contact@diamatch.co.kr, %EC%83%81%EC%9C%841%25, 
+[2020-04-04 01:16:09,282][DEBUG] >> [EBS공식] 한글이야호, 한글이야호2 (따라쓰기, 읽기, 워크북), com.uangel.tomokidsStoreYaho2, 교육, UANGEL, 100000.0, 478.0, 2.9, 96, 23, 78, 44, 100, 2020년 2월 24일, None, UANGEL, 
+[2020-04-04 01:16:19,979][DEBUG] >> 트롯픽 - TROTPICK, com.donga.trotpick, 엔터테인먼트, dongA.com, 10000.0, 150.0, 3.7, 100, 18, 7, 4, 43, 2020년 2월 24일, https://trotpick.donga.com, dongA.com, 
+[2020-04-04 01:16:30,410][DEBUG] >> 핑크퐁 TV : 인기 동요 동화 포털, kr.co.smartstudy.pinkfongtv.ko_android_googlemarket, 교육, SMARTSTUDY PINKFONG, 500000.0, 2807.0, 3.7, 100, 15, 17, 11, 40, 2019년 11월 20일, None, , 5316747288696116828
+[2020-04-04 01:16:46,012][DEBUG] >> 리슨 Lysn, com.everysing.lysn, 소셜, EVERYSING Co., Ltd., 100000.0, 9323.0, 3.0, 91, 16, 13, 6, 100, 2020년 3월 20일, http://www.lysn.com, EVERYSING+Co.,+Ltd., 
+[2020-04-04 01:16:56,302][DEBUG] >> Strava GPS 및 사이클링 달리기, com.strava, 건강/운동, Strava Inc., 10000000.0, 541945.0, 4.4, 100, 19, 5, 3, 8, 2020년 4월 1일, https://www.strava.com/, Strava+Inc., 
+[2020-04-04 01:17:17,173][DEBUG] >> 코끼리 - 수면, 힐링, 스트레스 해소, com.mindclass.android, 건강/운동, 코끼리 명상, 100000.0, 530.0, 4.2, 100, 19, 15, 6, 12, 2020년 4월 1일, http://www.kokkiri.kr, %EC%BD%94%EB%81%BC%EB%A6%AC+%EB%AA%85%EC%83%81, 
+[2020-04-04 01:17:27,538][DEBUG] >> imo - free group video calls, com.imo.android.imoim, 커뮤니케이션, imo.im, 500000000.0, 5999255.0, 4.3, 100, 12, 8, 4, 14, 2020년 4월 3일, https://imo.im/, imo.im, 
+[2020-04-04 01:17:37,732][DEBUG] >> 스타플레이 : STARPLAY - KPOP 아이돌 콘텐츠 THE SHOW 더쇼 순위투표, kr.co.gleammedia.starplay, 엔터테인먼트, STARPLAY INC, 100000.0, 2057.0, 2.5, 50, 18, 24, 16, 100, 2020년 2월 3일, http://www.starplay.co.kr, STARPLAY+INC, 
+[2020-04-04 01:17:48,038][DEBUG] >> PalmStation, net.palmplayer.palm, 엔터테인먼트, HSJL, 10000.0, 996.0, 4.9, 100, 3, 0, 0, 2, 2020년 3월 14일, http://support.palmplayer.net, HSJL, 
+[2020-04-04 01:17:58,395][DEBUG] >> MLiveU : Hot Live Show, com.mlive.mliveapp, 소셜, WinNine Pacific Pty Ltd, 5000000.0, 61366.0, 4.1, 100, 14, 12, 6, 18, 2020년 3월 10일, mailto:support@winnine.com.au, WinNine+Pacific+Pty+Ltd, 
+[2020-04-04 01:18:08,577][DEBUG] >> 밤비 - 랜덤채팅 익명쪽지 톡친구, com.bnc.bambi.client, 소셜, BNC, 1000000.0, 6940.0, 2.9, 81, 38, 29, 18, 100, 2020년 3월 23일, https://bncbambi.com, BNC, 
+[2020-04-04 01:18:19,338][DEBUG] >> 짱챗 - 랜덤채팅 친구만들기, com.privateinc.jjang, 소셜, Private, Inc., 10000.0, 109.0, 2.6, 64, 7, 16, 11, 100, 2019년 7월 26일, mailto:mojito.private@gmail.com, Private,+Inc., 
+[2020-04-04 01:18:29,855][DEBUG] >> 벙개톡 - 채팅으로 여사친, 톡친구, com.dkzkcmzl.thunderTalk, 데이트, 버블톡, 10000.0, 991.0, 4.7, 100, 9, 4, 2, 2, 2020년 3월 25일, mailto:dkzkcmzl86@gmail.com, %EB%B2%84%EB%B8%94%ED%86%A1, 
+[2020-04-04 01:18:39,990][DEBUG] >> VSCO: 사진 및 동영상 편집기, com.vsco.cam, 사진, VSCO, 50000000.0, 1074609.0, 4.4, 100, 19, 6, 2, 10, 2020년 4월 2일, https://vsco.co, , 5032127892134861949
+[2020-04-04 01:18:50,322][DEBUG] >> Hotspot Shield 무료로 VPN 대리 & WiFi 보안 (Security), hotspotshield.android.vpn, 도구, AnchorFree GmbH, 100000000.0, 1417247.0, 4.1, 100, 12, 6, 3, 23, 2020년 3월 30일, https://www.hotspotshield.com/vpn/vpn-for-android/, , 6875401605969588379
+[2020-04-04 01:19:00,699][DEBUG] >> 지나리 - 실시간 위치추적, 위치공유, 과거위치, 분실방지, com.xsol.gnali, 커뮤니케이션, GNali LBS System, 500000.0, 13857.0, 4.4, 100, 31, 10, 3, 6, 2019년 12월 20일, https://www.gnali.net, GNali+LBS+System, 
+[2020-04-04 01:19:11,094][DEBUG] >> 미스톡S - 영상톡, 친구만들기, 영상채팅, 만남, 화상채팅, 애인만들기, 영상통화, com.vcv.misstalks, 데이트, misstalk2019, 10000.0, 26.0, 3.3, 100, 0, 0, 6, 66, 2020년 3월 10일, mailto:dev.mango.tree@gmail.com, misstalk2019, 
+[2020-04-04 01:19:23,120][DEBUG] >> 야자 라이브 Yaja Live - 실시간 영상채팅으로 새로운 친구 만들고 외국어로 대화하기, com.colive.yaja, 커뮤니케이션, Yaja Live, 1000000.0, 3265.0, 3.9, 100, 6, 9, 4, 30, 2020년 3월 27일, http://www.yajalive.com, Yaja+Live, 
+[2020-04-04 01:19:33,242][DEBUG] >> YAZIO 코치 - 칼로리계산기 어플, 다이어트일기, com.yazio.android, 건강/운동, YAZIO, 10000000.0, 258820.0, 4.5, 100, 21, 6, 2, 7, 2020년 3월 31일, https://www.yazio.com, YAZIO, 
+[2020-04-04 01:19:43,454][DEBUG] >> 연애의 과학 - 심리학 연애팁과 심리 테스트, com.scatterlab.soljr, 엔터테인먼트, Scatter Lab, Inc., 50000.0, 102.0, 2.9, 88, 37, 22, 37, 100, 2020년 3월 25일, mailto:scienceoflove@scatterlab.co.kr, Scatter+Lab,+Inc., 
+[2020-04-04 01:19:55,869][DEBUG] >> 직장인 이성 친구 만남 데이팅 - 에스티커 (데이트 채팅 미팅 소개팅어플), com.estickerapp.android, 데이트, 에스티커, 50000.0, 4262.0, 4.8, 100, 1, 0, 0, 3, 2020년 3월 24일, mailto:admin@estickerapp.com, %EC%97%90%EC%8A%A4%ED%8B%B0%EC%BB%A4, 
+[2020-04-04 01:20:06,225][DEBUG] >> 에어클래스 AIR KLASS, com.quriously.airklass, 교육, Quriously, Inc, 10000.0, 154.0, 3.9, 100, 25, 25, 14, 18, 2020년 3월 6일, https://www.airklass.com, Quriously,+Inc, 
+[2020-04-04 01:20:16,703][DEBUG] >> QR & Barcode Scanner, com.appland.qrscanner, 소셜, Kruso Team, 1000000.0, 7382.0, 4.0, 100, 0, 1, 1, 32, 2020년 1월 10일, mailto:info@kruso.me, , 8251744921157915127
+[2020-04-04 01:20:27,094][DEBUG] >> 랜챗 - 랜덤채팅, kr.jungrammer.superranchat, 커뮤니케이션, Gaga&Talk, 50000.0, 179.0, 3.5, 100, 17, 23, 7, 49, 2020년 3월 14일, mailto:ranchat@strangerchat.io, Gaga%26Talk, 
+[2020-04-04 01:20:37,657][DEBUG] >> V Recorder 화면 녹화기 - 오디오, 동영상 편집기, Screen Recorder, screenrecorder.recorder.editor, 동영상 플레이어/편집기, VideoShow EnjoyMobi Video Editor & Video Maker Inc, 10000000.0, 583713.0, 4.5, 100, 8, 3, 1, 8, 2020년 4월 2일, https://videoshowapp.com, , 8114105855888506023
+[2020-04-04 01:20:48,122][DEBUG] >> 마보 - 명상, 마음의 안정, 깊은 수면, com.mabopractice.app, 건강/운동, 마보, 100000.0, 669.0, 4.6, 100, 9, 7, 2, 3, 2020년 4월 1일, https://www.mabopractice.com, %EB%A7%88%EB%B3%B4, 
+[2020-04-04 01:20:58,579][DEBUG] >> Kumu - Pinoy Livestream Community Gameshows, im.kumu.ph, 소셜, Kumumedia Technologies Inc, 1000000.0, 30958.0, 4.5, 100, 11, 5, 1, 8, 2020년 4월 2일, http://www.kumu.ph, Kumumedia+Technologies+Inc, 
+[2020-04-04 01:21:09,125][DEBUG] >> Palm Secret - 노화 카메라, 손금 리더, 별자리, com.palmsecret.horoscope, 엔터테인먼트, Palm Horoscope, 5000000.0, 22216.0, 3.6, 100, 17, 12, 4, 53, 2020년 3월 27일, mailto:Browserflash0528@gmail.com, Palm+Horoscope, 
+[2020-04-04 01:21:19,815][DEBUG] >> 사진 편집, 영상 편집,  콜라주 메이커를 하나로! 세계 유일의 어플, Instasize, com.jsdev.instasize, 사진, Instasize, Inc., 50000000.0, 874648.0, 3.7, 100, 22, 8, 3, 46, 2020년 3월 27일, https://instasize.com%20, , 5679077225552137504
+[2020-04-04 01:21:30,430][DEBUG] >> 사랑애 - 10초에 1커플 탄생, com.leanus.loveae.kr, 데이트, BNKLAB, 500000.0, 9893.0, 3.3, 100, 5, 7, 5, 70, 2019년 12월 19일, mailto:cs_sra@bnklab.com, BNKLAB, 
+[2020-04-04 01:21:41,078][DEBUG] >> 아미슈 - 채팅,비밀채팅,랜덤채팅,소개팅,연애,만남,은밀한대화, com.njsoft.missyou, 데이트, lknetworks, 5000.0, 25.0, 1.8, 21, 0, 5, 5, 100, 2019년 9월 25일, http://amishu.co.kr, lknetworks, 
+[2020-04-04 01:21:51,294][DEBUG] >> 라이브톡 - 무료 영상채팅,화상채팅, xyz.livetalk, 커뮤니케이션, Honest Live Video, 5000000.0, 10222.0, 3.7, 100, 13, 6, 6, 42, 2019년 12월 5일, http://www.livetalk.xyz, Honest+Live+Video, 
+[2020-04-04 01:22:01,733][DEBUG] >> VideoShow - 무료 동영상 편집기 & 사진 편집기 & 동영상 촬영, com.xvideostudio.videoeditor, 동영상 플레이어/편집기, VideoShow EnjoyMobi Video Editor & Video Maker Inc, 100000000.0, 4955463.0, 4.6, 100, 9, 4, 1, 6, 2020년 4월 3일, https://videoshowapp.com, , 8114105855888506023
+[2020-04-04 01:22:12,088][DEBUG] >> 굿나잇 목소리 소개팅앱 리슨 Goodnight, com.one.goodnight, 데이트, Paktor Pte. Ltd., 1000000.0, 58147.0, 4.3, 100, 11, 8, 3, 14, 2020년 4월 2일, http://goodnight.io, Paktor+Pte.+Ltd., 
+[2020-04-04 01:22:22,526][DEBUG] >> AutoCAD - DWG 편집기, com.autodesk.autocadws, 생산성, Autodesk Inc., 10000000.0, 155510.0, 3.9, 100, 23, 12, 6, 32, 2020년 3월 26일, https://www.autodesk.com/products/autocad-mobile/overview, , 6418760394979464117
+[2020-04-04 01:22:32,731][DEBUG] >> 딕쏘 DIGSSO - 게이(Gay) 소셜 네트워크, net.digsso, 소셜, MUDDLEWORKS Inc., 100000.0, 1512.0, 1.9, 20, 7, 13, 12, 100, 2020년 1월 16일, http://www.digsso.net, MUDDLEWORKS+Inc., 
+[2020-04-04 01:22:43,031][DEBUG] >> 주식, 외환: 포트폴리오 및 뉴스, com.fusionmedia.investing, 금융, INVESTING.com, 10000000.0, 272596.0, 4.5, 100, 20, 3, 1, 7, 2020년 4월 2일, https://www.investing.com, , 4813878430564579954
+[2020-04-04 01:22:53,694][DEBUG] >> Yome Live –라이브, 개인 방송 및 스트리밍, com.huya.yome, 소셜, Huya Yome Live, 1000000.0, 5400.0, 0, 0, 0, 0, 0, 0, 2020년 3월 28일, https://www.yome.live/, Huya+Yome+Live, 
+[2020-04-04 01:23:04,055][DEBUG] >> 동네친구 채팅 버블톡, com.dkzkcmzl.bubbleTalk, 소셜, 버블톡, 10000.0, 1746.0, 4.4, 100, 11, 12, 3, 8, 2020년 3월 25일, mailto:dkzkcmzl86@gmail.com, %EB%B2%84%EB%B8%94%ED%86%A1, 
+[2020-04-04 01:23:14,520][DEBUG] >> QR Code & Barcode Scanner, com.scanner.protect, 생산성, Silver Tech App, 5000000.0, 20690.0, 4.3, 100, 2, 2, 2, 19, 2020년 1월 2일, mailto:silverapp19@gmail.com, Silver+Tech+App, 
+[2020-04-04 01:23:24,985][DEBUG] >> AsianMate - 일본의 지방 가이드 찾기, asia.jmate.travelfriends, 여행 및 지역정보, ATSTLLC, 10000.0, 291.0, 3.2, 100, 3, 14, 5, 83, 2020년 3월 27일, mailto:atst11c@gmail.com, ATSTLLC, 
+[2020-04-04 01:23:35,204][DEBUG] >> 번개장터 - 모바일 최대 중고마켓 앱 (중고나라, 중고차), kr.co.quicket, 쇼핑, 번개장터 주식회사, 10000000.0, 85153.0, 4.0, 100, 17, 7, 4, 26, 2020년 3월 11일, https://www.bunjang.co.kr, %EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC, 
+[2020-04-04 01:23:45,556][DEBUG] >> 에브리싱 No. 1 스마트 노래방, com.sm1.EverySing, 음악/오디오, EVERYSING Co., Ltd., 5000000.0, 49276.0, 3.6, 100, 33, 28, 16, 46, 2020년 4월 2일, http://www.everysing.com, EVERYSING+Co.,+Ltd., 
+[2020-04-04 01:23:55,855][DEBUG] >> 러브레터 소개팅 -  매일 8명, (연결/대화 100% 무료, 정직한 소개팅), com.appstard.loveletter, 데이트, APPSTARD, 500000.0, 22495.0, 4.8, 100, 0, 1, 0, 4, 2020년 2월 29일, http://www.appstard.com, APPSTARD, 
+[2020-04-04 01:24:06,125][DEBUG] >> Chegg Study - Homework Help, com.chegg, 교육, Chegg, Inc., 1000000.0, 19594.0, 4.0, 100, 15, 3, 4, 28, 2020년 4월 2일, http://www.chegg.com, Chegg,+Inc., 
+[2020-04-04 01:24:16,610][DEBUG] >> 실시간 날씨 버전, com.apalon.weatherlive.free, 날씨, Apalon Apps, 10000000.0, 852054.0, 4.5, 100, 31, 9, 2, 6, 2020년 2월 10일, http://www.apalon.com/weather_live_android.html, , 7148047194848561719
+[2020-04-04 01:24:26,785][DEBUG] >> 블라인드 Blind - 직장인 기업 연봉 & 이직 커리어 SNS, com.teamblind.blind, 비즈니스, TeamBlind, 1000000.0, 10511.0, 4.1, 100, 23, 10, 4, 23, 2020년 3월 31일, http://www.teamblind.com, TeamBlind, 
+[2020-04-04 01:24:37,334][DEBUG] >> Keepsafe 사진 보관함 – 사진 비디오 숨기기, com.kii.safe, 사진, Keepsafe, 50000000.0, 1718090.0, 4.3, 100, 14, 6, 3, 16, 2019년 12월 5일, https://www.getkeepsafe.com, , 7409182767575593474
+[2020-04-04 01:24:47,513][DEBUG] >> 스윗톡, com.mchaeting.sweettalk, 데이트, 채팅만남, 10000.0, 285.0, 3.4, 100, 23, 16, 8, 63, 2019년 9월 4일, mailto:mchaeting@gmail.com, %EC%B1%84%ED%8C%85%EB%A7%8C%EB%82%A8, 
+[2020-04-04 01:24:57,821][DEBUG] >> 헬로펫 - 폰화면에 고양이 강아지 키우기, 펫 키우기 게임, com.applepie4.mylittlepet, 엔터테인먼트, Applepie Studio Inc., 1000000.0, 104480.0, 4.3, 100, 18, 9, 3, 11, 2020년 2월 25일, http://www.applepie4.com/, , 7705077453684003100
+[2020-04-04 01:25:08,363][DEBUG] >> Enlight Pixaloop, com.lightricks.pixaloop, 사진, Lightricks Ltd., 10000000.0, 105768.0, 4.0, 100, 15, 9, 5, 24, 2020년 4월 2일, http://www.lightricks.com, Lightricks+Ltd., 
+[2020-04-04 01:25:18,869][DEBUG] >> 파워디렉터(PowerDirector) – YouTube 동영상 편집기, com.cyberlink.powerdirector.DRA140225_01, 동영상 플레이어/편집기, CyberLink.com, 50000000.0, 1144481.0, 4.5, 100, 17, 5, 2, 8, 2020년 3월 31일, http://www.cyberlink.com/, , 7495131674787494593
+[2020-04-04 01:25:32,385][DEBUG] >> 블데 - 매력 없으면 가입 못하는 프리미엄 인증 어플(블라인드 데이트), mars.nomad.com.blinddate2018, 데이트, 블라인드데이트, 10000.0, 346.0, 4.4, 100, 10, 3, 1, 12, 2020년 3월 25일, http://badaduo.net, %EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C%EB%8D%B0%EC%9D%B4%ED%8A%B8, 
+[2020-04-04 01:25:42,743][DEBUG] >> Pairs(페어즈): 진짜 연애 하고싶을때, jp.eure.android.pairs_tw, 소셜, eureka Inc., 1000000.0, 43945.0, 4.5, 100, 2, 2, 1, 12, 2020년 3월 24일, https://eure.jp, , 5362579128810650762
+[2020-04-04 01:25:54,457][DEBUG] >> Canva: 무료 그래픽 디자인 도구 및 로고 편집기, com.canva.editor, 예술/디자인, Canva, 50000000.0, 2325556.0, 4.7, 100, 19, 5, 1, 2, 2020년 4월 2일, https://www.canva.com/, Canva, 
+[2020-04-04 01:26:05,213][DEBUG] >> Lingokids - The playlearning™ 영어 앱, es.monkimun.lingokids, 교육, Lingokids - English Learning For Kids, 10000000.0, 48751.0, 4.6, 100, 6, 2, 1, 8, 2020년 3월 25일, None, , 6485391978707855430
+[2020-04-04 01:26:15,521][DEBUG] >> Adobe Lightroom - 사진 편집 포토샵 어플, com.adobe.lrmobile, 사진, Adobe, 100000000.0, 515739.0, 4.2, 100, 14, 7, 4, 17, 2020년 3월 5일, https://www.adobe.com/products/photoshop-lightroom.html, , 4734916851270416020
+[2020-04-04 01:26:26,191][DEBUG] >> 로맨스소설 Club, com.bms.romanceg, 도서/참고자료, BLUEMOUNTAINSOFT. INC, 10000.0, 36.0, 3.8, 100, 56, 25, 12, 31, 2020년 3월 19일, http://www.ebookclub.co.kr, BLUEMOUNTAINSOFT.+INC, 
+[2020-04-04 01:26:36,382][DEBUG] >> Microsoft Word: 이동 중에 문서 작성, 편집 및 공유, com.microsoft.office.word, 생산성, Microsoft Corporation, 1000000000.0, 4487766.0, 4.4, 100, 22, 8, 3, 8, 2020년 3월 26일, https://products.office.com, , 6720847872553662727
+[2020-04-04 01:26:46,732][DEBUG] >> 만남, 바로 만나자 - 다만남, com.dkzkcmzl.letsbefriend, 커뮤니케이션, 버블톡, 10000.0, 526.0, 4.3, 100, 7, 5, 1, 15, 2020년 3월 25일, mailto:dkzkcmzl86@gmail.com, %EB%B2%84%EB%B8%94%ED%86%A1, 
+[2020-04-04 01:26:56,940][DEBUG] >> LIVIT - 17, com.machipopo.media17, 소셜, 17 Media (H.K.) Limited, 10000000.0, 116537.0, 4.0, 100, 24, 14, 5, 22, 2020년 3월 31일, http://17.media, 17+Media+%28H.K.%29+Limited, 
+[2020-04-04 01:27:07,279][DEBUG] >> 뽀로로콘 - 어린이 아바타 놀이 학습, com.weplli.project.pororocon, 교육, KIGLE, 1000000.0, 11504.0, 4.1, 100, 18, 10, 4, 23, 2019년 12월 24일, None, , 4740368439505063702
+[2020-04-04 01:27:17,848][DEBUG] >> 남녀공학 - 익명소통, 채팅앱, org.pmf.selso, 소셜, ProductMarketFit (영자언니), 10000.0, 328.0, 4.0, 100, 23, 1, 0, 31, 2020년 4월 2일, http://www.selfdating.org/, ProductMarketFit+%28%EC%98%81%EC%9E%90%EC%96%B8%EB%8B%88%29, 
+[2020-04-04 01:27:28,784][DEBUG] >> BetterMe: 체중 감량 운동, com.gen.workoutme, 건강/운동, BetterMe Limited, 10000000.0, 47526.0, 3.4, 100, 23, 10, 6, 63, 2020년 3월 23일, mailto:support@betterme.tips, BetterMe+Limited, 
+[2020-04-04 01:27:39,412][DEBUG] >> ParaU：낯선채팅 & 화상채팅, com.parau.videochat, 소셜, ParaU Team, 5000000.0, 98598.0, 4.5, 100, 7, 3, 2, 9, 2020년 3월 26일, mailto:gosnapraido@hotmail.com, ParaU+Team, 
+[2020-04-04 01:27:49,565][DEBUG] >> Tango - Live Video Broadcasts, com.sgiggle.production, 소셜, Tango, 100000000.0, 3836858.0, 4.4, 100, 17, 9, 3, 9, 2020년 4월 2일, http://www.tango.me, Tango, 
+[2020-04-04 01:28:01,278][DEBUG] >> 실시간 일기예보 및 레이더, com.apalon.weatherradar.free, 날씨, Apalon Apps, 10000000.0, 311186.0, 4.2, 100, 34, 8, 3, 18, 2020년 4월 1일, http://apalon.com, , 7148047194848561719
+[2020-04-04 01:28:11,787][DEBUG] >> Udemy - 유데미 온라인 학습, com.udemy.android, 교육, Udemy, 10000000.0, 202652.0, 4.5, 100, 19, 4, 2, 8, 2020년 4월 1일, http://www.udemy.com, Udemy, 
+[2020-04-04 01:28:22,103][DEBUG] >> 뉴로제타스톤, air.com.rosettastone.mobile.CoursePlayer, 교육, Rosetta Stone Ltd, 10000000.0, 228713.0, 4.6, 100, 22, 4, 1, 5, 2020년 3월 27일, http://www.rosettastone.com, , 8104400011369756806
+[2020-04-04 01:28:32,568][DEBUG] >> Minecraft, com.mojang.minecraftpe, 아케이드, Mojang, 10000000.0, 3153131.0, 4.5, 100, 10, 4, 2, 10, 2020년 2월 6일, http://help.mojang.com, Mojang, 
+[2020-04-04 01:28:43,346][DEBUG] >> 스타듀 밸리 Stardew Valley, com.chucklefish.stardewvalley, 롤플레잉, Chucklefish Limited, 500000.0, 40856.0, 4.7, 100, 11, 4, 1, 3, 2020년 3월 23일, https://www.stardewvalley.net, , 7107975034578576294
+[2020-04-04 01:28:53,532][DEBUG] >> A Dance Of Fire and Ice, com.fizzd.connectedworlds, 음악, 7th Beat Games, 100000.0, 3629.0, 4.1, 100, 21, 9, 6, 21, 2020년 3월 28일, None, 7th+Beat+Games, 
+[2020-04-04 01:29:03,768][DEBUG] >> 킹덤 러쉬 벤전스 (Kingdom Rush Vengeance), com.ironhidegames.android.kingdomrush4, 전략, Ironhide Game Studio, 100000.0, 45032.0, 4.7, 100, 14, 3, 1, 3, 2020년 4월 2일, http://www.ironhidegames.com, , 6098018911218203911
+[2020-04-04 01:29:13,972][DEBUG] >> 미니 메트로, nz.co.codepoint.minimetro, 시뮬레이션, Dinosaur Polo Club, 1000000.0, 35411.0, 4.6, 100, 16, 4, 1, 3, 2019년 12월 23일, None, Dinosaur+Polo+Club, 
+[2020-04-04 01:29:24,320][DEBUG] >> Football Manager 2020 Mobile, com.sega.soccer, 스포츠, SEGA, 100000.0, 13294.0, 4.0, 100, 36, 14, 7, 21, 2020년 3월 10일, http://www.sega.com, , 7891990035506213180
+[2020-04-04 01:29:34,904][DEBUG] >> RFS - Real Flight Simulator, it.rortos.realflightsimulator, 시뮬레이션, RORTOS, 1000000.0, 27528.0, 3.8, 100, 26, 18, 11, 35, 2020년 4월 2일, http://www.rortos.com, , 8013171132272394676
+[2020-04-04 01:29:45,421][DEBUG] >> Human: Fall Flat, com.and.games505.humanfallflat, 퍼즐, 505 Games Srl, 100000.0, 7604.0, 3.9, 100, 21, 10, 7, 29, 2019년 8월 30일, http://www.505games.com, 505+Games+Srl, 
+[2020-04-04 01:29:56,109][DEBUG] >> Classic game：Super Bunny Man Lite, com.Classicgame.SuperBunnyManLite, 액션, Shelby Dunn LLC, 1000.0, 47.0, 2.3, 37, 6, 13, 3, 100, 2020년 2월 18일, mailto:dunnshelby06@gmail.com, Shelby+Dunn+LLC, 
+[2020-04-04 01:30:06,578][DEBUG] >> 썸썸 편의점, com.talesshop.some, 캐주얼 게임, tales#, 1000.0, 79.0, 4.9, 100, 4, 0, 1, 1, 2020년 3월 23일, mailto:talesshop@naver.com, , 5888094142938776857
+[2020-04-04 01:30:17,007][DEBUG] >> GRIS, com.devolver.grispaid, 어드벤처, DevolverDigital, 1000.0, 183.0, 4.8, 100, 6, 0, 0, 1, 2020년 3월 24일, None, DevolverDigital, 
+[2020-04-04 01:30:27,486][DEBUG] >> 서울 2033 : 후원자, com.banjihagames.seoul2033_backer, 어드벤처, 반지하게임즈, 10000.0, 2140.0, 4.5, 100, 12, 9, 1, 6, 2020년 3월 16일, http://www.banjihagames.com/, %EB%B0%98%EC%A7%80%ED%95%98%EA%B2%8C%EC%9E%84%EC%A6%88, 
+[2020-04-04 01:30:37,939][DEBUG] >> Monument Valley, com.ustwo.monumentvalley, 퍼즐, ustwo games, 1000000.0, 221608.0, 4.8, 100, 5, 1, 0, 1, 2020년 1월 23일, None, , 8496315002364483410
+[2020-04-04 01:30:48,437][DEBUG] >> Geometry Dash, com.robtopx.geometryjump, 아케이드, RobTop Games, 1000000.0, 715144.0, 4.6, 100, 12, 4, 1, 6, 2017년 11월 15일, http://www.robtopgames.com, RobTop+Games, 
+[2020-04-04 01:30:58,736][DEBUG] >> Muse Dash, com.prpr.musedash, 음악, X.D. Network, 100000.0, 17939.0, 4.7, 100, 10, 3, 1, 2, 2020년 3월 31일, https://twitter.com/musedashthegame, X.D.+Network, 
+[2020-04-04 01:31:09,035][DEBUG] >> Splendor, com.daysofwonder.Splendor.gp, 보드, Asmodee  Digital, 100000.0, 4028.0, 3.0, 100, 21, 18, 13, 98, 2020년 3월 31일, http://www.asmodee-digital.com/en/splendor/, , 5531585752430905331
+[2020-04-04 01:31:19,616][DEBUG] >> 팔라독(Paladog), com.Paladog.KorGG, 아케이드, FazeCat, 100000.0, 9031.0, 3.4, 100, 20, 17, 7, 62, 2015년 11월 11일, http://www.fazecat.com, FazeCat, 
+[2020-04-04 01:31:30,236][DEBUG] >> 네이키드킹, com.acton.nakedking1google, 캐주얼 게임, Acton Game, 100.0, 37.0, 4.8, 100, 16, 0, 0, 3, 2020년 4월 2일, mailto:acton.com@gmail.com, Acton+Game, 
+[2020-04-04 01:31:40,637][DEBUG] >> NBA 2K20, com.t2ksports.nba2k20and, 스포츠, 2K, Inc., 100000.0, 21067.0, 4.1, 100, 19, 11, 5, 22, 2020년 3월 28일, http://support.2k.com/, , 6681606924556273560
+[2020-04-04 01:31:50,865][DEBUG] >> Poly Bridge, com.drycactus.polybridge, 시뮬레이션, Dry Cactus Limited, 100000.0, 10496.0, 4.5, 100, 17, 6, 2, 8, 2018년 4월 17일, http://www.drycactus.com, Dry+Cactus+Limited, 
+[2020-04-04 01:32:01,391][DEBUG] >> Kingdom Rush Frontiers, com.ironhidegames.android.kingdomrushfrontiers, 전략, Ironhide Game Studio, 1000000.0, 137488.0, 4.8, 100, 11, 2, 0, 2, 2020년 1월 20일, http://www.ironhidegames.com, , 6098018911218203911
+[2020-04-04 01:32:11,714][DEBUG] >> Peace, Death!, cc.peacedeath.peacedeath, 아케이드, AZAMATIKA, 100000.0, 15166.0, 4.7, 100, 10, 2, 1, 2, 2020년 1월 30일, http://vk.com/azamatika, , 4622967442740406548
+[2020-04-04 01:32:21,899][DEBUG] >> Getting Over It with Bennett Foddy, com.noodlecake.gettingoverit, 시뮬레이션, Noodlecake Studios Inc, 100000.0, 3712.0, 3.8, 100, 15, 15, 8, 35, 2019년 5월 7일, http://www.noodlecake.com/games/getting-over-it-with-bennett-foddy/, , 9078867188205035581
+[2020-04-04 01:32:32,226][DEBUG] >> Pirates Outlaws, com.piratesoutlaws.fabledgame, 카드, Fabled Game, 100000.0, 9799.0, 4.6, 100, 17, 5, 2, 5, 2020년 3월 25일, http://www.fabledgame.com, Fabled+Game, 
+[2020-04-04 01:32:42,781][DEBUG] >> 던전메이커, com.GameCoaster.DungeonMaker, 전략, GameCoaster, 100000.0, 42533.0, 4.5, 100, 18, 6, 2, 7, 2020년 3월 20일, http://gamecoaster.com/, , 6054355236747479153
+[2020-04-04 01:32:53,151][DEBUG] >> Shadow of Death: 어둠의 기사 - 스틱맨 액션, com.Zonmob.Stickman.FightingGames.ShadowOfDeath, 액션, Bravestars Games, 5000000.0, 185997.0, 4.7, 100, 8, 4, 1, 4, 2020년 3월 15일, https://www.facebook.com/ShadowOfDeath.FightingGame/, , 6472399032955398374
+[2020-04-04 01:33:03,727][DEBUG] >> The White Door, air.com.RustyLake.WhiteDoor, 어드벤처, Second Maze, 10000.0, 4735.0, 4.6, 100, 13, 7, 3, 4, 2020년 1월 30일, http://www.rustylake.com/, , 6486706157220091820
+[2020-04-04 01:33:14,182][DEBUG] >> Kingdom Rush Origins, com.ironhidegames.android.kingdomrushorigins, 전략, Ironhide Game Studio, 1000000.0, 108317.0, 4.8, 100, 11, 1, 0, 1, 2019년 9월 23일, http://www.ironhidegames.com, , 6098018911218203911
+[2020-04-04 01:33:24,340][DEBUG] >> Hero Siege: 포켓 에디션, com.panicartstudios.herosiegepocket, 롤플레잉, Panic Art Studios, 50000.0, 4083.0, 3.2, 100, 29, 18, 23, 76, 2020년 3월 30일, http://panicartstudios.com, , 8809754564869974395
+[2020-04-04 01:33:35,064][DEBUG] >> 레이튼 교수와 이상한 마을 HD, com.Level5.LT1RKR, 어드벤처, LEVEL-5 Inc., 10000.0, 786.0, 4.8, 100, 7, 0, 1, 3, 2019년 1월 24일, http://www.laytonseries.com/curiousvillage/kr/, LEVEL-5+Inc., 
+[2020-04-04 01:33:45,932][DEBUG] >> 알베도 카르타, id.application.asdc, 롤플레잉, TEAM IGNOST, 500.0, 91.0, 4.9, 100, 3, 3, 0, 0, 2020년 3월 17일, mailto:ignost0@gmail.com, TEAM+IGNOST, 
+[2020-04-04 01:33:56,268][DEBUG] >> Terraria, com.and.games505.TerrariaPaid, 어드벤처, 505 Games Srl, 1000000.0, 272706.0, 4.1, 100, 19, 11, 8, 18, 2019년 11월 7일, http://www.505games.com, 505+Games+Srl, 
+[2020-04-04 01:34:06,692][DEBUG] >> 던전공주, com.ssicosm.dungeon_princess, 롤플레잉, SSICOSM, 50000.0, 3962.0, 4.5, 100, 17, 8, 4, 6, 2019년 7월 23일, https://cafe.naver.com/15slimes, , 7134204144878147170
+[2020-04-04 01:34:17,003][DEBUG] >> 60 Seconds! Atomic Adventure, com.robotgentleman.game60seconds, 어드벤처, Robot Gentleman, 100000.0, 11077.0, 3.9, 100, 24, 15, 8, 29, 2020년 2월 18일, http://robotgentleman.com, Robot+Gentleman, 
+[2020-04-04 01:34:27,145][DEBUG] >> 언노운 나이츠, com.teamarex.troop, 롤플레잉, teamarex, 10000.0, 1250.0, 4.6, 100, 12, 6, 1, 7, 2020년 2월 29일, http://www.teamarex.net, teamarex, 
+[2020-04-04 01:34:37,475][DEBUG] >> 마녀의 샘4, com.kiwiwalks.witchspring4, 롤플레잉, Kiwiwalks Co.,Ltd., 10000.0, 3039.0, 4.3, 100, 11, 7, 2, 14, 2020년 2월 1일, http://www.kiwiwalks.com, Kiwiwalks+Co.,Ltd., 
+[2020-04-04 01:34:47,902][DEBUG] >> Bloons TD 6, com.ninjakiwi.bloonstd6, 전략, ninja kiwi, 1000000.0, 122647.0, 4.7, 100, 11, 2, 1, 3, 2020년 3월 11일, None, , 7266924558817293669
+[2020-04-04 01:35:02,540][DEBUG] >> Terraforming Mars, com.asmodeedigital.terraformingmars, 보드, Asmodee  Digital, 10000.0, 1855.0, 4.3, 100, 35, 9, 6, 10, 2020년 2월 20일, http://www.asmodee-digital.com, , 5531585752430905331
+[2020-04-04 01:35:12,805][DEBUG] >> Bad North: Jotunn Edition, com.PlausibleConcept.BadNorthFull, 전략, Raw Fury, 50000.0, 2113.0, 4.1, 100, 20, 12, 9, 17, 2019년 12월 20일, https://www.badnorth.com, , 8098532636993523501
+[2020-04-04 01:35:23,119][DEBUG] >> 에버테일, com.zigzagame.evertale, 롤플레잉, ZigZaGame Inc., 1000000.0, 187621.0, 4.6, 100, 13, 4, 2, 5, 2020년 3월 20일, http://www.zigzagame.com, ZigZaGame+Inc., 
+[2020-04-04 01:35:33,584][DEBUG] >> 기적의 분식집 Complete, air.joara.miracle, 캐주얼 게임, tales#, 5000.0, 547.0, 4.4, 100, 7, 4, 3, 11, 2019년 7월 31일, mailto:talesshop@naver.com, , 5888094142938776857
+[2020-04-04 01:35:44,309][DEBUG] >> 레이튼 교수와 악마의 상자 모바일 HD 리마스터, com.Level5.LT2RKR, 어드벤처, LEVEL-5 Inc., 10000.0, 334.0, 4.7, 100, 8, 5, 2, 2, 2019년 7월 17일, https://www.laytonseries.com/pandorasbox/KR, LEVEL-5+Inc., 
+[2020-04-04 01:35:55,332][DEBUG] >> 농구리그 스토리, net.kairosoft.android.basket, 스포츠, Kairosoft Co.,Ltd, 10000.0, 2784.0, 4.8, 100, 16, 3, 0, 0, 2019년 12월 2일, http://kairopark.jp/android/?from=m143, Kairosoft+Co.,Ltd, 
+[2020-04-04 01:36:06,148][DEBUG] >> Sand! Premium, com.singlecellsoftware.sandpremium, 캐주얼 게임, Single Cell Software, 50000.0, 3361.0, 4.3, 100, 17, 7, 1, 14, 2013년 5월 22일, http://www.singlecellsoftware.com, Single+Cell+Software, 
+[2020-04-04 01:36:16,645][DEBUG] >> Castlevania: Symphony of the Night, jp.konami.epjCastlevania2, 액션, KONAMI, 50000.0, 4577.0, 4.5, 100, 14, 7, 4, 6, 2020년 3월 4일, https://www.konami.com/games/castlevania/jp/ja/, KONAMI, 
+[2020-04-04 01:36:26,792][DEBUG] >> Passpartout: The Starving Artist, com.FlamebaitGames.Passpartout, 시뮬레이션, Flamebait Games, 50000.0, 2264.0, 4.2, 100, 19, 13, 6, 16, 2019년 8월 5일, None, , 7199729081776703730
+[2020-04-04 01:36:36,961][DEBUG] >> 삼국지 한말패업, com.longyoug.hmby, 전략, ChengDu LongYou Tech, 10000.0, 2711.0, 4.1, 100, 22, 11, 6, 17, 2020년 3월 11일, https://steamcommunity.com/app/577230/discussions/, ChengDu+LongYou+Tech, 
+[2020-04-04 01:36:47,689][DEBUG] >> 던전 지키기, com.GameCoaster.ProtectDungeon, 액션, GameCoaster, 1000000.0, 90535.0, 4.7, 100, 16, 3, 1, 2, 2020년 2월 26일, https://www.facebook.com/GameCoaster/, , 6054355236747479153
+[2020-04-04 01:36:58,495][DEBUG] >> Age of Civilizations II, age.of.civilizations2.jakowski.lukasz, 전략, Łukasz Jakowski, 100000.0, 14005.0, 4.1, 100, 27, 12, 7, 18, 2018년 12월 20일, http://www.ageofcivilizationsgame.com, , 4635849298843013993
+[2020-04-04 01:37:11,330][DEBUG] >> 쿠키요미, pier.own.android.kysppro, 캐주얼 게임, PIER Corporation Inc., 10000.0, 322.0, 4.5, 100, 12, 0, 4, 7, 2019년 11월 19일, https://www.pi-er.com/, , 7864807725591227091
+[2020-04-04 01:37:23,592][DEBUG] >> RollerCoaster Tycoon® Classic, com.atari.mobile.rctclassic, 시뮬레이션, Atari, Inc., 50000.0, 1379.0, 4.3, 100, 13, 8, 5, 14, 2019년 3월 7일, http://www.atari.com, , 5233977513008149898
+[2020-04-04 01:37:33,774][DEBUG] >> Hmmsim 2 - Train Simulator, com.Jeminie.Hmmsim2, 시뮬레이션, Jeminie, 50000.0, 4450.0, 3.9, 100, 18, 11, 5, 28, 2018년 4월 2일, http://www.jeminie.net, Jeminie, 
+[2020-04-04 01:37:46,795][DEBUG] >> 잃어버린 전화기: 로라의 이야기, com.accidentalqueens.alp_korean, 어드벤처, Toastergames, 10000.0, 502.0, 4.7, 100, 12, 3, 1, 4, 2018년 6월 5일, http://www.toastergames.net, , 5009875359930422146
+[2020-04-04 01:37:57,654][DEBUG] >> Goat Simulator, com.coffeestainstudios.goatsimulator, 시뮬레이션, Coffee Stain Publishing, 1000000.0, 103303.0, 4.3, 100, 11, 5, 2, 17, 2017년 10월 4일, http://www.coffeestainstudios.com, , 6719114643248126714
+[2020-04-04 01:38:08,101][DEBUG] >> 게임개발 스토리, net.kairosoft.android.gamedev3en, 캐주얼 게임, Kairosoft Co.,Ltd, 500000.0, 62882.0, 4.7, 100, 12, 3, 1, 3, 2020년 2월 25일, http://kairopark.jp/android/en/?from=m8, Kairosoft+Co.,Ltd, 
+[2020-04-04 01:38:18,363][DEBUG] >> 당신을 기다리는 여우, air.dog.wfox, 캐주얼 게임, tales#, 10000.0, 1972.0, 4.9, 100, 2, 1, 0, 1, 2019년 7월 31일, http://www.talesshop.com, , 5888094142938776857
+[2020-04-04 01:38:29,108][DEBUG] >> Reigns, com.devolver.reigns, 카드, DevolverDigital, 500000.0, 144772.0, 4.6, 100, 22, 4, 1, 2, 2019년 10월 15일, http://www.devolverdigital.com, DevolverDigital, 
+[2020-04-04 01:38:39,517][DEBUG] >> First Strike: Final Hour, ch.feinheit.games.firststrike, 전략, Blindflug Studios AG, 100000.0, 11492.0, 4.2, 100, 30, 11, 6, 15, 2018년 11월 15일, http://www.firststrike.mobi, Blindflug+Studios+AG, 
+[2020-04-04 01:38:50,209][DEBUG] >> 던전 워페어, valsar.dungeonwarfare, 전략, Valsar, 10000.0, 965.0, 4.6, 100, 13, 3, 6, 1, 2019년 4월 4일, http://dungeonwarfare.com, Valsar, 
+[2020-04-04 01:39:00,490][DEBUG] >> 마녀의 샘, com.kiwiwalks.witchspring, 롤플레잉, Kiwiwalks Co.,Ltd., 100000.0, 7771.0, 3.2, 100, 6, 6, 3, 78, 2019년 10월 15일, http://www.kiwiwalks.com, Kiwiwalks+Co.,Ltd., 
+[2020-04-04 01:39:10,980][DEBUG] >> 아이언 마린 (Iron Marines), com.ironhidegames.android.ironmarines, 전략, Ironhide Game Studio, 100000.0, 39943.0, 4.7, 100, 17, 3, 1, 3, 2020년 1월 28일, http://www.ironhidegames.com, , 6098018911218203911
+[2020-04-04 01:39:21,276][DEBUG] >> 마왕의 시간, com.FlatGames.myapp, 롤플레잉, FlatGames, 1000.0, 152.0, 4.0, 100, 19, 13, 13, 17, 2020년 3월 17일, https://cafe.naver.com/flatgames, FlatGames, 
+[2020-04-04 01:39:31,996][DEBUG] >> Do Not Feed The Monkeys, com.alawar.monkeysfulll, 어드벤처, Alawar Entertainment, Inc., 5000.0, 259.0, 4.4, 100, 11, 7, 5, 7, 2019년 8월 8일, https://donotfeedthemonkeys.com/support, , 8807757752657588254
+[2020-04-04 01:39:43,363][DEBUG] >> Aerofly FS 2020, com.aerofly.aeroflyfs2020, 시뮬레이션, IPACS, 5000.0, 706.0, 3.6, 100, 31, 22, 10, 43, 2020년 3월 30일, https://www.aerofly.com, IPACS, 
+[2020-04-04 01:39:53,764][DEBUG] >> Football Manager 2020 Touch, com.sega.soccer.champions, 시뮬레이션, SEGA, 10000.0, 719.0, 2.7, 67, 15, 15, 19, 100, 2020년 3월 9일, http://www.footballmanager.com, , 7891990035506213180
+[2020-04-04 01:40:04,703][DEBUG] >> 911 Operator, com.jutsugames.operator911, 시뮬레이션, Games Operators S.A., 100000.0, 7974.0, 4.2, 100, 23, 13, 7, 15, 2020년 3월 24일, http://www.jutsugames.com/911, Games+Operators+S.A., 
+[2020-04-04 01:40:15,421][DEBUG] >> 미래의 여친님이 나에게 인사를 건네왔다, air.raeyoung.future, 캐주얼 게임, tales#, 10000.0, 2574.0, 4.8, 100, 5, 0, 0, 3, 2019년 2월 25일, http://www.talesshop.com, , 5888094142938776857
+[2020-04-04 01:40:25,609][DEBUG] >> Don't Starve: Pocket Edition, com.kleientertainment.doNotStarvePocket, 어드벤처, Klei Entertainment Inc., 500000.0, 31384.0, 4.1, 100, 24, 11, 5, 19, 2020년 3월 12일, http://www.kleientertainment.com, Klei+Entertainment+Inc., 
+[2020-04-04 01:40:36,109][DEBUG] >> 풋볼 에이전트, com.footballagent.ko, 스포츠, BLSoftware, 1000.0, 40.0, 4.2, 100, 30, 3, 0, 19, 2020년 3월 29일, http://footballagentgame.co.uk/, , 6946214991042968160
+[2020-04-04 01:40:46,522][DEBUG] >> TL Pro, com.pixelcurves.terlauncher, 어드벤처, PixelCurves, 10000.0, 1618.0, 4.5, 100, 22, 8, 0, 7, 2020년 4월 3일, mailto:terrlauncher@gmail.com, PixelCurves, 
+[2020-04-04 01:41:07,614][DEBUG] >> To the Moon, com.xd.tothemoon, 롤플레잉, X.D. Network, 50000.0, 3059.0, 4.5, 100, 8, 4, 2, 9, 2019년 10월 17일, https://www.facebook.com/TotheMoonHD/, X.D.+Network, 
+[2020-04-04 01:41:18,126][DEBUG] >> Real Steel, com.jumpgames.RealSteel, 액션, Reliance Big Entertainment (UK) Private Limited, 500000.0, 29041.0, 3.7, 100, 16, 12, 8, 44, 2020년 3월 19일, https://www.reliancegames.com, , 6306203537800573543
+[2020-04-04 01:41:29,026][DEBUG] >> Reigns: Her Majesty, com.devolver.reigns2, 카드, DevolverDigital, 100000.0, 19836.0, 4.6, 100, 20, 4, 1, 3, 2019년 10월 15일, http://www.devolverdigital.com, DevolverDigital, 
+[2020-04-04 01:41:39,541][DEBUG] >> Construction Simulator 2014, com.astragon.cs2014, 시뮬레이션, astragon Entertainment GmbH, 1000000.0, 107918.0, 4.4, 100, 17, 7, 2, 10, 2015년 4월 2일, http://www.construction-simulator.com/, , 6880843692150926521
+[2020-04-04 01:41:49,780][DEBUG] >> 60 Parsecs!, com.RobotGentleman.sixtyParsecs.mobile, 어드벤처, Robot Gentleman, 1000.0, 126.0, 4.0, 100, 34, 25, 3, 22, 2020년 1월 15일, http://robotgentleman.com, Robot+Gentleman, 
+[2020-04-04 01:42:00,092][DEBUG] >> Five Nights at Freddy's 2, com.scottgames.fnaf2, 전략, Clickteam USA LLC, 1000000.0, 81248.0, 4.6, 100, 12, 5, 2, 6, 2019년 10월 31일, http://www.clickteam.com, , 8278886069431493261
+[2020-04-04 01:42:10,676][DEBUG] >> Infinite Flight - 비행 시뮬레이터, com.fds.infiniteflight, 시뮬레이션, Infinite Flight LLC, 500000.0, 64403.0, 3.9, 100, 25, 15, 9, 28, 2019년 12월 15일, https://infiniteflight.com, Infinite+Flight+LLC, 
+[2020-04-04 01:42:21,177][DEBUG] >> 샐리의 법칙, com.Nanali.SallysLaw, 어드벤처, Nanali Studios, 100000.0, 5033.0, 4.4, 100, 19, 8, 3, 7, 2019년 5월 17일, None, , 5976383354543779901
+[2020-04-04 01:42:32,363][DEBUG] >> 문명의 시대, age.of.civilizations.jakowski, 전략, Łukasz Jakowski, 100000.0, 23751.0, 4.1, 100, 27, 10, 7, 17, 2019년 12월 23일, https://store.steampowered.com/app/603850/Age_of_Civilizations_II/, , 4635849298843013993
+[2020-04-04 01:42:43,163][DEBUG] >> 워터파크 스토리, net.kairosoft.android.pool, 시뮬레이션, Kairosoft Co.,Ltd, 50000.0, 8224.0, 4.8, 100, 16, 4, 0, 0, 2018년 9월 26일, http://kairopark.jp, Kairosoft+Co.,Ltd, 
+[2020-04-04 01:42:53,849][DEBUG] >> Super Hexagon, com.distractionware.superhexagon, 아케이드, Terry Cavanagh, 100000.0, 19388.0, 4.8, 100, 5, 2, 1, 2, 2015년 11월 27일, http://www.distractionware.com, Terry+Cavanagh, 
+[2020-04-04 01:43:04,370][DEBUG] >> Fruit Ninja Classic, com.halfbrick.fruitninja, 아케이드, Halfbrick Studios, 1000000.0, 87442.0, 4.1, 100, 17, 9, 4, 22, 2019년 8월 26일, http://www.fruitninja.com, , 6762212273028554913
+[2020-04-04 01:43:14,920][DEBUG] >> Florence, com.mountains.feathertop, 퍼즐, Annapurna Interactive, 50000.0, 10138.0, 4.7, 100, 9, 3, 1, 2, 2019년 2월 5일, http://annapurna.pictures/interactive/, Annapurna+Interactive, 
+[2020-04-04 01:43:25,365][DEBUG] >> Battle Chasers: Nightwar, com.hg.bcnw, 롤플레잉, HandyGames, 10000.0, 1404.0, 4.5, 100, 7, 9, 6, 4, 2020년 2월 10일, http://www.facebook.com/handygames, , 5551663097723105743
+[2020-04-04 01:43:36,262][DEBUG] >> PokeAquarium, com.GSTUDIO.pokeaquarium, 시뮬레이션, WLINGLING, 10000.0, 402.0, 4.3, 100, 19, 10, 8, 10, 2019년 11월 11일, mailto:benchi9889@gmail.com, WLINGLING, 
+[2020-04-04 01:43:46,475][DEBUG] >> The House of Da Vinci 2, com.bluebraingames.houseofdavinci2, 퍼즐, Blue Brain Games s.r.o., 10000.0, 3608.0, 4.8, 100, 11, 1, 0, 1, 2020년 2월 18일, http://www.thehouseofdavinci.com, , 8895068120284368537
+[2020-04-04 01:43:56,713][DEBUG] >> Isle of Skye: 전략적인 보드 게임, com.digidiced.ixsrelease, 보드, Asmodee  Digital, 10000.0, 655.0, 3.9, 100, 37, 19, 21, 17, 2018년 9월 26일, http://www.asmodee-digital.com/en/isle-skye/, , 5531585752430905331
+[2020-04-04 01:44:07,196][DEBUG] >> Death Road to Canada, com.noodlecake.drtc, 어드벤처, Noodlecake Studios Inc, 50000.0, 2337.0, 4.4, 100, 20, 10, 3, 10, 2019년 10월 8일, http://www.noodlecake.com/games/death-road-to-canada/, , 9078867188205035581
+[2020-04-04 01:44:17,526][DEBUG] >> Day R Premium, com.gm_shaber.dayrpremium, 롤플레잉, tltGames, 100000.0, 77817.0, 4.6, 100, 11, 3, 1, 5, 2020년 3월 24일, http://tltgames.ru/officialsiteen, , 5663259854341670677
+[2020-04-04 01:44:28,110][DEBUG] >> Rusty Lake: Roots, air.com.RustyLake.RustyLakeRoots, 어드벤처, Rusty Lake, 100000.0, 9889.0, 4.8, 100, 6, 1, 0, 1, 2018년 9월 29일, http://www.rustylake.com, , 5341269538359321555
+[2020-04-04 01:44:38,944][DEBUG] >> Agent A - 숨겨진 퍼즐, co.yakand.agentaapuzzleindisguise, 퍼즐, Yak & Co, 100000.0, 38513.0, 4.9, 100, 8, 1, 0, 1, 2019년 8월 31일, http://yakand.co, , 5191616015056815737
+[2020-04-04 01:44:49,759][DEBUG] >> 백화점 스토리2, net.kairosoft.android.depart2, 시뮬레이션, Kairosoft Co.,Ltd, 10000.0, 1291.0, 4.6, 100, 31, 3, 2, 3, 2020년 3월 17일, http://kairopark.jp/android/?from=m138, Kairosoft+Co.,Ltd, 
+[2020-04-04 01:45:00,679][DEBUG] >> 재미 있은 공룡 퍼즐 게임, 풀 버전., net.cleverbit.DinoPuzzlesFull, 교육, CLEVERBIT, 10000.0, 61.0, 4.4, 100, 20, 11, 2, 6, 2019년 9월 14일, None, CLEVERBIT, 
+[2020-04-04 01:45:10,897][DEBUG] >> Peppa Pig (페퍼 피그): 페파피그의 파티 타임, com.peppapig.partytime, 교육, Entertainment One, 50000.0, 165.0, 4.1, 100, 10, 12, 7, 21, 2019년 11월 4일, None, , 5920339924959681787
+[2020-04-04 01:45:21,458][DEBUG] >> SIIMI(시미), com.GamBridzy.SiiMi, 어드벤처, GamBridzy Inc., 1000.0, 120.0, 4.8, 100, 6, 0, 0, 0, 2020년 4월 2일, mailto:letsgoindol@gmail.com, , 8807524136346707106
+[2020-04-04 01:45:32,069][DEBUG] >> 정령없는 정령사, air.dog.fairy, 캐주얼 게임, tales#, 5000.0, 396.0, 4.7, 100, 16, 4, 2, 0, 2019년 2월 25일, http://www.talesshop.com, , 5888094142938776857
+[2020-04-04 01:45:42,728][DEBUG] >> ePSXe for Android, com.epsxe.ePSXe, 아케이드, epsxe software s.l., 1000000.0, 41730.0, 4.7, 100, 10, 2, 1, 4, 2019년 12월 21일, http://epsxe.com/android/, epsxe+software+s.l., 
+[2020-04-04 01:45:53,251][DEBUG] >> Draw a Stickman: EPIC, com.hitcents.stickmanepic, 어드벤처, Hitcents, 100000.0, 10712.0, 4.2, 100, 13, 5, 2, 18, 2015년 4월 14일, http://hitcents.com, , 6563849290382059195
+[2020-04-04 01:46:03,738][DEBUG] >> Bendy and the Ink Machine, com.jds.batim, 어드벤처, Joey Drew Studios, 50000.0, 6543.0, 4.3, 100, 21, 10, 5, 9, 2019년 4월 25일, https://joeydrewstudios.com/batim, Joey+Drew+Studios, 
+[2020-04-04 01:46:14,484][DEBUG] >> Dark Echo, com.rac7.DarkEcho, 퍼즐, RAC7, 100000.0, 13910.0, 4.6, 100, 13, 5, 1, 5, 2016년 3월 21일, http://www.rac7.com, RAC7, 
+[2020-04-04 01:46:24,780][DEBUG] >> THE KING OF FIGHTERS '98, com.snkplaymore.android007, 아케이드, SNK CORPORATION, 100000.0, 16783.0, 4.5, 100, 17, 4, 3, 8, 2017년 3월 21일, https://www.snk-corp.co.jp/game/, , 5156685669113307397
+[2020-04-04 01:46:35,195][DEBUG] >> Five Nights at Freddy's, com.scottgames.fivenightsatfreddys, 액션, Clickteam USA LLC, 1000000.0, 113048.0, 4.6, 100, 10, 3, 1, 6, 2019년 9월 2일, http://www.clickteam.com, , 8278886069431493261
+[2020-04-04 01:46:45,425][DEBUG] >> Hidden Through Time, com.CrazyMonkeyStudios.Hidden, 캐주얼 게임, Crazy Monkey Studios, 1000.0, 41.0, 3.6, 100, 38, 27, 16, 44, 2020년 3월 31일, https://hiddenthroughtime.com, Crazy+Monkey+Studios, 
+[2020-04-04 01:46:55,963][DEBUG] >> Draw a Stickman: EPIC 2, com.hitcents.drawastickmanepic2, 어드벤처, Hitcents, 100000.0, 6324.0, 4.3, 100, 14, 5, 3, 14, 2019년 9월 20일, None, , 6563849290382059195
+[2020-04-04 01:47:06,483][DEBUG] >> Vector Full, com.nekki.vector.paid, 아케이드, NEKKI, 500000.0, 37667.0, 4.0, 100, 15, 10, 6, 22, 2016년 7월 18일, https://nekki.helpshift.com/a/vector/?p=android, , 7514532260246976284
+[2020-04-04 01:47:17,015][DEBUG] >> 원령의기사, com.entwell.rk_org, 액션, 6000Software, 10000.0, 708.0, 4.0, 100, 41, 14, 9, 22, 2019년 4월 18일, https://www.facebook.com/RevenantKnight.6000, 6000Software, 
+[2020-04-04 01:47:27,513][DEBUG] >> 프롬어스 : 새로운 시작, com.kentauros.from, 어드벤처, Kentauros Entertainment, 500.0, 54.0, 4.4, 100, 25, 17, 8, 2, 2019년 8월 2일, https://www.kentaurosent.com/, Kentauros+Entertainment, 
+[2020-04-04 01:47:38,098][DEBUG] >> Rusty Lake Paradise, air.com.RustyLake.RustyLakeParadise, 어드벤처, Rusty Lake, 100000.0, 5571.0, 4.8, 100, 8, 1, 0, 1, 2019년 10월 29일, http://www.rustylake.com, , 5341269538359321555
+[2020-04-04 01:47:48,927][DEBUG] >> 죽어버린 별의 넋두리, air.dog.star, 시뮬레이션, tales#, 10000.0, 2578.0, 4.8, 100, 3, 1, 0, 2, 2019년 2월 25일, http://www.talesshop.com, , 5888094142938776857
+[2020-04-04 01:47:59,705][DEBUG] >> 대출산부족, com.tribe.hondoom, 시뮬레이션, DDB Studio, 10000.0, 596.0, 3.6, 100, 22, 26, 14, 43, 2020년 2월 28일, http://ddbgames.com, DDB+Studio, 
+[2020-04-04 01:48:10,111][DEBUG] >> Hidden Folks, com.adriaandejongh.hiddenfolks, 캐주얼 게임, Adriaan de Jongh, 50000.0, 1705.0, 4.7, 100, 6, 3, 2, 3, 2019년 11월 18일, None, , 5996711245499992497
+[2020-04-04 01:48:20,517][DEBUG] >> Baldur's Gate II: Enhanced Edition, com.beamdog.baldursgateIIenhancededition, 롤플레잉, Beamdog, 100000.0, 6632.0, 4.0, 100, 12, 6, 4, 27, 2018년 6월 28일, http://beamdog.com, , 7181203960062069413
+[2020-04-04 01:48:30,834][DEBUG] >> PPSSPP Gold - PSP emulator, org.ppsspp.ppssppgold, 액션, Henrik Rydgård, 100000.0, 14619.0, 4.6, 100, 9, 4, 0, 5, 2019년 10월 18일, http://www.ppsspp.org/, Henrik+Rydg%C3%A5rd, 
+[2020-04-04 01:48:41,764][DEBUG] >> Fluid Simulation - Trippy Stress Reliever, games.paveldogreat.fluidsim, 시뮬레이션, Pavel Dobryakov, 50000.0, 7910.0, 4.8, 100, 7, 1, 0, 1, 2020년 3월 16일, None, , 7596352546733505681
+[2020-04-04 01:48:52,072][DEBUG] >> 아쿠아리움 타이쿤, com.nevil.acuariumtycoon, 시뮬레이션, NEVIL Company, 5000.0, 373.0, 4.6, 100, 28, 8, 4, 1, 2020년 2월 21일, https://twitter.com/nevil_company?s=20, NEVIL+Company, 
+[2020-04-04 01:49:02,644][DEBUG] >> Agricola All Creatures..., com.digidiced.abvrelease, 보드, Asmodee  Digital, 10000.0, 514.0, 3.4, 100, 42, 42, 23, 54, 2018년 3월 1일, http://www.asmodee-digital.com/en/agricola-all-creatures/, , 5531585752430905331
+[2020-04-04 01:49:13,601][DEBUG] >> Rusted Warfare - RTS Strategy, com.corrodinggames.rts, 전략, Corroding games, 100000.0, 7581.0, 4.8, 100, 11, 2, 1, 2, 2019년 10월 29일, http://corrodinggames.com/, Corroding+games, 
+[2020-04-04 01:49:23,854][DEBUG] >> DRAGON QUEST, com.square_enix.android_googleplay.dq1_gp, 롤플레잉, SQUARE ENIX Co.,Ltd., 100000.0, 10608.0, 4.4, 100, 19, 8, 2, 10, 2018년 11월 9일, http://www.jp.square-enix.com/, , 8026010256970589886
+[2020-04-04 01:49:34,246][DEBUG] >> 마왕 (Demon King), com.snackgames.demonking, 롤플레잉, Snack Games, 10000.0, 783.0, 4.3, 100, 17, 10, 1, 15, 2019년 5월 21일, mailto:caracer99@gmail.com, Snack+Games, 
+[2020-04-04 01:49:44,791][DEBUG] >> 스왐피(Swampy) Where Is My Water?, com.disney.WMW, 퍼즐, Disney, 1000000.0, 192211.0, 4.7, 100, 13, 2, 0, 3, 2020년 2월 14일, None, Disney, 
+[2020-04-04 01:49:54,997][DEBUG] >> Rummikub, com.kinkajoo.RummikubHD, 보드, Kinkajoo, 10000.0, 980.0, 4.4, 100, 13, 2, 2, 14, 2019년 12월 30일, None, Kinkajoo, 
+[2020-04-04 01:50:05,602][DEBUG] >> 당신은 희망 입니다 (You are Hope), com.wereviz.evolution, 롤플레잉, Dual Decade, 10000.0, 3618.0, 4.1, 100, 24, 13, 8, 18, 2020년 4월 1일, https://forum.youarehope.app, Dual+Decade, 
+[2020-04-04 01:50:15,875][DEBUG] >> Bus Simulator Vietnam, com.web3o.bus.simulator.vietnam, 시뮬레이션, Web3o Technology, 10000.0, 2302.0, 3.3, 100, 23, 26, 16, 69, 2019년 9월 26일, http://web3o.net, Web3o+Technology, 
+[2020-04-04 01:50:26,838][DEBUG] >> 케모노 마작 / Kemono Mahjong, com.kemonomahjong.app, 카드, CyberDog Software, 5000.0, 994.0, 4.7, 100, 24, 0, 1, 3, 2020년 3월 17일, http://www.kemonomahjong.com, CyberDog+Software, 
+[2020-04-04 01:50:37,443][DEBUG] >> Carcassonne: Official Board Game -Tiles & Tactics, com.asmodeedigital.carcassonne, 보드, Asmodee  Digital, 100000.0, 7640.0, 4.4, 100, 27, 8, 5, 9, 2020년 1월 8일, http://www.asmodee-digital.com/en/carcassonne, , 5531585752430905331
+[2020-04-04 01:50:47,995][DEBUG] >> Evoland, air.com.shirogames.evoland12, 롤플레잉, Playdigious, 100000.0, 10205.0, 4.2, 100, 23, 12, 6, 12, 2019년 9월 17일, http://playdigious.com, , 4837874412965097235
+[2020-04-04 01:50:58,574][DEBUG] >> GRID™ Autosport, com.feralinteractive.gridas, 자동차 경주, Feral Interactive, 10000.0, 5210.0, 4.4, 100, 21, 9, 4, 9, 2019년 12월 11일, None, Feral+Interactive, 
+[2020-04-04 01:51:08,804][DEBUG] >> [VIP] 미사일 RPG: 미사일 키우기, com.dd.mk.vip, 롤플레잉, Dude Soft, 500000.0, 24576.0, 4.5, 100, 14, 6, 2, 6, 2020년 3월 31일, mailto:dd.soft.1024@gmail.com, , 8262395985943172025
+[2020-04-04 01:51:19,517][DEBUG] >> 섀도우 파이트 2 특별판, com.nekki.shadowfight2.paid, 액션, NEKKI, 100000.0, 19616.0, 4.5, 100, 11, 5, 2, 9, 2020년 3월 2일, https://nekki.helpshift.com/a/shadow-fight-2-special-edition/?p=android, , 7514532260246976284
+[2020-04-04 01:51:30,006][DEBUG] >> 모던 컴뱃 4: 제로 아워, com.gameloft.android.ANMP.GloftM4HM, 액션, Gameloft SE, 1000000.0, 238675.0, 4.2, 100, 14, 5, 3, 21, 2018년 9월 17일, http://www.gameloft.com/, , 4826827787946964969
+[2020-04-04 01:51:40,581][DEBUG] >> The Room Three, com.netease.ms3, 퍼즐, NetEase Games, 10000.0, 300.0, 4.8, 100, 19, 2, 0, 0, 2018년 6월 6일, http://HK.room.163.com/, NetEase+Games, 
+[2020-04-04 01:51:51,118][DEBUG] >> Machinarium (머시나리움), air.net.machinarium.Machinarium.GP, 어드벤처, Amanita Design, 500000.0, 57907.0, 4.6, 100, 8, 3, 2, 6, 2019년 2월 28일, http://amanita-design.net/, , 7745268094426388671
+[2020-04-04 01:52:01,464][DEBUG] >> 던전 워페어 2, valsar.dungeonwarfare2, 전략, Valsar, 5000.0, 338.0, 4.8, 100, 9, 2, 3, 1, 2019년 5월 2일, http://dungeonwarfare.com, Valsar, 
+[2020-04-04 01:52:12,297][DEBUG] >> 방구석에 인어아가씨, air.dog.fish, 캐주얼 게임, tales#, 10000.0, 6343.0, 4.8, 100, 5, 2, 0, 3, 2019년 2월 25일, http://www.talesshop.com, , 5888094142938776857
+[2020-04-04 01:52:23,101][DEBUG] >> LEGO® Marvel Super Heroes, com.wb.lego.marvel, 액션, Warner Bros. International Enterprises, 100000.0, 18209.0, 3.8, 100, 17, 10, 8, 37, 2020년 2월 26일, http://support.wbgames.com, Warner+Bros.+International+Enterprises, 
+[2020-04-04 01:52:33,294][DEBUG] >> Gorogoa, unity.Annapurna.Gorogoa, 퍼즐, Annapurna Interactive, 10000.0, 1944.0, 4.8, 100, 5, 2, 1, 2, 2018년 10월 26일, None, Annapurna+Interactive, 
+[2020-04-04 01:52:43,513][DEBUG] >> Cat Quest, com.thegentlebros.catquest, 롤플레잉, The Gentlebros, 100000.0, 4149.0, 4.8, 100, 8, 1, 1, 1, 2018년 1월 7일, https://thegentlebros.com/catquest, The+Gentlebros, 
+[2020-04-04 01:52:54,350][DEBUG] >> PewDiePie: Legend of Brofist, com.outerminds.pewdiepie, 액션, Outerminds Inc., 100000.0, 60606.0, 4.8, 100, 7, 1, 0, 2, 2019년 10월 7일, http://www.outerminds.com, , 5608956329061482342
+[2020-04-04 01:53:05,149][DEBUG] >> METAL SLUG 3, com.dotemu.neogeo.mslug3, 아케이드, SNK CORPORATION, 100000.0, 15458.0, 3.9, 100, 19, 13, 8, 29, 2017년 3월 21일, https://www.snk-corp.co.jp/game/, , 5156685669113307397
+[2020-04-04 01:53:15,988][DEBUG] >> 만화가 스토리, net.kairosoft.android.manga_ippon_en, 시뮬레이션, Kairosoft Co.,Ltd, 10000.0, 678.0, 4.4, 100, 23, 10, 4, 8, 2019년 4월 17일, http://kairopark.jp/android/en/?from=m20, Kairosoft+Co.,Ltd, 
+[2020-04-04 01:53:26,531][DEBUG] >> LIMBO, com.playdead.limbo.full, 어드벤처, Playdead, 500000.0, 47491.0, 4.6, 100, 9, 3, 1, 6, 2019년 11월 20일, http://playdead.com, Playdead, 
+[2020-04-04 01:53:36,877][DEBUG] >> Through the Ages, com.czechgames.tta, 보드, CGE digital, 50000.0, 9322.0, 4.8, 100, 8, 1, 0, 1, 2019년 12월 12일, http://www.czechgames.com, CGE+digital, 
+[2020-04-04 01:53:47,448][DEBUG] >> LEGO® Jurassic World™, com.wb.goog.legojurassicworld, 어드벤처, Warner Bros. International Enterprises, 100000.0, 16823.0, 4.0, 100, 16, 8, 4, 26, 2020년 1월 24일, http://support.wbgames.com, Warner+Bros.+International+Enterprises, 
+[2020-04-04 01:53:57,955][DEBUG] >> 마녀의 샘2, com.kiwiwalks.witchspringluna, 롤플레잉, Kiwiwalks Co.,Ltd., 50000.0, 7158.0, 3.1, 100, 5, 4, 1, 89, 2016년 12월 20일, http://www.kiwiwalks.com, Kiwiwalks+Co.,Ltd., 
+[2020-04-04 01:54:08,655][DEBUG] >> 네오 몬스터, com.pockettrend.neomonsters, 롤플레잉, ZigZaGame Inc., 1000000.0, 78447.0, 4.3, 100, 23, 9, 4, 12, 2020년 4월 1일, https://www.facebook.com/NeoMonstersOfficial, ZigZaGame+Inc., 
+[2020-04-04 01:54:18,996][DEBUG] >> Le Havre: The Inland Port, com.digidiced.lhbrelease, 보드, Asmodee  Digital, 10000.0, 381.0, 0, 0, 0, 0, 0, 0, 2018년 2월 26일, http://www.asmodee-digital.com/en/le-havre/, , 5531585752430905331
+[2020-04-04 01:54:30,024][DEBUG] >> Farming Simulator 20, com.giantssoftware.fs20.google, 시뮬레이션, GIANTS Software, 100000.0, 7890.0, 3.2, 100, 31, 30, 22, 75, 2019년 12월 11일, None, GIANTS+Software, 
+[2020-04-04 01:54:40,334][DEBUG] >> Pocket Rogues: Ultimate, com.EtherGaming.PocketRoguesUltimate, 롤플레잉, EtherGaming, 50000.0, 5983.0, 4.6, 100, 16, 4, 1, 4, 2019년 12월 28일, https://vk.com/public138049578, EtherGaming, 
+[2020-04-04 01:54:50,569][DEBUG] >> Please, Don't Touch Anything 3D, com.escalationstudios.nuke, 퍼즐, ForwardXP, 10000.0, 346.0, 4.3, 100, 15, 2, 7, 10, 2016년 12월 7일, http://www.forwardxp.com, ForwardXP, 
+[2020-04-04 01:55:00,943][DEBUG] >> 로그하츠, com.ninetailgames.roguehearts.paid, 롤플레잉, Ninetail Games, 100000.0, 9358.0, 4.3, 100, 24, 7, 5, 10, 2020년 3월 11일, http://www.mobirum.com/en/roguehearts, Ninetail+Games, 
+[2020-04-04 01:55:11,175][DEBUG] >> 미래세계의 맹인, air.kilke.blind, 캐주얼 게임, tales#, 10000.0, 707.0, 4.6, 100, 11, 6, 3, 2, 2019년 2월 25일, http://www.talesshop.com, , 5888094142938776857
+[2020-04-04 01:55:21,625][DEBUG] >> 레플리카 ( Replica ), com.zerorockent.replica, 어드벤처, Zero Rock Entertainment, 10000.0, 1117.0, 4.0, 100, 33, 16, 8, 20, 2016년 11월 25일, http://SomiGames.com, Zero+Rock+Entertainment, 
+[2020-04-04 01:55:32,078][DEBUG] >> Sonic Runners Adventure - 초고속 액션 게임, com.gameloft.android.ANMP.GloftICHM, 어드벤처, Gameloft SE, 100000.0, 6418.0, 4.4, 100, 15, 6, 4, 11, 2017년 12월 20일, http://www.gameloft.com/, , 4826827787946964969
+[2020-04-04 01:55:42,986][DEBUG] >> Peppa Pig (페퍼 피그): 페파피그의 운동회, com.peppapig.sportsday, 교육, Entertainment One, 100000.0, 440.0, 3.9, 100, 16, 11, 13, 27, 2019년 11월 4일, None, , 5920339924959681787
+[2020-04-04 01:55:53,685][DEBUG] >> Goat Simulator MMO Simulator, com.coffeestainstudios.goatsimulator.mmo, 롤플레잉, Coffee Stain Publishing, 100000.0, 6195.0, 4.0, 100, 11, 7, 4, 27, 2017년 10월 4일, http://www.coffeestainstudios.com, , 6719114643248126714
+[2020-04-04 01:56:04,115][DEBUG] >> 던전마을 스토리, net.kairosoft.android.bouken_en, 아케이드, Kairosoft Co.,Ltd, 100000.0, 13253.0, 4.6, 100, 17, 5, 1, 3, 2018년 10월 16일, http://kairopark.jp/android/en/?from=m64, Kairosoft+Co.,Ltd, 
+[2020-04-04 01:56:14,378][DEBUG] >> 복지로, app.kr.go.bokjiro, 건강/운동, 보건복지부(www.mohw.go.kr), 1000000.0, 850.0, 2.4, 42, 15, 8, 3, 100, 2019년 10월 28일, http://bokjiro.go.kr, %EB%B3%B4%EA%B1%B4%EB%B3%B5%EC%A7%80%EB%B6%80%28www.mohw.go.kr%29, 
+[2020-04-04 01:56:24,675][DEBUG] >> 네이버 지도, 내비게이션, com.nhn.android.nmap, 여행 및 지역정보, NAVER Corp., 10000000.0, 159492.0, 3.8, 100, 28, 14, 8, 32, 2020년 2월 14일, http://www.navercorp.com, , 6225315284672069550
+[2020-04-04 01:56:35,270][DEBUG] >> 교보문고 전자도서관, kr.co.kyobobook.KEL, 라이프스타일, KYOBO BOOK CENTRE, 100000.0, 377.0, 2.0, 22, 7, 11, 21, 100, 2020년 1월 9일, http://www.kyobobook.co.kr, KYOBO+BOOK+CENTRE, 
+[2020-04-04 01:56:45,526][DEBUG] >> 지역상품권 chak, com.komscochak.m.client, 금융, KOMSCO, 100000.0, 394.0, 3.5, 100, 31, 7, 12, 56, 2020년 3월 24일, mailto:komscochak@komsco.com, KOMSCO, 
+[2020-04-04 01:56:55,872][DEBUG] >> 아이엠스쿨 - 한국 1위 알림장, com.imcompany.school2, 교육, NHN Edu Corp., 1000000.0, 26538.0, 3.9, 100, 27, 13, 7, 27, 2020년 4월 3일, https://school.iamservice.net/, NHN+Edu+Corp., 
+[2020-04-04 01:57:06,275][DEBUG] >> 우리은행 우리WON뱅킹, com.wooribank.smart.npib, 금융, WooriBank, 1000000.0, 8216.0, 3.3, 100, 31, 19, 13, 73, 2020년 3월 19일, http://www.wooribank.com, WooriBank, 
+[2020-04-04 01:57:16,520][DEBUG] >> Samsung Calculator, com.sec.android.app.popupcalculator, 도구, Samsung Electronics Co.,  Ltd., 1000000000.0, 138703.0, 4.6, 100, 13, 6, 2, 4, 2020년 4월 2일, mailto:noreply.sec@samsung.com, , 5200379633052405703
+[2020-04-04 01:57:26,680][DEBUG] >> 주식, 외환: 포트폴리오 및 뉴스, com.fusionmedia.investing, 금융, INVESTING.com, 10000000.0, 272607.0, 4.5, 100, 20, 3, 1, 7, 2020년 4월 2일, https://www.investing.com, , 4813878430564579954
+[2020-04-04 01:57:37,057][DEBUG] >> PASS by KT(구, KT인증), com.kt.ktauth, 라이프스타일, KT Corporation, 5000000.0, 25781.0, 3.7, 100, 34, 17, 5, 46, 2019년 12월 20일, http://www.kt.com, KT+Corporation, 
+[2020-04-04 01:57:47,238][DEBUG] >> 뱅크샐러드, com.rainist.banksalad2, 금융, Rainist Co., Ltd., 1000000.0, 15965.0, 4.3, 100, 29, 10, 3, 12, 2020년 4월 2일, https://app.banksalad.com, , 6752853482312915779
+[2020-04-04 01:57:57,794][DEBUG] >> 터치엔 엠백신 for Web(기업용), com.TouchEn.mVaccine.webs, 금융, 라온시큐어(주), 10000000.0, 15392.0, 2.2, 33, 10, 7, 4, 100, 2020년 2월 28일, http://www.raonsecure.com, %EB%9D%BC%EC%98%A8%EC%8B%9C%ED%81%90%EC%96%B4%28%EC%A3%BC%29, 
+[2020-04-04 01:58:08,204][DEBUG] >> 올리브영, com.oliveyoung, 쇼핑, CJ OliveYoung Co., Ltd., 1000000.0, 2569.0, 2.2, 35, 12, 5, 8, 100, 2020년 3월 19일, https://www.oliveyoung.co.kr, CJ+OliveYoung+Co.,+Ltd., 
+[2020-04-04 01:58:18,449][DEBUG] >> 비플제로페이 - 서울사랑상품권, 온누리상품권, 지역사랑상품권, com.bizplay.bizzeropay, 금융, 비즈플레이(주), 100000.0, 1588.0, 3.4, 100, 18, 14, 14, 63, 2020년 4월 2일, https://www.bizplay.co.kr, %EB%B9%84%EC%A6%88%ED%94%8C%EB%A0%88%EC%9D%B4%28%EC%A3%BC%29, 
+[2020-04-04 01:58:28,581][DEBUG] >> ISP/페이북, kvp.jjy.MispAndroid320, 금융, VP Inc, 10000000.0, 54312.0, 3.8, 100, 30, 8, 3, 37, 2020년 3월 30일, http://www.vp.co.kr, VP+Inc, 
+[2020-04-04 01:58:38,786][DEBUG] >> SERIES - 네이버 시리즈, com.nhn.android.nbooks, 도서/참고자료, NAVER WEBTOON CORP., 5000000.0, 31400.0, 2.7, 65, 29, 31, 24, 100, 2020년 3월 10일, https://webtoonscorp.com/, NAVER+WEBTOON+CORP., 
+[2020-04-04 01:58:49,048][DEBUG] >> T map - 내비게이션 / 지도, com.skt.tmap.ku, 지도/내비게이션, SK telecom Inc., 10000000.0, 33076.0, 3.8, 100, 29, 14, 8, 31, 2020년 2월 17일, http://www.tmap.co.kr/, SK+telecom+Inc., 
+[2020-04-04 01:58:59,315][DEBUG] >> 미스터트롯 무료듣기 – 미스터트롯 트로트 메들리 – 미스터트롯 방송영상, 예선 참가곡 듣기, com.freegoodmusic.mrtrotsong, 음악/오디오, Vitamin7Media, 500000.0, 2381.0, 4.9, 100, 5, 2, 0, 1, 2020년 1월 14일, http://candysoft.cafe24.com/, Vitamin7Media, 
+[2020-04-04 01:59:09,990][DEBUG] >> 롯데홈쇼핑, com.omnitel.android.lottewebview, 쇼핑, Lotte Homeshopping, 10000000.0, 13579.0, 3.7, 100, 30, 18, 6, 45, 2020년 3월 31일, http://www.lotteimall.com, Lotte+Homeshopping, 
+[2020-04-04 01:59:20,349][DEBUG] >> 임영웅 무료듣기 – 미스터트롯 임영웅 메들리 – 미스터트롯 임영웅 방송, 예선 참가곡 듣기, com.freegoodmusic.imyoungwoong, 음악/오디오, Vitamin7Media, 100000.0, 1494.0, 4.8, 100, 8, 3, 0, 0, 2020년 2월 6일, http://candysoft.cafe24.com/, Vitamin7Media, 
+[2020-04-04 01:59:30,563][DEBUG] >> 키움증권 영웅문S, com.linkzen.app, 금융, Kiwoom Securities Co., Ltd., 1000000.0, 36366.0, 3.4, 100, 28, 20, 9, 61, 2020년 2월 27일, http://download.kiwoom.com/mts/HeroSS.apk, Kiwoom+Securities+Co.,+Ltd., 
+[2020-04-04 01:59:40,713][DEBUG] >> wavve(웨이브) - 재미의 파도를 타다!, kr.co.captv.pooqV2, 엔터테인먼트, wavve, 5000000.0, 41760.0, 2.9, 88, 27, 26, 18, 100, 2020년 3월 31일, http://www.wavve.com, wavve, 
+[2020-04-04 01:59:51,178][DEBUG] >> 폴라리스 뷰어 - PDF, 한글, 오피스 문서 무료 뷰어, com.infraware.office.reader.team, 생산성, Infraware Inc., 1000000.0, 7632.0, 3.9, 100, 32, 18, 8, 29, 2020년 2월 14일, https://www.polarisoffice.com, Infraware+Inc., 
+[2020-04-04 02:00:01,436][DEBUG] >> 삼성카드, kr.co.samsungcard.mpocket, 금융, Samsung Card, 5000000.0, 13315.0, 3.4, 100, 27, 19, 13, 63, 2020년 3월 13일, http://www.samsungcard.com/, Samsung+Card, 
+[2020-04-04 02:00:11,947][DEBUG] >> 임영웅 노래모음 무료 - 히트곡, 방송 영상, 공연 영상, 뽕짝 트로트 메들리 감상, com.trnew.heros, 음악/오디오, SmileCom, 100000.0, 594.0, 4.6, 100, 9, 1, 3, 5, 2020년 2월 11일, mailto:noodleschips99@gmail.com, SmileCom, 
+[2020-04-04 02:00:22,271][DEBUG] >> KB국민은행 스타뱅킹, com.kbstar.kbbank, 금융, KB국민은행, 10000000.0, 50733.0, 3.5, 100, 26, 13, 7, 61, 2020년 3월 31일, http://m.kbstar.com, KB%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89, 
+[2020-04-04 02:00:32,443][DEBUG] >> 멜론, com.iloen.melon, 음악/오디오, Kakao  Corporation, 50000000.0, 198384.0, 3.2, 100, 27, 25, 17, 85, 2020년 3월 25일, http://www.melon.com, Kakao++Corporation, 
+[2020-04-04 02:00:42,614][DEBUG] >> 아이디어스(idus) - 작품부터 취미까지!, kr.backpackr.me.idus, 쇼핑, Backpackr Inc., 1000000.0, 54637.0, 4.8, 100, 13, 1, 0, 0, 2020년 3월 30일, https://www.idus.com, Backpackr+Inc., 
+[2020-04-04 02:00:52,812][DEBUG] >> 에이블리 - 셀럽마켓 모음앱, com.banhala.android, 쇼핑, ably, 1000000.0, 16649.0, 4.5, 100, 21, 8, 1, 6, 2020년 4월 1일, http://a-bly.com, ably, 
+[2020-04-04 02:01:03,105][DEBUG] >> SNOW 스노우, com.campmobile.snow, 사진, SNOW, Inc., 100000000.0, 1220069.0, 4.4, 100, 17, 9, 4, 10, 2020년 4월 3일, https://snow.me, SNOW,+Inc., 
+[2020-04-04 02:01:13,338][DEBUG] >> Triplens: 사진 번역기, com.triplens.android, 도구, Kita Apps, 10000000.0, 18917.0, 2.1, 33, 4, 4, 4, 100, 2020년 4월 2일, http://triplens.kitabilgiapps.com/, Kita+Apps, 
+[2020-04-04 02:01:23,642][DEBUG] >> 폴라리스 오피스 - 무료 한글, 오피스 문서 + PDF,  텍스트 뷰어, com.infraware.office.link, 생산성, Infraware Inc., 50000000.0, 583236.0, 3.9, 100, 28, 13, 7, 27, 2020년 3월 30일, https://www.polarisoffice.com, Infraware+Inc., 
+[2020-04-04 02:01:34,040][DEBUG] >> 행아웃 Meet, com.google.android.apps.meetings, 비즈니스, Google LLC, 10000000.0, 21414.0, 3.7, 100, 21, 15, 7, 40, 2020년 4월 1일, https://support.google.com/a/answer/7126817, , 5700313618786177705
+[2020-04-04 02:01:44,890][DEBUG] >> NH콕뱅크, nh.smart.nhcok, 금융, 농협BANK, 5000000.0, 27195.0, 3.9, 100, 20, 12, 6, 28, 2020년 3월 19일, http://www.nonghyup.com, %EB%86%8D%ED%98%91BANK, 
+[2020-04-04 02:01:55,153][DEBUG] >> 텔레그램 공식 앱 Telegram, org.telegram.messenger, 커뮤니케이션, Telegram FZ-LLC, 100000000.0, 4803264.0, 4.5, 100, 14, 6, 2, 8, 2020년 3월 30일, https://telegram.org, Telegram+FZ-LLC, 
+[2020-04-04 02:02:05,397][DEBUG] >> 다음 - Daum, net.daum.android.daum, 커뮤니케이션, Kakao Corp., 10000000.0, 110958.0, 4.1, 100, 29, 15, 7, 20, 2020년 2월 28일, https://www.kakaocorp.com/#none, Kakao+Corp., 
+[2020-04-04 02:02:15,870][DEBUG] >> 착한페이, com.kt.android.goodpay, 금융, KT Corporation, 100000.0, 575.0, 3.1, 100, 19, 19, 7, 92, 2020년 3월 17일, http://www.kt.com, KT+Corporation, 
+[2020-04-04 02:02:26,134][DEBUG] >> Wish - 쇼핑은 즐겁다, com.contextlogic.wish, 쇼핑, Wish Inc., 100000000.0, 9405781.0, 4.4, 100, 22, 6, 2, 12, 2020년 3월 31일, http://www.wish.com, Wish+Inc., 
+[2020-04-04 02:02:36,469][DEBUG] >> 티빙(TVING) - 실시간TV, 방송VOD, 영화VOD, net.cj.cjhv.gs.tving, 엔터테인먼트, 씨제이이엔엠(CJ ENM), 10000000.0, 26146.0, 2.5, 44, 17, 23, 19, 100, 2020년 4월 1일, http://www.tving.com, %EC%94%A8%EC%A0%9C%EC%9D%B4%EC%9D%B4%EC%97%94%EC%97%A0%28CJ+ENM%29, 
+[2020-04-04 02:02:46,731][DEBUG] >> Google Play 게임, com.google.android.play.games, 엔터테인먼트, Google LLC, 1000000000.0, 10425358.0, 4.4, 100, 13, 7, 3, 11, 2020년 4월 1일, http://play.google.com/store/apps/category/GAME, , 5700313618786177705
+[2020-04-04 02:02:56,970][DEBUG] >> Discord - 게이머를 위한 메신저, com.discord, 커뮤니케이션, Discord Inc., 100000000.0, 920060.0, 4.3, 100, 17, 7, 3, 11, 2020년 4월 2일, https://discordapp.com, Discord+Inc., 
+[2020-04-04 02:03:07,343][DEBUG] >> i-ONE Bank - 개인고객용, com.ibk.android.ionebank, 금융, IBK 기업은행, 1000000.0, 8244.0, 3.7, 100, 26, 10, 5, 43, 2020년 3월 24일, http://www.ibk.co.kr, IBK+%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89, 
+[2020-04-04 02:03:18,213][DEBUG] >> 타임커머스 티몬, com.tmon, 쇼핑, 티몬, 10000000.0, 84135.0, 4.6, 100, 19, 4, 1, 6, 2020년 3월 27일, http://www.tmon.co.kr, , 6892544915913568054
+[2020-04-04 02:03:28,541][DEBUG] >> EBS 중학 +, kr.ebs.middle.player, 교육, EBS(한국교육방송공사), 500000.0, 1458.0, 1.9, 22, 4, 4, 1, 100, 2020년 1월 10일, http://about.ebs.co.kr, EBS%28%ED%95%9C%EA%B5%AD%EA%B5%90%EC%9C%A1%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC%29, 
+[2020-04-04 02:03:38,660][DEBUG] >> 4shared, com.forshared.files, 엔터테인먼트, New IT Solutions, 10000000.0, 366516.0, 4.5, 100, 14, 5, 2, 6, 2020년 3월 30일, http://4shared.com, New+IT+Solutions, 
+[2020-04-04 02:03:48,985][DEBUG] >> 청약홈, kr.co.applyhome, 금융, 한국감정원(Korea Appraisal Board), 500000.0, 583.0, 2.4, 38, 21, 14, 7, 100, 2020년 3월 4일, https://www.applyhome.co.kr, %ED%95%9C%EA%B5%AD%EA%B0%90%EC%A0%95%EC%9B%90%28Korea+Appraisal+Board%29, 
+[2020-04-04 02:03:59,248][DEBUG] >> SODA 소다 - Natural Beauty Camera, com.snowcorp.soda.android, 사진, SNOW, Inc., 10000000.0, 69019.0, 4.5, 100, 17, 7, 3, 7, 2020년 3월 10일, http://snow.me, SNOW,+Inc., 
+[2020-04-04 02:04:09,759][DEBUG] >> Droid-X III 백신 (기업용), net.nshc.droidx3, 도구, NSHC.INC, 1000000.0, 3135.0, 2.5, 48, 20, 20, 6, 100, 2019년 12월 13일, http://www.nshc.net, NSHC.INC, 
+[2020-04-04 02:04:20,145][DEBUG] >> 핀크 Finnq, com.finnq.f1, 금융, 주식회사 핀크(Finnq inc.), 1000000.0, 4631.0, 4.0, 100, 16, 7, 4, 28, 2020년 3월 25일, http://www.finnq.com, %EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC+%ED%95%80%ED%81%AC%28Finnq+inc.%29, 
+[2020-04-04 02:04:30,514][DEBUG] >> 카카오내비, com.locnall.KimGiSa, 지도/내비게이션, Kakao Mobility Corp., 10000000.0, 124637.0, 4.1, 100, 27, 11, 5, 19, 2020년 4월 1일, http://www.kakaocorp.com/main, Kakao+Mobility+Corp., 
+[2020-04-04 02:04:40,767][DEBUG] >> Facebook, com.facebook.katana, 소셜, Facebook, 5000000000.0, 97180057.0, 4.2, 100, 15, 9, 4, 15, 2020년 4월 2일, https://www.facebook.com/facebook, Facebook, 
+[2020-04-04 02:04:51,357][DEBUG] >> 정부24(구 민원24), kr.go.minwon.m, 생산성, 대한민국 행정안전부, 5000000.0, 5092.0, 2.6, 55, 18, 10, 5, 100, 2020년 4월 3일, http://www.gov.kr, %EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80, 
+[2020-04-04 02:05:01,553][DEBUG] >> 카카오페이, com.kakaopay.app, 금융, kakaopay corp., 1000000.0, 1013.0, 3.6, 100, 19, 19, 5, 48, 2020년 3월 24일, https://www.kakaopay.com, kakaopay+corp., 
+[2020-04-04 02:05:12,031][DEBUG] >> 카카오맵 - 대한민국 No.1 지도앱 ( 지도 / 내비게이션 / 대중교통 / 로드뷰 ), net.daum.android.map, 여행 및 지역정보, Kakao Corp., 10000000.0, 94867.0, 4.5, 100, 19, 5, 2, 7, 2020년 3월 11일, https://map.kakao.com/info/kakao_map, Kakao+Corp., 
+[2020-04-04 02:05:22,468][DEBUG] >> 삼성 음성 녹음, com.sec.android.app.voicenote, 도구, Samsung Electronics Co.,  Ltd., 1000000000.0, 90380.0, 4.4, 100, 15, 10, 4, 8, 2019년 12월 16일, mailto:noreply.sec@samsung.com, , 5200379633052405703
+[2020-04-04 02:05:32,677][DEBUG] >> FLO – 플로, skplanet.musicmate, 음악/오디오, Dreamus Company, 1000000.0, 12021.0, 3.3, 100, 51, 40, 24, 71, 2020년 3월 31일, https://www.music-flo.com, Dreamus+Company, 
+[2020-04-04 02:05:43,010][DEBUG] >> KB증권  'M-able' (마블) - 대표MTS (비대면계좌개설 포함), com.kbsec.mts.iplustarngm2, 금융, KB Securities Co., Ltd, 500000.0, 6753.0, 3.8, 100, 31, 12, 7, 35, 2020년 3월 31일, http://www.kbsec.com, KB+Securities+Co.,+Ltd, 
+[2020-04-04 02:05:53,372][DEBUG] >> Android Auto - 호환되는 차량 및 헤드유닛용, com.google.android.projection.gearhead, 자동차, Google LLC, 100000000.0, 908933.0, 4.1, 100, 41, 14, 6, 17, 2020년 3월 23일, http://www.android.com/auto, , 5700313618786177705
+[2020-04-04 02:06:04,059][DEBUG] >> 삼성증권 mPOP (계좌개설 겸용), com.samsungpop.android.mpop, 금융, Samsung Securities Co., Ltd., 1000000.0, 5407.0, 3.3, 100, 30, 13, 10, 72, 2020년 4월 2일, http://www.samsungpop.com, Samsung+Securities+Co.,+Ltd., 
+[2020-04-04 02:06:14,247][DEBUG] >> Bigo Live (비고라이브) – 라이브방송, 영상채팅, sg.bigo.live, 소셜, BIGO TECHNOLOGY PTE. LTD., 100000000.0, 3731243.0, 4.5, 100, 10, 6, 2, 8, 2020년 4월 3일, https://www.bigo.tv/, BIGO+TECHNOLOGY+PTE.+LTD., 
+[2020-04-04 02:06:24,558][DEBUG] >> TikTok 틱톡, com.ss.android.ugc.trill, 동영상 플레이어/편집기, TikTok Pte. Ltd., 100000000.0, 5398569.0, 4.5, 100, 9, 5, 2, 8, 2020년 3월 31일, https://www.tiktok.com/, TikTok+Pte.+Ltd., 
+[2020-04-04 02:06:35,025][DEBUG] >> 부산 동백전, com.kt.android.dongbaekpay, 금융, KT Corporation, 100000.0, 1021.0, 2.3, 42, 3, 19, 26, 100, 2020년 2월 28일, https://www.kt.com, KT+Corporation, 
+[2020-04-04 02:06:45,469][DEBUG] >> 현대카드, com.hyundaicard.appcard, 금융, Hyundai Card, 5000000.0, 24595.0, 3.7, 100, 25, 12, 6, 40, 2020년 3월 16일, http://www.hyundaicard.com, Hyundai+Card, 
+[2020-04-04 02:06:55,769][DEBUG] >> 무료 벨소리 Android™ 전용, com.bestringtonesapps.freeringtonesforandroid, 음악/오디오, BestRingtonesApps, 10000000.0, 244903.0, 4.4, 100, 9, 3, 1, 14, 2020년 3월 24일, https://bestringtones.app/, , 8950393860599764952
+[2020-04-04 02:07:06,144][DEBUG] >> 위두랑, wedorang, kr.or.keris.smartedu.ec, 교육, KERIS, 100000.0, 1088.0, 2.3, 38, 9, 16, 6, 100, 2020년 3월 10일, http://rang.edunet.net, KERIS, 
+[2020-04-04 02:07:16,557][DEBUG] >> 11번가, com.elevenst, 쇼핑, 11번가(주), 10000000.0, 53996.0, 4.0, 100, 23, 14, 6, 27, 2020년 3월 31일, http://www.11st.co.kr, 11%EB%B2%88%EA%B0%80%28%EC%A3%BC%29, 
+[2020-04-04 02:07:27,155][DEBUG] >> Ulike유라이크 - 스타일, 고급 필터, 뷰티 카메라, com.gorgeous.liteinternational, 사진, Lemon, Inc., 10000000.0, 350607.0, 4.7, 100, 14, 5, 1, 3, 2020년 2월 25일, mailto:beauty_me_2018@163.com, Lemon,+Inc., 
+[2020-04-04 02:07:37,735][DEBUG] >> KB국민카드, com.kbcard.kbkookmincard, 금융, KB국민카드, 5000000.0, 51746.0, 4.6, 100, 23, 5, 1, 4, 2020년 3월 30일, http://www.kbcard.com, KB%EA%B5%AD%EB%AF%BC%EC%B9%B4%EB%93%9C, 
+[2020-04-04 02:07:48,040][DEBUG] >> 신한페이판, com.shcard.smartpay, 금융, SHINHANCARD, 10000000.0, 49947.0, 4.0, 100, 30, 11, 4, 27, 2020년 3월 17일, http://www.shinhancard.com, SHINHANCARD, 
+[2020-04-04 02:07:58,558][DEBUG] >> 유니콘 HTTPS 우회앱 -  안전하고 빠른 HTTPS/SNI 차단 우회앱, kr.co.lylstudio.httpsguard, 도구, Unicorn Soft, Inc., 500000.0, 17735.0, 4.8, 100, 8, 2, 0, 2, 2020년 4월 2일, https://www.unicorn-soft.com/, Unicorn+Soft,+Inc., 
+[2020-04-04 02:08:09,429][DEBUG] >> 올원뱅크(All One Bank), nh.smart.allonebank, 금융, 농협BANK, 1000000.0, 7683.0, 3.7, 100, 23, 13, 6, 43, 2020년 2월 25일, http://m.nonghyup.com, %EB%86%8D%ED%98%91BANK, 
+[2020-04-04 02:08:19,700][DEBUG] >> 국세청 홈택스 [손택스], kr.go.nts.android, 도구, National Tax Service, Korea, 10000000.0, 19616.0, 4.2, 100, 19, 10, 3, 19, 2020년 4월 1일, http://nts.go.kr, National+Tax+Service,+Korea, 
+[2020-04-04 02:08:30,041][DEBUG] >> 해피포인트, com.hpapp, 라이프스타일, HAPPYPOINT, 10000000.0, 38072.0, 3.9, 100, 31, 16, 6, 27, 2020년 3월 19일, http://www.happypointcard.com/, HAPPYPOINT, 
+[2020-04-04 02:08:40,555][DEBUG] >> 콴다 - 500만 다운로드 수학 공부앱, com.mathpresso.qanda, 교육, Mathpresso, 5000000.0, 105719.0, 3.9, 100, 13, 9, 6, 30, 2020년 4월 2일, https://qanda.ai, Mathpresso, 
+[2020-04-04 02:08:50,976][DEBUG] >> 네이버 카페  - Naver Cafe, com.nhn.android.navercafe, 소셜, NAVER Corp., 10000000.0, 98858.0, 2.9, 80, 28, 29, 18, 100, 2020년 3월 4일, http://www.navercorp.com, , 6225315284672069550
+[2020-04-04 02:09:01,284][DEBUG] >> 번개장터 - 모바일 최대 중고마켓 앱 (중고나라, 중고차), kr.co.quicket, 쇼핑, 번개장터 주식회사, 10000000.0, 85154.0, 4.0, 100, 17, 7, 4, 26, 2020년 3월 11일, https://www.bunjang.co.kr, %EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0+%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC, 
+[2020-04-04 02:09:12,021][DEBUG] >> AliExpress - 스마트한쇼핑, 더즐거운생활, com.alibaba.aliexpresshd, 쇼핑, Alibaba Mobile, 100000000.0, 9536133.0, 4.6, 100, 15, 3, 1, 5, 2020년 3월 17일, http://aliexpress.ru, Alibaba+Mobile, 
+[2020-04-04 02:09:23,294][DEBUG] >> 하나원큐 - 하나은행 스마트폰뱅킹, com.hanabank.ebk.channel.android.hananbank, 금융, Hanabank, 5000000.0, 22589.0, 2.5, 54, 12, 9, 7, 100, 2020년 3월 12일, http://www.hanabank.com, Hanabank, 
+[2020-04-04 02:09:33,583][DEBUG] >> 마켓컬리-내일의 장보기, com.dbs.kurly.m2, 식음료, (주)컬리, 1000000.0, 4797.0, 4.7, 100, 21, 2, 0, 3, 2020년 3월 24일, http://market.kurly.com/, %28%EC%A3%BC%29%EC%BB%AC%EB%A6%AC, 
+[2020-04-04 02:09:43,679][DEBUG] >> Twitch: 리그 오브 레전드, Hearthstone, MMO 게임 스트리밍 라이브 시청, tv.twitch.android.app, 엔터테인먼트, Twitch Interactive, Inc., 50000000.0, 3054525.0, 4.6, 100, 13, 3, 1, 6, 2020년 3월 26일, http://www.twitch.tv, Twitch+Interactive,+Inc., 
+[2020-04-04 02:09:53,836][DEBUG] >> V3 Mobile Security - 무료 백신/부스터/앱잠금, com.ahnlab.v3mobilesecurity.soda, 도구, AhnLab Inc., 5000000.0, 78977.0, 4.6, 100, 24, 5, 1, 3, 2020년 3월 26일, http://www.ahnlab.co.kr, AhnLab+Inc., 
+[2020-04-04 02:10:04,158][DEBUG] >> 네이버 클라우드 - NAVER Cloud, com.nhn.android.ndrive, 생산성, NAVER Corp., 10000000.0, 89562.0, 3.6, 100, 31, 24, 11, 48, 2020년 3월 6일, http://www.navercorp.com, , 6225315284672069550
+[2020-04-04 02:10:14,622][DEBUG] >> 셀렉트숍 무신사 - SELECT SHOP MUSINSA, com.musinsa.store, 쇼핑, MUSINSA, 1000000.0, 2208.0, 4.1, 100, 17, 11, 4, 21, 2020년 3월 12일, http://www.musinsa.com, MUSINSA, 
+[2020-04-04 02:10:24,897][DEBUG] >> 쇼핑을 바꾸는 쇼핑. G마켓, com.ebay.kr.gmarket, 쇼핑, G마켓, 10000000.0, 72828.0, 3.6, 100, 23, 18, 9, 50, 2020년 3월 30일, http://www.gmarket.co.kr, G%EB%A7%88%EC%BC%93, 
+[2020-04-04 02:10:35,316][DEBUG] >> 키움증권 계좌개설, com.kiwoom.app.kiwoomaccount, 금융, Kiwoom Securities Co., Ltd., 1000000.0, 1165.0, 1.5, 10, 1, 3, 3, 100, 2020년 4월 1일, http://download.kiwoom.com/mts/KiwoomAccount.apk, Kiwoom+Securities+Co.,+Ltd., 
+[2020-04-04 02:10:46,143][DEBUG] >> 온더훅 : 더 얼티밋 패트론 에디션, team.gramoxone.onthehook.paid, 시뮬레이션, team gramoxone, 10000.0, 985.0, 4.7, 100, 17, 6, 1, 2, 2019년 1월 3일, https://blog.naver.com/teamgramoxone, team+gramoxone, 
+[2020-04-04 02:10:56,600][DEBUG] >> Twilight Struggle, com.playdekgames.twilightstruggle, 보드, Asmodee  Digital, 10000.0, 1096.0, 4.1, 100, 23, 7, 7, 22, 2018년 10월 1일, http://www.asmodee-digital.com/en/twilight-struggle/, , 5531585752430905331
+[2020-04-04 02:11:07,196][DEBUG] >> This War of Mine, com.elevenbitstudios.twommobile, 시뮬레이션, 11 bit studios, 100000.0, 24565.0, 4.5, 100, 14, 4, 2, 9, 2020년 4월 2일, http://www.11bitstudios.com, , 7328836074120817235
+[2020-04-04 02:11:17,823][DEBUG] >> 지겨워하지마: VIP+ (방치형 RPG 게임), com.candysoft.HAHWVVIP, 롤플레잉, CANDY SOFT, INC, 50000.0, 1157.0, 3.9, 100, 28, 23, 8, 24, 2020년 4월 1일, http://on.fb.me/1JVGn2u, , 6218617709049677210
+[2020-04-04 02:11:28,366][DEBUG] >> Human Resource Machine (휴먼 리소스 머신), com.tomorrowcorporation.humanresourcemachine, 퍼즐, Tomorrow Corporation, 50000.0, 1901.0, 4.5, 100, 13, 6, 2, 7, 2019년 5월 22일, None, Tomorrow+Corporation, 
+[2020-04-04 02:11:39,005][DEBUG] >> 어쌔신 크리드 아이덴티티, com.ubisoft.assassinscreed.identity, 액션, Ubisoft Entertainment, 1000000.0, 60554.0, 3.6, 100, 27, 20, 12, 46, 2018년 11월 7일, https://www.ubisoft.com/en-gb/game/assassins-creed-identity/, , 4647998716943242763
+[2020-04-04 02:11:49,529][DEBUG] >> THE KING OF FIGHTERS '97, com.snkplaymore.android001, 아케이드, SNK CORPORATION, 100000.0, 15329.0, 4.4, 100, 16, 6, 4, 9, 2017년 3월 21일, https://www.snk-corp.co.jp/game/, , 5156685669113307397
+[2020-04-04 02:11:59,979][DEBUG] >> Sonic 4™ Episode I, com.sega.sonic4epi, 아케이드, SEGA, 100000.0, 8678.0, 4.1, 100, 17, 16, 7, 17, 2016년 4월 4일, https://help.sega.net/, , 7891990035506213180
+[2020-04-04 02:12:10,409][DEBUG] >> Boris and the Dark Survival, com.jds.batds, 어드벤처, Joey Drew Studios, 10000.0, 2818.0, 4.5, 100, 15, 6, 1, 7, 2020년 3월 19일, http://joeydrewstudios.com, Joey+Drew+Studios, 
+[2020-04-04 02:12:20,687][DEBUG] >> Traffix, com.infinity.traffix, 시뮬레이션, InfinityGames.io, 100000.0, 3141.0, 4.6, 100, 23, 8, 3, 2, 2020년 3월 1일, None, InfinityGames.io, 
+[2020-04-04 02:12:31,367][DEBUG] >> 기차역 스토리, net.kairosoft.android.densha_en, 시뮬레이션, Kairosoft Co.,Ltd, 10000.0, 3213.0, 4.4, 100, 29, 5, 3, 10, 2019년 5월 22일, http://kairopark.jp/android/en/?from=m130, Kairosoft+Co.,Ltd, 
+[2020-04-04 02:12:42,016][DEBUG] >> 글림 오브 파이어 Plus+, com.snowgames.gleamoffire, 액션, SG: Snow Games, 10000.0, 227.0, 4.0, 100, 29, 16, 19, 16, 2019년 2월 7일, https://twitter.com/SnowGames0629, , 6087902597915335733
+[2020-04-04 02:12:52,267][DEBUG] >> Lucid Dream 2: 수수께끼 모험 게임, games.dali.adventure.lucid.dream.part.two, 어드벤처, Dali Games: adventure games, 10000.0, 1187.0, 4.8, 100, 1, 0, 0, 2, 2020년 2월 17일, http://dali.games/, , 5260680627634081217
+[2020-04-04 02:13:03,163][DEBUG] >> 타운스맨 - Townsmen Premium, com.hg.townsmen7, 시뮬레이션, HandyGames, 100000.0, 27959.0, 4.4, 100, 20, 6, 3, 10, 2020년 3월 10일, https://www.handy-games.com/, , 5551663097723105743
+[2020-04-04 02:13:13,817][DEBUG] >> 브릿지 컨스트럭터 포탈, com.headupgames.bridgeconstructorportal, 퍼즐, Headup, 100000.0, 8844.0, 4.6, 100, 14, 5, 1, 6, 2019년 12월 5일, http://www.headupgames.com, , 7706714075287612145
+[2020-04-04 02:13:24,480][DEBUG] >> Dragon Castle: The Board Game, com.horriblegames.dragoncastle, 보드, Horrible Guild, 1000.0, 41.0, 4.0, 100, 66, 33, 16, 11, 2020년 3월 4일, None, Horrible+Guild, 
+[2020-04-04 02:13:34,952][DEBUG] >> Car Simulator Vietnam, com.web3o.car.simulator.vietnam, 시뮬레이션, Web3o Technology, 1000.0, 115.0, 4.1, 100, 11, 7, 7, 18, 2019년 11월 9일, https://gamelaixe.com, Web3o+Technology, 
+[2020-04-04 02:13:46,094][DEBUG] >> 브리지 생성자, com.headupgames.bridgeconstructor, 시뮬레이션, ClockStone STUDIO, 1000000.0, 48945.0, 4.3, 100, 22, 9, 3, 13, 2019년 12월 9일, None, ClockStone+STUDIO, 
+[2020-04-04 02:13:56,671][DEBUG] >> Five Nights at Freddy's 3, com.scottgames.fnaf3, 액션, Clickteam USA LLC, 100000.0, 29671.0, 4.6, 100, 13, 4, 2, 5, 2020년 2월 3일, http://www.clickteam.com, , 8278886069431493261
+[2020-04-04 02:14:06,998][DEBUG] >> 온천골 스토리, net.kairosoft.android.onsen_en, 캐주얼 게임, Kairosoft Co.,Ltd, 50000.0, 3395.0, 4.3, 100, 25, 12, 4, 9, 2019년 9월 5일, http://kairopark.jp/android/en/?from=m25, Kairosoft+Co.,Ltd, 
+[2020-04-04 02:14:17,278][DEBUG] >> 고스톱 프리 프로 : 프리미엄 맞고, free.card.game.gostop2018.premium.pro, 카드, NEOWIZ corp, 1000.0, 401.0, 4.4, 100, 28, 12, 3, 7, 2019년 11월 14일, http://m.pmang.com%20, , 7754474998603501355
+[2020-04-04 02:14:27,948][DEBUG] >> The Room: Old Sins, com.FireproofStudios.ma81, 퍼즐, NetEase Games, 10000.0, 1615.0, 4.8, 100, 9, 2, 0, 1, 2018년 6월 11일, http://www.163.com, NetEase+Games, 
+[2020-04-04 02:14:38,220][DEBUG] >> Earn to Die, com.notdoppler.earntodie, 자동차 경주, Not Doppler, 1000000.0, 83790.0, 4.5, 100, 11, 4, 1, 8, 2016년 2월 26일, http://www.notdoppler.com/earntodie/android/, , 7960468984388308933
+[2020-04-04 02:14:49,264][DEBUG] >> THE KING OF FIGHTERS-A 2012, com.snkplaymore.kof2012a, 아케이드, SNK CORPORATION, 50000.0, 9871.0, 2.2, 35, 6, 5, 5, 100, 2014년 1월 6일, https://www.snk-corp.co.jp/game/, , 5156685669113307397
+[2020-04-04 02:15:00,256][DEBUG] >> 아카데미 스토리2, net.kairosoft.android.school2_en, 캐주얼 게임, Kairosoft Co.,Ltd, 50000.0, 3718.0, 4.5, 100, 22, 8, 4, 5, 2017년 8월 29일, http://kairopark.jp/android/en/?from=m29, Kairosoft+Co.,Ltd, 
+[2020-04-04 02:15:11,126][DEBUG] >> 배드 투 배드: 익스팅션 (프리미엄), com.dawinstone.b2bep, 롤플레잉, DAWINSTONE, 5000.0, 981.0, 4.5, 100, 20, 9, 1, 5, 2020년 1월 28일, https://dawinstone-games.firebaseapp.com/, , 6074851420289717283
+[2020-04-04 02:15:21,910][DEBUG] >> 문명의 시대 - 아시아, age.of.civilizations.asia.jakowski, 전략, Łukasz Jakowski, 50000.0, 1983.0, 4.0, 100, 21, 15, 4, 24, 2019년 12월 22일, https://www.facebook.com/AgeofCivilizationsJakowski/, , 4635849298843013993
+[2020-04-04 02:15:32,584][DEBUG] >> 룸즈: 장난감 장인의 저택, rooms.handmadegame.net, 퍼즐, HandMade Game, 5000.0, 195.0, 4.4, 100, 19, 3, 3, 9, 2020년 2월 14일, http://www.handmadegame.net, HandMade+Game, 
+[2020-04-04 02:15:43,069][DEBUG] >> Need for Speed™ Most Wanted, com.ea.games.nfs13_row, 자동차 경주, ELECTRONIC ARTS, 1000000.0, 214081.0, 4.0, 100, 19, 9, 6, 24, 2018년 12월 20일, http://www.firemonkeys.com.au/support%20, , 6605125519975771237
+[2020-04-04 02:15:53,535][DEBUG] >> My City : 내 친구의 집, mycity.friendshouse, 교육, My Town Games Ltd, 1000.0, 50.0, 0, 0, 0, 0, 0, 0, 2020년 3월 13일, None, , 4907572025980617983
+[2020-04-04 02:16:03,786][DEBUG] >> DRAGON QUEST IV, com.square_enix.android_googleplay.dq4, 롤플레잉, SQUARE ENIX Co.,Ltd., 10000.0, 1905.0, 4.6, 100, 14, 4, 2, 6, 2020년 1월 22일, mailto:Android_support@square-enix.com, , 8026010256970589886
+[2020-04-04 02:16:12,009][DEBUG] >> *************** (2) Day store App parsing End *************** 
+
+[2020-04-04 08:10:07,378][DEBUG] >> *************** (3) new provider Start ***************
+[2020-04-04 08:10:14,458][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:14,712][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:14,966][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:15,204][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:15,429][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:15,654][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:15,883][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:16,126][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:16,353][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:16,577][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:16,802][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:17,031][DEBUG] >> Already App! update >> smart_id : , 269811.0, package_name : , com.acton.nakedking1google
+[2020-04-04 08:10:17,337][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:17,565][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:17,796][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:18,024][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:18,318][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:18,570][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:18,827][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:19,067][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:19,347][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:19,574][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:19,801][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:20,040][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:20,265][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:20,495][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:20,720][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:20,944][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:21,168][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:21,398][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:21,622][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:21,852][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:22,083][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:22,311][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:22,538][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:22,764][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:22,988][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:23,213][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:23,440][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:23,665][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:23,890][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:24,116][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:24,345][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:24,572][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:24,798][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:25,029][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:25,270][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:25,507][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:25,766][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:26,005][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:26,247][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:26,479][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:26,708][DEBUG] >> Already App! update >> smart_id : , 269812.0, package_name : , com.add.abocado
+[2020-04-04 08:10:27,730][DEBUG] >> Already App! update >> smart_id : , 269822.0, package_name : , com.eyougame.astral
+[2020-04-04 08:10:27,976][DEBUG] >> Already App! update >> smart_id : , 269822.0, package_name : , com.eyougame.astral
+[2020-04-04 08:10:28,213][DEBUG] >> Already App! update >> smart_id : , 269822.0, package_name : , com.eyougame.astral
+[2020-04-04 08:10:28,487][DEBUG] >> Already App! update >> smart_id : , 269822.0, package_name : , com.eyougame.astral
+[2020-04-04 08:10:28,730][DEBUG] >> Already App! update >> smart_id : , 269822.0, package_name : , com.eyougame.astral
+[2020-04-04 08:10:28,957][DEBUG] >> Already App! update >> smart_id : , 269822.0, package_name : , com.eyougame.astral
+[2020-04-04 08:10:29,200][DEBUG] >> Already App! update >> smart_id : , 269822.0, package_name : , com.eyougame.astral
+[2020-04-04 08:16:01,689][DEBUG] >> *************** (3) new provider Start ***************
+[2020-04-04 08:40:01,661][DEBUG] >> *************** (4) update Provider Start ***************
+[2020-04-04 08:40:04,144][DEBUG] >> 1. update >> pro_id : , 22376,  smart_id : , 269829
+[2020-04-04 08:40:04,340][DEBUG] >> 1. update >> pro_id : , 33000,  smart_id : , 269833
+[2020-04-04 08:40:04,555][DEBUG] >> 1. update >> pro_id : , 3114.0,  smart_id : , 269838
+[2020-04-04 08:40:04,660][DEBUG] >> 1. update >> pro_id : , 44504,  smart_id : , 269839
+[2020-04-04 08:40:05,031][DEBUG] >> 1. update >> pro_id : , 19192,  smart_id : , 269847
+[2020-04-04 08:40:05,410][DEBUG] >> 1. update >> pro_id : , 8999,  smart_id : , 269806
+[2020-04-04 08:40:05,456][DEBUG] >> 1. update >> pro_id : , 8999,  smart_id : , 269807
+[2020-04-04 08:40:05,501][DEBUG] >> 1. update >> pro_id : , 8999,  smart_id : , 269808
+[2020-04-04 08:40:08,035][DEBUG] >> 2. Update >> site_id : , 116359,  smart_id : , 269806
+[2020-04-04 08:40:08,099][DEBUG] >> 2. Update >> site_id : , 116359,  smart_id : , 269807
+[2020-04-04 08:40:08,170][DEBUG] >> 2. Update >> site_id : , 116359,  smart_id : , 269808
+[2020-04-04 08:40:08,491][DEBUG] >> *************** (4) update Provider End *************** 
+

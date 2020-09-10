@@ -1,0 +1,15 @@
+[2019-08-24 00:40:01,705][DEBUG|dayStoreAppParse.py:65] >>  Hello Parser! 
+[2019-08-24 00:40:06,355][DEBUG|dayStoreAppParse.py:27] >> Samsung Smart Switch Mobile, com.sec.android.easyMover, 도구, Samsung Electronics Co.,  Ltd., 100000000.0, 181139.0, 4.3, 100, 19, 8, 4, 11, 2019년 8월 8일, http://www.samsung.com/us/smartswitch, , 5200379633052405703
+[2019-08-24 00:40:15,940][DEBUG|dayStoreAppParse.py:27] >> 토스, viva.republica.toss, 금융, Viva Republica, 10000000.0, 111139.0, 4.5, 100, 12, 4, 2, 7, 2019년 8월 23일, https://toss.im, , 4939974231902229320
+[2019-08-24 00:40:20,649][DEBUG|dayStoreAppParse.py:27] >> 네이버 - NAVER, com.nhn.android.search, 도서/참고자료, NAVER Corp., 50000000.0, 463964.0, 3.9, 100, 20, 13, 8, 28, 2019년 8월 16일, http://www.navercorp.com, , 6225315284672069550
+[2019-08-24 00:40:25,397][DEBUG|dayStoreAppParse.py:27] >> SRT - 수서고속철도(NEW), kr.co.srail.newapp, 여행 및 지역정보, ㈜SR - 새로운 고속열차 SRT, 1000000.0, 1035.0, 2.8, 73, 21, 11, 8, 100, 2019년 7월 17일, https://www.srail.co.kr, %E3%88%9CSR+-+%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B3%A0%EC%86%8D%EC%97%B4%EC%B0%A8+SRT, 
+[2019-08-24 00:40:30,051][DEBUG|dayStoreAppParse.py:27] >> V3 Mobile Plus 2.0, com.ahnlab.v3mobileplus, 도구, AhnLab Inc., 50000000.0, 96050.0, 3.0, 92, 28, 16, 7, 100, 2019년 8월 13일, http://www.ahnlab.com, AhnLab+Inc., 
+[2019-08-24 00:40:34,979][DEBUG|dayStoreAppParse.py:27] >> Instagram, com.instagram.android, 소셜, Instagram, 1000000000.0, 86387160.0, 4.5, 100, 20, 7, 2, 5, 2019년 8월 20일, http://help.instagram.com/, Instagram, 
+[2019-08-24 00:40:39,551][DEBUG|dayStoreAppParse.py:27] >> 실시간 날씨 - 일기 예보 2019, com.jndwork.weather.forecast.channel.dailyforecast.liveradarmaps, 날씨, JonDev., 5000000.0, 79814.0, 4.5, 100, 20, 8, 2, 5, 2019년 6월 4일, http://www.jondevmobile.com, , 6915261801345011098
+[2019-08-24 00:40:49,144][DEBUG|dayStoreAppParse.py:27] >> 당근마켓 - 우리 동네 중고 직거래 벼룩장터, com.towneers.www, 쇼핑, 당근마켓, 5000000.0, 29039.0, 4.6, 100, 16, 4, 1, 4, 2019년 8월 7일, https://www.daangn.com/, %EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93, 
+[2019-08-24 00:40:53,810][DEBUG|dayStoreAppParse.py:27] >> 쿠팡 (Coupang), com.coupang.mobile, 쇼핑, 쿠팡, 10000000.0, 530906.0, 4.7, 100, 19, 4, 1, 3, 2019년 8월 23일, http://www.coupang.com, %EC%BF%A0%ED%8C%A1, 
+[2019-08-24 00:41:03,563][DEBUG|dayStoreAppParse.py:27] >> 삼성 음성 녹음, com.sec.android.app.voicenote, 도구, Samsung Electronics Co.,  Ltd., 500000000.0, 69432.0, 4.4, 100, 16, 8, 3, 11, 2019년 7월 30일, mailto:noreply.sec@samsung.com, , 5200379633052405703
+[2019-08-24 00:41:08,209][DEBUG|dayStoreAppParse.py:27] >> 카카오톡 KakaoTalk, com.kakao.talk, 커뮤니케이션, Kakao Corporation, 100000000.0, 2784533.0, 4.2, 100, 23, 12, 4, 13, 2019년 8월 22일, http://www.kakao.com/talk, Kakao+Corporation, 
+[2019-08-24 00:41:12,879][DEBUG|dayStoreAppParse.py:27] >> T연락처 - 주소록 실시간 백업, 114 검색, com.skt.prod.phonebook, 도구, SKTelecom, 10000000.0, 9098.0, 3.7, 100, 26, 19, 7, 39, 2019년 7월 23일, http://www.sktelecom.com, SKTelecom, 
+[2019-08-24 00:41:14,652][DEBUG|dayStoreAppParse.py:157] >> Good Bye Parser! 
+ 

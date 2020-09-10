@@ -1,0 +1,55 @@
+[2019-09-05 07:35:12,530][DEBUG|parseNewProvider.py:85] >>  Hello Parser! 
+[2019-09-05 07:35:14,156][DEBUG|parseNewProvider.py:204] >> Good Bye Parser! 
+ 
+[2019-09-05 08:56:31,351][DEBUG|parseNewProvider.py:85] >>  Hello Parser! 
+[2019-09-05 08:56:32,958][DEBUG|parseNewProvider.py:204] >> Good Bye Parser! 
+ 
+[2019-09-05 08:58:23,980][DEBUG|parseNewProvider.py:85] >>  Hello Parser! 
+[2019-09-05 08:58:25,585][DEBUG|parseNewProvider.py:204] >> Good Bye Parser! 
+ 
+[2019-09-05 08:59:45,554][DEBUG|parseNewProvider.py:85] >>  Hello Parser! 
+[2019-09-05 08:59:45,615][DEBUG|parseNewProvider.py:201] >> Good Bye Parser! 
+ 
+[2019-09-05 09:00:37,532][DEBUG|parseNewProvider.py:85] >>  Hello Parser! 
+[2019-09-05 09:00:37,594][DEBUG|parseNewProvider.py:201] >> Good Bye Parser! 
+ 
+[2019-09-05 09:06:50,747][DEBUG|parseNewProvider.py:85] >>  Hello Parser! 
+[2019-09-05 09:07:13,751][DEBUG|parseNewProvider.py:29] >> WikiCamps Australia, 258235.0, au.com.angryrobot.wikicamps, 여행 및 지역정보, WikiCamps, 500000.0, 10601.0, 4.5, 100, 22, 3, 3, 9, 2019년 8월 7일, https://www.wikicamps.com.au, WikiCamps, 
+[2019-09-05 09:07:36,366][DEBUG|parseNewProvider.py:29] >> 음악 플레이어-10 밴드 이퀄라이저 오디오 플레이어, 258236.0, audio.effect.music.equalizer.musicplayer, 음악/오디오, Leopard V7, 500000.0, 5929.0, 4.6, 100, 21, 4, 0, 5, 2019년 8월 28일, mailto:leopard.v7@gmail.com, Leopard+V7, 
+[2019-09-05 09:07:42,781][DEBUG|parseNewProvider.py:29] >> Ping Pong Pro VR (Google Cardboard), 258237.0, com.HaggcoderLabs.PingPongProVR, 스포츠, labs.haggcoder, 10000.0, 54.0, 0, 0, 0, 0, 0, 0, 2018년 5월 23일, mailto:labs.haggcoder@gmail.com, labs.haggcoder, 
+[2019-09-05 09:07:49,484][DEBUG|parseNewProvider.py:29] >> 계양씨앤씨 미술학원, 258238.0, com.andromeda.keiyangcncart, 교육, B2 Corp., 500.0, 9.0, 5.0, 100, 0, 0, 0, 0, 2019년 8월 20일, mailto:b2.iday@gmail.com, B2+Corp., 
+[2019-09-05 09:07:55,797][DEBUG|parseNewProvider.py:29] >> Archaic: Tank Warfare, 258239.0, com.athanasiadis.archaicwarfare, 액션, Theodoros Athanasiadis, 100000.0, 4557.0, 4.2, 100, 29, 15, 4, 14, 2019년 6월 27일, http://www.archaicwarfare.com, Theodoros+Athanasiadis, 
+[2019-09-05 09:08:01,991][DEBUG|parseNewProvider.py:29] >> 추억의 일드 - 일본드라마, 258240.0, com.boolint.jpdrama, 엔터테인먼트, cgKim, 1000.0, 0, 0, 0, 0, 0, 0, 0, 2019년 6월 26일, mailto:boolint.kim@gmail.com, , 9024621166638612505
+[2019-09-05 09:08:08,180][DEBUG|parseNewProvider.py:29] >> Ghostracer - GPS Run & Cycle, 258241.0, com.bravetheskies.ghostracer, 건강/운동, Brave the Skies, 50000.0, 1012.0, 3.8, 100, 23, 26, 19, 23, 2019년 3월 14일, http://www.bravetheskies.com/ghostracer, , 8707528635966020652
+[2019-09-05 09:08:19,387][DEBUG|parseNewProvider.py:29] >> 실시간특가여행모음 (주)한울항공여행사 1995년 설립, 258243.0, com.cocoa.cocoa_8183_5d663ff01d2d6, 여행 및 지역정보, Hanwool air travel Co.Ltd., 10.0, 0, 0, 0, 0, 0, 0, 0, 2019년 8월 28일, http://hanwoolair.qrsvc.com, Hanwool+air+travel+Co.Ltd., 
+[2019-09-05 09:08:35,581][DEBUG|parseNewProvider.py:29] >> Couponat - Carter's coupons & baby clothing promos, 258244.0, com.couponat.promocodecouponscarters, 쇼핑, Couponat - Promo codes and discount coupons, 1000.0, 5.0, 0, 0, 0, 0, 0, 0, 2019년 6월 5일, https://couponat.info, Couponat+-+Promo+codes+and+discount+coupons, 
+[2019-09-05 09:08:41,698][DEBUG|parseNewProvider.py:29] >> 크림치즈마켓, 258245.0, com.creamcheese.byapps, 쇼핑, Byapps07, 500.0, 0, 0, 0, 0, 0, 0, 0, 2019년 8월 27일, http://m.creamcheese.co.kr, Byapps07, 
+[2019-09-05 09:08:47,681][DEBUG|parseNewProvider.py:29] >> BUZZi Kids -  Kids & Baby Products Beta, 258246.0, com.dev.merchsquare.merchsteemapp, 소셜, merchsquare-dev, 100.0, 29.0, 0, 0, 0, 0, 0, 0, 2019년 9월 4일, mailto:dev@merchsquare.com, merchsquare-dev, 
+[2019-09-05 09:08:54,705][DEBUG|parseNewProvider.py:29] >> 대구동일교회, 258247.0, com.dongil.church, 소셜, 김태형 (INU4J), 500.0, 8.0, 4.5, 100, 0, 0, 0, 14, 2019년 7월 12일, http://dongil.org, %EA%B9%80%ED%83%9C%ED%98%95+%28INU4J%29, 
+[2019-09-05 09:09:00,759][DEBUG|parseNewProvider.py:29] >> First Camera HD, 258248.0, com.first.app.camera.spite, 사진, First Camera, 100000.0, 3420.0, 2.2, 38, 5, 4, 2, 100, 2019년 8월 25일, mailto:firstcamera@protonmail.com, First+Camera, 
+[2019-09-05 09:09:07,316][DEBUG|parseNewProvider.py:29] >> 동일교회 요람, 258249.0, com.geniedev.booklitdongil, 커뮤니케이션, GenieDev, 500.0, 6.0, 4.2, 100, 25, 0, 0, 25, 2019년 1월 11일, http://www.geniedev.co.kr, GenieDev, 
+[2019-09-05 09:09:13,544][DEBUG|parseNewProvider.py:29] >> Simstory: Live As You Wish, 258250.0, com.gg.lovestory.simstory, 시뮬레이션, upgame, 100000.0, 2416.0, 0, 0, 0, 0, 0, 0, 2019년 5월 15일, http://www.moments.game/, upgame, 
+[2019-09-05 09:09:20,003][DEBUG|parseNewProvider.py:29] >> 물 섭취 알림 - 물 섭취 관리 및 알람, 258251.0, com.health.drink.water.reminder.tracker, 도구, Smooth Tech Studio, 10000000.0, 147379.0, 4.8, 100, 5, 2, 0, 2, 2019년 9월 4일, http://657ad10d04f9d3d74a1438f415f087cd-store.appcloudbox.net, , 5683648631293956243
+[2019-09-05 09:09:26,423][DEBUG|parseNewProvider.py:29] >> 재능공유,거래 필수 앱 - 헬로마켓 재능공유, 258252.0, com.hellomarket.talent, 비즈니스, Hellomarket Inc., 100.0, 0, 0, 0, 0, 0, 0, 0, 2019년 6월 4일, https://www.hellomarket.com/, Hellomarket+Inc., 
+[2019-09-05 09:09:32,676][DEBUG|parseNewProvider.py:29] >> 헤움디자인 - 내 손안에 그려지는 고품격 폰트, 258253.0, com.heumm.app, 예술/디자인, 헤움디자인(주), 1000.0, 32.0, 4.4, 100, 22, 4, 13, 4, 2019년 4월 11일, http://www.heumm.com, %ED%97%A4%EC%9B%80%EB%94%94%EC%9E%90%EC%9D%B8%28%EC%A3%BC%29, 
+[2019-09-05 09:09:38,971][DEBUG|parseNewProvider.py:29] >> Idle Human, 258254.0, com.idle.idleHuman, 시뮬레이션, Green Panda Games, 100000.0, 4277.0, 4.4, 100, 16, 5, 4, 10, 2019년 8월 23일, https://greenpandagames.com/en, , 8867515009520278694
+[2019-09-05 09:09:51,053][DEBUG|parseNewProvider.py:29] >> QR Code Reader, 258256.0, com.jigsutility.qrcode.qrcodereader, 도구, Jigs Utility, 10000.0, 186.0, 0, 0, 0, 0, 0, 0, 2018년 10월 8일, mailto:jigsutility@gmail.com, , 6340495155379871253
+[2019-09-05 09:10:13,218][DEBUG|parseNewProvider.py:29] >> AbbaNet(아빠넷), 258260.0, com.mobileline.eabbashopnet, 쇼핑, KETE, 1000.0, 19.0, 4.9, 100, 5, 0, 0, 0, 2019년 7월 19일, https://www.eabbashop.com/, KETE, 
+[2019-09-05 09:10:19,481][DEBUG|parseNewProvider.py:29] >> 피싱시즌 : River To Ocean, 258261.0, com.nexelon.fishingcool, 스포츠, Nexelon inc., 100000.0, 2085.0, 4.4, 100, 21, 12, 3, 8, 2019년 8월 27일, mailto:helpnexelon@gmail.com, , 7512860745899086653
+[2019-09-05 09:10:25,793][DEBUG|parseNewProvider.py:29] >> MP4 to GIF Converter, 258262.0, com.qqpr.fungif, 엔터테인먼트, Weeny Software, 10000.0, 54.0, 2.9, 87, 20, 4, 12, 100, 2018년 5월 22일, https://www.aconvert.com/app, Weeny+Software, 
+[2019-09-05 09:10:32,236][DEBUG|parseNewProvider.py:29] >> 슈거 블래스트, 258263.0, com.rovio.projectcake, 퍼즐, Rovio Entertainment Corporation, 50000.0, 1691.0, 4.5, 100, 13, 5, 2, 6, 2019년 9월 3일, mailto:support@rovio.com, , 9133452689932095671
+[2019-09-05 09:10:38,704][DEBUG|parseNewProvider.py:29] >> 공구몬, 258264.0, com.star.s09mon, 쇼핑, 대호공구마켓, 1000.0, 11.0, 3.9, 100, 33, 16, 0, 33, 2019년 4월 4일, http://www.09mon.com, %EB%8C%80%ED%98%B8%EA%B3%B5%EA%B5%AC%EB%A7%88%EC%BC%93, 
+[2019-09-05 09:10:45,356][DEBUG|parseNewProvider.py:29] >> Gear Fit Light, 258265.0, com.sun.studios.gearfitflashlight, 도구, Sun Studios, 100000.0, 444.0, 3.2, 100, 45, 23, 10, 89, 2016년 8월 20일, https://plus.google.com/u/0/109346038978080224397/posts, Sun+Studios, 
+[2019-09-05 09:10:51,675][DEBUG|parseNewProvider.py:29] >> Love 365: Find Your Story, 258266.0, com.voltage.g.hykoi.en, 시뮬레이션, Voltage, Inc., 500000.0, 8357.0, 3.8, 100, 24, 17, 12, 33, 2019년 7월 10일, http://www.voltage.co.jp/, Voltage,+Inc., 
+[2019-09-05 09:10:58,523][DEBUG|parseNewProvider.py:29] >> Candy Selfie -Beauty Camera, 258267.0, droid.selficamera.candyselfiecamera, 사진, Droid Keypad, 100000.0, 851.0, 0, 0, 0, 0, 0, 0, 2018년 10월 16일, mailto:droidkeypad007@gmail.com, Droid+Keypad, 
+[2019-09-05 09:11:04,588][DEBUG|parseNewProvider.py:29] >> 파일함 모바일, 258268.0, gift.fileham.web, 엔터테인먼트, GIFTM, 1000.0, 0, 0, 0, 0, 0, 0, 0, 2019년 8월 24일, http://www.fileham.com/, GIFTM, 
+[2019-09-05 09:11:10,605][DEBUG|parseNewProvider.py:29] >> 미투디스크 모바일, 258269.0, giftm.me2disk.mobile, 엔터테인먼트, 기프트엠, 1000.0, 0, 0, 0, 0, 0, 0, 0, 2019년 8월 28일, http://me2disk.com/, %EA%B8%B0%ED%94%84%ED%8A%B8%EC%97%A0, 
+[2019-09-05 09:11:16,848][DEBUG|parseNewProvider.py:29] >> 옥션 이베이쇼핑 - 이베이코리아 공식 해외직구 이베이 구매대행 서비스, 258270.0, io.intercommerce.app, 쇼핑, intercommerce, 500.0, 0, 0, 0, 0, 0, 0, 0, 2019년 8월 9일, http://ebay.auction.co.kr, intercommerce, 
+[2019-09-05 09:11:23,232][DEBUG|parseNewProvider.py:29] >> Simple GPX Viewer, 258271.0, jp.gr.java_conf.tender.simplegpxviewer, 도구, tender, 100.0, 0, 0, 0, 0, 0, 0, 0, 2019년 6월 18일, https://tender222.blogspot.com, , 9017658432973934696
+[2019-09-05 09:11:35,655][DEBUG|parseNewProvider.py:29] >> Open Strava Flyby, 258273.0, ru.anisart.stravaflyby, 스포츠, anisart, 500.0, 0, 0, 0, 0, 0, 0, 0, 2019년 4월 29일, mailto:anisart92@gmail.com, anisart, 
+[2019-09-05 09:11:41,964][DEBUG|parseNewProvider.py:29] >> 오프살롱 - 신상 패션 도매 해외쇼핑! Off, 258274.0, techbill.mall.offvvic, 쇼핑, 더테크빌, 1000.0, 10.0, 4.9, 100, 11, 0, 0, 0, 2019년 8월 19일, https://off.kr, %EB%8D%94%ED%85%8C%ED%81%AC%EB%B9%8C, 
+[2019-09-05 09:11:54,160][DEBUG|parseNewProvider.py:29] >> 테라피밴드, 258275.0, therapyband.com.therapyband.therapyband, 건강/운동, 조동식, 100.0, 0, 0, 0, 0, 0, 0, 0, 2018년 5월 29일, mailto:e-naturalwell@naver.com, %EC%A1%B0%EB%8F%99%EC%8B%9D, 
+[2019-09-05 09:12:00,712][DEBUG|parseNewProvider.py:29] >> Korea Top 100, 258276.0, tv.pandora.koreatop100, 동영상 플레이어/편집기, PANDORA.TV, 5000.0, 42.0, 4.0, 100, 7, 14, 0, 28, 2016년 3월 28일, http://100.pandora.tv/, , 7605759772428498531
+[2019-09-05 09:12:07,478][DEBUG|parseNewProvider.py:29] >> 부천포털 - 경기 부천시 지역 종합정보, 258277.0, vk.bucheon, 뉴스/잡지, (주)비전코리아 Solutions, 500.0, 0, 0, 0, 0, 0, 0, 0, 2019년 7월 29일, http://gagopa.com, %28%EC%A3%BC%29%EB%B9%84%EC%A0%84%EC%BD%94%EB%A6%AC%EC%95%84+Solutions, 
+[2019-09-05 09:12:07,552][DEBUG|parseNewProvider.py:201] >> Good Bye Parser! 
+ 

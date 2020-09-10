@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/debug.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/appInfoParser.py" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/googleParse_20190719.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/googleParse_20190722.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/googleParse_20190723.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/googleParse_20190724.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/googleParse_20190725.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/googleRank_20190722.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/googleRank_20190723.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/googleRank_20190724.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/newAppParse_20190722.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/newAppParse_20190723.log" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/parseApp/logs/newAppParse_20190725.log" charset="x-windows-949" />
+  </component>
+</project>

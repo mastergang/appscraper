@@ -1,0 +1,9 @@
+[2019-08-27 09:21:37,229][DEBUG|parseNewProvider.py:83] >>  Hello Parser! 
+[2019-08-27 09:21:37,232][DEBUG|parseNewProvider.py:202] >> Good Bye Parser! 
+ 
+[2019-08-27 09:25:05,326][DEBUG|parseNewProvider.py:83] >>  Hello Parser! 
+[2019-08-27 09:25:05,328][DEBUG|parseNewProvider.py:202] >> Good Bye Parser! 
+ 
+[2019-08-27 17:01:06,175][DEBUG|parseNewProvider.py:84] >>  Hello Parser! 
+[2019-08-27 17:02:38,320][DEBUG|parseNewProvider.py:202] >> Good Bye Parser! 
+ 
