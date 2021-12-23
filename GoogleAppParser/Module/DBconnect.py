@@ -7,7 +7,7 @@ import cx_Oracle
 class DB:        
     def connect(self):
         try:
-            self.db = cx_Oracle.connect('kclick/nkclick5tech@219.240.39.100:1521/kc8640')
+            self.db = cx_Oracle.connect('')
             print("Module Connect Success!")
         except cx_Oracle.DatabaseError as e:
             print("Module Connect fail..")
